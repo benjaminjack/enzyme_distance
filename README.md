@@ -19,6 +19,7 @@ I have tried to automate as much of the pipeline as possible. However, since man
     PDBs often have bound DNA and ligands in the structure, or other components that are not part of the protein itself. It is very difficult to remove these in an automated fashion. If you run into errors later in the pipeline, you should first check the structure visually to make sure there are no nucleic acids, ligands, or partial residues in the structure.
 
 3.  Extract multimeric state
+
     `scripts/extract_states.py <input file>`
     
     Prints the name of the PDB and its multimeric state (0 = single subunit, 1 = multiple subunits). Input file must be _raw_ PDB file, otherwise the state returned will not be accurate. Here is an example command:
@@ -47,13 +48,13 @@ I have tried to automate as much of the pipeline as possible. However, since man
     
     Absolute solvent accessibilities (ASA) are output as well as RSA. Both output files are in the CSV format. We calculate both RSA with respect to the bioligical assembly and RSA with respect to a single subunit. This means that the above script will need to be run twice, for example:
     ```
-    scripts/calc_rsa.py structures/clean/1A2T.pdb rsa/12AT_asa.csv rsa/12AT_rsa.csv`
+    scripts/calc_rsa.py structures/clean/1A2T.pdb rsa/12AT_asa.csv rsa/12AT_rsa.csv
     scripts/calc_rsa.py structures/clean/chain/1A2T_A.pdb rsa_mono/12AT_asa.csv rsa_mono/12AT_rsa.csv
     ```
     
 3.  Calculate weighted contact number (WCN)
     
-    `scripts/calc_rsa.py <input file> <output ASA> <output RSA>`
+    `scripts/calc_wcn.py <input file> <output file>`
     
     Again, we must calculate WCN for both the biological assembly and a single subunit. Here is an example command:
     ```
