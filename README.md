@@ -10,7 +10,7 @@ I have tried to automate as much of the pipeline as possible. However, since man
     
     `scripts/clean_pdb.py <input file> <chain> <output directory>`
          
-    Begin with biological assemblies for all proteins in the directory ~/data/structures/raw. Note, you will need to choose a single chain for calculating rates and some structural metrics. Generally speaking, this is the chain for which active site information is available. If you choose a chain with no active site information, it will be impossible to later calculate distance to the a catalytic residue and the entire protein will be excluded from analysis later in the pipeline. Here is an example command:
+    Begin with biological assemblies for all proteins in the directory `~/data/structures/raw`. Note, you will need to choose a single chain for calculating rates and some structural metrics. Generally speaking, this is the chain for which active site information is available. If you choose a chain with no active site information, it will be impossible to later calculate distance to the a catalytic residue and the entire protein will be excluded from analysis later in the pipeline. Here is an example command:
          
     `scripts/clean_pdb.py data/structures/raw/1a2t.pdb A data/structures/clean/`
 
@@ -33,29 +33,33 @@ I have tried to automate as much of the pipeline as possible. However, since man
 
 ## Part III: Structural Metrics
 
-1. Calculate distance matrices
-    -__scripts/calc_distances.py \<input file\> \<output directory\>__
+1.  Calculate distance matrices
+    
+    `scripts/calc_distances.py <input file> <output directory>`
     
     These distances matrices will be used to calculate distance to the active site later on. The input file should be a _single cleaned chain_ from Step 1 of Data preprocessing. Here is an example command:
     
-     _scripts/calc_distances.py data/structures/clean/chain/1A2T_A.pdb data/distances/_
+    `scripts/calc_distances.py data/structures/clean/chain/1A2T_A.pdb data/distances/`
      
-2. Calculate relative solvent accessibility (RSA)
-    -__scripts/calc_rsa.py \<input file\> \<output ASA\> \<output RSA\>
+2.  Calculate relative solvent accessibility (RSA)
+    
+    `scripts/calc_rsa.py <input file> <output ASA> <output RSA>`
     
     Absolute solvent accessibilities (ASA) are output as well as RSA. Both output files are in the CSV format. We calculate both RSA with respect to the bioligical assembly and RSA with respect to a single subunit. This means that the above script will need to be run twice, for example:
+    ```
+    scripts/calc_rsa.py structures/clean/1A2T.pdb rsa/12AT_asa.csv rsa/12AT_rsa.csv`
+    scripts/calc_rsa.py structures/clean/chain/1A2T_A.pdb rsa_mono/12AT_asa.csv rsa_mono/12AT_rsa.csv
+    ```
     
-    _scripts/calc_rsa.py structures/clean/1A2T.pdb rsa/12AT_asa.csv rsa/12AT_rsa.csv_
-    _scripts/calc_rsa.py structures/clean/chain/1A2T_A.pdb rsa_mono/12AT_asa.csv rsa_mono/12AT_rsa.csv_
+3.  Calculate weighted contact number (WCN)
     
-3. Calculate weighted contact number (WCN)
-    -__scripts/calc_rsa.py \<input file\> \<output ASA\> \<output RSA\>__
+    `scripts/calc_rsa.py <input file> <output ASA> <output RSA>`
     
     Again, we must calculate WCN for both the biological assembly and a single subunit. Here is an example command:
-    
-    _scripts/calc_wcn.py structures/clean/1A2T.pdb wcn/12AT_wcn.csv_
-    _scripts/calc_wcn.py structures/clean/chain/1A2T_A.pdb wcn_mono/12AT_wcn.csv_
-
+    ```
+    scripts/calc_wcn.py structures/clean/1A2T.pdb wcn/12AT_wcn.csv
+    scripts/calc_wcn.py structures/clean/chain/1A2T_A.pdb wcn_mono/12AT_wcn.csv
+    ```
      
 ## Part IV: Analyses and Figures
 
