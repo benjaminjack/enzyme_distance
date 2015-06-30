@@ -5,20 +5,27 @@ This repository contains all scripts and data required to reproduce the analysis
 I have tried to automate as much of the pipeline as possible. However, since many portions of the pipeline would need to be run on a cluster to be practical, the pipeline is broken into several steps that need to be manually completed. 
 
 ## Part I: Data preprocessing
-1. Clean the data
-    - __scripts/clean_pdb.py \<input file\> \<chain\> \<output directory\>__
-     
-     Begin with biological assemblies for all proteins in the directory ~/data/structures/raw.
-     Note, you will need to choose a single chain for calculating rates and some structural metrics. Generally speaking, this is the chain for which active site information is available. If you choose a chain with no active site information, it will be impossible to later calculate distance to the a catalytic residue and the entire protein will be excluded from analysis later in the pipeline. Here is an example command:
-     
-     _scripts/clean_pdb.py data/structures/raw/1a2t.pdb A data/structures/clean/_
+1.  Clean the data
+    `scripts/clean_pdb.py <input file> <chain> <output directory>`
+         
+    Begin with biological assemblies for all proteins in the directory ~/data/structures/raw. Note, you will need to choose a single chain for calculating rates and some structural metrics. Generally speaking, this is the chain for which active site information is available. If you choose a chain with no active site information, it will be impossible to later calculate distance to the a catalytic residue and the entire protein will be excluded from analysis later in the pipeline. Here is an example command:
+         
+    `scripts/clean_pdb.py data/structures/raw/1a2t.pdb A data/structures/clean/`
 
-2. Manually clean the data (optional)
-    - PDBs often have bound DNA and ligands in the structure, or other components that are not part of the protein itself. It is very difficult to remove these in an automated fashion. If you run into errors later in the pipeline, you should first check the structure visually to make sure there are no nucleic acids, ligands, or partial residues in the structure.
+2.  Manually clean the data (optional)
+    
+    PDBs often have bound DNA and ligands in the structure, or other components that are not part of the protein itself. It is very difficult to remove these in an automated fashion. If you run into errors later in the pipeline, you should first check the structure visually to make sure there are no nucleic acids, ligands, or partial residues in the structure.
 
-3. Extract multimeric state
+3.  Extract multimeric state
+    `scripts/extract_states.py <input file>`
+    
+    Prints the name of the PDB and its multimeric state (0 = single subunit, 1 = multiple subunits). Input file must be _raw_ PDB file, otherwise the state returned will not be accurate. Here is an example command:
+    
+    `scripts/extract_states.py data/structures/raw/1h7o.pdb > states.csv`
 
 4. Extract catalytic residues
+
+5. Extract polypeptide sequence
 
 ## Part II: Site-wise Evolutionary Rates
 
