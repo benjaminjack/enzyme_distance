@@ -5,7 +5,9 @@ This repository contains all scripts and data required to reproduce the analysis
 I have tried to automate as much of the pipeline as possible. However, since many portions of the pipeline would need to be run on a cluster to be practical, the pipeline is broken into several steps that need to be manually completed. 
 
 ## Part I: Data preprocessing
+
 1.  Clean the data
+    
     `scripts/clean_pdb.py <input file> <chain> <output directory>`
          
     Begin with biological assemblies for all proteins in the directory ~/data/structures/raw. Note, you will need to choose a single chain for calculating rates and some structural metrics. Generally speaking, this is the chain for which active site information is available. If you choose a chain with no active site information, it will be impossible to later calculate distance to the a catalytic residue and the entire protein will be excluded from analysis later in the pipeline. Here is an example command:
