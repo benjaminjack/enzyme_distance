@@ -4,6 +4,15 @@ This repository contains all scripts and data required to reproduce the analysis
 
 I have tried to automate as much of the pipeline as possible. However, since many portions of the pipeline would need to be run on a cluster to be practical, the pipeline is broken into several steps that need to be manually completed. See "run_pipeline.sh" for an example of how all of the scripts from parts I, II, and III can be stitched together for a single protein.
 
+## Part 0: Dependencies
+
+The following software tools are required and must be available in your $PATH for the pipeline:
+
+- MAAFT
+- PSI-BLAST
+- RAxML
+- Rate4Site
+
 ## Part I: Data preprocessing
 
 1.  Clean the data
@@ -30,7 +39,7 @@ I have tried to automate as much of the pipeline as possible. However, since man
 
 5. Extract polypeptide sequence
    
-   `scripts/extract_aa.py <pdb_file <pdb_name> <chain> <output_file>`
+   `scripts/extract_aa.py <pdb_file> <pdb_name> <chain> <output_file>`
    
    Extract the amino-acid sequence as a fasta file for calculation of evolutionary rates. Input should be a _raw_ PDB file.
    
@@ -63,7 +72,13 @@ I have tried to automate as much of the pipeline as possible. However, since man
    `scripts/downsample_seqs.py data/full_alignments/12AS_A_aln.fasta 12AS_A 300`
 
 4. Build trees with RAxML
-
+   
+   `run_raxml.py <fasta_alignment_file> <pdb_name> <raxml_version or raxml_path> <threads>`
+   
+   Build phylogenetic trees from sequence alignment. This step will be very slow, so I suggest using a multi-threaded version of RAxML.
+   
+   `scripts/run_raxml.py data/alignments_300/12AS_A_sample.fasta 12AS_A raxmlHPC-PTHREADS-SSE3 2`
+   
 5. Run Rate4Site
 
 6. Extract rates from Rate4Site output
