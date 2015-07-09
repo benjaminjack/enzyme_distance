@@ -2,7 +2,7 @@
 This repository contains all scripts and data required to reproduce the analysis in the following paper:
 
 
-I have tried to automate as much of the pipeline as possible. However, since many portions of the pipeline would need to be run on a cluster to be practical, the pipeline is broken into several steps that need to be manually completed. 
+I have tried to automate as much of the pipeline as possible. However, since many portions of the pipeline would need to be run on a cluster to be practical, the pipeline is broken into several steps that need to be manually completed. See "run_pipeline.sh" for an example of how all of the scripts from parts I, II, and III can be stitched together for a single protein.
 
 ## Part I: Data preprocessing
 
@@ -29,8 +29,44 @@ I have tried to automate as much of the pipeline as possible. However, since man
 4. Extract catalytic residues
 
 5. Extract polypeptide sequence
+   
+   `scripts/extract_aa.py <pdb_file <pdb_name> <chain> <output_file>`
+   
+   Extract the amino-acid sequence as a fasta file for calculation of evolutionary rates. Input should be a _raw_ PDB file.
+   
+   `scripts/extract_aa.py data/structures/raw/12as.pdb 12AS.pdb A data/fasta/12AS_A.fasta`
 
 ## Part II: Site-wise Evolutionary Rates
+
+1. Run PSI-BLAST
+
+   `scripts/run_blast.py <fasta_file> <db_path or just db_name if using local PSI-BLAST set up>`
+   
+   Takes a fasta amino-acid sequence and runs a PSI-BLAST query on a local database. The parameters are optimized for the UniRef90 database. If you are using another database, then you may want to edit this script and change some of the parameters. The output is a list of homologous sequence IDs.
+   
+   `scripts/run_blast.py data/fasta/12AS_A.fasta UniRef90`
+   
+2. Construct alignments
+   
+   `scripts/get_blast_seqs.py <seq_id_file> <ref_seq_file> <ref_seq_id> <db_name> <db_path (optional)>`
+   
+   Takes a list of sequence IDs from Step 1 and pulls the actual sequences from the local database to create an alignment. You must use the same database as in Step 1!
+   
+   `scripts/get_blast_seqs.py data/blast/blast_ids_12AS_A.txt data/fasta/12AS_A.fasta 12AS_A UniRef90`
+   
+3. Downsample alignments
+
+   `scripts/downsample_seqs.py <fasta_alignment_file> <fasta_pdb_name> <sample_size>`
+   
+   Downsample alignments to a maximum of 300 sequences. This is very important! Rate4Site (step 5) will not process alignments larger than 300 sequences without memory errors.
+   
+   `scripts/downsample_seqs.py data/full_alignments/12AS_A_aln.fasta 12AS_A 300`
+
+4. Build trees with RAxML
+
+5. Run Rate4Site
+
+6. Extract rates from Rate4Site output
 
 ## Part III: Structural Metrics
 
