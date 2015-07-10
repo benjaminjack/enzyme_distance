@@ -29,11 +29,11 @@ The following software tools are required and must be available in your $PATH fo
 
 3.  Extract multimeric state
 
-    `scripts/extract_states.py <input file>`
+    `scripts/extract_state.py <input file>`
     
     Prints the name of the PDB and its multimeric state (0 = single subunit, 1 = multiple subunits). Input file must be _raw_ PDB file, otherwise the state returned will not be accurate. Here is an example command:
     
-    `scripts/extract_states.py data/structures/raw/1h7o.pdb > states.csv`
+    `scripts/extract_state.py data/structures/raw/1h7o.pdb > states.csv`
 
 4. Extract catalytic residues
 
@@ -43,7 +43,7 @@ The following software tools are required and must be available in your $PATH fo
    
    Extract the amino-acid sequence as a fasta file for calculation of evolutionary rates. Input should be a _raw_ PDB file.
    
-   `scripts/extract_aa.py data/structures/raw/12as.pdb 12AS.pdb A data/fasta/12AS_A.fasta`
+   `scripts/extract_aa.py data/structures/raw/12as.pdb 12AS A data/fasta/12AS_A.fasta`
 
 ## Part II: Site-wise Evolutionary Rates
 
@@ -73,16 +73,29 @@ The following software tools are required and must be available in your $PATH fo
 
 4. Build trees with RAxML
    
-   `run_raxml.py <fasta_alignment_file> <pdb_name> <raxml_version or raxml_path> <threads>`
+   `scripts/run_raxml.py <fasta_alignment_file> <pdb_name> <raxml_version or raxml_path> <threads>`
    
    Build phylogenetic trees from sequence alignment. This step will be very slow, so I suggest using a multi-threaded version of RAxML.
    
    `scripts/run_raxml.py data/alignments_300/12AS_A_sample.fasta 12AS_A raxmlHPC-PTHREADS-SSE3 2`
    
 5. Run Rate4Site
-
+   
+   `scripts/run_r4s.py <r4s_path> <sequence_file> <tree_file> <outfile> <outfile_raw>`
+   
+   Compute rates with Rate4Site software. The sequence file must be in PHY format or Rate4Site will give errors.
+   
+   `scripts/run_r4s.py rate4site trees/phy/12AS_A.phy trees/RAxML_bestTree.12AS_A.txt rates/12AS_A_r4s.txt rates/12AS_A_r4s_raw.txt`
+   
 6. Extract rates from Rate4Site output
-
+   
+   `scripts/extract_unmapped_rate4site_rates.py <input rate4site file> <output file>`
+   
+   Extract rates from Rate4Site output files and convert to CSV. Note that you'll want to run this for both the normalized and raw rates individually.
+   
+   `scripts/extract_unmapped_rate4site_rates.py rates/12AS_A_r4s.txt extracted_rates/12AS_A_r4s.csv`
+   
+   
 ## Part III: Structural Metrics
 
 1.  Calculate distance matrices
