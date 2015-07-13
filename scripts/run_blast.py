@@ -47,7 +47,7 @@ def grab_blast_output(infile, outfile, length_error, percent_identity):
     return id_set
 
 
-def run_blast(blast_in, database):
+def run_blast(blast_in, database, threads):
 
     pdb_id = os.path.splitext(os.path.basename(blast_in))[0]
 
@@ -56,7 +56,7 @@ def run_blast(blast_in, database):
     idout = "blast_ids_"+str(pdb_id)+".txt"
 
     # Run the blast search.
-    call_blast = "psiblast -db "+database+" -out "+str(blastout)+" -query "+str(blast_in)+" -num_iterations "+str(num_iterations)+" -evalue "+str(e_value)+" -outfmt "+str(outfmt)
+    call_blast = "psiblast -db "+database+" -out "+str(blastout)+" -query "+str(blast_in)+" -num_iterations "+str(num_iterations)+" -evalue "+str(e_value)+" -outfmt "+str(outfmt)+" -num_threads "+str(threads)
     print call_blast
     blast = subprocess.call(call_blast, shell=True)
     assert(blast == 0), "Call to BLAST failed."
@@ -68,18 +68,19 @@ def run_blast(blast_in, database):
 def main(argv):
     
     # Where is the PDB ID text file?
-    usage = "Usage: python run_blast.py <fasta_file> <db_path>. fasta_file must contain protein sequence. "
+    usage = "Usage: python run_blast.py <fasta_file> <db_path> <threads>. fasta_file must contain protein sequence. "
 
-    if len(argv) != 2:
+    if len(argv) != 3:
         print(usage)
         sys.exit()
 
     input_file = argv[0]
     database = argv[1]
+    threads = argv[2]
 
     assert(os.path.isfile(input_file)), usage
 
-    run_blast(input_file, database)
+    run_blast(input_file, database, threads)
 
 if __name__ == "__main__":
     main(sys.argv[1:])

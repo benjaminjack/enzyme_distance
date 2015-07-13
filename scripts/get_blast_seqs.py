@@ -49,7 +49,7 @@ def call_blastdbcmd(filename, ref_seq_id, ref_seq_file, database, db_name):
     # entry_list = "'"+ref_seq_id+"'"
     entry_list = ''
     for seq_id in seq_id_list:
-        entry_list += ","+db_name+"_"+seq_id+"'"
+        entry_list += ",'"+db_name+"_"+seq_id+"'"
     # Write to a file
     call_blastdbcmd = "blastdbcmd -db "+database+" -dbtype prot -out "+ref_seq_id+"_seqs.fasta -outfmt "+outfmt+" -entry "+entry_list[1:]
     print call_blastdbcmd
@@ -93,7 +93,7 @@ def main(argv):
     assert(os.path.isfile(ref_seq_file) and os.path.isfile(blast_seqs)), usage
 
     # Query database
-    call_blastdbcmd(blast_seqs, ref_seq_id, ref_seq_file, db_name, db_path)
+    call_blastdbcmd(blast_seqs, ref_seq_id, ref_seq_file, db_path, db_name)
 
     # Align the returned sequences
     run_mafft(ref_seq_id+"_seqs.fasta", ref_seq_id+"_aln.fasta" )

@@ -10,12 +10,13 @@ PDB_FILE=$1
 PDB=$2
 CHAIN=$3
 
-SCRIPTS="/Users/ben/PycharmProjects/enzyme_distance/scripts"
-BLAST_DB_PATH="UniRef90"
+SCRIPTS="$HOME/enzyme_distance/scripts"
+BLAST_DB_PATH="/work/03284/bjack/db/uniref90"
 BLAST_DB_NAME="UniRef90"
+BLAST_THREADS=6
 RAXML_PATH="raxmlHPC-PTHREADS-SSE3"
-RAXML_THREADS=2
-R4S_PATH="rate4site"
+RAXML_THREADS=6
+R4S_PATH="rate4site2"
 
 # Let's make all of our output directories
 echo "Making output directories."
@@ -67,7 +68,7 @@ echo "Amino acid sequence extracted."
 # Change directory for blast output
 echo "Collecting homologous sequences."
 cd blast/
-python $SCRIPTS/run_blast.py ../fasta/${PDB}_${CHAIN}.fasta $BLAST_DB_PATH
+python $SCRIPTS/run_blast.py ../fasta/${PDB}_${CHAIN}.fasta $BLAST_DB_PATH $BLAST_THREADS
 # And change the directory back...
 cd ../
 echo "Homologous sequences collected."
