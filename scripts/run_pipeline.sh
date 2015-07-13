@@ -78,7 +78,7 @@ echo "Building alignments."
 cd full_alignments
 python $SCRIPTS/get_blast_seqs.py ../blast/blast_ids_${PDB}_${CHAIN}.txt ../fasta/${PDB}_${CHAIN}.fasta ${PDB}_${CHAIN} $BLAST_DB_NAME $BLAST_DB_PATH
 cd ../alignments_300
-python $SCRIPTS/downsample_seqs.py ../full_alignments/${PDB}_${CHAIN}_aln.fasta ${PDB}_${CHAIN} 10
+python $SCRIPTS/downsample_seqs.py ../full_alignments/${PDB}_${CHAIN}_aln.fasta ${PDB}_${CHAIN} 300
 cd ../
 echo "Sequences aligned and downsampled."
 

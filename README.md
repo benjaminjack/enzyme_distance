@@ -8,7 +8,7 @@ I have tried to automate as much of the pipeline as possible. However, since man
 
 The following software tools are required and must be available in your $PATH for the pipeline:
 
-- MAAFT
+- MAFFT
 - PSI-BLAST
 - RAxML
 - Rate4Site
