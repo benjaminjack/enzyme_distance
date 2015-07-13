@@ -9,8 +9,28 @@ __author__ = 'ben'
 import sys
 import getopt
 import os
-from Bio.PDB import PDBIO
+from Bio.PDB import PDBIO, Select
 from renumber_pdb import parsePDBStructure, renumberResidues
+
+
+# Define a custom chain selector. This is probably not the most 'pythonic' way of doing this
+
+class ChainSelect(Select):
+
+    def __init__(self, chain_name):
+        self.chain_name = chain_name
+
+    def accept_chain(self, chain):
+        if chain.get_id() == self.chain_name:
+            return 1
+        else:
+            return 0
+
+    def accept_model(self, model):
+        if model.get_id() == 0:
+            return 1
+        else:
+            return 0
 
 def main(argv):
 
@@ -50,9 +70,16 @@ def main(argv):
         sys.exit()
 
     io = PDBIO()
+    chain_select = ChainSelect(pdb_chain)
+    io.set_structure(structure)
+    pdb_chain_file = out_dir_chain+'/'+pdb_name+'_'+pdb_chain+'_temp.pdb'
+    io.save(pdb_chain_file, chain_select)
+
+    '''
     io.set_structure(chain)
     pdb_chain_file = out_dir_chain+'/'+pdb_name+'_'+pdb_chain+'_temp.pdb'
     io.save(pdb_chain_file)
+    '''
 
     # Remove HetAtoms
     temp_file = out_dir + "/" + pdb_name + "_temp.pdb"
