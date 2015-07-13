@@ -1,3 +1,6 @@
+# Weird pycharm files
+.idea/
+
 # Data files
 data/
 
