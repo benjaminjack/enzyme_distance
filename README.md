@@ -36,7 +36,13 @@ The following software tools are required and must be available in your $PATH fo
     `scripts/extract_state.py data/structures/raw/1h7o.pdb > states.csv`
 
 4. Extract catalytic residues
-
+   
+   `scripts/extract_active_sites.py <active site db> <pdb name> <pdb file>`
+   
+   Extracts the catalytic residues from a text file of the CSA database and places them in a separate CSV. The database file is available to download [here](https://www.ebi.ac.uk/thornton-srv/databases/CSA/Downloads.php). Make sure you download the 'flat file' for the script to work correctly. 
+    
+   `scripts/extract_active_sites.py data/CSA_2_0_121113.txt 1A2T data/structures/raw/1a2t.pdb`
+   
 5. Extract polypeptide sequence
    
    `scripts/extract_aa.py <pdb_file> <pdb_name> <chain> <output_file>`
