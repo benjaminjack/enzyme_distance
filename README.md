@@ -134,3 +134,10 @@ The following software tools are required and must be available in your $PATH fo
      
 ## Part IV: Analyses and Figures
 
+1.  Align rates and structural metrics
+    
+    By this point in the pipeline we have a collection of different site-wise properties for each protein. Now we must merge all of those site-wise properties into a single per-protein data table while making sure that everything is aligned correctly. This script takes the set of amino acids from each site-wise property file (i.e. the files generated in the steps up until now), aligns them with MAFFT, and then merges all of the columns by this alignment.
+    
+2.  Generate master data table
+
+3.  Generate figures
