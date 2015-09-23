@@ -34,7 +34,7 @@ def merge_df_by_aa(all_dfs, col_list, retain_gaps=False):
     for i in df_range:
         # Read in CSV files as dataframes
         seq_list = all_dfs[i][col_list[i]].values
-        print seq_list
+        # print seq_list
         # Grab AA sequence from column
         if len(seq_list[0]) == 3:
             seq = ''.join(ph.convert_to_one_letter_code(seq_list))
@@ -111,10 +111,15 @@ def main():
     else:
         pdb = [sys.argv[1], sys.argv[2]]
         output_dir = sys.argv[3]
-        print pdb
+        # print pdb
 
     # calculate_distances('2ENG_A_renumbered', "raw_pdbs/chains/", "distances_test/")
 
+    ##################################################################################
+    # MODIFY SCRIPT HERE TO CHANGE WHICH DATA FILES ARE BEING MERGED
+    ##################################################################################
+
+    # Here is where we read in all of the output files as data frames
     print "Processing: " + pdb[0]
     rsa_mono = pd.read_csv('rsa_mono/' + pdb[0] + '_rsa.csv')
     # Rename RSA column
@@ -128,6 +133,8 @@ def main():
     wcn_mono = pd.read_csv('wcn_mono/' + pdb[0] + '_wcn.csv')
     active_sites = pd.read_csv('active_sites/' + pdb[0] + '_act.csv')
     distances = pd.read_csv('distances/' + pdb[0] + '_' + pdb[1] + '_dist.csv')
+
+    # Merge all data frames. You must specify which columns have the amino acid sequences for proper alignment!
     df = merge_df_by_aa([rsa_mono, rsa_multi, rates, raw_rates, wcn_multi, wcn_mono, active_sites, distances],
                          ['Amino_Acid', 'Amino_Acid', 'pdb_aa', 'pdb_aa', 'resnam', 'resnam', 'RES', 'PDB_AA'],
                          retain_gaps=False)
