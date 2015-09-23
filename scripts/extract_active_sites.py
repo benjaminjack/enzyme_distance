@@ -1,4 +1,8 @@
-__author__ = 'ben'
+#############################################################################
+# This script was written by Benjamin Jack in the laboratory of Dr. Claus   #
+# Wilke at the University of Texas at Austin. For any questions or concerns #
+# Ben at benjamin.r.jack@gmail.com.                                         #
+#############################################################################
 
 import pandas as pd
 import sys

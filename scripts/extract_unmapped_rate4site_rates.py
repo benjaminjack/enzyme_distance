@@ -28,15 +28,15 @@ def get_rates(rate_file):
 
 	input = open(rate_file)
 	data = input.readlines()
-	data = data[11:]
+	data = data[13:]
 	data.pop()
 	data.pop()
 
 	for line in data: #Get the evolutionary rates from the rate4site file
-		site = line[2:8].strip()
-		amino = line[9:12].strip()
+		site = line[0:4].strip()
+		amino = line[5:10].strip()
 		ref_seq_array.append(amino)
-		rate = line[11:19].strip()
+		rate = line[10:19].strip()
 		align_sites.append(site)
 		amino_acids.append(amino)
 		rates.append(rate)	
