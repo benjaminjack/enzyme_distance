@@ -145,5 +145,11 @@ The following software tools are required and must be available in your $PATH fo
     **NOTE:** You will have to modify the script if you use a naming scheme other than what I have specified in the above steps! Otherwise the script will not be able to find the appropriate files to merge.
     
 2.  Generate master data table
-
+    
+    `scripts/R/make_master_data_table.R`
+    
+    Next we merge all of the protein data into a single large table, while also computing correlations and some other metrics.
+    
 3.  Generate figures
+
+    Finally we conduct additional analyses and generate figures with an R-markdown script.
