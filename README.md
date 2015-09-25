@@ -151,5 +151,7 @@ The following software tools are required and must be available in your $PATH fo
     Next we merge all of the protein data into a single large table, while also computing correlations and some other metrics.
     
 3.  Generate figures
-
+	
+	`make_figures.Rmd`
+	
     Finally we conduct additional analyses and generate figures with an R-markdown script.
