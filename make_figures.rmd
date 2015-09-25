@@ -1,13 +1,14 @@
 ---
 title: "Figures"
-output: 
-  html_document: 
+output:
+  pdf_document: default
+  html_document:
     fig_caption: yes
 ---
 
-## All enzymes, no filtering
+## WCN and RSA with respect to the biological assembly, interface residues removed
 
-The following figures were generated using all enzymes and without removing interface residues. Please see the main text and supporting figures for figure captions.
+The following figures were generated using WCN and RSA with respect to the biological assembly and with interface residues removed. Please see the main text and supporting figures for figure captions.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 rm(list=ls())
@@ -18,7 +19,7 @@ library(dplyr)
 library(cowplot)
 
 knitr::opts_chunk$set(fig.width=12, fig.height=8,
-                      echo=FALSE, warning=FALSE, message=FALSE)
+                      echo=FALSE, warning=FALSE, message=FALSE, cache=FALSE)
 
 # =============================================================
 # ANALYSIS OPTIONS
@@ -31,7 +32,7 @@ MONOMERS_ONLY <- F  # Use only monomeric proteins
 MULTI_RSA <- T # Use multimeric RSA
 MULTI_WCN <- T # Use multimeric WCN
 NO_GLY <- F         # Remove glycines before analysis
-NO_INTERFACE <- F   # Remove interface residues
+NO_INTERFACE <- T   # Remove interface residues
 
 # =============================================================
 # END OPTIONS
@@ -158,6 +159,11 @@ if (RAW_RATES == F) {
   master.clean <- mutate(master.clean, rate = z_rate)
 }
 
+# Interface residues ?
+if (NO_INTERFACE == T) {
+  master.clean <- filter(master.clean, abs(RSA - RSA_mono) < 0.001)
+}
+
 # Multimers only ?
 if (MULTIMERS_ONLY == T) {
   master.clean <- filter(master.clean, multimer == 1)
@@ -181,11 +187,6 @@ if (MULTI_RSA == F) {
 # Glycines ?
 if (NO_GLY == T) {
   master.clean <- filter(master.clean, Residue != 'G')
-}
-
-# Interface residues ?
-if (NO_INTERFACE == T) {
-  master.clean <- filter(master.clean, RSA == RSA_mono)
 }
 
 # =============================================================
@@ -289,7 +290,8 @@ master.preds <- select(master.clean, pdb, rate, shell, ends_with('.pred'), -dist
   mutate(null.group = get_null_group(pred.type), null.model = get_null(pred.type))
 
 # Get empirical rates
-empirical <- filter(master.preds, pred.type=='rate') %>% mutate(null.group = NULL, null.model = "empirical")
+empirical <- filter(master.preds, pred.type=='rate') %>% select(-null.group) %>% mutate(null.model = "empirical")
+# empirical <- master.preds[master.preds$pred.type=='rate',] %>% mutate(null.group = NULL, null.model = "empirical")
 
 # Gather residuals
 master.res <- select(master.clean, pdb, shell, rsa.group, ntile.size, ends_with('.res')) %>%
@@ -356,6 +358,7 @@ p6.pj20.pj21 <- ggdraw() +
   draw_plot_label(c('a','b','c'), c(0,0.5,0.5), c(1, 1, 0.5))
 
 p6.pj20.pj21
+
 
 ```
 
@@ -433,7 +436,7 @@ pj8
 
 ### Figure 5
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.height=12, fig.cap='Individual proteins from the data set in which distance is a strong predictor of rate but does not correlate with other structural metrics. (A) Correlations between different structural metrics and site-wise evolutionary rates. (B) Predicted site-wise evolutionary rates based on a generalized additive model. From top to bottom, structures are 1DHF, 1HKA, 1PJB, and 2ACY.'}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.height=12}
 
 #########################################################
 # FIGURE 5: Individual Examples
@@ -450,10 +453,11 @@ master.cor <- summarize(master.clean, multimer=max(multimer),
                       r4s_wcnca=calc_cor(data=data.frame(y=rate,x1=wcnCA)))
 
 # We must manually select proteins, otherwise it will be a different set depending on how we filter the data
-master.cor.ex <- mutate_each(master.cor, funs(abs), -pdb, -multimer) %>%
-  filter(r4s_dist > 0.5, dist_wcn < 0.25, dist_rsa < 0.25) 
+# master.cor.ex <- mutate_each(master.cor, funs(abs), -pdb, -multimer) %>%
+#  filter(r4s_dist > 0.5, dist_wcn < 0.25, dist_rsa < 0.25) 
 
-# master.lmcor.ex <- filter(master.lmcor, pdb == "1DHF" | pdb == "1HKA" | pdb == "1PJB" | pdb == "2ACY")
+master.cor.ex <- mutate_each(master.cor, funs(abs), -pdb, -multimer) %>% 
+  filter(pdb == "1DHF" | pdb == "1DO6" | pdb == "1L0O" | pdb == "1SMN")
 master.ex <- master.clean[master.clean$pdb %in% master.cor.ex$pdb,]
 master.cor.ex <- master.cor.ex %>% 
   select(pdb, r4s_dist, r4s_wcn, r4s_rsa, dist_wcn, dist_rsa, rsa_wcn) %>%
@@ -482,9 +486,9 @@ p7.p8 <- plot_grid(p7, p8, ncol=2, align = 'h', rel_widths = c(1, 0.8))
 p7.p8
 ```
 
-### Figure 6
-
-```{r, echo=FALSE}
+<!-- ### Figure 6 -->
+ 
+```{r, echo=FALSE, include=F}
 #########################################################
 # FIGURE 6
 #########################################################
@@ -535,7 +539,7 @@ pj7 <- ggplot(master.act4, aes(x=dist_active, fill=group)) +
 
 The proportion of accurately predicted active sites above is significantly larger than the proportion predicted using maximum WCN:
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, include=F}
 gt7.method2 <- sum(master.act2$ref_to_act >= 7.5)
 lt7.method2 <- sum(master.act2$ref_to_act < 7.5)
 gt7.method4 <- sum(master.act4$dist_active >= 7.5)
@@ -614,9 +618,9 @@ pj6
 
 ```
 
-### Figure S5
+<!-- ### Figure S5 -->
 
-```{r}
+```{r, include=F}
 #########################################################
 # FIGURE S5
 #########################################################
