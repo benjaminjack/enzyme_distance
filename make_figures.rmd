@@ -1,16 +1,13 @@
 ---
-title: "Figures"
+title: "Supplementary Text 3"
 output:
   pdf_document: default
   html_document:
     fig_caption: yes
 ---
 
-## WCN and RSA with respect to the biological assembly, interface residues removed
-
-The following figures were generated using WCN and RSA with respect to the biological assembly and with interface residues removed. Please see the main text and supporting figures for figure captions.
-
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
 rm(list=ls())
 library(readr)
 library(stringr)
@@ -20,6 +17,14 @@ library(cowplot)
 
 knitr::opts_chunk$set(fig.width=12, fig.height=8,
                       echo=FALSE, warning=FALSE, message=FALSE, cache=FALSE)
+
+options <- 'biological assemblies with interface residues removed'
+
+```
+
+The following figures were generated using `r options`.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
 
 # =============================================================
 # ANALYSIS OPTIONS
@@ -275,6 +280,8 @@ p1.p2.pj3 <- ggdraw() +
 p1.p2.pj3
 ```
 
+Site-specific evolutionary rates increase with distance to a catalytic residue. Only data from `r options` are considered. (a) Site-specific evolutionary rate versus distance to the nearest catalytic residue. The curve represents the mean rate for all residues, smoothed with a generalized additive model. Standard error is shown in light gray. Individual residues are not shown. The vertical line indicates a distance of 32.5 \r{AA}. (b) Density plot of residues with a given distance to a catalytic residue. Dashed lines indicate the boundaries of shells with a thickness of 5 \r{AA} each. The vertical red line again shows a distance of 32.5, and the percentage shows the proportion of residues within this distnace. (c) Distribution of site-specific evolutionary rates within each shell. Violins show the distribution of rates in each shell, points represent the mean, and the shading represents the number of residues found in that shell. The red line indicates a distance of 32.5 \r{AA}, corresponding to the boundary of shell 6.
+
 ### Figure 2
 
 ```{r, echo=FALSE}
@@ -362,79 +369,9 @@ p6.pj20.pj21
 
 ```
 
+Relative performance of functional and structural predictors of rate. Only data from `r options` are considered. (a) Distribution of $R^2$ values for various linear models explaining rate, fitted individually for each protein. Labeled points within each distribution indicate the mean $R^2$ value across proteins. Here, $K$ denotes the site-specific evolutionary rate, $d$ the distance to the nearest catalytic residue, WCN the weighted contact number, and RSA the relative solvent accessibility. On average, the addition of distance to the structural constraints WCN and RSA increases the percent variance explained by the linear models by at least 5 percentage points. (b) Mean empirical and predicted rates, separated by shell. A model containing only WCN and RSA overestimates rates near the active site of the enzyme and the addition of distance corrects this behavior. (c) Mean residuals for linear models with and without distance as a parameter, separated by shell.}
+
 ### Figure 3
-
-```{r, echo=FALSE, warning=FALSE, message=FALSE}
-#########################################################
-# FIGURE 3: SIZE WITH RSA, WCN, AND DISTANCE
-#########################################################
-
-# Size vs distance
-pj4 <- ggplot(master.clean, aes(x=factor(shell), y=rate)) +
-  geom_violin(scale="width", trim=TRUE, aes(fill=..count..)) +
-  stat_summary(fun.y=mean, geom="point") +
-  stat_summary(fun.y=mean, geom="line", aes(group=1)) +
-  coord_cartesian(ylim=c(0,3)) +
-  xlab('Shell') +
-  ylab('Rate') +
-  xlim("0","1","2","3","4","5","6") +
-  facet_grid( . ~ ntile.size, labeller = facet_labeller) +
-  scale_fill_gradient(name="Residue Count", low="white", high="grey20", trans="sqrt") +
-  panel_border()
-
-# Plot residuals vs size (for supplemental)
-pj6 <- ggplot(filter(master.res, pred.type != 'dist_active.res'), 
-              aes(x=factor(shell), y=pred, color=factor(null.model, labels=c('Structure + d', 'Structure')), group=pred.type)) +
-  geom_hline(yintercept=0, linetype="dashed") +
-  stat_summary(fun.y=mean, geom="point") +
-  stat_summary(fun.y=mean, geom="line") +
-  xlim("0","1","2","3","4","5","6") +
-  facet_grid(null.group ~ ntile.size, labeller=facet_labeller) +
-  xlab('Shell') +
-  ylab('Residual') +
-  scale_color_discrete(name="Model") +
-  panel_border()
-
-target <- c('wcnSC.RSA.res', 'wcnSC.RSA.dist_active.res')
-pj22 <- ggplot(filter(master.res, pred.type %in% target), 
-              aes(x=factor(shell), y=pred, color=pred.type, group=pred.type)) +
-  geom_hline(yintercept=0, linetype="dashed") +
-  stat_summary(fun.y=mean, geom="point") +
-  stat_summary(fun.y=mean, geom="line") +
-  xlim("0","1","2","3","4","5","6") +
-  facet_grid(. ~ ntile.size, labeller=facet_labeller) +
-  xlab('Shell') +
-  ylab('Residual') +
-  scale_color_discrete(name="Model", labels=c('WCN + RSA', 'WCN + RSA + d')) +
-  panel_border()
-
-# Compile Figure 3
-pj4.pj6 <- plot_grid(pj4, pj22, ncol = 1, align='v', labels=c('a','b'))
-
-pj4.pj6
-
-```
-
-### Figure 4
-
-```{r, echo=FALSE}
-
-#########################################################
-# FIGURE 4: ACTIVE SITE RSA WITH RSA, WCN, AND DISTANCE
-#########################################################
-
-pj7 <- ggplot(master.act,
-              aes(x=active_site_rsa)) +
-  geom_density(fill="grey80") +
-  geom_vline(xintercept = as.vector(rsa_breaks), linetype="dashed") +
-  xlab('Active Site RSA') +
-  ylab('Density')
-
-pj8 <- pj6 + facet_grid(null.group ~ rsa.group, labeller=facet_labeller)
-pj8
-```
-
-### Figure 5
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.height=12}
 
@@ -482,9 +419,87 @@ p8 <- ggplot(master.ex, aes(x=dist_active, y=gam_rate)) +
   xlab(expression(bold(paste('Distance to Catalytic Residue (', ring(A), ')')))) +
   ylab("Rate K") +
   facet_wrap(~ pdb, ncol=1)
-p7.p8 <- plot_grid(p7, p8, ncol=2, align = 'h', rel_widths = c(1, 0.8))
+p7.p8 <- plot_grid(p7, p8, ncol=2, align = 'h', rel_widths = c(1, 0.8), labels=c('a','b'))
 p7.p8
 ```
+
+Example enzymes from main text.  From top to bottom, the enzymes shown are 1DHF, 1DO6, 1L0O, and 1SMN. Only data from `r options` are considered. (a) Absolute Pearson correlations ($r$) between combinations of distance $d$, weighted contact number (WCN), relative solvent accessibility (RSA), and rate $K$. Distance correlates weakly with WCN or RSA, and strongly with rate, indicating that distance is a strong predictor independent of structural constraints RSA and WCN. (b) Rates smoothed with a GAM (generalized additive model) as a function of $d$, shown for every residue in each enzyme structure. Smoothed rates increase with distance throughout the entire enzyme structure.
+
+### Figure 4
+
+```{r, echo=FALSE}
+
+#########################################################
+# FIGURE 4: ACTIVE SITE RSA WITH RSA, WCN, AND DISTANCE
+#########################################################
+
+pj7 <- ggplot(master.act,
+              aes(x=active_site_rsa)) +
+  geom_density(fill="grey80") +
+  geom_vline(xintercept = as.vector(rsa_breaks), linetype="dashed") +
+  xlab('Active Site RSA') +
+  ylab('Density')
+
+# Plot residuals vs size (for supplemental)
+pj6 <- ggplot(filter(master.res, pred.type != 'dist_active.res'), 
+              aes(x=factor(shell), y=pred, color=factor(null.model, labels=c('Structure + d', 'Structure')), group=pred.type)) +
+  geom_hline(yintercept=0, linetype="dashed") +
+  stat_summary(fun.y=mean, geom="point") +
+  stat_summary(fun.y=mean, geom="line") +
+  xlim("0","1","2","3","4","5","6") +
+  facet_grid(null.group ~ ntile.size, labeller=facet_labeller) +
+  xlab('Shell') +
+  ylab('Residual') +
+  scale_color_discrete(name="Model") +
+  panel_border()
+
+pj8 <- pj6 + facet_grid(null.group ~ rsa.group, labeller=facet_labeller)
+pj8
+```
+
+Effect of active-site location on the relationship between site-specific evolutionary rates and distance to the nearest catalytic residue. Only data from `r options` are considered. Enzymes are grouped into three categories, based on the mean solvent exposure of their catalytic residues: core (RSA $<$ 0.05), intermediate (0.05 $<$ RSA $<$ 0.25), and surface (RSA $>$ 0.25). Lines represent mean residuals for different structural linear models (vertical labels, right) and those same models with distance added as a parameter.
+
+### Figure 5
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+#########################################################
+# FIGURE 3: SIZE WITH RSA, WCN, AND DISTANCE
+#########################################################
+
+# Size vs distance
+pj4 <- ggplot(master.clean, aes(x=factor(shell), y=rate)) +
+  geom_violin(scale="width", trim=TRUE, aes(fill=..count..)) +
+  stat_summary(fun.y=mean, geom="point") +
+  stat_summary(fun.y=mean, geom="line", aes(group=1)) +
+  coord_cartesian(ylim=c(0,3)) +
+  xlab('Shell') +
+  ylab('Rate') +
+  xlim("0","1","2","3","4","5","6") +
+  facet_grid( . ~ ntile.size, labeller = facet_labeller) +
+  scale_fill_gradient(name="Residue Count", low="lightblue", high="blue", trans="sqrt") +
+  panel_border()
+
+target <- c('wcnSC.RSA.res', 'wcnSC.RSA.dist_active.res')
+pj22 <- ggplot(filter(master.res, pred.type %in% target), 
+              aes(x=factor(shell), y=pred, color=pred.type, group=pred.type)) +
+  geom_hline(yintercept=0, linetype="dashed") +
+  stat_summary(fun.y=mean, geom="point") +
+  stat_summary(fun.y=mean, geom="line") +
+  xlim("0","1","2","3","4","5","6") +
+  facet_grid(. ~ ntile.size, labeller=facet_labeller) +
+  xlab('Shell') +
+  ylab('Residual') +
+  scale_color_discrete(name="Model", labels=c('WCN + RSA', 'WCN + RSA + d')) +
+  panel_border()
+
+# Compile Figure 3
+pj4.pj6 <- plot_grid(pj4, pj22, ncol = 1, align='v', labels=c('a','b'))
+
+pj4.pj6
+
+```
+
+Effect of protein size on the relationship between site-specific evolutionary rates and distance to the nearest catalytic residue. Only data from `r options` are considered. (a) Distribution of rates within each shell, where proteins have been separated into small (95--326 sites), medium (327--484 sites), and large (485--1287 sites) based on amino-acid sequence length. Points represent the mean rate in each shell. As the size of the protein increases, the distance--rate slope decreases and distance effects extend further from the active site. (b) Mean residuals in each shell for models with and without distance, again separated by protein size. The constraining effects of catalytic residues depend on protein size, with stronger, more local effects in small proteins, and weaker, longer-range effects in large proteins.
 
 <!-- ### Figure 6 -->
  
@@ -537,7 +552,7 @@ pj7 <- ggplot(master.act4, aes(x=dist_active, fill=group)) +
 
 ```
 
-The proportion of accurately predicted active sites above is significantly larger than the proportion predicted using maximum WCN:
+<!-- The proportion of accurately predicted active sites above is significantly larger than the proportion predicted using maximum WCN:-->
 
 ```{r, echo=FALSE, include=F}
 gt7.method2 <- sum(master.act2$ref_to_act >= 7.5)
@@ -573,6 +588,8 @@ p11 <- qplot(abs(master.cor$r4s_rsa),
 p11
 ```
 
+Pearson $r$ values of side-chain WCN and RSA correlated with site-specific evolutionary rates. Only data from `r options` are considered. The sign of the correlation coefficients for WCN are switched from negative to positive for a simpler comparison with RSA. Each point corresponds to an individual protein, and the numbers refer to the number of proteins above or below the $y = x$ line. In aggregate, WCN is a better predictor of site-specific evolutionary rate than RSA.
+
 ### Figure S2
 
 ```{r}
@@ -596,6 +613,8 @@ p5
 
 ```
 
+Distributions of Pearson $r$ correlations between pairs of site-specific evolutionary rate predictors on a per protein basis. Only data from `r options` are considered. Predictor pairs include distance and WCN, distance and RSA, and WCN and RSA. WCN and RSA correlate more strongly with each other than either does with distance.
+
 ### Figure S3
 
 ```{r}
@@ -607,6 +626,8 @@ pj5
 
 ```
 
+Empirical and predicted site-specific evolutionary rates from different combined linear models. Only data from `r options` are considered. "Structure" refers to one of three structural models used to predict rate: RSA, WCN, or RSA + WCN. "Structure + d" refers to these same three structural models, with the addition of distance to the nearest catalytic residue as a variable. Each point is the mean predicted rate for a given shell across all residues in the data set. In all cases, models that include distance as a parameter predict rate more accurately than models containing only structural parameters, especially near the active site. 
+
 ### Figure S4
 
 ```{r}
@@ -617,6 +638,8 @@ pj5
 pj6
 
 ```
+
+Mean residuals for different combined linear models used to predict site-specific evolutionary rate. Only data from `r options` are considered. The data set is divided into small (95--326 sites), medium (327--484 sites), and large (485--1287 sites) proteins. Each point represents the mean predicted rate for all residues in a given shell.
 
 <!-- ### Figure S5 -->
 
