@@ -135,7 +135,7 @@ def main():
     wcn_mono.rename(columns={'wcnSC': 'wcnSC_mono',
                              'wcnCA': 'wcnCA_mono'})
 
-    active_sites = pd.read_csv('active_sites/' + pdb[0] + '_act.csv')
+    # active_sites = pd.read_csv('active_sites/' + pdb[0] + '_act.csv')
     distances = pd.read_csv('distances/' + pdb[0] + '_' + pdb[1] + '_dist.csv')
 
     # Merge all data frames. You must specify which columns have the amino acid sequences for proper alignment!

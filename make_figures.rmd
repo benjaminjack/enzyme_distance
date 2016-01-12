@@ -654,15 +654,15 @@ pj7
 ```{r, include=FALSE}
 # Run the following code in order to save individual figures above as PDFs:
 
-# save_plot('fig1.pdf', p1.p2.pj3, base_width = 10, base_height = 8)
-# save_plot('fig2.pdf', p6.pj20.pj21, base_width = 12, base_height = 6)
-# save_plot('fig3.pdf', pj4.pj6, ncol=1, base_width = 10, base_height = 6.5)
-# save_plot('fig4.pdf', pj8, base_width=8, base_height = 6.5)
-# save_plot('fig5.pdf', p7.p8, ncol=2, nrow=1, base_height = 10, base_width = 4)
+save_plot('figS24.pdf', p1.p2.pj3, base_width = 10, base_height = 8)
+save_plot('figS25.pdf', p6.pj20.pj21, base_width = 12, base_height = 6)
+save_plot('figS26.pdf', pj4.pj6, ncol=1, base_width = 10, base_height = 6.5)
+save_plot('figS27.pdf', pj8, base_width=8, base_height = 6.5)
+save_plot('figS28.pdf', p7.p8, ncol=2, nrow=1, base_height = 10, base_width = 4)
 # save_plot('fig6.pdf', p9)
-# save_plot('figS1.pdf', p11)
-# save_plot('figS2.pdf', p5, base_width = 6, base_height = 4)
-# save_plot('figS3.pdf', pj5, base_width = 6)
-# save_plot('figS4.pdf', pj6, base_width = 8, base_height = 6.5)
+save_plot('figS29.pdf', p11)
+save_plot('figS30.pdf', p5, base_width = 6, base_height = 4)
+save_plot('figS31.pdf', pj5, base_width = 6)
+save_plot('figS32.pdf', pj6, base_width = 8, base_height = 6.5)
 # save_plot('figS5.pdf', pj7)
 ```
