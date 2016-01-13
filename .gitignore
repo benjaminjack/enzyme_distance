@@ -4,6 +4,9 @@
 # Data files
 data/
 
+# Rsync scripts
+rsync_*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
