@@ -2,6 +2,7 @@
 # Import from wilke lab toolbox
 import sys
 import os
+import argparse
 from Bio import SeqIO
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
@@ -9,20 +10,46 @@ from Bio.PDB.Polypeptide import *
 from Bio.PDB import PDBParser
 from Bio.PDB import PDBIO
 
-def main(argv):
-    pdb_file = argv[0]
-    pdb_name = argv[1]
-    chain_name = argv[2]
-    outfile = argv[3]
+def main():
 
-    usage = "\nUsage:\n\n\textract_aa.py <pdb_file> <pdb_name> <chain> <output>\n\n" \
-            "\tExtracts an amino acid sequence from a given PDB file and chain and outputs it as a fasta file."
+    parser = argparse.ArgumentParser(description="Extract amino acid sequence of specific chain from PDB file.")
+    parser.add_argument("input_pdb", help="Input PDB file or list of PDB files for batch processing with PDB filename and one chain per line, separated by a space.")
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("-c", "--chain", help="PDB chain to extract from PDB file.")
+    group.add_argument("-b", "--batch", help="Batch process files supplied as PDB list.", action="store_true")
+    parser.add_argument("-i", "--in_dir", default="./", help="Input directory for batch processing PDBs.")
+    parser.add_argument("-o", "--out_dir", default="./fasta", help="Directory to output cleaned PDBs and chains. Defaults to './clean'")
+    args = parser.parse_args()
 
-    if len(argv) != 4:
-        print(usage)
-        sys.exit()
+    pdb_file = args.input_pdb
+    chain_name = args.chain
+    out_dir = args.out_dir
+    input_dir = args.in_dir
 
-    assert os.path.exists(pdb_file), usage
+    if not args.batch:
+        # Run single PDB file
+        pdb_name = os.path.basename(pdb_file).split('.')[0].upper()
+        outfile = pdb_name + "_" + chain_name + ".fasta"
+        extract_aa(input_dir + pdb_file, pdb_name, chain_name, outfile)
+    else:
+        # Check to make sure PDB list file exists
+        if not os.path.isfile(pdb_file):
+            raise argparse.ArgumentTypeError("PDB list file could not be found.")
+
+        with open(pdb_file) as f:
+            for line in f.readlines():
+                split_line = line.split()
+                pdb_file2 = split_line[0]
+                chain_name = split_line[1]
+                pdb_name = os.path.basename(pdb_file2).split('.')[0].upper()
+                outfile = pdb_name + "_" + chain_name + ".fasta"
+                extract_aa(input_dir + pdb_file2, pdb_name, chain_name, outfile)
+
+
+def extract_aa(pdb_file, pdb_name, chain_name, outfile):
+
+    if not os.path.isfile(pdb_file):
+        raise argparse.ArgumentTypeError("PDB file could not be found.")
 
     structure = parsePDBStructure(pdb_file)
     chain = structure[0][chain_name]
@@ -44,6 +71,4 @@ def get_aa_fromPDB( chain ):
     return polypeptides
 
 if __name__ == "__main__":
-    main(sys.argv[1:])
-
-
+    main()
