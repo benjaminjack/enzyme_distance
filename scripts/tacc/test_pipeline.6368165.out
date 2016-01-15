@@ -1,0 +1,9 @@
+Starting job running
+Positional Parameters
+$0 =  /home1/03284/bjack/projects/enzyme_distance/scripts/tacc/run_pipeline.sh
+$1 =  1a2k.pdb
+$2 =  1A2K
+$3 =  A
+Making output directories.
+Processing... 1a2k.pdb
+Collecting homologous sequences.
