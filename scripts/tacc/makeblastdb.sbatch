@@ -20,5 +20,5 @@ module load blast
 
 echo Starting job running
 cd $WORK/blast_db/
-makeblastdb -in uniref90.fasta -input_type fasta -dbtype prot -out uniref90
+makeblastdb -in uniref90.fasta -input_type fasta -dbtype prot -out uniref90 -parse_seqids
 
