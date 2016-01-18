@@ -15,13 +15,14 @@
 #
 #SBATCH -J calc_rates          # Job name
 #SBATCH -N 10                   # Total number of nodes (16 cores/node)
-#SBATCH -n 160                  # Total number of tasks
+#SBATCH -n 10                  # Total number of tasks
+#SBATCH -c 16		       # Number of cores per task
 #SBATCH -p normal              # Queue name
 #SBATCH -o calc_rates.%j.o      # Name of stdout output file (%j expands to jobid)
 #SBATCH -t 48:00:00            # Run time (hh:mm:ss)
 #SBATCH -e calc_rates.%j.e       # Name of stdout output file (%j expands to jobId)
 #SBATCH --mail-user=b.jack@utexas.edu
-#SBATCH --mail-type=FAIL
+#SBATCH --mail-type=ALL
 
 #      <------------ Account String ------------>
 # <--- (Use this ONLY if you have MULTIPLE accounts) --->
