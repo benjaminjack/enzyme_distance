@@ -19,17 +19,17 @@ import numpy
 # INPUT:  pdb files in ../structures/*  and the name of the output file.
 # OUTPUT: A file containing all relevant residue properties described above, in chronological order of pdbs in the directory.
 # Amir Shahmoradi, 12:10 PM, Tuesday Aug 12 2014, Wilke Lab, iCMB, The University of Texas at Austin.
-    
-def main():
-    if len( sys.argv ) != 3:
+
+def main(argv):
+    if len( argv ) != 3:
         print '''
- 
+
 Usage:'''
-        print "     ", sys.argv[0], "<input PDB file>", "<output summary file>", '\n'
+        print "     ", argv[0], "<input PDB file>", "<output summary file>", '\n'
         sys.exit('Program stopped.\n')
     else:
-        pdb_in  = sys.argv[1]  # path for the input PDB file to be read
-        sum_out = sys.argv[2]   # summary file containing all residue coordinate & Bfactor data
+        pdb_in  = argv[1]  # path for the input PDB file to be read
+        sum_out = argv[2]   # summary file containing all residue coordinate & Bfactor data
 
 
     sum_out_file = open(sum_out,'w')
@@ -50,14 +50,14 @@ Usage:'''
                       #'SC.x' + '\t' + 'SC.y' + '\t' + 'SC.z' + '\t' + \
                       #'AA.x' + '\t' + 'AA.y' + '\t' + 'AA.z' + '\t' + \
                       #'bfc' + '\t' + 'bfca' + '\t' + 'bfo' + '\t' + 'bfn' + '\t' + 'bfcb' + '\t' + 'bfaa' + '\t' + 'bfsc' + '\n')
-                          
+
        #sum_out_file.write('pdb' + '\t' + 'chain' + '\t' + 'resnam' + '\t' + 'resnum' + '\t' + 'wcnc' + '\t' + 'wcnca' + '\t' + 'wcno' + '\t' + 'wcnn' + '\t' + 'wcncb' + '\t' + 'wcnaa' + '\t' + 'wcnsc' + '\t' + 'bfc' + '\t' + 'bfca' + '\t' + 'bfo' + '\t' + 'bfn' + '\t' + 'bfcb' + '\t' + 'bfaa' + '\t' + 'bfsc' + '\t' + 'sizeSC' + '\n')
 
     p = PDBParser()
     pdb_name = os.path.basename(pdb_in).split('.')[0].upper()
     # pdb_chain = pdb_in[-5:-4]
     structure = p.get_structure(pdb_name,pdb_in)
-    
+
     resnam   = []     # A list containing all Residue Names
     resnum   = []     # A list containing all Residue Numbers
     reschain = []     # A list containing the chain name in which the residues lie
@@ -77,7 +77,7 @@ Usage:'''
     bfSC    = []
     sizeSC  = []   # A list containing the total number of atoms in each residue Side Chain (SC).
     sizeAA  = []   # A list containing the total number of atoms in each Amino Acid (AA).
-    
+
     #Ncounter  = 0
     #CAcounter = 0
     #Ccounter  = 0
@@ -123,12 +123,12 @@ Usage:'''
                 noCB = False
                 crdCB.append(atom.get_coord())
                 bfCB.append(atom.get_bfactor())
-            
+
             if atom.parent.id == residue.id and atom.name not in ['C','CA','O','N']:
                 noSC = False
                 rescrd_SC.append(atom.get_coord())
                 resbf_SC.append(atom.get_bfactor())
-            
+
             if atom.parent.id == residue.id:
                 rescrd_AA.append(atom.get_coord())
                 resbf_AA.append(atom.get_bfactor())
@@ -167,7 +167,7 @@ Usage:'''
             if sizeSC[-1] != len(resbf_SC):
                 print 'something is terribly wrong with the code!: sizeSC[-1] != len(resbf_SC)', sizeSC[-1], len(resbf_SC)
                 sys.exit()
-        
+
         # Now calculate the Amino Acid properties:
         sizeAA.append(len(rescrd_AA))
         crdAA.append(sum(rescrd_AA)/float(sizeAA[-1]))
@@ -177,7 +177,7 @@ Usage:'''
             sys.exit()
 
     # Now calcualte the Contact numbers for differnt sets of coordinates and output the results :
-    
+
     # wcnN     = get_wcn_invsq.get_wcn_invsq(crdN)
     # wcnCA    = get_wcn_invsq.get_wcn_invsq(crdCA)
     # wcnC     = get_wcn_invsq.get_wcn_invsq(crdC)
@@ -188,9 +188,9 @@ Usage:'''
 
     wcnSC = []
     wcnCA = []
-    
+
     for i in range(len(resnam)):
-        
+
         #wcnNi = 0.      # WCN for atom N of the ith residue in the PDB file.
         #for j in range(len(crdN)) :
         #    if i != j :
@@ -232,7 +232,7 @@ Usage:'''
         #    if i != j :
         #        wcnAAi += 1./( (crdAA[i][0]-crdAA[j][0])**2 + (crdAA[i][1]-crdAA[j][1])**2 + (crdAA[i][2]-crdAA[j][2])**2 )
         #wcnAA.append(wcnAAi)
-        
+
         # Now write out (or append to) the ouput file
         sum_out_file.write(resnam[i] + ',' + str(resnum[i]) + ',' + # '\t' + str(sizeSC[i]) + '\t' + str(sizeAA[i]) + '\t' + \
                            str(wcnSC[i])  + ',' + # '\t' + str(bfSC[i])  + '\t' + \
@@ -249,12 +249,12 @@ Usage:'''
                            #str(crdCB[i]) + '\t' + str(bfCB[i]) + '\t' + \
                            #str(crdSC[i]) + '\t' + str(bfSC[i]) + '\t' + \
                            #str(crdAA[i]) + '\t' + str(bfAA[i]) + '\t' + '\n')
-    
+
 if __name__ == "__main__":
-   main()
+   main(sys.argv)
 
 
-    
+
 #crd.append( numpy.array( [ float(record.split()[-3]) , float(record.split()[-2]) , float(record.split()[-1]) ] ) ) # stores CA atom triplet coordinates as individual elements of the list crd.
 ## Now calculate residue wcn :
 #wcn = []   # A list containing all CA-atom WCN in the pdb file
