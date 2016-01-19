@@ -29,7 +29,7 @@ residue_max_acc = {'A': 129.0, 'R': 274.0, 'N': 195.0, 'D': 193.0, \
                    'H': 224.0, 'I': 197.0, 'L': 201.0, 'K': 236.0, \
                    'M': 224.0, 'F': 240.0, 'P': 159.0, 'S': 155.0, \
                    'T': 172.0, 'W': 285.0, 'Y': 263.0, 'V': 174.0}
-#This calculates the RSA values for a PDB using DSSP. It returns a list of the Amino Acids and a list of their RSA values. 
+#This calculates the RSA values for a PDB using DSSP. It returns a list of the Amino Acids and a list of their RSA values.
 def get_values(pdb_path, output_dssp):
     processString = 'mkdssp' + ' -i ' + pdb_path + ' -o ' + output_dssp
     process = subprocess.Popen(processString, shell=True, stdout=subprocess.PIPE)
@@ -72,17 +72,17 @@ def get_values(pdb_path, output_dssp):
                 NoRSA = NoRSA + 1  #Counts the number of residues that did not have SA values
             index = index + 1
     input.close()  #Close the file with the dssp output file
-    #os.remove('pdbOutput.txt') #Deletes the dssp output file 
+    #os.remove('pdbOutput.txt') #Deletes the dssp output file
     return (resList, chainList, AAList, SAList)  #Return the RSA values and the SAList
 
 
-def main():
-    if len(sys.argv) != 4:
-        print("\n\nUsage:\n\n     "+sys.argv[0]+" <input pdb file> <output dssp ASA> <output RSA>")
+def main(argv):
+    if len(argv) != 4:
+        print("\n\nUsage:\n\n     "+argv[0]+" <input pdb file> <output dssp ASA> <output RSA>")
     else:
-        pdb_path = sys.argv[1]
-        output_dssp = sys.argv[2]
-        output_rsa = sys.argv[3]
+        pdb_path = argv[1]
+        output_dssp = argv[2]
+        output_rsa = argv[3]
         [res_List, chain_List, AA_List, RSA] = get_values(pdb_path, output_dssp)
         rsa_outputfile = open(output_rsa, 'w')
         rsa_outputfile.write('Residue,Amino_Acid,Chain,RSA\n')
@@ -92,4 +92,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv)
