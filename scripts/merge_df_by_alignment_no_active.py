@@ -103,17 +103,15 @@ def merge_df_by_aa(all_dfs, col_list, retain_gaps=False):
     return aligned_df
 
 
-def main():
+def main(argv):
     # List of input CSV files
-    if len(sys.argv) != 4:
-        print("\n\nUsage:\n\n     "+sys.argv[0]+" <input pdb id> <chain> <output directory>")
+    if len(argv) != 4:
+        print("\n\nUsage:\n\n     "+argv[0]+" <input pdb id> <chain> <output directory>")
         return
     else:
-        pdb = [sys.argv[1], sys.argv[2]]
-        output_dir = sys.argv[3]
+        pdb = [argv[1], argv[2]]
+        output_dir = argv[3]
         # print pdb
-
-    # calculate_distances('2ENG_A_renumbered', "raw_pdbs/chains/", "distances_test/")
 
     ##################################################################################
     # MODIFY SCRIPT HERE TO CHANGE WHICH DATA FILES ARE BEING MERGED
@@ -121,31 +119,30 @@ def main():
 
     # Here is where we read in all of the output files as data frames
     print "Processing: " + pdb[0]
-    rsa_mono = pd.read_csv('rsa_mono/' + pdb[0] + '_rsa.csv')
+    rsa_mono = pd.read_csv('rsa_mono/' + pdb[0] + '_' + pdb[1] + '_rsa.csv')
     # Rename RSA column so we can tell mono- and multimeric RSA apart
     rsa_mono = rsa_mono.rename(columns={'RSA': 'RSA_mono'})
-    rsa_multi = pd.read_csv('rsa/' + pdb[0] + '_rsa.csv')
+    rsa_multi = pd.read_csv('rsa_multi/' + pdb[0] + '_rsa.csv')
     rates = pd.read_csv('extracted_rates/' + pdb[0] + '_' + pdb[1] + '_r4s.csv')
     raw_rates = pd.read_csv('extracted_rates/' + pdb[0] + '_' + pdb[1] + '_r4s_raw.csv')
     # Rename raw rate column
     raw_rates = raw_rates.rename(columns={'rate': 'raw_rate'})
-    wcn_multi = pd.read_csv('wcn/' + pdb[0] + '_wcn.csv')
-    wcn_mono = pd.read_csv('wcn_mono/' + pdb[0] + '_wcn.csv')
+    wcn_multi = pd.read_csv('wcn_multi/' + pdb[0] + '_wcn.csv')
+    wcn_mono = pd.read_csv('wcn_mono/' + pdb[0] + '_' + pdb[1] + '_wcn.csv')
     # Rename WCN columns so we can tell mono- and multimeric WCN apart
-    wcn_mono.rename(columns={'wcnSC': 'wcnSC_mono',
+    wcn_mono = wcn_mono.rename(columns={'wcnSC': 'wcnSC_mono',
                              'wcnCA': 'wcnCA_mono'})
 
-    # active_sites = pd.read_csv('active_sites/' + pdb[0] + '_act.csv')
     distances = pd.read_csv('distances/' + pdb[0] + '_' + pdb[1] + '_dist.csv')
 
     # Merge all data frames. You must specify which columns have the amino acid sequences for proper alignment!
-    df = merge_df_by_aa([rsa_mono, rsa_multi, rates, raw_rates, wcn_multi, wcn_mono, active_sites, distances],
+    df = merge_df_by_aa([rsa_mono, rsa_multi, rates, raw_rates, wcn_multi, wcn_mono, distances],
                          ['Amino_Acid', 'Amino_Acid', 'pdb_aa', 'pdb_aa', 'resnam', 'resnam', 'PDB_AA'],
                          retain_gaps=False)
 
 
-    with open(output_dir + '/' + pdb[0] + '_merged.csv', 'w') as f:
+    with open(output_dir + '/' + pdb[0] + "_" + pdb[1] + '_merged.csv', 'w') as f:
         df.to_csv(f, index=False)
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv)
