@@ -1,10 +1,10 @@
 ---
-title: "Evolution of Protein-Protein Interactions"
+title: "Evolution of Protein-Protein Interfaces"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, include = FALSE)
+knitr::opts_chunk$set(echo = FALSE, include = TRUE)
 library(dplyr)
 library(tidyr)
 library(readr)
@@ -15,6 +15,17 @@ library(cowplot)
 proteins <- read_csv("./data/nonenzymes/master_data_table_pp.csv")
 ```
 
+### Whole-complex RSA values correlate with site-specific evolutionary rates
+```{r}
+
+ggplot(proteins, aes(x=RSA, y=rate)) +
+  geom_point(alpha=0.1) +
+  geom_smooth() +
+  coord_cartesian(xlim=c(0,1), ylim=c(0,2))
+
+```
+
+### Whole-complex WCN shows strongest mean correlation with evolutionary rate
 ```{r}
 
 protein_cors <- proteins %>% 
@@ -25,37 +36,61 @@ protein_cors <- proteins %>%
          wcn_mono.r2 = cor.test(wcnSC_mono, rate)$estimate^2)
 
 ggplot(protein_cors %>% gather(comparison, r2, rsa.r2:wcn_mono.r2),
-       aes(x=comparison, y=r2, group=comparison)) + 
+       aes(x=factor(comparison, 
+                    levels=c("rsa.r2", 
+                             "rsa_mono.r2", 
+                             "wcn.r2",
+                             "wcn_mono.r2"),
+                    labels=c("RSA (whole complex), rate",
+                             "RSA (chain), rate",
+                             "WCN (whole complex), rate",
+                             "WCN (chain), rate")), y=r2, group=comparison)) + 
   geom_violin() +
   geom_jitter(position = position_jitter(0.2)) +
-  stat_summary(fun.y=mean, geom="point", color="red", size = 2) +
+  stat_summary(fun.y=mean, geom="point", color="red", size = 4) +
+  xlab("Comparison") +
+  ylab("R-squared") +
   coord_flip()
 
 ```
 
-
+### ...Although none of these differences are significant
 ```{r}
 
-ggplot(protein_cors, aes(rsa.r2, rsa_mono.r2)) + 
-  geom_point() +
-  geom_abline(slope=1, intercept = 0)
+make_scatter <- function(df, x, y) {
+  ggplot(df, aes(x,y)) + 
+    geom_point() +
+    geom_abline(slope=1, intercept = 0) +
+    xlim(0,0.5) +
+    ylim(0,0.5) +
+    coord_equal()
+}
+
+scatter1 <- make_scatter(protein_cors, protein_cors$rsa.r2, protein_cors$rsa_mono.r2) +
+  labs(x="RSA (whole complex)", y = "RSA (chain)")
 
 t.test(protein_cors$rsa.r2, protein_cors$rsa_mono.r2)
 
-ggplot(protein_cors, aes(wcn.r2, wcn_mono.r2)) + 
-  geom_point() +
-  geom_abline(slope=1, intercept = 0)
+scatter2 <- make_scatter(protein_cors, protein_cors$wcn.r2, protein_cors$wcn_mono.r2) +
+  labs(x="WCN (whole complex)", y = "WCN (chain)")
 
 t.test(protein_cors$wcn.r2, protein_cors$wcn_mono.r2)
 
-ggplot(protein_cors, aes(wcn.r2, rsa.r2)) + 
-  geom_point() +
-  geom_abline(slope=1, intercept = 0)
+scatter3 <- make_scatter(protein_cors, protein_cors$wcn_mono.r2, protein_cors$rsa_mono.r2) +
+  labs(x="WCN (chain)", y = "RSA (chain)")
+
+t.test(protein_cors$wcn_mono.r2, protein_cors$rsa_mono.r2)
+
+scatter4 <- make_scatter(protein_cors, protein_cors$wcn.r2, protein_cors$rsa.r2) +
+  labs(x="WCN (whole complex)", y = "RSA (whole_complex)")
 
 t.test(protein_cors$wcn.r2, protein_cors$rsa.r2)
 
+plot_grid(scatter1, scatter2, scatter3, scatter4, ncol=2)
+
 ```
 
+### Protein-protein interface residues evolve more slowly than non-interface residues
 ```{r}
 
 proteins <- proteins %>%
@@ -63,9 +98,58 @@ proteins <- proteins %>%
 
 ggplot(proteins, aes(x=interface, y=rate)) + 
   geom_violin() +
-  stat_summary(fun.y=mean, geom="point", color="red", size = 2)
+  stat_summary(fun.y=mean, geom="point", color="red", size = 3) +
+  coord_cartesian(ylim=c(0,1))
 
 t.test(filter(proteins, interface==T)$rate, 
        filter(proteins, interface==F)$rate)
 
 ```
+
+### Enzyme data set: protein-protein interface residues evolve more quickly than catalytic residues, but more slowly than other residues
+
+```{r}
+enzymes <- read_csv("master_data_table.csv") %>%
+  mutate(interface = ifelse(RSA_mono - RSA > 0.01, T, F))
+
+ggplot(enzymes, aes(x=interface, y=rate)) + 
+  geom_violin() +
+  stat_summary(fun.y=mean, geom="point", color="red", size = 3) +
+  coord_cartesian(ylim=c(0,1))
+
+t.test(filter(enzymes, interface==T)$rate, 
+       filter(enzymes, interface==F)$rate)
+
+cats <- filter(enzymes, ACTIVE_SITE == T) %>%
+  mutate(type="cat") %>%
+  select(type, rate)
+ints <- filter(enzymes, interface == T) %>%
+  mutate(type="interface") %>%
+  select(type, rate)
+nonenzyme <- filter(proteins, interface == T) %>%
+  mutate(type="interface_nonenzyme") %>%
+  select(type,rate)
+
+cats_ints <- bind_rows(cats, ints, nonenzyme)
+
+ggplot(cats_ints, aes(x=factor(type, 
+                               levels=c("cat", "interface", "interface_nonenzyme"),
+                               labels=c("Catalytic",
+                                        "Interface (enzymes)",
+                                        "Interface (nonenzymes)")), y=rate)) +
+  geom_violin() +
+  coord_cartesian(ylim=c(0,1)) +
+  stat_summary(fun.y=mean, geom="point", color="red", size = 4) +
+  xlab("Residue Type")
+
+t.test(cats$rate,ints$rate)
+
+t.test(ints$rate, nonenzyme$rate)
+
+```
+
+### Conclusions
+
+- Catalytic residues are highly conserved
+- Protein-protein interface residues evolve more quickly than catalytic residues
+- Protein-protein interface residues evolve more slowly than non-interface, non-catalytic residues
