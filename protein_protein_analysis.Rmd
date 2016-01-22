@@ -1,0 +1,71 @@
+---
+title: "Evolution of Protein-Protein Interactions"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, include = FALSE)
+library(dplyr)
+library(tidyr)
+library(readr)
+library(stringr)
+library(ggplot2)
+library(cowplot)
+
+proteins <- read_csv("./data/nonenzymes/master_data_table_pp.csv")
+```
+
+```{r}
+
+protein_cors <- proteins %>% 
+  group_by(pdb) %>%
+  summarize(rsa.r2 = cor.test(RSA, rate)$estimate^2,
+         rsa_mono.r2 = cor.test(RSA_mono, rate)$estimate^2,
+         wcn.r2 = cor.test(wcnSC, rate)$estimate^2,
+         wcn_mono.r2 = cor.test(wcnSC_mono, rate)$estimate^2)
+
+ggplot(protein_cors %>% gather(comparison, r2, rsa.r2:wcn_mono.r2),
+       aes(x=comparison, y=r2, group=comparison)) + 
+  geom_violin() +
+  geom_jitter(position = position_jitter(0.2)) +
+  stat_summary(fun.y=mean, geom="point", color="red", size = 2) +
+  coord_flip()
+
+```
+
+
+```{r}
+
+ggplot(protein_cors, aes(rsa.r2, rsa_mono.r2)) + 
+  geom_point() +
+  geom_abline(slope=1, intercept = 0)
+
+t.test(protein_cors$rsa.r2, protein_cors$rsa_mono.r2)
+
+ggplot(protein_cors, aes(wcn.r2, wcn_mono.r2)) + 
+  geom_point() +
+  geom_abline(slope=1, intercept = 0)
+
+t.test(protein_cors$wcn.r2, protein_cors$wcn_mono.r2)
+
+ggplot(protein_cors, aes(wcn.r2, rsa.r2)) + 
+  geom_point() +
+  geom_abline(slope=1, intercept = 0)
+
+t.test(protein_cors$wcn.r2, protein_cors$rsa.r2)
+
+```
+
+```{r}
+
+proteins <- proteins %>%
+  mutate(interface = ifelse(RSA_mono - RSA > 0.01, T, F))
+
+ggplot(proteins, aes(x=interface, y=rate)) + 
+  geom_violin() +
+  stat_summary(fun.y=mean, geom="point", color="red", size = 2)
+
+t.test(filter(proteins, interface==T)$rate, 
+       filter(proteins, interface==F)$rate)
+
+```
