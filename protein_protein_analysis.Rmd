@@ -25,6 +25,8 @@ ggplot(proteins, aes(x=RSA, y=rate)) +
 
 ```
 
+Each point represents a single residue.
+
 ### Whole-complex WCN shows strongest mean correlation with evolutionary rate
 ```{r}
 
@@ -54,7 +56,9 @@ ggplot(protein_cors %>% gather(comparison, r2, rsa.r2:wcn_mono.r2),
 
 ```
 
-### ...Although none of these differences are significant
+Each point above represents a **protein complex**.
+
+### ...Although most of these differences are not significant
 ```{r}
 
 make_scatter <- function(df, x, y) {
@@ -69,22 +73,22 @@ make_scatter <- function(df, x, y) {
 scatter1 <- make_scatter(protein_cors, protein_cors$rsa.r2, protein_cors$rsa_mono.r2) +
   labs(x="RSA (whole complex)", y = "RSA (chain)")
 
-t.test(protein_cors$rsa.r2, protein_cors$rsa_mono.r2)
+t.test(protein_cors$rsa.r2, protein_cors$rsa_mono.r2, paired=T)
 
 scatter2 <- make_scatter(protein_cors, protein_cors$wcn.r2, protein_cors$wcn_mono.r2) +
   labs(x="WCN (whole complex)", y = "WCN (chain)")
 
-t.test(protein_cors$wcn.r2, protein_cors$wcn_mono.r2)
+t.test(protein_cors$wcn.r2, protein_cors$wcn_mono.r2, paired=T)
 
 scatter3 <- make_scatter(protein_cors, protein_cors$wcn_mono.r2, protein_cors$rsa_mono.r2) +
   labs(x="WCN (chain)", y = "RSA (chain)")
 
-t.test(protein_cors$wcn_mono.r2, protein_cors$rsa_mono.r2)
+t.test(protein_cors$wcn_mono.r2, protein_cors$rsa_mono.r2, paired=T)
 
 scatter4 <- make_scatter(protein_cors, protein_cors$wcn.r2, protein_cors$rsa.r2) +
   labs(x="WCN (whole complex)", y = "RSA (whole_complex)")
 
-t.test(protein_cors$wcn.r2, protein_cors$rsa.r2)
+t.test(protein_cors$wcn.r2, protein_cors$rsa.r2, paired=T)
 
 plot_grid(scatter1, scatter2, scatter3, scatter4, ncol=2)
 
@@ -94,7 +98,7 @@ plot_grid(scatter1, scatter2, scatter3, scatter4, ncol=2)
 ```{r}
 
 proteins <- proteins %>%
-  mutate(interface = ifelse(RSA_mono - RSA > 0.01, T, F))
+  mutate(interface = ifelse(RSA_mono - RSA > 0.10, T, F))
 
 ggplot(proteins, aes(x=interface, y=rate)) + 
   geom_violin() +
@@ -110,7 +114,7 @@ t.test(filter(proteins, interface==T)$rate,
 
 ```{r}
 enzymes <- read_csv("master_data_table.csv") %>%
-  mutate(interface = ifelse(RSA_mono - RSA > 0.01, T, F))
+  mutate(interface = ifelse(RSA_mono - RSA > 0.10, T, F))
 
 ggplot(enzymes, aes(x=interface, y=rate)) + 
   geom_violin() +
@@ -153,3 +157,5 @@ t.test(ints$rate, nonenzyme$rate)
 - Catalytic residues are highly conserved
 - Protein-protein interface residues evolve more quickly than catalytic residues
 - Protein-protein interface residues evolve more slowly than non-interface, non-catalytic residues
+
+
