@@ -116,9 +116,9 @@ t.test(filter(proteins, interface==T)$rate,
 enzymes <- read_csv("master_data_table.csv") %>%
   mutate(interface = ifelse(RSA_mono - RSA > 0.10, T, F))
 
-ggplot(enzymes, aes(x=interface, y=rate)) + 
-  geom_violin() +
-  stat_summary(fun.y=mean, geom="point", color="red", size = 3) +
+ggplot(enzymes, aes(x=interface, y=rate)) +
+  stat_summary(fun.y = mean, geom = "point") + 
+  stat_summary(fun.data = mean_se, geom = "errorbar") + 
   coord_cartesian(ylim=c(0,1))
 
 t.test(filter(enzymes, interface==T)$rate, 
@@ -130,21 +130,24 @@ cats <- filter(enzymes, ACTIVE_SITE == T) %>%
 ints <- filter(enzymes, interface == T) %>%
   mutate(type="interface") %>%
   select(type, rate)
+enzyme_nonint <- filter(enzymes, interface == F, ACTIVE_SITE == F) %>%
+  mutate(type="no_cat_int") %>%
+  select(type, rate)
 nonenzyme <- filter(proteins, interface == T) %>%
   mutate(type="interface_nonenzyme") %>%
   select(type,rate)
 
-cats_ints <- bind_rows(cats, ints, nonenzyme)
+cats_ints <- bind_rows(cats, ints, enzyme_nonint)
 
 ggplot(cats_ints, aes(x=factor(type, 
-                               levels=c("cat", "interface", "interface_nonenzyme"),
+                               levels=c("cat", "interface", "no_cat_int"),
                                labels=c("Catalytic",
-                                        "Interface (enzymes)",
-                                        "Interface (nonenzymes)")), y=rate)) +
-  geom_violin() +
+                                        "Interface",
+                                        "All other sites")), y=rate, fill=type)) +
   coord_cartesian(ylim=c(0,1)) +
-  stat_summary(fun.y=mean, geom="point", color="red", size = 4) +
-  xlab("Residue Type")
+  stat_summary(fun.y=mean, geom="bar") +
+  stat_summary(fun.data = mean_se, geom = "errorbar", width = 0.25) +
+  xlab("Residue Type") + theme(legend.position = "none")
 
 t.test(cats$rate,ints$rate)
 
