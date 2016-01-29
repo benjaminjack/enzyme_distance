@@ -10,8 +10,8 @@ PDB_FILE=$1
 PDB=$2
 CHAIN=$3
 
-SCRIPTS="$HOME/enzyme_distance/scripts"
-BLAST_DB_PATH="/work/03284/bjack/db/uniref90"
+SCRIPTS="$HOME/projects/enzyme_distance/scripts"
+BLAST_DB_PATH="/work/03284/bjack/blast_db/uniref90"
 BLAST_DB_NAME="UniRef90"
 BLAST_THREADS=6
 RAXML_PATH="raxmlHPC-PTHREADS-SSE3"
@@ -26,6 +26,7 @@ mkdir -p structures/states
 mkdir -p fasta
 mkdir -p blast
 mkdir -p full_alignments
+mkdir -p alignments_uniq
 mkdir -p alignments_300
 mkdir -p trees
 mkdir -p rates
@@ -51,7 +52,7 @@ echo "Processing... $PDB_FILE"
 
 # CLEAN PDB
 echo "Cleaning PDB."
-python $SCRIPTS/clean_pdb.py $PDB_FILE $CHAIN structures/clean/
+python $SCRIPTS/clean_pdb.py $PDB_FILE -c $CHAIN -o structures/clean/
 echo "PDB cleaned."
 
 # EXTRACT MULTIMERIC STATE
@@ -61,7 +62,7 @@ echo "Multimeric state determined."
 
 # EXTRACT AMINO ACID SEQUENCE
 echo "Extracting amino acid sequence from PDB."
-python $SCRIPTS/extract_aa.py $PDB_FILE $PDB $CHAIN fasta/${PDB}_${CHAIN}.fasta
+python $SCRIPTS/extract_aa.py $PDB_FILE -c $CHAIN -o ./fasta
 echo "Amino acid sequence extracted."
 
 # RUN BLAST
@@ -77,7 +78,7 @@ echo "Homologous sequences collected."
 echo "Building alignments."
 cd full_alignments
 python $SCRIPTS/get_blast_seqs.py ../blast/blast_ids_${PDB}_${CHAIN}.txt ../fasta/${PDB}_${CHAIN}.fasta ${PDB}_${CHAIN} $BLAST_DB_NAME $BLAST_DB_PATH
-cd ../uniq_alignments
+cd ../alignments_uniq
 python $SCRIPTS/find_unique_seqs.py ../full_alignments/${PDB}_${CHAIN}_aln.fasta ${PDB}_${CHAIN}_uniq.fasta
 cd ../alignments_300
 python $SCRIPTS/downsample_seqs.py ../full_alignments/${PDB}_${CHAIN}_aln.fasta ${PDB}_${CHAIN} 300

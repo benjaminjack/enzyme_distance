@@ -18,7 +18,7 @@ def main():
     group.add_argument("-c", "--chain", help="PDB chain to extract from PDB file.")
     group.add_argument("-b", "--batch", help="Batch process files supplied as PDB list.", action="store_true")
     parser.add_argument("-i", "--in_dir", default="./", help="Input directory for batch processing PDBs.")
-    parser.add_argument("-o", "--out_dir", default="./fasta", help="Directory to output cleaned PDBs and chains. Defaults to './clean'")
+    parser.add_argument("-o", "--out_dir", default="./fasta", help="Directory to output sequences. Defaults to './fasta'")
     args = parser.parse_args()
 
     pdb_file = args.input_pdb
@@ -29,7 +29,7 @@ def main():
     if not args.batch:
         # Run single PDB file
         pdb_name = os.path.basename(pdb_file).split('.')[0].upper()
-        outfile = pdb_name + "_" + chain_name + ".fasta"
+        outfile = out_dir + '/' +  pdb_name + "_" + chain_name + ".fasta"
         extract_aa(input_dir + pdb_file, pdb_name, chain_name, outfile)
     else:
         # Check to make sure PDB list file exists
@@ -42,7 +42,7 @@ def main():
                 pdb_file2 = split_line[0]
                 chain_name = split_line[1]
                 pdb_name = os.path.basename(pdb_file2).split('.')[0].upper()
-                outfile = pdb_name + "_" + chain_name + ".fasta"
+                outfile = out_dir + '/' + pdb_name + "_" + chain_name + ".fasta"
                 extract_aa(input_dir + pdb_file2, pdb_name, chain_name, outfile)
 
 
