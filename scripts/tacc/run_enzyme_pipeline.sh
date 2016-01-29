@@ -31,6 +31,11 @@ mkdir -p alignments_300
 mkdir -p trees
 mkdir -p rates
 mkdir -p extracted_rates
+mkdir -p rsa_mono
+mkdir -p rsa_multi
+mkdir -p wcn_mono
+mkdir -p wcn_multi
+mkdir -p distances
 
 abort()
 {
@@ -69,7 +74,7 @@ echo "Amino acid sequence extracted."
 # Change directory for blast output
 echo "Collecting homologous sequences."
 cd blast/
-python $SCRIPTS/run_blast.py ../fasta/${PDB}_${CHAIN}.fasta $BLAST_DB_PATH $BLAST_THREADS
+# python $SCRIPTS/run_blast.py ../fasta/${PDB}_${CHAIN}.fasta $BLAST_DB_PATH $BLAST_THREADS
 # And change the directory back...
 cd ../
 echo "Homologous sequences collected."
@@ -88,19 +93,30 @@ echo "Sequences aligned and downsampled."
 # RUN RAXML
 echo "Constructing tree."
 cd trees
-python $SCRIPTS/run_raxml.py ../alignments_300/${PDB}_${CHAIN}_sample.fasta ${PDB}_${CHAIN} $RAXML_PATH $RAXML_THREADS
+# python $SCRIPTS/run_raxml.py ../alignments_300/${PDB}_${CHAIN}_sample.fasta ${PDB}_${CHAIN} $RAXML_PATH $RAXML_THREADS
 cd ../
 echo "Tree constructed."
 
 # RUN RATE4SITE AND EXTRACT RATES
 echo "Computing rates."
-python $SCRIPTS/run_r4s.py $R4S_PATH trees/phy/${PDB}_${CHAIN}.phy trees/RAxML_bestTree.${PDB}_${CHAIN}.txt rates/${PDB}_${CHAIN}_r4s.txt rates/${PDB}_${CHAIN}_r4s_raw.txt
+# python $SCRIPTS/run_r4s.py $R4S_PATH trees/phy/${PDB}_${CHAIN}.phy trees/RAxML_bestTree.${PDB}_${CHAIN}.txt rates/${PDB}_${CHAIN}_r4s.txt rates/${PDB}_${CHAIN}_r4s_raw.txt
 echo "Rates calculated. Extracting rate information."
 
-python $SCRIPTS/extract_unmapped_rate4site_rates.py rates/${PDB}_${CHAIN}_r4s.txt extracted_rates/${PDB}_${CHAIN}_r4s.csv
-python $SCRIPTS/extract_unmapped_rate4site_rates.py rates/${PDB}_${CHAIN}_r4s_raw.txt extracted_rates/${PDB}_${CHAIN}_r4s_raw.csv
+# python $SCRIPTS/extract_unmapped_rate4site_rates.py rates/${PDB}_${CHAIN}_r4s.txt extracted_rates/${PDB}_${CHAIN}_r4s.csv
+# python $SCRIPTS/extract_unmapped_rate4site_rates.py rates/${PDB}_${CHAIN}_r4s_raw.txt extracted_rates/${PDB}_${CHAIN}_r4s_raw.csv
 
 echo "Rates extracted. Script complete."
+
+# Compute distance matrices
+python $SCRIPTS/calc_distances.py structures/clean/chain/${PDB}_${CHAIN}.pdb distances/
+
+# Calculate RSAs
+python $SCRIPTS/calc_rsa.py structures/clean/${PDB}.pdb rsa_multi/${PDB}_asa.csv rsa_multi/${PDB}_rsa.csv
+python $SCRIPTS/calc_rsa.py structures/clean/chain/${PDB}_${CHAIN}.pdb rsa_mono/${PDB}_${CHAIN}_asa.csv rsa_mono/${PDB}_${CHAIN}_rsa.csv
+
+# Calculate WCN
+python $SCRIPTS/calc_wcn.py structures/clean/${PDB}.pdb wcn_multi/${PDB}_wcn.csv
+python $SCRIPTS/calc_wcn.py structures/clean/chain/${PDB}_${CHAIN}.pdb wcn_mono/${PDB}_${CHAIN}_wcn.csv
 
 # Done!
 trap : 0
