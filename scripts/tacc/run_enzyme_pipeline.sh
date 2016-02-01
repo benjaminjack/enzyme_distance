@@ -57,17 +57,17 @@ echo "Processing... $PDB_FILE"
 
 # CLEAN PDB
 echo "Cleaning PDB."
-python $SCRIPTS/clean_pdb.py $PDB_FILE -c $CHAIN -o structures/clean/
+python $SCRIPTS/clean_pdb.py structures/$PDB_FILE -c $CHAIN -o structures/clean/
 echo "PDB cleaned."
 
 # EXTRACT MULTIMERIC STATE
 echo "Extracting multimeric state."
-python $SCRIPTS/extract_state.py $PDB_FILE > structures/states/${PDB}_states.csv
+python $SCRIPTS/extract_state.py structures/$PDB_FILE > structures/states/${PDB}_states.csv
 echo "Multimeric state determined."
 
 # EXTRACT AMINO ACID SEQUENCE
 echo "Extracting amino acid sequence from PDB."
-python $SCRIPTS/extract_aa.py $PDB_FILE -c $CHAIN -o ./fasta
+python $SCRIPTS/extract_aa.py structures/$PDB_FILE -c $CHAIN -o ./fasta
 echo "Amino acid sequence extracted."
 
 # RUN BLAST
