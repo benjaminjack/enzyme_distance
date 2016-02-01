@@ -17,9 +17,9 @@
 #SBATCH -N 6                   # Total number of nodes (16 cores/node)
 #SBATCH -n 12                  # Total number of tasks
 #SBATCH -c 8		       # Number of cores per task
-#SBATCH -p normal              # Queue name
+#SBATCH -p development              # Queue name
 #SBATCH -o viral_rates.%j.o      # Name of stdout output file (%j expands to jobid)
-#SBATCH -t 48:00:00            # Run time (hh:mm:ss)
+#SBATCH -t 2:00:00            # Run time (hh:mm:ss)
 #SBATCH -e viral_rates.%j.e       # Name of stdout output file (%j expands to jobId)
 #SBATCH --mail-user=b.jack@utexas.edu
 #SBATCH --mail-type=ALL
@@ -33,9 +33,10 @@ module load launcher
 module load blast
 module load python/2.7.3-epd-7.3.2
 module load mafft
+module load boost
 
 setenv EXECUTABLE     $TACC_LAUNCHER_DIR/init_launcher
-setenv CONTROL_FILE   enzyme_command_list.sh
+setenv CONTROL_FILE   viral_command_list.sh
 setenv WORKDIR        $WORK/enzyme_distance_data/viral/
 #
 # Variable description:

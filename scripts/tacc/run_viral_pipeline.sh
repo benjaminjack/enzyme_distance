@@ -35,7 +35,7 @@ mkdir -p rsa_mono
 mkdir -p rsa_multi
 mkdir -p wcn_mono
 mkdir -p wcn_multi
-mkdir -p distances
+# mkdir -p distances
 
 abort()
 {
@@ -108,7 +108,7 @@ python $SCRIPTS/extract_unmapped_rate4site_rates.py rates/${PDB}_${CHAIN}_r4s_ra
 echo "Rates extracted. Script complete."
 
 # Compute distance matrices
-python $SCRIPTS/calc_distances.py structures/clean/chain/${PDB}_${CHAIN}.pdb distances/
+# python $SCRIPTS/calc_distances.py structures/clean/chain/${PDB}_${CHAIN}.pdb distances/
 
 # Calculate RSAs
 python $SCRIPTS/calc_rsa.py structures/clean/${PDB}.pdb rsa_multi/${PDB}_asa.csv rsa_multi/${PDB}_rsa.csv
