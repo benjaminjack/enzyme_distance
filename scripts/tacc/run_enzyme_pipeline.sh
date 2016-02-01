@@ -81,7 +81,7 @@ cd ../
 # Change directory for blast output
 # echo "Collecting homologous sequences."
 # cd blast/
-python $SCRIPTS/run_blast.py ../fasta/${PDB}_${CHAIN}.fasta $BLAST_DB_PATH $BLAST_THREADS
+# python $SCRIPTS/run_blast.py ../fasta/${PDB}_${CHAIN}.fasta $BLAST_DB_PATH $BLAST_THREADS
 # And change the directory back...
 # cd ../
 # echo "Homologous sequences collected."

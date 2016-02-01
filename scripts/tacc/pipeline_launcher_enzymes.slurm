@@ -31,7 +31,7 @@
 
 module load launcher
 module load blast
-module load python/2.7.3-epd-7.3.2
+module load python/2.7.9
 module load mafft
 module load boost
 
