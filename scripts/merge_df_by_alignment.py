@@ -140,15 +140,18 @@ def main(argv):
     # Add distance matrices
     distances = pd.read_csv('distances/' + pdb[0] + '_' + pdb[1] + '_dist.csv')
 
-    # Add multimeric state
-    # (It's better to do this in R)
-    # multi = pd.read_csv('structures/states/' + pdb[0] + '_states.csv', header=None, names=['pdb', 'multimer'])
-    # active_sites = active_sites.join(multi)
+
 
     # Merge all data frames. You must specify which columns have the amino acid sequences for proper alignment!
     df = merge_df_by_aa([rsa_mono, rsa_multi, rates, raw_rates, wcn_multi, wcn_mono, active_sites, distances],
                          ['Amino_Acid', 'Amino_Acid', 'pdb_aa', 'pdb_aa', 'resnam', 'resnam', 'RES', 'PDB_AA'],
                          retain_gaps=False)
+
+    # Add multimeric state
+    multi = pd.read_csv('structures/states/' + pdb[0] + '_states.csv', header=None, names=['pdb', 'multimer'])
+    multi = pd.concat([multi]*len(df), ignore_index=True)
+
+    df = df.join(multi)
 
     with open(output_dir + '/' + pdb[0] + '_merged.csv', 'w') as f:
         df.to_csv(f, index=False)
