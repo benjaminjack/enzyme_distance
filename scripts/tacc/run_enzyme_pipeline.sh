@@ -58,9 +58,9 @@ set -e
 echo "Processing... $PDB_FILE"
 
 # CLEAN PDB
-# echo "Cleaning PDB."
-# python $SCRIPTS/clean_pdb.py structures/$PDB_FILE -c $CHAIN -o structures/clean/
-# echo "PDB cleaned."
+echo "Cleaning PDB."
+python $SCRIPTS/clean_pdb.py structures/$PDB_FILE -c $CHAIN -o structures/clean/
+echo "PDB cleaned."
 
 # EXTRACT MULTIMERIC STATE
 # echo "Extracting multimeric state."
@@ -73,9 +73,9 @@ echo "Processing... $PDB_FILE"
 # echo "Amino acid sequence extracted."
 
 # EXTRACT ACTIVE SITE
-cd active_sites/
-python $SCRIPTS/extract_active_sites.py ../$ACTIVE_SITE_DB $PDB ../structures/$PDB_FILE
-cd ../
+# cd active_sites/
+# python $SCRIPTS/extract_active_sites.py ../$ACTIVE_SITE_DB $PDB ../structures/$PDB_FILE
+# cd ../
 
 # RUN BLAST
 # Change directory for blast output
