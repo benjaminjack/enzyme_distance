@@ -23,6 +23,7 @@ echo "Making output directories."
 mkdir -p blast
 mkdir -p full_alignments
 mkdir -p alignments_300
+mkdir -p alignments_uniq
 mkdir -p trees
 mkdir -p rates
 mkdir -p extracted_rates
@@ -58,6 +59,8 @@ echo "Homologous sequences collected."
 echo "Building alignments."
 cd full_alignments
 python $SCRIPTS/get_blast_seqs.py ../blast/blast_ids_${PDB}_${CHAIN}.txt ../fasta/${PDB}_${CHAIN}.fasta ${PDB}_${CHAIN} $BLAST_DB_NAME $BLAST_DB_PATH
+cd ../alignments_uniq
+python $SCRIPTS/find_unique_seqs.py ../full_alignments/${PDB}_${CHAIN}_aln.fasta ${PDB}_${CHAIN}_uniq.fasta
 cd ../alignments_300
 python $SCRIPTS/downsample_seqs.py ../full_alignments/${PDB}_${CHAIN}_aln.fasta ${PDB}_${CHAIN} 300
 cd ../
