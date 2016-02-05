@@ -1,9 +1,9 @@
 ---
 title: "Supplementary Text 3"
 output:
-  pdf_document: default
   html_document:
     fig_caption: yes
+  pdf_document: default
 ---
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
@@ -37,7 +37,7 @@ MONOMERS_ONLY <- F  # Use only monomeric proteins
 MULTI_RSA <- T # Use multimeric RSA
 MULTI_WCN <- T # Use multimeric WCN
 NO_GLY <- F         # Remove glycines before analysis
-NO_INTERFACE <- T   # Remove interface residues
+NO_INTERFACE <- F   # Remove interface residues
 
 # =============================================================
 # END OPTIONS
@@ -128,25 +128,15 @@ get_null <- function(pred) {
 }
 
 # For labelling facets
-facet_labeller <- function(var, value){
-    value <- as.character(value)
-    if (var=="ntile.size") { 
-        value[value=="1"] <- "Small Proteins"
-        value[value=="2"] <- "Medium Proteins"
-        value[value=="3"] <- "Large Proteins"
-    }
-    if (var=="null.group") {
-        value[value=="1"] <- "RSA"
-        value[value=="2"] <- "WCN"
-        value[value=="3"] <- "WCN + RSA"
-    }
-    if (var=="rsa.group") { 
-        value[value=="1"] <- "Core"
-        value[value=="2"] <- "Intermediate"
-        value[value=="3"] <- "Surface"
-    }
-    return(value)
-}
+label_size_group <- as_labeller(c(`1` = "Small Proteins",
+                                  `2` = "Medium Proteins",
+                                  `3` = "Large Proteins"))
+label_null_group <- as_labeller(c(`1` = "RSA",
+                                  `2` = "WCN",
+                                  `3` = "WCN + RSA"))
+label_rsa_group <- as_labeller(c(`1` = "Core",
+                                 `2` = "Intermediate",
+                                 `3` = "Surface"))
 
 # =============================================================
 # END FUNCTIONS
@@ -156,8 +146,7 @@ facet_labeller <- function(var, value){
 master <- read_csv(DATA_TABLE, col_names=TRUE)
 
 # Remove proteins without active site information
-master.clean <- group_by(master[complete.cases(master),],pdb,chain) %>% 
-  mutate(multimer = str_trim(multimer))
+master.clean <- group_by(master[complete.cases(master),],pdb,Chain)
 
 # Use raw rates ?
 if (RAW_RATES == F) {
@@ -311,7 +300,7 @@ pj5 <- ggplot(filter(master.preds, pred.type != 'rate'),
   stat_summary(fun.y=mean, geom="point") +
   stat_summary(fun.y=mean, geom="line") +
   xlim("0","1","2","3","4","5","6") +
-  facet_grid(null.group ~ ., labeller=facet_labeller) +
+  facet_grid(null.group ~ ., labeller=labeller(null.group = label_null_group)) +
   stat_summary(data=empirical, fun.y=mean, geom="point") +
   stat_summary(data=empirical, fun.y=mean, geom="line") +
   labs(color="Model", x="Shell", y="Rate") +
@@ -447,13 +436,13 @@ pj6 <- ggplot(filter(master.res, pred.type != 'dist_active.res'),
   stat_summary(fun.y=mean, geom="point") +
   stat_summary(fun.y=mean, geom="line") +
   xlim("0","1","2","3","4","5","6") +
-  facet_grid(null.group ~ ntile.size, labeller=facet_labeller) +
+  facet_grid(null.group ~ ntile.size, labeller=labeller(null.group = label_null_group, ntile.size = label_size_group)) +
   xlab('Shell') +
   ylab('Residual') +
   scale_color_discrete(name="Model") +
   panel_border()
 
-pj8 <- pj6 + facet_grid(null.group ~ rsa.group, labeller=facet_labeller)
+pj8 <- pj6 + facet_grid(null.group ~ rsa.group, labeller=labeller(null.group = label_null_group, rsa.group = label_rsa_group))
 pj8
 ```
 
@@ -475,7 +464,7 @@ pj4 <- ggplot(master.clean, aes(x=factor(shell), y=rate)) +
   xlab('Shell') +
   ylab('Rate') +
   xlim("0","1","2","3","4","5","6") +
-  facet_grid( . ~ ntile.size, labeller = facet_labeller) +
+  facet_grid( . ~ ntile.size, labeller = labeller(ntile.size = label_size_group)) +
   scale_fill_gradient(name="Residue Count", low="lightblue", high="blue", trans="sqrt") +
   panel_border()
 
@@ -486,7 +475,7 @@ pj22 <- ggplot(filter(master.res, pred.type %in% target),
   stat_summary(fun.y=mean, geom="point") +
   stat_summary(fun.y=mean, geom="line") +
   xlim("0","1","2","3","4","5","6") +
-  facet_grid(. ~ ntile.size, labeller=facet_labeller) +
+  facet_grid(. ~ ntile.size, labeller=labeller(ntile.size = label_size_group)) +
   xlab('Shell') +
   ylab('Residual') +
   scale_color_discrete(name="Model", labels=c('WCN + RSA', 'WCN + RSA + d')) +
@@ -654,15 +643,15 @@ pj7
 ```{r, include=FALSE}
 # Run the following code in order to save individual figures above as PDFs:
 
-save_plot('figS24.pdf', p1.p2.pj3, base_width = 10, base_height = 8)
-save_plot('figS25.pdf', p6.pj20.pj21, base_width = 12, base_height = 6)
-save_plot('figS26.pdf', pj4.pj6, ncol=1, base_width = 10, base_height = 6.5)
-save_plot('figS27.pdf', pj8, base_width=8, base_height = 6.5)
-save_plot('figS28.pdf', p7.p8, ncol=2, nrow=1, base_height = 10, base_width = 4)
-# save_plot('fig6.pdf', p9)
-save_plot('figS29.pdf', p11)
-save_plot('figS30.pdf', p5, base_width = 6, base_height = 4)
-save_plot('figS31.pdf', pj5, base_width = 6)
-save_plot('figS32.pdf', pj6, base_width = 8, base_height = 6.5)
+# save_plot('figS24.pdf', p1.p2.pj3, base_width = 10, base_height = 8)
+# save_plot('figS25.pdf', p6.pj20.pj21, base_width = 12, base_height = 6)
+# save_plot('figS26.pdf', pj4.pj6, ncol=1, base_width = 10, base_height = 6.5)
+# save_plot('figS27.pdf', pj8, base_width=8, base_height = 6.5)
+# save_plot('figS28.pdf', p7.p8, ncol=2, nrow=1, base_height = 10, base_width = 4)
+# # save_plot('fig6.pdf', p9)
+# save_plot('figS29.pdf', p11)
+# save_plot('figS30.pdf', p5, base_width = 6, base_height = 4)
+# save_plot('figS31.pdf', pj5, base_width = 6)
+# save_plot('figS32.pdf', pj6, base_width = 8, base_height = 6.5)
 # save_plot('figS5.pdf', pj7)
 ```

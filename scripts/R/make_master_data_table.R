@@ -23,7 +23,7 @@ calculate_dist <- function(file_name) {
 
   # Tidy up our distance data by converting to a "long" table
   tidy_dist <- select(protein_data, Residue, Amino_Acid, ACTIVE_SITE, rate, wcnSC, RSA, matches("^[0-9]+[A-Z]$")) %>%
-    gather(ref.site, distance, -rate, -rate.delta, -ACTIVE_SITE, -Residue, -Amino_Acid, -wcnSC, -RSA) %>%
+    gather(ref.site, distance, -rate, -ACTIVE_SITE, -Residue, -Amino_Acid, -wcnSC, -RSA) %>%
     group_by(ref.site) 
   
   active_residues <- mutate(tidy_dist, ACTIVE_SITE=any(ACTIVE_SITE==1 & distance==0)) %>%
