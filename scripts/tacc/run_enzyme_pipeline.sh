@@ -10,7 +10,7 @@ PDB_FILE=$1
 PDB=$2
 CHAIN=$3
 
-SCRIPTS="$HOME/projects/enzyme_distance/scripts"
+SCRIPTS="../../scripts"
 BLAST_DB_PATH="/work/03284/bjack/blast_db/uniref90"
 BLAST_DB_NAME="UniRef90"
 BLAST_THREADS=6
