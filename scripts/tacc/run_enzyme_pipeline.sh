@@ -43,7 +43,7 @@ abort()
 {
     echo >&2 '
 ***************
-*** ABORTED ***
+i*** ABORTED ***
 ***************
 '
     echo "An error occurred. Exiting..." >&2
