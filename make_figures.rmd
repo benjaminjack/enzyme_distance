@@ -112,6 +112,7 @@ get_null_group <- function(pred) {
   pred[pred == 'RSA.res'] <- 1
   pred[pred == 'RSA.dist_active.res'] <- 1
   pred[pred == 'rate'] <- 0
+  pred[pred == 'dist_active.pred'] <- 0
   pred[pred == 'wcnSC.RSA.pred'] <- 3
   pred[pred == 'wcnSC.RSA.dist_active.pred'] <- 3
   pred[pred == 'wcnSC.RSA.res'] <- 3
@@ -281,7 +282,7 @@ Site-specific evolutionary rates increase with distance to a catalytic residue. 
 # Some preprocessing first...
 
 # Gather predictions for plotting
-master.preds <- select(master.clean, pdb, rate, shell, ends_with('.pred'), -dist_active.pred) %>%
+master.preds <- select(master.clean, pdb, rate, shell, ends_with('.pred')) %>%
   gather(pred.type, pred, -pdb, -shell) %>%
   mutate(null.group = get_null_group(pred.type), null.model = get_null(pred.type))
 
@@ -306,19 +307,19 @@ pj5 <- ggplot(filter(master.preds, pred.type != 'rate'),
   labs(color="Model", x="Shell", y="Rate") +
   scale_color_discrete(breaks=c("empirical", "null", "alt"), labels=c("Empirical Rate", "Structure", "Structure + d"))
 
-target <- c('rate','wcnSC.RSA.dist_active.pred','wcnSC.RSA.pred')
+target <- c('rate','dist_active.pred', 'wcnSC.RSA.dist_active.pred','wcnSC.RSA.pred')
 pj20 <- ggplot(filter(master.preds, pred.type %in% target), 
               aes(x=factor(shell), y=pred, color=pred.type, group=pred.type)) +
   stat_summary(fun.y=mean, geom="point") +
   stat_summary(fun.y=mean, geom="line") +
   xlim(as.character(0:6)) +
   labs(color="Model", x="Shell", y="Rate") +
-  scale_color_discrete(breaks=c("wcnSC.RSA.pred", "wcnSC.RSA.dist_active.pred", "rate"), labels=c("WCN + RSA", "WCN + RSA + d", "Empirical Rate")) +
+  scale_color_discrete(breaks=c("dist_active.pred", "wcnSC.RSA.pred", "wcnSC.RSA.dist_active.pred", "rate"), labels=c("d", "WCN + RSA", "WCN + RSA + d", "Empirical Rate")) +
   theme(legend.justification=c(1,0), legend.position=c(1,-0.05))
-target <- c('wcnSC.RSA.res', 'wcnSC.RSA.dist_active.res')
+target <- c('dist_active.res', 'wcnSC.RSA.res', 'wcnSC.RSA.dist_active.res')
 pj21 <- pj20 %+% filter(master.res, pred.type %in% target) +
   ylab('Residual') +
-  scale_color_discrete(breaks=target, labels=c('WCN + RSA', 'WCN + RSA + d'))
+  scale_color_discrete(breaks=target, labels=c('d','WCN + RSA', 'WCN + RSA + d'))
 pj21$layers <- c(geom_hline(yintercept=0, linetype="dashed"), pj21$layers)
 
 # Square all of the correlations and make tidy
@@ -429,6 +430,16 @@ pj7 <- ggplot(master.act,
   xlab('Active Site RSA') +
   ylab('Density')
 
+dist.residuals <- filter(master.res, pred.type == 'dist_active.res') %>% 
+  group_by(shell, ntile.size) %>%
+  summarize(mean_pred = mean(pred), null.model=unique(null.model), pred.type = unique(pred.type)) %>%
+  mutate(null.group = 1)
+
+dist.residuals2 <- mutate(dist.residuals, null.group = 2)
+dist.residuals3 <- mutate(dist.residuals, null.group = 3)
+
+dist.residuals <- bind_rows(dist.residuals, dist.residuals2, dist.residuals3)
+
 # Plot residuals vs size (for supplemental)
 pj6 <- ggplot(filter(master.res, pred.type != 'dist_active.res'), 
               aes(x=factor(shell), y=pred, color=factor(null.model, labels=c('Structure + d', 'Structure')), group=pred.type)) +
@@ -437,6 +448,8 @@ pj6 <- ggplot(filter(master.res, pred.type != 'dist_active.res'),
   stat_summary(fun.y=mean, geom="line") +
   xlim("0","1","2","3","4","5","6") +
   facet_grid(null.group ~ ntile.size, labeller=labeller(null.group = label_null_group, ntile.size = label_size_group)) +
+  geom_point(data=dist.residuals, aes(x=factor(shell), y=mean_pred, color=factor(null.model, labels=c('d')), group=pred.type)) +
+  geom_line(data=dist.residuals, aes(x=factor(shell), y=mean_pred, color=factor(null.model, labels=c('d')), group=pred.type)) +
   xlab('Shell') +
   ylab('Residual') +
   scale_color_discrete(name="Model") +
