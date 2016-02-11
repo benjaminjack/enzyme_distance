@@ -552,6 +552,17 @@ pj7 <- ggplot(master.act4, aes(x=dist_active, fill=group)) +
   annotate("text", label=paste0(round(sum(master.act4$dist_active<7.5)/nrow(master.act4)*100), "%"), x=3.75, y=16, hjust=0.5, vjust=0) +
   theme(legend.position = "none")
 
+library(ROCR)
+
+glm.out <- glm(ACTIVE_SITE~distance.k123, master.clean, family=binomial)
+pred <- prediction(predictions = glm.out$fitted.values, labels = master.clean$ACTIVE_SITE)
+perf <- performance(pred,"tpr","fpr")
+roc_df <- data.frame(fpr=perf@x.values[[1]], tpr=perf@y.values[[1]])
+roc_plot <- ggplot(roc_df, aes(x=fpr, y=tpr)) + 
+    geom_line() + 
+    xlab("False Positive Rate") + 
+    ylab("True Positive Rate")
+
 ```
 
 <!-- The proportion of accurately predicted active sites above is significantly larger than the proportion predicted using maximum WCN:-->
@@ -655,7 +666,7 @@ pj7
 
 ```{r, include=FALSE}
 # Run the following code in order to save individual figures above as PDFs:
-
+# save_plot("figures/roc_curve.pdf", roc_plot)
 # save_plot('figS24.pdf', p1.p2.pj3, base_width = 10, base_height = 8)
 # save_plot('figS25.pdf', p6.pj20.pj21, base_width = 12, base_height = 6)
 # save_plot('figS26.pdf', pj4.pj6, ncol=1, base_width = 10, base_height = 6.5)
