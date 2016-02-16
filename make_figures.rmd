@@ -552,16 +552,65 @@ pj7 <- ggplot(master.act4, aes(x=dist_active, fill=group)) +
   annotate("text", label=paste0(round(sum(master.act4$dist_active<7.5)/nrow(master.act4)*100), "%"), x=3.75, y=16, hjust=0.5, vjust=0) +
   theme(legend.position = "none")
 
-library(ROCR)
+calc_ROC <- function(probabilities, known_truth, n=100, model.name=NULL)
+  {
+  outcome <- as.numeric(factor(known_truth))-1
+  pos <- sum(outcome) # total known positives
+  neg <- sum(1-outcome) # total known negatives
+  pos_probs <- outcome*probabilities # probabilities for known positives
+  neg_probs <- (1-outcome)*probabilities # probabilities for known negatives
+  # Threshold should really be from 0 to 1, but a value of exactly 0 or 1 leads
+  # to TPRs and FPRs of greather than 1. Instead we use the min and max values
+  # of our set of predicted probabilities.
+  threshold <- seq(min(probabilities),max(probabilities),length.out = n)
+  true_pos <- sapply(threshold,
+                     function(x) sum(pos_probs>=x)/pos) # true pos. rate
+  false_pos <- sapply(threshold,
+                     function(x) sum(neg_probs>=x)/neg)
+  if (is.null(model.name))
+    result <- data.frame(true_pos, false_pos)
+  else
+    result <- data.frame(true_pos, false_pos, model.name)
+  result %>% arrange(false_pos, true_pos)
+}
+
+calc_ROC_train_test <- function(data, model, train_fraction, n=100) {
+  n_obs <- nrow(data) # number of observations in data set
+  train_size <- floor(train_fraction * nrow(data)) # number of observations in training set
+  train_indices <- sample(1:n_obs, size = train_size)
+
+  train_data <- data[train_indices, ] # get training data
+  test_data <- data[-train_indices, ] # get test data
+  glm.out.train <- glm(model, data=train_data, family=binomial)
+  test_pred <- predict(glm.out.train, test_data, type='response')
+  ROC.train <- calc_ROC(probabilities=glm.out.train$fitted.values, 
+                 known_truth=train_data$outcome,
+                 model.name="training",
+                 n=n)
+  ROC.test <- calc_ROC(probabilities=test_pred, 
+                 known_truth=test_data$outcome,
+                 model.name="test",
+                 n=n)
+  ROCs <- rbind(ROC.train, ROC.test)
+}
+
+subsample_validate <- function(data, model, train_fraction, replicates, n)
+{
+  reps <- data.frame(rep=1:replicates) # dummy data frame to iterate over
+  reps %>% group_by(rep) %>% # iterate over all replicates
+    do(calc_ROC_train_test(data, model, train_fraction,n)) %>% # run calc_ROC_train_test for each replicate
+    ungroup() %>%
+    mutate(train_fraction=train_fraction, replicates=replicates) # add columns containing meta data
+}
 
 glm.out <- glm(ACTIVE_SITE~distance.k123, master.clean, family=binomial)
-pred <- prediction(predictions = glm.out$fitted.values, labels = master.clean$ACTIVE_SITE)
-perf <- performance(pred,"tpr","fpr")
-roc_df <- data.frame(fpr=perf@x.values[[1]], tpr=perf@y.values[[1]])
-roc_plot <- ggplot(roc_df, aes(x=fpr, y=tpr)) + 
+roc_df <- calc_ROC(glm.out$fitted.values, master.clean$ACTIVE_SITE, 100)
+roc_plot <- ggplot(roc_df, aes(x=false_pos, y=true_pos)) + 
     geom_line() + 
     xlab("False Positive Rate") + 
-    ylab("True Positive Rate")
+    ylab("True Positive Rate") + xlim(0,1) + ylim(0,1)
+
+pj7.roc_plot <- plot_grid(pj7, roc_plot, labels=c("a","b"), align = "h")
 
 ```
 
@@ -666,16 +715,18 @@ pj7
 
 ```{r, include=FALSE}
 # Run the following code in order to save individual figures above as PDFs:
-# save_plot("figures/roc_curve.pdf", roc_plot)
-# save_plot('figS24.pdf', p1.p2.pj3, base_width = 10, base_height = 8)
-# save_plot('figS25.pdf', p6.pj20.pj21, base_width = 12, base_height = 6)
-# save_plot('figS26.pdf', pj4.pj6, ncol=1, base_width = 10, base_height = 6.5)
-# save_plot('figS27.pdf', pj8, base_width=8, base_height = 6.5)
-# save_plot('figS28.pdf', p7.p8, ncol=2, nrow=1, base_height = 10, base_width = 4)
-# # save_plot('fig6.pdf', p9)
-# save_plot('figS29.pdf', p11)
-# save_plot('figS30.pdf', p5, base_width = 6, base_height = 4)
-# save_plot('figS31.pdf', pj5, base_width = 6)
-# save_plot('figS32.pdf', pj6, base_width = 8, base_height = 6.5)
+save_plot("figures/roc_curve.pdf", pj7.roc_plot, base_width = 8)
+
+save_plot('figS24.pdf', p1.p2.pj3, base_width = 10, base_height = 8)
+save_plot('figS25.pdf', p6.pj20.pj21, base_width = 12, base_height = 6)
+save_plot('figS26.pdf', pj4.pj6, ncol=1, base_width = 10, base_height = 6.5)
+save_plot('figS27.pdf', pj8, base_width=8, base_height = 6.5)
+save_plot('figS28.pdf', p7.p8, ncol=2, nrow=1, base_height = 10, base_width = 4)
+save_plot('fig6.pdf', p9)
+save_plot('figS29.pdf', p11)
+save_plot('figS30.pdf', p5, base_width = 6, base_height = 4)
+save_plot('figS31.pdf', pj5, base_width = 6)
+save_plot('figS32.pdf', pj6, base_width = 8, base_height = 6.5)
+
 # save_plot('figS5.pdf', pj7)
 ```

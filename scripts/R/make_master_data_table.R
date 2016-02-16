@@ -19,15 +19,22 @@ calculate_dist <- function(file_name) {
   # Force column 'pdb' to character type
   protein_data <- read_csv(file_name, col_types = cols(pdb = "c"))
   protein_data <- protein_data[, unique(colnames(protein_data))] %>%
-    rename(z_rate = rate, rate = raw_rate)
+    rename(z_rate = rate) %>% 
+    mutate(max_wcn = ifelse(wcnSC == max(wcnSC), 1, 0)) %>%
+    mutate(rate = raw_rate/mean(raw_rate))
 
   # Tidy up our distance data by converting to a "long" table
-  tidy_dist <- select(protein_data, Residue, Amino_Acid, ACTIVE_SITE, rate, wcnSC, RSA, matches("^[0-9]+[A-Z]$")) %>%
-    gather(ref.site, distance, -rate, -ACTIVE_SITE, -Residue, -Amino_Acid, -wcnSC, -RSA) %>%
+  tidy_dist <- select(protein_data, Residue, Amino_Acid, ACTIVE_SITE, max_wcn, rate, wcnSC, RSA, matches("^[0-9]+[A-Z]$")) %>%
+    gather(ref.site, distance, -rate, -ACTIVE_SITE, -max_wcn, -Residue, -Amino_Acid, -wcnSC, -RSA) %>%
     group_by(ref.site) 
   
   active_residues <- mutate(tidy_dist, ACTIVE_SITE=any(ACTIVE_SITE==1 & distance==0)) %>%
-    filter(ACTIVE_SITE==TRUE)  
+    filter(ACTIVE_SITE==TRUE)
+  
+  max_wcn_residues <- mutate(tidy_dist, max_wcn=any(max_wcn==1 & distance==0)) %>%
+    filter(max_wcn==TRUE) %>% 
+    rename(ref.site.wcn = ref.site, dist_wcn = distance) %>%
+    select(Residue, ref.site.wcn, dist_wcn)
   
   if(nrow(active_residues) == 0) {
     active_residues <- data.frame(min_dist=rep(NA, nrow(protein_data)))
@@ -39,10 +46,10 @@ calculate_dist <- function(file_name) {
   # Perform distance optimization to find best reference point
   tidy_dist <- mutate(tidy_dist, modelpred = calc_pred("rate ~ distance + wcnSC + RSA", data.frame(rate=rate, distance=distance, wcnSC=wcnSC, RSA=RSA)))
   
-  max_cor <- summarize(tidy_dist, cor.dist = cor(distance, rate)) %>%
-    filter(cor.dist == max(cor.dist))
-  max_cor.k123 <- summarize(tidy_dist, cor.k123 = cor(distance, modelpred)) %>%
-    filter(cor.k123 == max(cor.k123))
+  max_cor <- summarize(tidy_dist, r.dist = cor(distance, rate)^2) %>%
+    filter(r.dist == max(r.dist))
+  max_cor.k123 <- summarize(tidy_dist, r.k123 = cor(rate, modelpred)^2) %>%
+    filter(r.k123 == max(r.k123))
 
   # Pull out set of distances with highest correlation
   tidy_dist2 <- filter(tidy_dist, ref.site==max_cor$ref.site) %>%
@@ -74,7 +81,8 @@ calculate_dist <- function(file_name) {
              dist_active) %>%
         rename(pdb_site=SITE_NUMBER) %>%
         inner_join(tidy_dist2, by = c('Residue'='Residue')) %>%
-        inner_join(tidy_dist.k123, by = c('Residue'='Residue'))
+        inner_join(tidy_dist.k123, by = c('Residue'='Residue')) %>% 
+        inner_join(max_wcn_residues, by = c('Residue'='Residue'))
   
   # Make model
   if (!is.na(final_distances$dist_active)) {
@@ -89,7 +97,7 @@ calculate_dist <- function(file_name) {
   return(final_distances)
 }
 
-paths <- dir("merged", "\\.csv$", full.names = TRUE)
-# test <- calculate_dist("merged/132L_merged.csv")
+# paths <- dir("merged", "\\.csv$", full.names = TRUE)
+test <- calculate_dist("merged/132L_merged.csv")
 all_proteins <- lapply(paths, calculate_dist) %>% bind_rows()
 write_csv(all_proteins, 'master_data_table.csv')

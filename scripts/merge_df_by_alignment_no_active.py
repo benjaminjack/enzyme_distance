@@ -133,11 +133,11 @@ def main(argv):
     wcn_mono = wcn_mono.rename(columns={'wcnSC': 'wcnSC_mono',
                              'wcnCA': 'wcnCA_mono'})
 
-    # distances = pd.read_csv('distances/' + pdb[0] + '_' + pdb[1] + '_dist.csv')
+    distances = pd.read_csv('distances/' + pdb[0] + '_' + pdb[1] + '_dist.csv')
 
     # Merge all data frames. You must specify which columns have the amino acid sequences for proper alignment!
-    df = merge_df_by_aa([rsa_mono, rsa_multi, rates, raw_rates, wcn_multi, wcn_mono],
-                         ['Amino_Acid', 'Amino_Acid', 'pdb_aa', 'pdb_aa', 'resnam', 'resnam'],
+    df = merge_df_by_aa([rsa_mono, rsa_multi, rates, raw_rates, wcn_multi, wcn_mono, distances],
+                         ['Amino_Acid', 'Amino_Acid', 'pdb_aa', 'pdb_aa', 'resnam', 'resnam', 'PDB_AA'],
                          retain_gaps=False)
 
 
