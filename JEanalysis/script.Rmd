@@ -43,7 +43,29 @@ The "enzymes vs distance.k123" plot does seem to have some information, which is
 
 I'd say there is only a very clear continuous long-range rate-vs distance pattern ONLY when using the actual functional site as reference when calculating distances.
 
+## Sites grouped into shells
+More similar to what we did elsewhere, here sites are grouped into shells according to their distance to the focus site (either active site, or residue optimized as described above).
+Interpretation is similar as above: only when using the known active site there's a clear continuous long-range functional relationship between rate and distance, which supports the conclusions of the paper.
 
+```{r}
+# Define shells of active site neighborhood (first shell is from 2.5 to 7.5, second from 7.5 to 12.5, etc)
+df.enzymes$shell.optimum = cut(df.enzymes$distance.k123,breaks = c(-.1,2.5,7.5,12.5,17.5,22.5,27.5,32.5,37.5,42.5,47.5,52.5,max(df.enzymes$distance.k123)))
+levels(df.enzymes$shell.optimum) = seq(length(levels(df.enzymes$shell.optimum)))-1 # rename shell levels
+
+df.proteins$shell.optimum = cut(df.proteins$distance.k123,breaks = c(-.1,2.5,7.5,12.5,17.5,22.5,27.5,32.5,37.5,42.5,47.5,52.5,max(df.proteins$distance.k123)))
+levels(df.proteins$shell.optimum) = seq(length(levels(df.proteins$shell.optimum)))-1 # rename shell levels
+
+df.enzymes$shell.active = cut(df.enzymes$dist_active,breaks = c(-.1,2.5,7.5,12.5,17.5,22.5,27.5,32.5,37.5,42.5,47.5,52.5,max(df.enzymes$dist_active)))
+levels(df.enzymes$shell.active) = seq(length(levels(df.enzymes$shell.active)))-1 # rename shell levels
+
+p1 = ggplot(df.enzymes,aes(x=shell.active,y=rate)) + geom_boxplot(outlier.shape = NA) + coord_cartesian(ylim=c(0,4.5)) + ggtitle("enzymes")
+p2 = ggplot(df.enzymes,aes(x=shell.optimum,y=rate)) + geom_boxplot(outlier.shape = NA) + coord_cartesian(ylim=c(0,4.5)) + ggtitle("enzymes")
+p3 = ggplot(df.proteins,aes(x=shell.optimum,y=rate)) + geom_boxplot(outlier.shape = NA) + coord_cartesian(ylim=c(0,4.5)) + ggtitle("non-enzymes")
+
+
+multiplot(p2,p3,p1,cols=2)
+
+```
 
 
 
