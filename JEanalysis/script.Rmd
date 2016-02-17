@@ -1,0 +1,49 @@
+---
+title: "enzymes_vs_nonenzymes"
+author: "Julian Echave"
+date: "17 de febrero de 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,warning = F,message = F)
+```
+
+## Distance-constraints: enzymes vs non-enzymes
+
+To see what's going on when using sites obtained by optimizing the fit between rate and an RSA+WCN+distance model (specifically, I'm worried about overfitting), I plot below how rates vary with distance to the "optimum" site for enzymes and non-enzymes. As a reference, I also include, for enzymes, the variation of rate with distance to the actual active site (as opposed to optimized). 
+
+This is a crude preliminary plot, we should do the same violin plots, etc as figure 1 of the paper, but it gets the job done, I think.
+
+
+
+```{r}
+library(ggplot2)
+library(reshape2)
+source("multiplot.R")
+
+# read enzyme data
+df.enzymes = read.csv("data/master_data_table.csv")
+df.proteins = read.csv("data/master_data_table_pp.csv")
+
+#head(df.enzymes)
+#head(df.proteins)
+
+p1 = ggplot(df.enzymes,aes(x=dist_active,y=rate)) + geom_point(alpha=.1,size=.1) + geom_smooth() + coord_cartesian(ylim=c(0,2)) + xlim(0,40) + ggtitle("enzymes")
+p2 = ggplot(df.enzymes,aes(x=distance.k123,y=rate)) + geom_point(alpha=.1,size=.1) + geom_smooth() + coord_cartesian(ylim=c(0,2)) + xlim(0,40) + ggtitle("enzymes")
+p3 = ggplot(df.proteins,aes(x=distance.k123,y=rate)) + geom_point(alpha=.1,size=.1) + geom_smooth() + coord_cartesian(ylim=c(0,2)) + xlim(0,40) + ggtitle("non_enzymes")
+
+multiplot(p2,p3,p1,cols=2)
+
+```
+
+Comparing the two plots for enzymes, we see that the difference between using the actual distance to the functional site (enzymes, `dist_active`) and using the distance to the "optimum" site is striking. The gradient is very clear when using `dist_active` but much of it is lost when using `distance.k123`. In particular, while, as expected the distance=0 site is generally very conserved (average rates close to 0), it is not generally conserved, on average, for the "optimum". My guess is that since the fit does not limit the coefficient of "distance" to positive values when optimizing, some times a site that is on the opposite to the functional site in the protein geometry results in a better correlation and thus is "optimum" (probably marginally better but enough to miss the functional site entirely). 
+
+The "enzymes vs distance.k123" plot does seem to have some information, which is probably due to the cases in which the procedure does pick up the right active site or a neighobr. For the non-enzymes case, the smooth fit is basically 1 (i.e. average rate) for all "shells".
+
+I'd say there is only a very clear continuous long-range rate-vs distance pattern ONLY when using the actual functional site as reference when calculating distances.
+
+
+
+
+
