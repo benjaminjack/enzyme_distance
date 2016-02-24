@@ -67,3 +67,4 @@ target/
 
 # OS X stuff
 .DS_Store
+.Rproj.user
