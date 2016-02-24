@@ -147,6 +147,9 @@ def main(argv):
                          ['Amino_Acid', 'Amino_Acid', 'pdb_aa', 'pdb_aa', 'resnam', 'resnam', 'RES', 'PDB_AA'],
                          retain_gaps=False)
 
+    # Reset index
+    df = df.reset_index(drop=True)
+
     # Add multimeric state
     multi = pd.read_csv('structures/states/' + pdb[0] + '_states.csv', header=None, names=['pdb', 'multimer'])
     multi = pd.concat([multi]*len(df), ignore_index=True)

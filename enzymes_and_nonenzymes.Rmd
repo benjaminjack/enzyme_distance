@@ -1,0 +1,41 @@
+---
+title: "Enzymes and Non-enzymes"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+library(ggplot2)
+library(cowplot)
+```
+
+## Enzymes and Non-enzymes
+
+The following plots were genereated leaving all of the coefficients (distance, wcn, rsa) unrestricted:
+
+```{r, fig.width=7, height=7, echo=FALSE}
+enzymes <- read_csv("master_data_table.csv")
+nonenzymes <- read_csv("master_data_table_pp.csv")
+
+enzyme1 <- ggplot(enzymes, aes(x=dist_active, y=rate)) + geom_smooth() +ggtitle("Enzymes") + coord_cartesian(ylim=c(0,2.5), xlim=c(0,60))
+enzyme3 <- ggplot(enzymes, aes(x=distance.k123, y=rate)) + geom_smooth() + ggtitle("Enzymes \n(k ~ RSA + WCN +d)") + coord_cartesian(ylim=c(0,2.5), xlim=c(0,60))
+nonenzyme2 <- ggplot(nonenzymes, aes(x=distance.k123, y=rate)) + geom_smooth() + ggtitle("Non-enzymes \n(k ~ RSA + WCN +d)") + coord_cartesian(ylim=c(0,2.5), xlim=c(0,60))
+
+plot_grid(enzyme3, enzyme1, nonenzyme2, ncol=2, nrow=2)
+
+```
+
+In the following plots, coefficients of RSA, WCN, and distance were restricted to positive, negative, and positive, respectively:
+
+```{r, fig.width=7, height=7, echo=FALSE}
+enzymes <- read_csv("master_data_table_coeff.csv")
+nonenzymes <- read_csv("master_data_table_pp_coeff.csv")
+
+enzyme1 <- ggplot(enzymes, aes(x=dist_active, y=rate)) + geom_smooth() +ggtitle("Enzymes") + coord_cartesian(ylim=c(0,2.5), xlim=c(0,60))
+enzyme3 <- ggplot(enzymes, aes(x=distance.k123, y=rate)) + geom_smooth() + ggtitle("Enzymes \n(k ~ RSA + WCN +d)") + coord_cartesian(ylim=c(0,2.5), xlim=c(0,60))
+nonenzyme2 <- ggplot(nonenzymes, aes(x=distance.k123, y=rate)) + geom_smooth() + ggtitle("Non-enzymes \n(k ~ RSA + WCN +d)") + coord_cartesian(ylim=c(0,2.5), xlim=c(0,60))
+
+plot_grid(enzyme3, enzyme1, nonenzyme2, ncol=2, nrow=2)
+
+```

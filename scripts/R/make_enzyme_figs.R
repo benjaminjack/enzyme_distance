@@ -140,7 +140,7 @@ make_figures <- function(master.clean, # Path to master data table
                          MULTI_WCN = T, # Use multimeric WCN
                          NO_GLY = F,         # Remove glycines before analysis
                          NO_INTERFACE = F,   # Remove interface residues
-                         counter = 0) {
+                         suffix = "") {
   
   # =============================================================
   # DATA CLEANING
@@ -153,7 +153,7 @@ make_figures <- function(master.clean, # Path to master data table
   
   # Interface residues ?
   if (NO_INTERFACE == T) {
-    master.clean <- filter(master.clean, abs(RSA - RSA_mono) < 0.001)
+    master.clean <- filter(master.clean, abs(RSA_mono - RSA) < 0.10)
   }
   
   # Multimers only ?
@@ -185,38 +185,8 @@ make_figures <- function(master.clean, # Path to master data table
   # DATA PROCESSING
   # =============================================================
   
-  # Define shell breaks
-  shell_breaks <- c(0, seq(2.5, max(master.clean$dist_active), by=5), max(master.clean$dist_active))
-  
   # Append predictions from linear models and their respective residuals
-  master.clean <- make_lms(master.clean, "rate", c("wcnSC", "RSA", "dist_active")) %>%
-    mutate(length = n()) %>% # Add length of protein
-    ungroup() %>%
-    # Cut residues into shells as defined by shell_breaks above
-    mutate(shell = cut(dist_active, labels=F, breaks = shell_breaks, include.lowest=T)) %>%
-    mutate(shell = shell - 1) %>%
-    group_by(pdb)
-  
-  # Create quartiles for splitting data set based on protein size
-  quarts <- summarize(master.clean, length=unique(length)) %>% 
-    mutate(ntile.size=ntile(length, 3)) %>%
-    select(pdb, ntile.size)
-  # Append quartile data
-  master.clean <- inner_join(master.clean, quarts, by = c('pdb'='pdb'))
-  
-  # Compute average RSA for active sites
-  master.act <- filter(master.clean, ACTIVE_SITE == 1) %>%
-    summarize(active_site_rsa = mean(RSA)) %>%
-    select(pdb, active_site_rsa)
-  # Define RSA breaks
-  # rsa_breaks <- quantile(master.act$active_site_rsa, probs=c(0, 0.333, 0.677, 1))
-  rsa_breaks <- c(0, 0.05, 0.25, 1)
-  master.act <- mutate(master.act,
-                       rsa.group=cut(active_site_rsa, 
-                                     breaks=rsa_breaks, 
-                                     include.lowest = T, 
-                                     labels=seq(1,3)))
-  master.clean <- inner_join(master.clean, select(master.act, pdb, rsa.group), by = c('pdb'='pdb'))
+  master.clean <- make_lms(master.clean, "rate", c("wcnSC", "RSA", "dist_active"))
   
   master.lmcor <- group_by(master.clean, pdb, multimer) %>% 
     summarise_each(funs(cor = cor.test(., rate)$estimate), ends_with(".pred"))
@@ -227,18 +197,18 @@ make_figures <- function(master.clean, # Path to master data table
   
   # Basic distance vs rate plots
   p1a <- ggplot(master.clean, aes(x=dist_active, y=rate)) + 
-    ylab('Rate') + 
+    ylab('Relative Rate') + 
     xlab(expression(paste('Distance to Catalytic Residue (', ring(A), ')'))) +
     geom_smooth(color="black") + 
-    geom_vline(xintercept=32.5, size=1, color="red") + 
+    geom_vline(xintercept=27.5, size=1, color="red") + 
     coord_cartesian(xlim=c(0,80), ylim=c(0,3))
   
-  p1b.label <- (sum(master.clean$dist_active < 32.5)/nrow(master.clean))*100
+  p1b.label <- (sum(master.clean$dist_active < 27.5)/nrow(master.clean))*100
   
   p1b <- ggplot(master.clean, aes(x=dist_active)) +
     geom_vline(xintercept=shell_breaks, linetype="dashed") +
     geom_density(fill="gray80") + 
-    geom_vline(xintercept=32.5, color="red", size=1) +
+    geom_vline(xintercept=27.5, color="red", size=1) +
     xlab(expression(paste('Distance to Catalytic Residue (', ring(A), ')'))) +
     ylab(expression(paste('Density (1/', ring(A), ')'))) + 
     annotate("text", label = paste0(sprintf("%.0f", p1b.label), "%"), x = 18, y = 0.01, size = 7) +
@@ -248,10 +218,10 @@ make_figures <- function(master.clean, # Path to master data table
     geom_violin(scale="width", trim=TRUE, aes(fill=..count..)) +
     stat_summary(fun.y=mean, geom="point") +
     stat_summary(fun.y=mean, geom="line", aes(group=1)) +
-    geom_vline(xintercept=c(7.5), color="red", size=1) +
+    geom_vline(xintercept=c(6.5), color="red", size=1) +
     coord_cartesian(ylim=c(0,3)) +
     xlab('Shell') +
-    ylab('Rate') +
+    ylab('Relative Rate') +
     scale_fill_gradient(name="Residue Count", low="lightblue", high="blue", trans="sqrt") +
     theme(legend.key.height = unit(25, "pt"))
   
@@ -268,6 +238,9 @@ make_figures <- function(master.clean, # Path to master data table
   # FIGURE 2: WCN and RSA
   # =============================================================
   
+  # Define color pallete for residual and prediction plots
+  cbpallete <- c("alt"= "#E69F00", "d" = "#CC79A7", "null"= "#009E73", "rate" = "black")
+  shapes <- c("alt"= 17, "d" = 15, "null"= 16, "rate" = 21)
   # Some preprocessing first...
   
   # Gather predictions for plotting
@@ -312,28 +285,34 @@ make_figures <- function(master.clean, # Path to master data table
     coord_flip()
   
   # Fig 2B
-  target <- c('rate','dist_active.pred', 'wcnSC.RSA.dist_active.pred','wcnSC.RSA.pred')
+  cbpallete3 <- c("rate" = "black", "wcnSC.RSA.pred" = "#009E73", "wcnSC.RSA.dist_active.pred"="#E69F00")
+  shapes3 <- c("rate" = 21, "wcnSC.RSA.pred" = 16, "wcnSC.RSA.dist_active.pred"=17)
+  target <- c('rate','wcnSC.RSA.pred', 'wcnSC.RSA.dist_active.pred')
   p2b <- ggplot(filter(master.preds, pred.type %in% target), 
-                 aes(x=factor(shell), y=mean_pred, color=pred.type, group=pred.type)) +
+                 aes(x=factor(shell), y=mean_pred, color=pred.type, shape=pred.type, group=pred.type)) +
     geom_point() +
     geom_line() +
     xlim(as.character(0:6)) +
-    ylim(-0.1,1.3) +
-    labs(color="Model", x="Shell", y="Relative Rate") +
-    scale_color_discrete(breaks=target, labels=c("Empirical Rate", "d", "WCN + RSA", "WCN + RSA + d")) +
+    ylim(-0.1,1.6) +
+    labs(x="Shell", y="Relative Rate") +
+    scale_color_manual(name="Model", breaks=target, labels=c("Empirical Rate", "WCN + RSA", "WCN + RSA + d"), values=cbpallete3) +
+    scale_shape_manual(name="Model", breaks=target, labels=c("Empirical Rate", "WCN + RSA", "WCN + RSA + d"), values=shapes3) +
     theme(legend.justification=c(1,0), legend.position=c(1,-0.02))
   
   # Fig 2C
-  target <- c('dist_active.res', 'wcnSC.RSA.res', 'wcnSC.RSA.dist_active.res')
+  cbpallete2 <- c('wcnSC.RSA.dist_active.res' = "#E69F00", 'wcnSC.RSA.res' = "#009E73")
+  shapes2 <- c('wcnSC.RSA.dist_active.res' = 17, 'wcnSC.RSA.res' = 16)
+  target <- c('wcnSC.RSA.res', 'wcnSC.RSA.dist_active.res')
   p2c <- ggplot(filter(master.res, pred.type %in% target), 
-                aes(x=factor(shell), y=mean_pred, group=pred.type, color=pred.type)) +
+                aes(x=factor(shell), y=mean_pred, group=pred.type, shape=pred.type, color=pred.type)) +
     geom_hline(yintercept=0, linetype="dashed") +
     geom_point() +
     geom_line() +
     xlim(as.character(0:6)) +
-    ylim(-0.4,0.2) +
-    labs(color="Model", x="Shell", y="Relative Rate Residual") +
-    scale_color_discrete(breaks=target, labels=c('d','WCN + RSA', 'WCN + RSA + d')) +
+    ylim(-0.6,0.2) +
+    labs(x="Shell", y="Residual (Relative Rate)") +
+    scale_color_manual(name="Model", breaks=target, labels=c('WCN + RSA', 'WCN + RSA + d'), values=cbpallete2) +
+    scale_shape_manual(name="Model", breaks=target, labels=c('WCN + RSA', 'WCN + RSA + d'), values=shapes2) +
     theme(legend.justification=c(1,0), legend.position=c(1,-0.02))
   
   # Compile Figure 2
@@ -381,13 +360,13 @@ make_figures <- function(master.clean, # Path to master data table
     scale_y_continuous(breaks=c(0,0.25,0.5,0.75,1), lim=c(0, 1.1)) +
     facet_wrap(~ pdb, ncol = 1) +
     theme(legend.position = 'none', axis.title.x=element_text(vjust=0.2)) +
-    coord_flip()
+    coord_flip() + panel_border()
   
   p3b <- ggplot(master.ex, aes(x=dist_active, y=gam_rate)) +
     geom_point() +
     xlab(expression(paste('Distance to Catalytic Residue (', ring(A), ')'))) +
     ylab("Relative Rate K") +
-    facet_wrap(~ pdb, ncol=1)
+    facet_wrap(~ pdb, ncol=1) + panel_border()
   
   fig3 <- plot_grid(p3a, p3b, ncol=2, align = 'h', rel_widths = c(1, 0.8), labels=c('a','b'))
   
@@ -397,23 +376,24 @@ make_figures <- function(master.clean, # Path to master data table
   # FIGURE 4: ACTIVE SITE LOCATION
   # =============================================================
   
-  master.res2 <- select(master.clean, pdb, shell, rsa.group, ntile.size, ends_with('.res')) %>%
-    mutate(dist_active.res2 = dist_active.res, dist_active.res3 = dist_active.res) %>%
+  master.res_fig4 <- select(master.clean, pdb, shell, rsa.group, ntile.size, ends_with('.res')) %>%
     gather(pred.type, pred, -ntile.size, -pdb, -shell, -rsa.group) %>%
     group_by(shell, pred.type, rsa.group) %>%
     summarize(mean_pred = mean(pred)) %>%
     mutate(null.group = get_null_group(pred.type), null.model=get_null(pred.type))
   
-  fig4 <- ggplot(filter(master.res2, pred.type != 'rate'), 
-                aes(x=factor(shell), y=mean_pred, group=pred.type, color=factor(null.model))) +
+  fig4 <- ggplot(filter(master.res_fig4, pred.type != 'rate', pred.type != "dist_active.res"), 
+                aes(x=factor(shell), y=mean_pred, group=pred.type, shape=factor(null.model), color=factor(null.model))) +
     geom_hline(yintercept=0, linetype="dashed") +
     geom_point() +
     geom_line() +
     xlim(as.character(0:6)) +
-    ylim(-0.7,0.3) +
-    labs(color="Model", x="Shell", y="Relative Rate Residual") +
-    scale_color_discrete(breaks=c('d', 'null', 'alt'), labels=c('d','Structure', 'Structure + d')) +
-    facet_grid(null.group ~ rsa.group, labeller=labeller(null.group = label_null_group, rsa.group = label_rsa_group))
+    ylim(-1.1,0.3) +
+    labs(x="Shell", y="Residual (Relative Rate)") +
+    scale_color_manual(name="Model", breaks=c('null', 'alt'), labels=c('Structure', 'Structure + d'), values=cbpallete) +
+    scale_shape_manual(name="Model", breaks=c('null', 'alt'), labels=c('Structure', 'Structure + d'), values=shapes) +
+    facet_grid(null.group ~ rsa.group, labeller=labeller(null.group = label_null_group, rsa.group = label_rsa_group)) +
+    panel_border()
   
   fig4
   
@@ -440,18 +420,19 @@ make_figures <- function(master.clean, # Path to master data table
     summarize(mean_pred = mean(pred)) %>%
     mutate(null.group = get_null_group(pred.type), null.model=get_null(pred.type))
   
-  target <- c('dist_active.res','wcnSC.RSA.res', 'wcnSC.RSA.dist_active.res')
+  target <- c('wcnSC.RSA.res', 'wcnSC.RSA.dist_active.res')
   p5b <- ggplot(filter(master.res3, pred.type %in% target), 
-                 aes(x=factor(shell), y=mean_pred, color=pred.type, group=pred.type)) +
+                 aes(x=factor(shell), y=mean_pred, color=pred.type, group=pred.type, shape=pred.type)) +
     geom_hline(yintercept=0, linetype="dashed") +
     geom_point() +
     geom_line() +
     xlim("0","1","2","3","4","5","6") +
-    ylim(-0.3, 0.3) +
+    ylim(-0.6, 0.3) +
     facet_grid(. ~ ntile.size, labeller=labeller(ntile.size = label_size_group)) +
     xlab('Shell') +
-    ylab('Relative Rate Residual') +
-    scale_color_discrete(name="Model", breaks=target, labels=c('d','WCN + RSA', 'WCN + RSA + d')) +
+    ylab('Residual (Relative Rate)') +
+    scale_color_manual(name="Model", breaks=target, labels=c('WCN + RSA', 'WCN + RSA + d'), values=cbpallete2) +
+    scale_shape_manual(name="Model", breaks=target, labels=c('WCN + RSA', 'WCN + RSA + d'), values=shapes2) +
     panel_border()
     
   fig5 <- plot_grid(p5a, p5b, ncol = 1, align='v', labels=c('a','b'))
@@ -494,76 +475,165 @@ make_figures <- function(master.clean, # Path to master data table
   fig9
   
   # =============================================================
-  # FIGURE 10: Correlation distributions
+  # FIGURE 10: Model performance
   # =============================================================
   
-  master.pred2 <- select(master.clean, pdb, shell, rsa.group, ntile.size, rate, ends_with('.pred')) %>%
-    mutate(rate1 = rate, rate2 = rate, rate3 = rate) %>%
+  master.pred_fig10 <- select(master.clean, pdb, shell, rsa.group, ntile.size, rate, ends_with('.pred')) %>%
+    mutate(rate1 = rate, rate2 = rate, rate3 = rate, dist_active.pred2 = dist_active.pred, dist_active.pred3 = dist_active.pred) %>%
     gather(pred.type, pred, -ntile.size, -pdb, -shell, -rsa.group) %>%
     group_by(shell, pred.type) %>%
     summarize(mean_pred = mean(pred)) %>%
     mutate(null.group = get_null_group(pred.type), null.model=get_null(pred.type))
   
-  target <- c('rate1', 'rate2', 'rate3', 'RSA.pred', 'RSA.dist_active.pred', 'wcnSC.pred', 'wcnSC.dist_active.pred', 'wcnSC.RSA.dist_active.pred','wcnSC.RSA.pred')
-  fig10 <- ggplot(filter(master.pred2, pred.type %in% target), 
-                aes(x=factor(shell), y=mean_pred, color=null.model, group=pred.type)) +
+  master.res_fig10 <- select(master.clean, pdb, shell, rsa.group, ntile.size, ends_with('.res')) %>%
+    mutate(dist_active.res2 = dist_active.res, dist_active.res3 = dist_active.res) %>%
+    gather(pred.type, pred, -ntile.size, -pdb, -shell, -rsa.group) %>%
+    group_by(shell, pred.type) %>%
+    summarize(mean_pred = mean(pred)) %>%
+    mutate(null.group = get_null_group(pred.type), null.model=get_null(pred.type))
+  
+  fig10a <- ggplot(filter(master.pred_fig10, pred.type != "rate"), 
+                aes(x=factor(shell), y=mean_pred, color=null.model, group=pred.type, shape=null.model)) +
     geom_point() +
     geom_line() +
     xlim(as.character(0:6)) +
     ylim(-0.2,2) +
-    labs(color="Model", x="Shell", y="Relative Rate") +
-    scale_color_discrete(breaks=c("rate", "null", "alt"), labels=c("Empirical Rate", "Structure", "Structure + d")) +
-    facet_grid(null.group ~ ., labeller=labeller(null.group = label_null_group))
+    labs(x="Shell", y="Relative Rate") +
+    scale_color_manual(name="Model", breaks=c("rate", "d", "null", "alt"), labels=c("Empirical Rate", "d", "Structure", "Structure + d"), values=cbpallete) +
+    scale_shape_manual(name="Model", breaks=c("rate", "d", "null", "alt"), labels=c("Empirical Rate", "d", "Structure", "Structure + d"), values=shapes) +
+    facet_grid(null.group ~ ., labeller=labeller(null.group = label_null_group)) + panel_border()
   
-  # =============================================================
-  # FIGURE 10: Size grid
-  # =============================================================
-  
-  fig11 <- ggplot(filter(master.res3, pred.type != 'rate', pred.type != 'dist_active.res'), 
-                 aes(x=factor(shell), y=mean_pred, group=pred.type, color=factor(null.model))) +
+  fig10b <- ggplot(filter(master.res_fig10, pred.type != 'rate'), 
+                  aes(x=factor(shell), y=mean_pred, group=pred.type, color=factor(null.model), shape=factor(null.model))) +
     geom_hline(yintercept=0, linetype="dashed") +
     geom_point() +
     geom_line() +
     xlim(as.character(0:6)) +
-    ylim(-0.7,0.3) +
-    labs(color="Model", x="Shell", y="Relative Rate Residual") +
-    scale_color_discrete(breaks=c('null', 'alt'), labels=c('Structure', 'Structure + d')) +
-    facet_grid(null.group ~ ntile.size, labeller=labeller(null.group = label_null_group, ntile.size = label_size_group))
+    ylim(-0.8,0.3) +
+    labs(x="Shell", y="Residual (Relative Rate)") +
+    scale_color_manual(name="Model", breaks=c('d', 'null', 'alt'), labels=c('d', 'Structure', 'Structure + d'), values=cbpallete) +
+    scale_shape_manual(name="Model", breaks=c('d', 'null', 'alt'), labels=c('d', 'Structure', 'Structure + d'), values=shapes) +
+    facet_grid(null.group ~ ., labeller=labeller(null.group = label_null_group)) + panel_border()
+  
+  fig10 <- plot_grid(fig10a, fig10b, labels = c("a","b"))
+  
+  # =============================================================
+  # FIGURE 11: Size grid
+  # =============================================================
+  
+  master.res_fig11 <- select(master.clean, pdb, shell, rsa.group, ntile.size, ends_with('.res')) %>%
+    mutate(dist_active.res2 = dist_active.res, dist_active.res3 = dist_active.res) %>%
+    gather(pred.type, pred, -ntile.size, -pdb, -shell, -rsa.group) %>%
+    group_by(shell, pred.type, ntile.size) %>%
+    summarize(mean_pred = mean(pred)) %>%
+    mutate(null.group = get_null_group(pred.type), null.model=get_null(pred.type))
+  
+  fig11 <- ggplot(filter(master.res_fig11, pred.type != 'rate'), 
+                 aes(x=factor(shell), y=mean_pred, group=pred.type, color=factor(null.model), shape=factor(null.model))) +
+    geom_hline(yintercept=0, linetype="dashed") +
+    geom_point() +
+    geom_line() +
+    xlim(as.character(0:6)) +
+    ylim(-0.7,0.4) +
+    labs(x="Shell", y="Residual (Relative Rate)") +
+    scale_color_manual(name="Model", breaks=c('d', 'null', 'alt'), labels=c('d', 'Structure', 'Structure + d'), values=cbpallete) +
+    scale_shape_manual(name="Model", breaks=c('d', 'null', 'alt'), labels=c('d', 'Structure', 'Structure + d'), values=shapes) +
+    facet_grid(null.group ~ ntile.size, labeller=labeller(null.group = label_null_group, ntile.size = label_size_group)) +
+    panel_border()
   
   fig11
+  
+  # =============================================================
+  # FIGURE 12: ACTIVE SITE LOCATION
+  # =============================================================
+  
+  master.res_fig12 <- select(master.clean, pdb, shell, rsa.group, ntile.size, ends_with('.res')) %>%
+    mutate(dist_active.res2 = dist_active.res, dist_active.res3 = dist_active.res) %>%
+    gather(pred.type, pred, -ntile.size, -pdb, -shell, -rsa.group) %>%
+    group_by(shell, pred.type, rsa.group) %>%
+    summarize(mean_pred = mean(pred)) %>%
+    mutate(null.group = get_null_group(pred.type), null.model=get_null(pred.type))
+  
+  fig12 <- ggplot(filter(master.res_fig12, pred.type != 'rate'), 
+                 aes(x=factor(shell), y=mean_pred, group=pred.type, color=factor(null.model), shape=factor(null.model))) +
+    geom_hline(yintercept=0, linetype="dashed") +
+    geom_point() +
+    geom_line() +
+    xlim(as.character(0:6)) +
+    ylim(-1.1,0.3) +
+    labs(x="Shell", y="Residual (Relative Rate)") +
+    scale_color_manual(name="Model", breaks=c('d', 'null', 'alt'), labels=c('d','Structure', 'Structure + d'), values=cbpallete) +
+    scale_shape_manual(name="Model", breaks=c('d', 'null', 'alt'), labels=c('d', 'Structure', 'Structure + d'), values=shapes) +
+    facet_grid(null.group ~ rsa.group, labeller=labeller(null.group = label_null_group, rsa.group = label_rsa_group)) +
+    panel_border()
+  
+  fig12
   
   # =============================================================
   # SAVE FIGURES
   # =============================================================
   
-  save_plot(paste0('fig', as.character(counter),'.pdf'), fig1, base_width = 10, base_height = 8)
-  save_plot(paste0('fig', as.character(counter+1),'.pdf'), fig2, base_width = 12, base_height = 6)
-  save_plot(paste0('fig', as.character(counter+2),'.pdf'), fig3, ncol=2, nrow=1, base_height = 10, base_width = 4)
-  save_plot(paste0('fig', as.character(counter+3),'.pdf'), fig4, base_width=8, base_height = 6.5)
-  save_plot(paste0('fig', as.character(counter+4),'.pdf'), fig5, ncol=1, base_width = 10, base_height = 6.5)
-  save_plot(paste0('fig', as.character(counter+5),'.pdf'), fig8)
-  save_plot(paste0('fig', as.character(counter+6),'.pdf'), fig9, base_width = 6, base_height = 4)
-  save_plot(paste0('fig', as.character(counter+7),'.pdf'), fig10, base_width = 6)
-  save_plot(paste0('fig', as.character(counter+8),'.pdf'), fig11, base_width = 8, base_height = 6.5)
+  save_plot(paste0('distance_rate', as.character(suffix),'.pdf'), fig1, base_width = 10, base_height = 8)
+  save_plot(paste0('models', as.character(suffix),'.pdf'), fig2, base_width = 12, base_height = 6)
+  save_plot(paste0('examples', as.character(suffix),'.pdf'), fig3, ncol=2, nrow=1, base_height = 10, base_width = 4)
+  save_plot(paste0('rsa_bins', as.character(suffix),'.pdf'), fig4, base_width=8, base_height = 6.5)
+  save_plot(paste0('size_bins', as.character(suffix),'.pdf'), fig5, ncol=1, base_width = 10, base_height = 6.5)
+  save_plot(paste0('rsa_v_wcn', as.character(suffix),'.pdf'), fig8)
+  save_plot(paste0('cor_dist', as.character(suffix),'.pdf'), fig9, base_width = 6, base_height = 4)
+  save_plot(paste0('models_dist_line', as.character(suffix),'.pdf'), fig10, base_width = 10, base_height = 6.5)
+  save_plot(paste0('size_bins_dist_line', as.character(suffix),'.pdf'), fig11, base_width = 8, base_height = 6.5)
+  save_plot(paste0('rsa_bins_dist_line', as.character(suffix),'.pdf'), fig12, base_width = 8, base_height = 6.5)
 }
 
 # Read in master data table
-master <- read_csv("data/enzymes/master_data_table.csv", col_names=TRUE)
+master <- read_csv("../master_data_table.csv", col_names=TRUE)
 
 # Remove proteins without active site information
-master.clean <- group_by(master[complete.cases(master),],pdb,Chain)
+master.clean <- group_by(master, pdb,Chain) %>% filter(!is.na(dist_active))
+
+# Define shell breaks
+shell_breaks <- c(0, seq(2.5, max(master.clean$dist_active), by=5), max(master.clean$dist_active))
+
+master.clean <- mutate(master.clean, length = n()) %>% # Add length of protein
+  ungroup() %>%
+  # Cut residues into shells as defined by shell_breaks above
+  mutate(shell = cut(dist_active, labels=F, breaks = shell_breaks, include.lowest=T)) %>%
+  mutate(shell = shell - 1) %>%
+  group_by(pdb)
+
+# Create quartiles for splitting data set based on protein size
+quarts <- summarize(master.clean, length=unique(length)) %>% 
+  mutate(ntile.size=ntile(length, 3)) %>%
+  select(pdb, ntile.size)
+# Append quartile data
+master.clean <- inner_join(master.clean, quarts, by = c('pdb'='pdb'))
+
+# Compute average RSA for active sites
+master.act <- filter(master.clean, ACTIVE_SITE == 1) %>%
+  summarize(active_site_rsa = mean(RSA)) %>%
+  select(pdb, active_site_rsa)
+
+# Define RSA breaks
+# rsa_breaks <- quantile(master.act$active_site_rsa, probs=c(0, 0.333, 0.677, 1))
+rsa_breaks <- c(0, 0.05, 0.25, 1)
+master.act <- mutate(master.act,
+                     rsa.group=cut(active_site_rsa, 
+                                   breaks=rsa_breaks, 
+                                   include.lowest = T, 
+                                   labels=seq(1,3)))
+master.clean <- inner_join(master.clean, select(master.act, pdb, rsa.group), by = c('pdb'='pdb'))
 
 # Initial figures with all residues and subunits included
-make_figures(master.clean, counter = 1)
+make_figures(master.clean, suffix = "")
 
 # Single subunits, interface included
-make_figures(master.clean, MULTI_RSA = F, MULTI_WCN = F, counter = 10)
+make_figures(master.clean, MULTI_RSA = F, MULTI_WCN = F, suffix="_mono")
 
 # Single subunits, interface removed
-make_figures(master.clean, MULTI_RSA = F, MULTI_WCN = F, NO_INTERFACE = T, counter = 19)
+make_figures(master.clean, MULTI_RSA = F, MULTI_WCN = F, NO_INTERFACE = T, suffix="_mono_noint")
 
 # Bio assembly, interface removed
-make_figures(master.clean, NO_INTERFACE = T, counter = 28)
+make_figures(master.clean, NO_INTERFACE = T, suffix = "_noint")
 
 
 
@@ -610,5 +680,18 @@ counts <- matrix(c(lt7.method2, gt7.method2, lt7.method4, gt7.method4), nrow = 2
 counts
 fisher.test(counts)
 
+# Size groups
+master.clean %>% 
+  group_by(ntile.size) %>% 
+  summarize(min_size = min(length), max_size = max(length), count = length(unique(pdb)))
+
+# RSA Groups
+master.clean %>% group_by(rsa.group) %>% summarize(count = length(unique(pdb)))
+
+# Monomers/multimers
+master.clean %>% ungroup() %>% group_by(multimer) %>% summarize(count = length(unique(pdb)))
+
 save_plot('fig_act.pdf', fig6) # Active site pred
 save_plot('fig_act_control.pdf', fig7) # Active site pred with WCN
+
+

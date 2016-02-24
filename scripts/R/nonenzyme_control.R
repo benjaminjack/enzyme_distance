@@ -13,8 +13,8 @@ enzymes %>% group_by(pdb, Chain) %>%
   unnest() %>%
   select(pdb, Chain, r.squared, r.k123) %>% 
   ungroup() %>%
-  summarize(mean_r = mean(r.squared), mean_r.k123 = mean(r.k123)) %>%
-  gather(var, mean) %>%
+  # summarize(mean_r = mean(r.squared), mean_r.k123 = mean(r.k123)) %>%
+  # gather(var, mean) %>%
   mutate(dataset = "enzymes") -> enzymes2
 
 prots %>% group_by(pdb, Chain) %>%
@@ -23,8 +23,8 @@ prots %>% group_by(pdb, Chain) %>%
   unnest() %>%
   select(pdb, Chain, r.squared, r.k123) %>%
   ungroup() %>%
-  summarize(mean_r = mean(r.squared), mean_r.k123 = mean(r.k123)) %>%
-  gather(var, mean) %>%
+  # summarize(mean_r = mean(r.squared), mean_r.k123 = mean(r.k123)) %>%
+  # gather(var, mean) %>%
   mutate(dataset = "proteins") -> prots2
 
 all_data <- bind_rows(enzymes2, prots2)
