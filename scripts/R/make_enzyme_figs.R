@@ -220,6 +220,7 @@ make_figures <- function(master.clean, # Path to master data table
     stat_summary(fun.y=mean, geom="line", aes(group=1)) +
     geom_vline(xintercept=c(6.5), color="red", size=1) +
     coord_cartesian(ylim=c(0,3)) +
+    scale_x_discrete(limits=as.character(0:10)) +
     xlab('Shell') +
     ylab('Relative Rate') +
     scale_fill_gradient(name="Residue Count", low="lightblue", high="blue", trans="sqrt") +
@@ -229,7 +230,7 @@ make_figures <- function(master.clean, # Path to master data table
   fig1 <- ggdraw() +
     draw_plot(p1a, x=0, y=0.5, width=0.5, height=0.5) +
     draw_plot(p1b, x=0.5, y=0.5, width=0.5, height=0.5) +
-    draw_plot(p1c, x=0, y=0, width=1, height=0.5) +
+    draw_plot(p1c, x=0, y=0, width=0.651, height=0.5) +
     draw_plot_label(c('a','b','c'), x = c(0, 0.5, 0), y= c(1,1,0.5))
   
   fig1
@@ -318,9 +319,9 @@ make_figures <- function(master.clean, # Path to master data table
   # Compile Figure 2
   fig2 <- ggdraw() +
     draw_plot(p2a, 0, 0, 0.5, 1) +
-    draw_plot(p2b, 0.5, 0.5, 0.5, 0.5) +
-    draw_plot(p2c, 0.5, 0, 0.5, 0.5) +
-    draw_plot_label(c('a','b','c'), c(0,0.5,0.5), c(1, 1, 0.5))
+    draw_plot(p2b, 0.508, 0.5, 0.492, 0.5) +
+    draw_plot(p2c, 0.5, 0.009, 0.5, 0.5) +
+    draw_plot_label(c('a','b','c'), c(0,0.5,0.5), c(1, 1, 0.53))
   
   # =============================================================
   # FIGURE 3: INDIVIDUAL EXAMPLES
@@ -694,4 +695,5 @@ master.clean %>% ungroup() %>% group_by(multimer) %>% summarize(count = length(u
 save_plot('fig_act.pdf', fig6) # Active site pred
 save_plot('fig_act_control.pdf', fig7) # Active site pred with WCN
 
+system("~/Box\\ Sync/scratch/embed_fonts.py *.pdf")
 
