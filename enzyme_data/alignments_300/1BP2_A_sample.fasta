@@ -1,0 +1,1806 @@
+>1BP2_A
+-----------------------------------------------ALWQFNGMIKCKI
+PSSEPLLDFNNY-------GCYCGLGGSGTPVDD-----------LDRCCQTHDNCYKQA
+KKLDS--CK-VLVDNPYTNNYSYSCSN--N--------EITCSSENNA-CEAFICNCDR-
+---------------NAAICFSK--VPYNKEHK----------NLDK-KNC---------
+--
+>lcl|UniRef90_A0A0F8ASQ9 Phospholipase A(2) n=1 Tax=Larimichthys crocea RepID=A0A0F8ASQ9_LARCR
+------------MKLTA-PLLLLLAAHAV-----------SGTLLPRALWQFGTMIQCAQ
+PGVNPFL-YNNY-------GCWCGFGGKGTPLDD-----------LDRCCEVHDRCYRAS
+RLAPG--CT-AVADLPYVLVYDFSCSN--E--------QVTCS---DE-ASASSSYCHQN
+TMSVKLTPSMKLTYVMPAPVLAR--H----------------------------------
+--
+>lcl|UniRef90_U3EPF6 Phospholipase A2 21 n=1 Tax=Micrurus fulvius RepID=U3EPF6_MICFL
+------------MNPAH-LLVL-AAVCVSLLGAS------SIPPEPLNLIHFKNMIECT-
+-TKRSWWDFADY-------GCYCGSGGSGTPVDD-----------LDKCCQVHDDCYGEA
+EKVHG--CD------PKATLYSHECSE--G--------QLTCKDNDTK-CKDLVCNCDR-
+---------------TAALCFAK--APYDDNNF----------MMNSKR-CQ--------
+--
+>lcl|UniRef90_Q8QFW3 Basic phospholipase A2 beta-bungarotoxin A2 chain n=1 Tax=Bungarus caeruleus RepID=PA2B2_BUNCE
+------------MYPAH-LLVL-SAVCVSLLGAA------NIPPYPLNLINFMEMIRYTI
+PCDKTWGHYADY-------GCYCGAGGSGTPVDA-----------LDRCCYVHDNCYGVA
+ENKHK--CN------PKTQSCSYKLTK--R--------TIICYGAAGT-CGRIVCDCDR-
+---------------TAALCFGD--SEYIGAHK----------NIDTKRHCQ--------
+--
+>lcl|UniRef90_Q9DF33 Acidic phospholipase A2 2 n=1 Tax=Ophiophagus hannah RepID=PA2A2_OPHHA
+------------MNPAH-LLVL-SAVCVSLLGAS------SIPPQPLHLVQFNGMIRCTI
+PGSIPWWDYSDY-------GCYCGSGGSGTPVDE-----------LDRCCQVHDNCYTQA
+QQLTE--CS------PYSKRYSYDCSE--G--------TLTCKADNDE-CAAFVCDCDR-
+---------------VAAICFAG--APYNKENI----------NIDTTTRC---------
+--
+>lcl|UniRef90_UPI0003314BD2 PREDICTED: group IIE secretory phospholipase A2 n=1 Tax=Sorex araneus RepID=UPI0003314BD2
+------------MKPPP-LLTFLCLLVAP---------------AGGNLVQFGVMIERMT
+GKSA--LQYNDY-------GCYCGIGGSHWPVDP-----------TDWCCHAHDCCYGRL
+-QKLG--C------EPKLERYLFSTTK--C--------NIFC-GGKTA-CQRQTCECDR-
+---------------TAALCFRRHLRTYN-RKY----------ANYPNRLCTGPTPPCR-
+-G
+>lcl|UniRef90_A0A091UZS9 Phospholipase A(2) (Fragment) n=2 Tax=Nipponia nippon RepID=A0A091UZS9_NIPNI
+-------------------LRL------FSVGAA------SAAVSPRAVWELRRMLKCTI
+PDSYPVLDFADY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDNCYSQA
+KKLES--CR-FFVDNPYTEWYSYSCSN--G--------QITCNSKNNE-CEMFICNCDR-
+---------------TAAMCFAK--APYNPEHR----------ALDTKKYC---------
+--
+>lcl|UniRef90_A0A060VWE7 Phospholipase A(2) n=1 Tax=Oncorhynchus mykiss RepID=A0A060VWE7_ONCMY
+------------MNLLQ-ALFL-----VALGLSVGESQISTTNLNYRTLWQFRNMILCTM
+PNSWPILDYADY-------GCYCGKGGSGTPVDE-----------LDRCCE-HDECW---
+----------PIIDNPYTESYAYDCDENLR--------KVTCKSNNDA-CEMFICECDR-
+---------------KAADCFAR--SPCNPEHE----------HL-PSSSCQ--------
+--
+>lcl|UniRef90_B5G6G0 PLA2-4 n=1 Tax=Notechis scutatus RepID=B5G6G0_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAA------SIPPLPLNLAQFDMLIQCAN
+HHSRATWHYMDY-------GCYCGWGGSGTPVDD-----------LDMCCKIHDDCYAKA
+ESS-S--CN------PKWTMYDYYCNS--E--------GPYCRNIKKK-CQRSVCDCDV-
+---------------EAAFCFAR--TPYNNSNW----------DIDTETHCQ--------
+--
+>lcl|UniRef90_Q9DF52 Basic phospholipase A2 KPA2 n=1 Tax=Bungarus caeruleus RepID=PA2B_BUNCE
+------------MYPAH-LLVL-VAVCVSLLGAA------NIPPQPLNLIQFKNMIQCA-
+-GTRPWTAYVNY-------GCYCGKGGSGTPVDE-----------LDRCCYTHDNCYNEA
+EKIPG--CN------PNIKTYSYTCTE--P--------NLTCTDTADT-CARFLCDCDR-
+---------------TAAICFAS--APYNSNNV----------MISSSTNCQ--------
+--
+>lcl|UniRef90_UPI0006EAD845 PREDICTED: phospholipase A2 isoform X3 n=1 Tax=Alligator sinensis RepID=UPI0006EAD845
+------------MWYSR-KSPILLRGGSSRNNSSSDVSIIATDPTPRALWQLRSMIKCTI
+PNSDPLWRFNHY-------GCYCGLGGSGTPVDE-----------LDKCCQTHDNCYSQA
+ETVPN--CH-SLFHNPYTQIYSYSCSG--P--------NITCNGETTA------------
+-----------------------------QRRQ---------------------------
+--
+>lcl|UniRef90_UPI0006451CC3 PREDICTED: phospholipase A2 isoform X1 n=2 Tax=Fundulus heteroclitus RepID=UPI0006451CC3
+------------MNVKA-LLLL-LSACVV-----------SGGHLPNAVWQFGEMISCAQ
+PGVNP-LAYNEY-------GCWCGLGGGGTPVDD-----------VDRCCQVHDKCYSNS
+MKIPE--CE-GIFDLPYVITYGFSCSN--K--------QVYCSATNDK-CQAAVCECDR-
+---------------VAAHCFAR--HTYNPDNK----------HLDPK-FCST-------
+--
+>lcl|UniRef90_Q45Z20 Pa-19 n=2 Tax=Pseudechis australis RepID=Q45Z20_PSEAU
+------------MSPAH-LLVL-LAVCVSLLGAS------DVRPRPLNLIQFGNMIQCAN
+KGSRPTRHYMDY-------GCYCGWGGSGTPVDE-----------LDRCCQVHDNCYEQA
+GKK-G--CF------PKLTLYGWKCTG--N--------VPTC-NPKTE-CKDFTCACDA-
+---------------EAAKCFAK--APYKKENW----------NIDTKTRCK--------
+--
+>lcl|UniRef90_UPI00022F3925 PREDICTED: phospholipase A2 isoform X2 n=2 Tax=Cricetulus griseus RepID=UPI00022F3925
+------------MKLLL-LVTLLTARAI------------AQNISLQAVWQFGNAFECIL
+PLPVPTKEYTAY-------GCYCGLSSWIPFLED-----------LDPCCRARDNCYAQV
+DYLGN--CA-LLIRNPYTSSYSYSCSG--T--------EITCSDKNKL-CEAFICNCDQ-
+---------------QAAICFSK--IPYTKQYR----------GI----YC---------
+--
+>lcl|UniRef90_UPI000696427D PREDICTED: acidic phospholipase A2 PLA-1-like n=1 Tax=Lingula unguis RepID=UPI000696427D
+------------MKTSL-ILFIAAAYAVT----ACMCEDNVHSREKRNAFQFRKMIKDRT
+GREP--LLYNGY-------GCWCGLGGRGKPKDG-----------VDRCCRSHDYCYDRL
+-RDNG--C------NPVISTYTYSLSG-----------GIVCDSSENNSCQQGACECDR-
+---------------TAAYCFAS--NTFH-KKY----------ISWPNFLCR--------
+--
+>lcl|UniRef90_Q910A0 Phospholipase A2 EC3 n=2 Tax=Echis coloratus RepID=PA23_ECHCO
+------------MRTLW-IVAVWLMGV------------------EGHLYQFENMIYQKT
+GKFA-IIAYSNY-------GCYCGWGGKGKPQDA-----------TDRCCFVHDCCYGRV
+---NG--C------DPKMGTYSYSFQN--G--------DIVC-GGDDP-CLRAVCECDR-
+---------------VAANCFAENLKTYN-KKY----------WLSSIIDCKEESEKC--
+--
+>lcl|UniRef90_H0ZGV5 Phospholipase A(2) n=1 Tax=Taeniopygia guttata RepID=H0ZGV5_TAEGU
+------------MKFLV-LLFL------LSVGAA------SAEVSPRAVWLFREMIKCTL
+PESHPLLEFNHY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDNCYTQA
+KKMES--CK-FLLDNPYTKLYHFSCSD--K--------QITCSSENNE-CATFICNCDR-
+---------------TAAMCFAK--APYNPEHK----------HLDTDKYCK--------
+--
+>lcl|UniRef90_F6TH93 Phospholipase A(2) n=2 Tax=Equus RepID=F6TH93_HORSE
+------------MKSPP-LLTLLCLLVAL---------------AGGNLVQFGVMIERMT
+GKPA--LQYNDY-------GCYCGVGGSHWPVDQ-----------TDWCCHAHDCCYGRL
+-EKLG--C------EPKLEKYLFSASR--R--------RILC-AGRTT-CQQQTCECDK-
+---------------RAALCFRDNLGTYN-RKY----------ARYPNKLCTGPTPPC--
+--
+>lcl|UniRef90_Q0PL66 Beta-bungarotoxin A8 chain (Fragment) n=1 Tax=Bungarus multicinctus RepID=Q0PL66_BUNMU
+-----------------------------------------------NLYQFKNMIVCA-
+-GTRPWIGYVNY-------GCYCGAGGSGTPVDA-----------LDRCCYVHDNCYGDA
+ANIRD--CN------PKTQSYSYKLTK--R--------TIICYGAAGT-CGRIVCDCDR-
+---------------TAALCFGD--SEYIERHK----------NIDTKRHCR--------
+--
+>lcl|UniRef90_R4G2H2 PLA2-Hem-7 n=1 Tax=Hemiaspis signata RepID=R4G2H2_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAS------DIRPQPLNLYQFGNMIGCAN
+HNTRGWSDYANY-------GCYCGWGGSGTPVDE-----------LDRCCKIHDDCYGEA
+EKN----CF------PKLTLYSWKCTE--N--------VPTC-DSKKE-CESFVCDCDA-
+---------------KAAICFAG--APYNSANI----------KIDTKTRCQ--------
+--
+>lcl|UniRef90_Q9PRG0 Acidic phospholipase A2 S1-11 n=1 Tax=Austrelaps superbus RepID=PA2A1_AUSSU
+------------MYPAH-LLVL-LAVCVSLLGAS------DMPPQPLNLVQFSNMIQCAN
+HGRRPTSNYMDY-------GCYCGKGGSGTPVDE-----------LDRCCKIHDDCYGEA
+EKSQK--CA------PYWTWYTWKCGS--D--------GPQCDDSETG-SRRFVCGYDA-
+---------------TAAKCFAK--APYNKENY----------NIET--RCQ--------
+--
+>lcl|UniRef90_U3EPE2 Phospholipase A2 30 n=1 Tax=Micrurus fulvius RepID=U3EPE2_MICFL
+------------MNLAA-LIQI-VYRCPATSGAAVATVVRKMPPRSLAL-----------
+-TKRSWWHFADY-------GCYCGSGGSGTPVDD-----------LDKCCQVHDKCYDTA
+KRVHK--CF------PSVRTYSYDCSE--G--------KLTCKDNNTK-CKDFVCNCDR-
+---------------TAALCFAK--APYNDKNY----------NIDLKR-CQ--------
+--
+>lcl|UniRef90_A0A094KDV0 Phospholipase A(2) (Fragment) n=2 Tax=Antrostomus carolinensis RepID=A0A094KDV0_ANTCR
+-------------------LCL------FSVGAA------SNAVSPRAVWELRSMIKCTI
+PDSHPLLQFGDY-------GCYCGLGGHGTPVDE-----------LDRCCQAHDKCYEEA
+KKLES--CK-FLWDSPYTERYRFTCSN--E--------EITCDSTSPS-C----------
+------------------------------------------------------------
+--
+>lcl|UniRef90_F6YIJ4 Phospholipase A(2) (Fragment) n=2 Tax=Equus caballus RepID=F6YIJ4_HORSE
+-----------------------------------------SHVHRRGLLELAGTVSCVG
+SRSP--IAYVNY-------GCYCGLGGNGYPVDD-----------IDRCCYKHDCCYIRA
+-EKAG--C------YPKTESYSWQCVQ--Q--------TVVCEPTADK-CQELMCKCDQ-
+---------------EFAYCLAP--TTYN-LKY----------LFYPHFLCGIDLPKCDQ
+LH
+>lcl|UniRef90_Q7T2Q4 Acidic phospholipase A2 2 n=4 Tax=Bungarus flaviceps RepID=PA2A2_BUNFL
+------------MNPAH-LLVL-SAVCVSLLGAA------IVPPQPLNLIQFSSLIQCAN
+GGSRATWHYADY-------GCYCGKGGGGTPVDE-----------LDRCCQTHDNCYGEA
+EKLTK--CS------PYYKTYKYDCSE--G--------KLTCNDAPGS-CERSVCDCDR-
+---------------VAAICFAG--APYNDKNF----------MINTETNCQ--------
+--
+>lcl|UniRef90_UPI0003330673 PREDICTED: phospholipase A2, partial n=1 Tax=Jaculus jaculus RepID=UPI0003330673
+------------MKFLV-LAAL------LTVGAA------AHSISPRAVWQFRNMIKCKI
+PGSNPLKEYNNY-------GCFCGLGGSGTPVDE-----------LDRCCQIHDHCYTRA
+KRLDG--CK-FLVDNPYTNSYSYSCSG--T--------EITCSSKNKP-CEAFICNCDR-
+---------------EAAICFSK--VPYNKQYK----------DLDTKKHCK--------
+--
+>lcl|UniRef90_UPI00045430BF PREDICTED: phospholipase A2-like isoform X1 n=2 Tax=Cricetulus griseus RepID=UPI00045430BF
+------------MKLLL-LVSL------LTAGAT------AHRIRRRSLWQLRNMIQCTI
+PGSHPLKDY-NY-------GCYCGFGGSNAAVDE-----------LDMCCQTRDHCYDQA
+NELES--CT--FLDSPYTTTYSYLCSE--N--------EVTCSDENNA-CEAFICNCDQ-
+---------------QAATCFSK--APYNKDNK----------SI----HC---------
+--
+>lcl|UniRef90_A6MJG8 PLA2 Hs-6 n=3 Tax=Hoplocephalus RepID=A6MJG8_HOPST
+------------MYPAH-LLVL-LAVCVSLLGAS------NIPPQPLNLEQFDNMIECAN
+YGSRPSWHYMDY-------GCYCGKGGSGTPVDE-----------LDRCCKTHEDCYTEA
+EKR-G--CH------PKFSAYSWKCGS--D--------GPTC-DGNNE-CKAFICNCDR-
+---------------TAAKCFAK--APFNQENW----------DIDTETHCQ--------
+--
+>lcl|UniRef90_G3UQC5 Phospholipase A(2) n=1 Tax=Meleagris gallopavo RepID=G3UQC5_MELGA
+------------MKTLG-VLFL------LSVVAA------IAAISPRALWEFRSMIKCTI
+PDSHPFLRFDDY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDECYSEA
+ENKTV--CS-SILDTPYTEIYKYSCKN--E--------EITCSSTS--------------
+------------------------------------------------------------
+--
+>lcl|UniRef90_P00608 Basic phospholipase A2 notexin n=4 Tax=Notechis scutatus RepID=PA2B_NOTSC
+-----------------------------------------------NLVQFSYLIQCAN
+HGKRPTWHYMDY-------GCYCGAGGSGTPVDE-----------LDRCCKIHDDCYDEA
+GKK-G--CF------PKMSAYDYYCGE--N--------GPYCRNIKKK-CLRFVCDCDV-
+---------------EAAFCFAK--APYNNANW----------NIDTKKRCQ--------
+--
+>lcl|UniRef90_UPI000533E956 PREDICTED: phospholipase A2 n=1 Tax=Saimiri boliviensis boliviensis RepID=UPI000533E956
+------------MKLLV-LAVL------LAVAAA------ESGVSPRALWQFRKMIKCTI
+PGSDPLLEYNNY-------GCYCGLGGSGTPVDE-----------LDTCCQTHDHCYDQA
+KKLDS--CK-FLLDNPYTNTYSYSCSG--S--------EVTCSSRF--------------
+---------------TPSLTYEF-------------------------------------
+--
+>lcl|UniRef90_P24293 Acidic phospholipase A2 PLA-1 n=1 Tax=Eristicophis macmahoni RepID=PA2A1_ERIMA
+-----------------------------------------------NLYQFGKMIFKMT
+GKSA-LLSYSDY-------GCYCGWGGKGKPLDA-----------TDRCCFVHDCCYGRV
+---NG--C------NPKLSTYSYSFQN--G--------DIVC-GDDNA-CLRAVCECDR-
+---------------VAAICFGENLNTYD-RKY----------KDYPSSQCT-ETEQC--
+--
+>lcl|UniRef90_UPI00042AB6E4 PREDICTED: phospholipase A2-like n=1 Tax=Peromyscus maniculatus bairdii RepID=UPI00042AB6E4
+------------MKLLL-LVSLLTGAT-------------AQSISPQAVWQLGNVFECNI
+PRSGTVLEYRFY-------GCYCGLVRFGDPDED-----------LDSCCRTRDNCLAQV
+DNLEN--CA-VLIRNPYTSSYLFSCSG--N--------EVTCSDKNNL-CQSFICNCDR-
+---------------EAAICFS-------KQIK----------GI----HC---------
+--
+>lcl|UniRef90_Q4VRI7 Alpha taipoxin-2 n=1 Tax=Oxyuranus scutellatus scutellatus RepID=Q4VRI7_OXYSC
+------------MHPAH-LLVL-LAVCVSLLGAS------DIPPLPLNLVQFGFMIKCAN
+RNSRPVSHYMDY-------GCYCGPGGSGTPIDD-----------LDRCCQVHDQCYDEA
+VRRYR--CS------PYLTMYSWKCYG--T--------APSC-NSKTQ-CEGFVCNCDA-
+---------------KAAECFAR--SPYQPSNR----------NINTKERCK--------
+--
+>lcl|UniRef90_P43434 Phospholipase A2 n=1 Tax=Cavia porcellus RepID=PA21B_CAVPO
+------------MKLLV-LAAL------LSVSAA------AHIITPRALWQFRDMIKCAI
+PGSRPYSEYNNY-------GCFCGLGGSGTPVDE-----------LDRCCEIHDACYTQA
+KHLES--CK-SVIDNPYTNSYSFSCSG--T--------NIICSSKNKE-CEEFICNCDR-
+---------------AAAICFSK--APYNENNK----------NINKKERC---------
+--
+>lcl|UniRef90_G3I6S0 Phospholipase A(2) n=1 Tax=Cricetulus griseus RepID=G3I6S0_CRIGR
+------------MKFLL-LVTL------LTAGAT------AHNIRRRSLLQFHNMIQCTI
+PGSHPLKDYNNY-------GCYCGFGGSNPPVDE-----------LD-------------
+-------C-------AYTTTYSYWCSE--N--------EITCSDKNNA-CEAFICNCDQ-
+---------------QATICFSK--APYNKDNK----------GI----HC---------
+--
+>lcl|UniRef90_P20146 Acidic phospholipase A2 n=2 Tax=Notechis scutatus RepID=PA2A_NOTSC
+------------MYPAH-LLVL-LAVCVSLLGAA------SIPPLPLNVAQFDNMIECAN
+YGSRPSWHYMEY-------GCYCGKEGSGTPVDE-----------LDRCCKAHDDCYTEA
+EKR-R--CH------PKFSAYSWKCGS--D--------GPTC-DPETG-CKRTVCDCDA-
+---------------TAAKCFAK--APFNQANW----------NIDTETHCQ--------
+--
+>lcl|UniRef90_UPI000651C34C PREDICTED: phospholipase A2 n=1 Tax=Dipodomys ordii RepID=UPI000651C34C
+------------MKFLV-LAAL------LTVGAT------AHSIIPRAVWQFRNMIKCTI
+PGSDPYKEYNNY-------GCYCGLGGSGTPVDD-----------LDRCCQRHDHCYTQA
+KKMSS--CK-FLVDNPYTNTYSYTCSG--S--------QITCSSKNNE-CEAFICNCDR-
+---------------EAAICFSQ--APYNKEHK----------DLDTKKHC---------
+--
+>lcl|UniRef90_G3TNQ0 Phospholipase A(2) n=2 Tax=Loxodonta africana RepID=G3TNQ0_LOXAF
+------------MKTLL-LLVVIMALVGL-------------LLVQGNLLEFRKMIRLVT
+GKEA-ASSYGFY-------GCYCGLGGKGSPKDA-----------TDWCCAEHDCCYKRL
+-EKHG--C------GTKLLSYQFTYRG--G--------QIICVSKQGF-CRSQLCECDR-
+---------------KAAYCFAKNRKTYK-KRF----------KYYPNVLCSGSAPRC--
+--
+>lcl|UniRef90_UPI0003F12C04 PREDICTED: group IIE secretory phospholipase A2 n=1 Tax=Chrysochloris asiatica RepID=UPI0003F12C04
+------------MKPAP-VLICLCLLVAL---------------ACGNLLQFGVMIERMT
+GKPA--LHYNDY-------GCYCGIGGSHWPVDQ-----------TDWCCHAHDCCYGRL
+-QKLG--C------EPKLEKYLFSISR--R--------DIFC-AGRTA-CQRQTCACDR-
+---------------KAALCFRHYLGTYN-RKY----------AHYPNKLCTGPTPPC--
+--
+>lcl|UniRef90_UPI0002C44392 PREDICTED: phospholipase A2 n=1 Tax=Trichechus manatus latirostris RepID=UPI0002C44392
+------------MKLLV-LAAL------LTVGAA---------VSPRAVWQFRSMIKCVI
+PDSDPLKEYNNY-------GCFCGLGGSGTPVDE-----------LDRCCQIHDNCYGQV
+KNLKS--CT-FLMDNPYTNIYSYTCSG--S--------EIICNSSNKE-CEAFLCNCDR-
+---------------NAAICFSK--APYNKEYK----------NLDS-KYCQS-------
+--
+>lcl|UniRef90_I2DAL4 Acidic secretory phospholipase A2 sPLA2-I n=3 Tax=Bothrops neuwiedi group RepID=I2DAL4_BOTDP
+------------MRTLW-IMAVLLVGV------------------KGSLVQFETLIMKIA
+GRSG-VWYYGSY-------GCYCGSGGQGRPQDA-----------SDRCCFVHDCCYGKV
+---TD--C------DPKADVYTYSEEN--G--------VVVC-GGDDP-CKKQICECDR-
+---------------VAATCFRDNKDTYD-NKY----------WFFPAKNCQEESEPC--
+--
+>lcl|UniRef90_Q8QG87 Acidic phospholipase A2 BITP01A n=1 Tax=Bothrops insularis RepID=PA2A_BOTIN
+------------MRTLW-IMAVLLVGV------------------EGNLWQFGKMMNYVM
+GQSV-VYKYFYY-------GCYCGWGGIGQPRDA-----------TDRCCFVHDCCYGKV
+---TG--C------DPKTDSYTYSKEN--G--------DVVC-GGDDP-CKKQICECDR-
+---------------VAATCFRDNKDTYD-MKY----------WLYGAKNCQEESEPC--
+--
+>lcl|UniRef90_A0A091ERE6 Phospholipase A(2) (Fragment) n=4 Tax=Corvus RepID=A0A091ERE6_CORBR
+----------------------------------------------RGILELAGAIRCTT
+GRSP--FAYLRY-------GCYCGLGGKGWPKDR-----------VDWCCFHHDCCYGRA
+-EQAG--C------QPKTESYHWECED--N--------SAVCDSLEDK-CQKMACECDR-
+---------------EAAKCFSK--APYH-RKY----------LLWPDFMCGEIQPLC--
+--
+>lcl|UniRef90_Q802I1 Acidic phospholipase A2 Bc-PL (Fragment) n=1 Tax=Bungarus candidus RepID=PA2AB_BUNCA
+------------------------AVCVSLLGAA------NIPPQPLTFLQFNEMIECTI
+PGSFPLLDNMDC-------GCYCGTGGRGTPVDM-----------LDRCCKEHDDCYAQI
+KENLK--CS-SLLNVPYVKQYSFTCSE--G--------DLTCSDAAGT-CARIVCDCDR-
+---------------TAALCFAE--APYKRRNF----------KIDYKTRCQ--------
+--
+>lcl|UniRef90_Q45Z12 PLA-6 n=1 Tax=Pseudechis porphyriacus RepID=Q45Z12_PSEPO
+------------MSPAH-LLVL-LAVCVSLLGAS------DIPPQPLNLYQFKNMIQCAN
+KGSRSWLDYVNY-------GCYCGWGGSGTPVDE-----------LDRCCQTHDNCYGEA
+EKK-G--CY------PKMTLYSWQCTN--N--------VPTC-DPKTE-CKDFVCACDA-
+---------------EAAKCFAK--AAYNDANW----------NINTEKRC---------
+--
+>lcl|UniRef90_P30811 Acidic phospholipase A2 homolog textilotoxin C chain n=1 Tax=Pseudonaja textilis RepID=PA2AC_PSETE
+------------MHPAH-LLVL-LGVYVSLLGAA------RIPPLPLNLIQFSNMIKCTI
+PGSQPLLDYANY-------GCYCGPGNNGTPVDD-----------VDRCCQAHDECYDEA
+SNH-G--CY------PELTLYDYYCDT--G--------VPYC-KARTQ-CQVFVCGCDL-
+---------------AVAKCLAG--ATYNDENK----------NINTGERCQ--------
+--
+>lcl|UniRef90_UPI000398F923 PREDICTED: phospholipase A2 n=1 Tax=Columba livia RepID=UPI000398F923
+------------MESLV-LLFL------LSVGAA------STAVSPRAVWEFRSMIKCTV
+PDSYPLLEFGDY-------GCYCGLGGSGTPVDE-----------LDRCCQTHDQCYGQA
+QKLAA--CR-FLVDNPYTVSYKFSCSQ--G--------QITCSSSNDE-CDMFICNCDR-
+---------------TAAMCFAQ--APYNPAYN----------RLDIKKYCS--------
+--
+>lcl|UniRef90_R4G2N5 PLA2-Aca-9 n=2 Tax=Acanthophis wellsi RepID=R4G2N5_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAS------DIPPQPLSLLHFKNMIKCAN
+KGTRSWLRYVNY-------GCYCGWGGSGKPVDE-----------LDRCCKAHDDCYAEA
+RRK-R--CF------PKLTLYSWKCAK--D--------VPVC-NSKRK-CKGFVCDCDA-
+---------------TAAKCFAK--APYNKTNF----------RINTKTRCQ--------
+--
+>lcl|UniRef90_M3WW56 Phospholipase A(2) (Fragment) n=2 Tax=Felis catus RepID=M3WW56_FELCA
+---------------------F------LAVGAA------EGGVSPRAVWQLRNMIKCTI
+PESDPVRDYTDY-------GCYCGLGGSGTPVDE-----------LDKCCQTHDHCYSRA
+KKLDS--CK-FLLDNPYTKTYSYSCSG--S--------EITCSDENKP-CEAFICNCDR-
+---------------NAAICFSK--APYNKEHK----------NLDTKKYCKN-------
+--
+>lcl|UniRef90_G1N1R0 Phospholipase A(2) (Fragment) n=2 Tax=Meleagris gallopavo RepID=G1N1R0_MELGA
+------------------LSFPSIVKMRL-------------PPARGSMLELERMIRVTT
+GKSA-LLSYSWY-------GCFCGIGGRGTPVDP-----------TDTCCHAHDCCYRQL
+-RESS--C------SPLITPYQFDVTD--G--------DITCGDEQSW-CKKETCLCDR-
+---------------AVASCFASALPSYN-VSY----------RFYFKLRCRGSKLQC--
+--
+>lcl|UniRef90_U3FVE6 Phospholipase A2 3a n=7 Tax=Micrurus fulvius RepID=U3FVE6_MICFL
+------------MNPAH-LLVL-AAVCVSLLGAS------SIPPEPLNLINFKRMIECT-
+-TRRSVWDFTNY-------GCYCGSGGRGTPVDE-----------LDRCCKVHDDCYAAA
+EKYHK--CS------PKATLYTSTCSSRTG--------NVTCKGNGTN-CEAFVCNCDR-
+---------------TAALCFGK--APYNNNNH----------KINPSR-CQ--------
+--
+>lcl|UniRef90_UPI00042AC24B PREDICTED: phospholipase A2-like isoform X1 n=2 Tax=Peromyscus maniculatus bairdii RepID=UPI00042AC24B
+------------MKLLL-LVSLLTGAT-------------AQSISPQAVWQLGNVFDCNI
+PRTGTAFEYRYY-------GCYCGLWGLGDSDED-----------LYSCCRTRDNCLAQV
+DYLEN--CG-FLIRNPYTSSYSFSCSG--N--------EVTCSDKNSL-CQAFICNCDR-
+---------------EAAICLS-------KQIK----------GI----HC---------
+--
+>lcl|UniRef90_UPI00052320CC PREDICTED: phospholipase A2 n=1 Tax=Chaetura pelagica RepID=UPI00052320CC
+------------MKSLS-LLFL------LLAGAA------SAAVSPRAVWELRKMIKCTI
+PGSHPLLDFGDY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDHCYSQA
+MKLAS--CK-HIWDSPYTEVYKFSCSK--G--------EITCHSKNDE-CEMFICNCDR-
+---------------AAAMCFAK--APYNPANK----------KLDTNKYCK--------
+--
+>lcl|UniRef90_A0A093PCI2 Phospholipase A(2) (Fragment) n=1 Tax=Pygoscelis adeliae RepID=A0A093PCI2_PYGAD
+-------------------LHL------FSVGAA------STAVSPWALWEFRRMIKCTI
+PDSYPLLEFADY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDGCYSQA
+KKLPS--CR-YLLDNPYTEGYKFSCSS--G--------QITCNSKNNE-CDMFICNCDR-
+---------------TAAMCFAK--APYNPKYK----------RLDTKKYC---------
+--
+>lcl|UniRef90_A0A0G2C2M7 Phospholipase A(2) (Fragment) n=1 Tax=Scleropages formosus RepID=A0A0G2C2M7_9TELE
+----------------------------------------LADPDYRALWQFRNMIICVM
+PDSWPVLDYADY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDRCYENA
+KQLNA--CW-PIFDSPYFEIYSYACDEATK--------TITCKSNNNE-CEMFICECDR-
+---------------QAAMCFAQ--ADYHEENA----------NL-PSERCK--------
+--
+>lcl|UniRef90_U3F572 Phospholipase A2 31 n=1 Tax=Micrurus fulvius RepID=U3F572_MICFL
+------------MNLAA-PIQL-VYRCPSTSGAS------SIPPEPLNLINFKRMIECT-
+-TRRSVWDFTNY-------GCYCGSGGRGTPVDD-----------LDKCCQVHDDCYDTA
+EKVHG--CW------PKWTLYSYDCSK--G--------QLTCKDNNTK-CKDFVCNCDR-
+---------------TAALCFAK--APYNNKNF----------KIDPSR-CQ--------
+--
+>lcl|UniRef90_P19000 Basic phospholipase A2 P'513 n=3 Tax=Laticauda laticaudata RepID=PA2B_LATLA
+------------MYPAH-LLLL-LAVCVSLLGAS------AIPPLPLNLAQFALVIKCAD
+KGKRPRWHYMDY-------GCYCGPGGSGTPVDE-----------LDRCCKTHDQCYAQA
+EKK-G--CY------PKLTMYSYYCGG--D--------GPYC-NSKTE-CQRFVCDCDV-
+---------------RAADCFAR--YPYNNKNY----------NINTSKRCK--------
+--
+>lcl|UniRef90_A6MJG6 PLA2 Hs-4 n=3 Tax=Hoplocephalus RepID=A6MJG6_HOPST
+------------MYPAH-LLVL-LAVCVSLLGAS------DIPPRPLNLYQFKNMIPCAN
+HGRRPTWHYMDY-------GCYCSSGGSGTPVDE-----------LDRCCKTHEDCYTNI
+GTS-K--CN------PKSQIYTWQCGS--D--------GPHCDDSKTG-CERSVCECDA-
+---------------AAAKCFAK--APYNQENW----------NIDTKKRCQ--------
+--
+>lcl|UniRef90_P81478 Acidic phospholipase A2 2 n=2 Tax=Trimeresurus RepID=PA2A2_TRIGA
+-----------------------------------------------NLLQFENMIRNVA
+GRSG-IWWYSDY-------GCYCGKGGHGRPQDA-----------SDRCCFVHDCCYGKV
+---NG--C------NPKKAVYIYSLEN--G--------DIVC-GGDDP-CRKEVCECDK-
+---------------AAAICFRDNKDTYD-NKY----------WNIPSENCQEESEPC--
+--
+>lcl|UniRef90_Q2YHJ2 Basic phospholipase A2 Tbo-G6D49 n=3 Tax=Trimeresurus RepID=PA2B_TRIBO
+------------MRTLW-IMAVLLVGV------------------EGSLLEFGRMIKEET
+GKNP-LFSYISY-------GCYCGWGGQGQPKDA-----------TDRCCFVHDCCYGKL
+---WS--C------SPKTDIYFYYRKN--G--------AIVC-ARGTW-CEKQICECDK-
+---------------AAAICFRENLGTYK-DEY----------QSYGKSRCTEKSLKC--
+--
+>lcl|UniRef90_A0A0A0ARM0 Phospholipase A(2) (Fragment) n=2 Tax=Charadrius vociferus RepID=A0A0A0ARM0_CHAVO
+-------------------LRL------FSVGAA------SAAVSPRAVWELRSMIKCTI
+PGSHPLLDFADY-------GCYCGLGGKGTPVDE-----------LDRCCQVHDNCYSEA
+KKLDS--CR-FLVDNPYTEMYSFSCSS--G--------EITCHSKNNE-CEMFICNCDR-
+---------------TAAMCFAK--APYNPQYA----------KLDTKKYC---------
+--
+>lcl|UniRef90_R4G7M2 PLA2-Sut-22 n=2 Tax=Suta fasciata RepID=R4G7M2_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAA------GIPPQPLNLYQFKGMIECGN
+RGNRDAWDYNNY-------GCYCGQGGSGTPVDD-----------LDRCCKVHDDCYGEA
+ENSLN--CS------PYWTLYTWDCTE--N--------VPTC-KSKSG-CPRSVCECDA-
+---------------VAAKCFAK--ANYNDANK----------GIKGTARCQ--------
+--
+>lcl|UniRef90_UPI0003C915AA PREDICTED: group IIE secretory phospholipase A2-like n=2 Tax=Euarchontoglires RepID=UPI0003C915AA
+------------MKPPP-VLTLLCILVAL---------------AGGNLVQFGVMIERMT
+GKPA--LQYNDY-------GCYCGIGGSHWPVDQ-----------TDWCCHAHDCCYGRL
+-EKLG--C------EPKLEKYLFSVGK--D--------NIFC-AGRTT-CQRQTCECDR-
+---------------RAALCFRRHLGTYN-RKY----------AHYPNKLCTGPTPPC--
+--
+>lcl|UniRef90_A8E2V4 Acidic phospholipase A2 n=1 Tax=Bothriechis schlegelii RepID=A8E2V4_BOTSC
+------------MRTLW-IVAVLLVGV------------------EGDLLQFEGMIMTIA
+GRSG-IWYYGSY-------GCYCGAGGQGKPQDA-----------SDRCCFVHDCCYGKV
+---TE--C------NPKKDSYTYTEEN--G--------AVVC-GGDDP-CMKEVCECDK-
+---------------NAAICFRDNLDTYD-NKY----------WFYPAKYCQEESEPC--
+--
+>lcl|UniRef90_A0A091G857 Phospholipase A(2) (Fragment) n=2 Tax=Cuculus canorus RepID=A0A091G857_9AVES
+------------MKSLA-LLFL------LSVGVA------GNAVSPRAVWELRSMIKCTM
+PESYPLLDFADY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDECYSQA
+EKLES--CT-FILDNPYTKLYKFSCSD--K--------EITCSSKNKE-CAMFICNCDR-
+---------------TAAMCFAK--APYNPKHS----------MMDTKKYC---------
+--
+>lcl|UniRef90_Q3HLQ4 Basic phospholipase A2 homolog TM-N49 n=1 Tax=Protobothrops mucrosquamatus RepID=PA2HB_PROMU
+------------MRTLW-IMAVLLLGV------------------EGNLLQFRKMIKKMT
+GKEP-ILSYATY-------GCNCGMAGVGQPVDG-----------TDRCCFVHNCCYEKV
+---TS--C------SPKWDQYIYSWEN--G--------NIVC-GEKNP-CKKQICECDK-
+---------------AAAMCFRDNVKTYK-KRN----------IFYPKSSCTEPTDTC--
+--
+>lcl|UniRef90_UPI00032AF5FD PREDICTED: phospholipase A2 n=1 Tax=Ochotona princeps RepID=UPI00032AF5FD
+------------MKFLV-LAAL------LTVGAA------DSGVAPRNLLQFRGMIQCTI
+PGSSPYLEFNGY-------GCYCGLGGSGTPVDE-----------LDKCCQTHDNCYTEA
+QKLSS--CK-TLVDNPYTNSYSYSCSG--T--------TVTCSSSNNA-CEAFICNCDR-
+---------------NAAICFSK--APYNDNYK----------NWSN-KNC---------
+--
+>lcl|UniRef90_Q6EER4 Basic phospholipase A2 Bs-N6 n=1 Tax=Bothriechis schlegelii RepID=PA2B_BOTSC
+------------MRTLW-IVAVLLVGV------------------EGNLLQFNKMIKIMT
+RKNG-IPYYSSY-------GCYCGWGGQGQPLDA-----------TDRCCFVHDCCYEKL
+---TD--C------SPKTDIYSYSWKS--G--------VIIC-GEGTP-CEKQICECDR-
+---------------VAAVCFGANLGTYK-KSY----------MFYPDFLCTEPSEKC--
+--
+>lcl|UniRef90_Q90251 Acidic phospholipase A2 beta-bungarotoxin A6 chain (Fragment) n=1 Tax=Bungarus multicinctus RepID=PA2A6_BUNMU
+------------------------AVCVSLLGAA------NIPPQHLNLYQFKEMIRYTI
+PCEKTWGEYADY-------GCYCGAGGSGTPIDA-----------LDRCCYVHDNCYGDA
+AKIRG--CD------PKTQSYSYKLTQ--R--------TIICYGAAGT-CARVVCDCDR-
+---------------TAALCFGN--SEYIEGHK----------NIDTKRHCQ--------
+--
+>lcl|UniRef90_A0A0H3U206 Phospholipase A2 n=1 Tax=Trimeresurus albolabris RepID=A0A0H3U206_TRIAB
+------------MRTLW-IMAVLLVGV------------------GGHLLQLRKMIKEMT
+GKEP-VMYYAKY-------GCNCGMAGRGKPVDG-----------TDTCCFVHDCCYGRV
+---NG--C------DPKDDFYKYSEEN--G--------DIVC-EEDNP-CTKEICECDK-
+---------------AAAICFRDNIETYQ-NKY----------WFYPAKYCKEESEPC--
+--
+>lcl|UniRef90_UPI0006437969 PREDICTED: group IID secretory phospholipase A2 isoform X1 n=2 Tax=Microcebus murinus RepID=UPI0006437969
+------------MELPL-LWGLVVMAGVM--------------PAQGGILNLNKMIEKMT
+RKIP-LFSYWPY-------GCYCGLGGRGQPKDA-----------SDWCCKVHDCCYAHL
+-KTHG--C------RFHTDHYKYNFSQ--G--------VIHCSDKGTW-CERELCACDK-
+---------------EIASCLKRNLDTYN-KRL----------RFYWRPHCKGPTPNC--
+--
+>lcl|UniRef90_P00593 Phospholipase A2 n=12 Tax=Bovidae RepID=PA21B_BOVIN
+------------MRLLV-LAAL------LTVGAG------QAGLNSRALWQFNGMIKCKI
+PSSEPLLDFNNY-------GCYCGLGGSGTPVDD-----------LDRCCQTHDNCYKQA
+KKLDS--CK-VLVDNPYTNNYSYSCSN--N--------EITCSSENNA-CEAFICNCDR-
+---------------NAAICFSK--VPYNKEHK----------NLDK-KNC---------
+--
+>lcl|UniRef90_A0A0A0ALX4 Phospholipase A(2) (Fragment) n=2 Tax=Charadrius vociferus RepID=A0A0A0ALX4_CHAVO
+----------------------------------------------RGILELAGAIRCTT
+GRSP--FAYLRY-------GCYCGLGGRGWPKDR-----------VDWCCFNHDCCYGKA
+-EQAG--C------HPKTESYHWECED--N--------TAVCESLEDK-CQKMACECDR-
+---------------EAAKCFSR--APYH-TKY----------LLWPDFMCGEIQPLC--
+--
+>lcl|UniRef90_R4G2E0 PLA2-Bra-11 n=1 Tax=Brachyurophis roperi RepID=R4G2E0_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAS------DVPPMPLNLLQFGNMINCAN
+RGRRPARHYRDY-------GCYCGKGGSGTPVDD-----------LDRCCKTHDDCYGEA
+EKYPS--CK------PYYNSYSYKCNG--G--------EVTCTDDNDE-CRAFICNCDR-
+---------------TAAICFAR--AYYNEENW----------DIDTAARCQ--------
+--
+>lcl|UniRef90_R4G2N4 PLA2-Aca-97 n=1 Tax=Acanthophis wellsi RepID=R4G2N4_9SAUR
+------------------------------------------------------MIRCAN
+KRRRPVWHYMDY-------GCYCGKGGSGTPVDA-----------LDRCCKIHDDCYAEA
+EKRYG--CY------PYWTLYSWKCYG--S--------GPYC-NSKTQ-CQRFVCDCDA-
+---------------AAAKCFAK--APYNKNNI----------GIGSKKRCQ--------
+--
+>lcl|UniRef90_A0A024AXD2 Phospholipase A2 n=1 Tax=Micropechis ikaheka RepID=A0A024AXD2_MICIK
+------------MYPAH-LLVL-LAVCVSLLGAA------SIRPQPLNLIQFSYLIQCAN
+HGSRPSLDYADY-------GCYCGWGGSGTPVDA-----------LDMCCKIHDDCYADA
+EKK-G--CS------PKGTMYDYYCSS--D--------GPYCRNIKKK-CLRAVCDCDV-
+---------------EAAECFAR--TPYNNDFY----------NIDTKKFCK--------
+--
+>lcl|UniRef90_H3AX69 Phospholipase A(2) n=1 Tax=Latimeria chalumnae RepID=H3AX69_LATCH
+------------MFILH-LLQNLDIPVLILFGGI------SAGPHTRALWQFRNMIKCTI
+PNSRP-MDFNDY-------GCYCGLGGYGTPIDD-----------LDMCCKIHDDCYIAA
+YDVPE--CF-PVLDNPYGEIYAYTCEG--T--------TVTCT-----------------
+-------------------------SKYQIEQI---------------------------
+--
+>lcl|UniRef90_UPI00046294AF PREDICTED: phospholipase A2, major isoenzyme-like n=1 Tax=Anolis carolinensis RepID=UPI00046294AF
+------------------------------------------------------MVFVLE
+DVPPPL--------------------GSGRC----------------RCCQIHDNCYDAA
+RDIPK--CY-TWLHNPYIEIYDYTCSE--T--------NITCASDNDL-CKMHVCQCDR-
+---------------AAAMCFSK--ARYIEEHR----------NLDKKKYCQ--------
+--
+>lcl|UniRef90_Q9PUH6 Basic phospholipase A2 S10-58F n=2 Tax=Austrelaps superbus RepID=PA2B8_AUSSU
+------------MYPAH-LLVL-LAVCVSLLGAA------SIPPQPLNLVQFSYLIQCAN
+HGSRATWHYTDY-------GCYCGKGGSGTPVDE-----------LDRCCKTHDDCYTEA
+GKK-G--CY------PKLTLYSWKCTG--K--------APTC-NSKTG-CKRTVCDCDA-
+---------------TAAKCFAK--APYNNKNY----------NIDTKKRCQ--------
+--
+>lcl|UniRef90_Q45Z16 PLA-2 n=1 Tax=Pseudechis porphyriacus RepID=Q45Z16_PSEPO
+------------MSPAH-LLVL-LAVCVSLLGAS------DIRPRPLNLIQFGNMIQCAN
+KGSRPTRHYMDY-------GCYCGWGGSGTPVDE-----------LDRCCQTHDNCYAEA
+GKK-G--CF------PKLTLYSWKCTE--K--------VPTC-NSKSK-CKDFVCACDA-
+---------------EAAKCFAN--APYNKENF----------HINTKTRC---------
+--
+>lcl|UniRef90_UPI00046B5BD8 PREDICTED: phospholipase A2 n=1 Tax=Tarsius syrichta RepID=UPI00046B5BD8
+------------MKLLV-LAAL------LTGGAV------ESGARPRAVWQFRSMIKCTI
+PESDPLKDYNNY-------GCYCGLGGSGTPVDE-----------LDKCCQIHDNCYSQA
+KQLNS--CK-FLLDNPYTKIYSYSCSG--S--------EITCSSKNKE-CQAFICNCDR-
+---------------NAAICFSK--APYNKEHK----------NLDTKKYC---------
+--
+>lcl|UniRef90_F5CPF0 Phospholipase A2 n=1 Tax=Micrurus altirostris RepID=PA226_MICAT
+------------MNPAH-LLVL-AAVCISLSGAS------SIAPQPLNLIQFGNMIQCN-
+-NTRPSLDFSGY-------GCYCGRGGSGTPVDE-----------LDRCCQVHDNCYGEA
+ETVHE--CD------PYWTFYSYECSE--G--------KLTCKDNNTK-CKEFVCNCDR-
+---------------EAANCFAK--APYIDSNY---------------KNCK--------
+--
+>lcl|UniRef90_Q7T2Q5 Acidic phospholipase A2 1 n=1 Tax=Bungarus flaviceps flaviceps RepID=PA2A1_BUNFL
+------------MNPAH-LLVL-AAVCVSLLGAA------IVPPQPLNLYQFNNMIQCAN
+HGNRPTWHYAHY-------GCYCGKGGGGTAVDE-----------LDRCCQTHDNCYGEA
+EKLPK--CS------PYYKTYKYDCSE--G--------KLTCKDAPGS-CERSVCDCDR-
+---------------VAANCFAG--APYNNDNF----------FISFKENCQ--------
+--
+>lcl|UniRef90_T1DJY7 Phospholipase A2 7 n=1 Tax=Crotalus horridus RepID=T1DJY7_CROHD
+------------MRTLW-IMAVLLLGV------------------EGDLIQFETLIMKIA
+GRSG-IFWYSAY-------GCYCGAGGQGRPQDA-----------TDRCCFVHDCCYGKV
+---TG--C------DPKWDSYTYSVEN--G--------DVVC-GGNDP-CKKEICECDR-
+---------------AAAICFRDNKDTYD-NKY----------WRFPPKNCKEESEPC--
+--
+>lcl|UniRef90_P20251 Acidic phospholipase A2 PA-3 n=9 Tax=Pseudechis RepID=PA2A3_PSEAU
+-----------------------------------------------NLIQFGNMIQCAN
+KGSRPTRHYMDY-------GCYCGWGGSGTPVDE-----------LDRCCKVHDDCYGEA
+EKK-G--CY------PKLTLYSWDCTG--N--------VPIC-SPKAE-CKDFVCACDA-
+---------------EAAKCFAK--ATYNDANW----------NIDTKTRCK--------
+--
+>lcl|UniRef90_Q45Z46 Neutral phospholipase A2 paradoxin-like beta chain n=1 Tax=Oxyuranus microlepidotus RepID=PA2PB_OXYMI
+------------MHPAH-LLVL-LAVCVSLLGAS------DIPPLPLNLLQFGFMIECAI
+RNRQPALDFMNY-------GCYCGTVGHGTPVDD-----------LDRCCKTRNECYAEA
+EKH-G--CY------PSLTTYRWQCGR--V--------GLHC-NSKTQ-CEVFVCACDL-
+---------------AAAKCLAQ--EDYNPAHF----------NINTKARCR--------
+--
+>lcl|UniRef90_H2RZZ6 Uncharacterized protein n=1 Tax=Takifugu rubripes RepID=H2RZZ6_TAKRU
+------------MNTLQ-IVFLVAASLSV-----------GQSLDYLALHQFRKMILCVK
+PDSWPALDYALWLLLR---------------IRR-----------LRHACGLHDQCYSDA
+MQHPE--CW-PILDNPYTELYDYSCDEANK--------KVTCGSKNNA-CEMFICECDR-
+---------------KAAECFGR--SPWIPEHE----------HLPSEN-CQ--------
+--
+>lcl|UniRef90_U3EPG6 Phospholipase A2 15 n=6 Tax=Micrurus fulvius RepID=U3EPG6_MICFL
+---------MDKMNLAH-LLVL-AAVCVSLLGAS------SIPSRPLNLYQFKNMIQCT-
+-TKRPVWHFAWY-------GCYCGSGGSGTPVDE-----------LDRCCQVHDNCYDEA
+SKVHK--CW------PKLTFYSYDCSE--G--------QLTCKDNDTK-CKDFVCNCDR-
+---------------TAALCFAK--APYDDNNF----------YINSKR-CQ--------
+--
+>lcl|UniRef90_UPI00044228FC PREDICTED: phospholipase A2 GL16-1-like n=1 Tax=Python bivittatus RepID=UPI00044228FC
+----------------M-PIFL-WVVCVSFLAAS------TIPPVPRNLLQFHNMIKCAI
+PSSNPVLDFADY-------GCYCGFGGSGTPVDD-----------LDRCCQIHDHCYAQS
+KQHPA--CR-FLVDNPYTKTYSYSCSG--G--------NITCTDDEDE-CAAFICNCDR-
+---------------TAAICFAR--APYNEEYR----------KLDT-KYCK--------
+--
+>lcl|UniRef90_A0A093JJJ2 Phospholipase A(2) (Fragment) n=2 Tax=Fulmarus glacialis RepID=A0A093JJJ2_FULGA
+-------------------LRL------SSVGAA------SAAVSPRALWEFRKMIKCTI
+PDSRPVLEFADY-------GCYCGFGGSGTPVDE-----------LDRCCQVHDDCYSQA
+KKLES--CR-FLVDNPYTKSYSFSCSR--G--------QITCNNTN-K-CETFICNCDR-
+---------------AA-------------------------------------------
+--
+>lcl|UniRef90_A8E2V8 Acidic phospholipase A2 Tgc-E6 n=2 Tax=Crotalinae RepID=PA2A_TRIGS
+------------MRTLW-IMAVLLLGV------------------EGSLMQFEMLIMKLA
+KSSG-MFWYSAY-------GCYCGWGGQGRPQDA-----------TDRCCFVHDCCYGKA
+---TG--C------DPKKDVYTYSEEN--G--------DIVC-GGDDP-CRKEVCECDK-
+---------------AAAICFRDNMDTYNSKTY----------WMFPAKNCQEESEPC--
+--
+>lcl|UniRef90_UPI0002C662CD PREDICTED: group IIE secretory phospholipase A2 n=1 Tax=Ceratotherium simum simum RepID=UPI0002C662CD
+------------MKPPP-LLTFLGLLVAL---------------AGGNLVQFGVMIERVT
+GKPA--LQYNDY-------GCYCGFGGSRWPVDQ-----------TDWCCHAHDCCYGRL
+-ERLG--C------EPILEKYLFSANK--S--------NILC-AGRTA-CQRQTCECDK-
+---------------TAALCFRQNLDTYN-HKY----------ARYPNKMCTGPTPPC--
+--
+>lcl|UniRef90_UPI0002C34658 PREDICTED: phospholipase A2, major isoenzyme-like, partial n=1 Tax=Tursiops truncatus RepID=UPI0002C34658
+MTSVSCAPTDNRMKLLV-LAAL------LTVGAA------QSAISPRALWQFRGMIKCTI
+PGSDPLLDFNDY-------GCYCGLGGSGTPVDE-----------LDTCCQTHDNCYREA
+KKLDS--CT-FLLDNPYTESYSYSCSN--T--------EITCN-----------------
+------------------------------------------------------------
+--
+>lcl|UniRef90_R4G7E3 PLA2-Aca-38 n=1 Tax=Acanthophis wellsi RepID=R4G7E3_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAS------DIRPQPLNLLQFGFMIRCAN
+KRRRPVWHYMDY-------GCYCGKGGSGTPVDA-----------LDRCCKIHDDCYAEA
+EKRYG--CY------PYWTLYSWKCYG--S--------GPYC-NSKTQ-CQRFVCACDS-
+---------------RAAICFAQ--NPYNNANW----------NINTKTRCR--------
+--
+>lcl|UniRef90_A0A0F8B9V4 Phospholipase A(2) (Fragment) n=1 Tax=Larimichthys crocea RepID=A0A0F8B9V4_LARCR
+---------TYRMNTFQ-TLFVLAACLSF-----------AQSMDHKSVLQFGYMIRCVL
+PHSN-LLQFTNY-------GCYCGFGGSGKPVDA-----------LDRCCQIHDHCYGVA
+QDH-G--CE------PYLTGYNFRCYKPWR--------QLTCLDTCNS-CERFLCECDR-
+---------------AAACCFGR--SHWYPQHY----------HL-PQNLCH--------
+--
+>lcl|UniRef90_K7FE10 Phospholipase A(2) n=2 Tax=Pelodiscus sinensis RepID=K7FE10_PELSI
+------------MKQLP-GISLLFLCWLP--------------STCSNLIQFADMLKHMT
+GKLA-LLNYNDY-------GCYCGLGGSKQPLDE-----------TDWCCHTHDCCYGKM
+-SALG--C------HPKLGSYRYSIQS--G--------SIAC-SSTTT-CEKLTCECDK-
+---------------AAAMCFQRAARTYH-KKY----------LYYPNFLCKGSSPPC--
+--
+>lcl|UniRef90_UPI00053CE2E5 PREDICTED: phospholipase A2 n=2 Tax=Accipitrinae RepID=UPI00053CE2E5
+------------MKSLA-LLFL------LSVGAA------SAAVSPRAVWELRSMIKCTI
+PGSHPLLEFGDY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDECYSRA
+RKLEA--CR-SILDNPYTELYRFSCSK--G--------QITCNSKNHE-CGMFVCNCDR-
+---------------TAAMCFAK--APYNPEHN----------RLDTEKYCH--------
+--
+>lcl|UniRef90_A0A091GQU0 Phospholipase A(2) (Fragment) n=2 Tax=Buceros rhinoceros silvestris RepID=A0A091GQU0_BUCRH
+-------------------LCL------FSVGAA------SAAVSPRAMWQLRSLIKCTI
+PSSRPLKDYGDY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDNCYSEA
+KKLKS--CT-FIWDSPYTEIYHYSCSD--G--------EITCSSKNNE-CEAFVCNCDR-
+---------------TA-------------------------------------------
+--
+>lcl|UniRef90_UPI00032AF63A PREDICTED: phospholipase A2, membrane associated-like n=1 Tax=Ochotona princeps RepID=UPI00032AF63A
+------------MKSLL-LVAVIMAFGLQ--------------EVHGNLLNFRKMIKFTT
+GKEP-ATTYGFY-------GCFCGLGGTGTPLDA-----------TDRCCATHDCCYTRL
+-ENLG--C------GTKLLNYHYSLSD--D--------TITC-EDEDY-CRKELCQCDR-
+---------------TAAYCFAANQDTYN-KEY----------EYYSNSRCSQTKQTC--
+--
+>lcl|UniRef90_R4G2E6 PLA2-Cac-18 n=2 Tax=Cacophis squamulosus RepID=R4G2E6_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAA------TIPPLPLNLYQFGRLIQCAI
+RGSRYTWDYMDY-------GCFCGSGGHGTPVDA-----------LDMCCKIHDDCYGEA
+EKK-G--CD------PKWMPYTWECDS--D--------VPIC-ISKTG-CESSACDCDA-
+---------------KAAICFAG--APYNKENN----------HVVLTERCQ--------
+--
+>lcl|UniRef90_F6ZRZ5 Phospholipase A(2) n=1 Tax=Monodelphis domestica RepID=F6ZRZ5_MONDO
+------------MKTVF-LLAALMACGLS--------------EVQGDLLQFQNMIGKLT
+KKNA-LLSYGMY-------GCYCGLGGKGTPKDA-----------TDRCCMAHDCCYSKL
+-KKKG--C------NPYAQTYNYKYQA--G--------SLTC-GSGTF-CQKQTCGCDV-
+---------------VAARCMQRNLKTYN-KKY----------RNYPNSLCGKNNAQC--
+--
+>lcl|UniRef90_Q9QUL3 Group IIE secretory phospholipase A2 n=3 Tax=Mus musculus RepID=PA2GE_MOUSE
+------------MKPPI-ALACLCLLVPL---------------AGGNLVQFGVMIERMT
+GKPA--LQYNDY-------GCYCGVGGSHWPVDE-----------TDWCCHAHDCCYGRL
+-EKLG--C------DPKLEKYLFSITR--D--------NIFC-AGRTA-CQRHTCECDK-
+---------------RAALCFRHNLNTYN-RKY----------AHYPNKLCTGPTPPC--
+--
+>lcl|UniRef90_UPI00046BE618 PREDICTED: phospholipase A2 n=1 Tax=Eptesicus fuscus RepID=UPI00046BE618
+------------MKLLV-LAAL---------------------------------LTGVN
+SGSRLLLQDTGSAGWAATWRLLSGRVTSCRPPSALGSKH------MAGCCQIHDRCYDQA
+KKLDT--CK-FLLDNPYTKSYSYKCSG--S--------EITCSSKNKP-CQAFICECDR-
+---------------NAAICFSK--APYNKDHK----------NLDSK-FCQD-------
+--
+>lcl|UniRef90_Q8AXY1 Acidic phospholipase A2 BthA-1 n=3 Tax=Bothrops RepID=PA2A_BOTJR
+------------MRTLW-IMAVLLVGV------------------EGSLWQFGKMINYVM
+GESG-VLQYLSY-------GCYCGLGGQGQPTDA-----------TDRCCFVHDCCYGKV
+---TG--C------DPKIDSYTYSKKN--G--------DVVC-GGDDP-CKKQICECDR-
+---------------VATTCFRDNKDTYD-IKY----------WFYGAKNCQEKSEPC--
+--
+>lcl|UniRef90_P10117 Basic phospholipase A2 homolog 1 n=1 Tax=Laticauda colubrina RepID=PA2H1_LATCO
+-----------------------------------------------NLIQFSQLIQCAN
+KGKRPTLHYMDY-------GCYCGPGGSGTPVDD-----------LDRCCKTNDDCYGQA
+EKK-G--CS------PLSTNYNFDCFP--G--------GPQC-GKGTT-CQRFVCDCDL-
+---------------KAALCFAK--SPYNNKNF----------NIDTKKRCK--------
+--
+>lcl|UniRef90_U3JYR0 Phospholipase A(2) n=1 Tax=Ficedula albicollis RepID=U3JYR0_FICAL
+------------MKFLA-LLFL------LSVGAA------SAEVSPRAVWLFRKLIKCTL
+PKSHPLLDFNGY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDECYSQA
+EKLES--CR-FLLDNPYTKFYRYSCSD--G--------EITCSSKNKE-CAMFICNCDR-
+---------------AAAECFAK--APYNPEHK----------DLDTDKHCK--------
+--
+>lcl|UniRef90_V8NFW5 Uncharacterized protein (Fragment) n=2 Tax=Serpentes RepID=V8NFW5_OPHHA
+------------------------------------------------------MIQLST
+VTYG-LANFTNY-------GCHCGPGTQGLPVDA-----------IDRCCHSHDCCYNKV
+-EMYG--C------NPKVLNYQFYAQR--D--------KVKCVKSRDR-CEKMVCECDQ-
+---------------KAASCFQKHLVTYN-PQF----------RNLPVANCRAQRPFC--
+--
+>lcl|UniRef90_A0A093H6X4 Phospholipase A(2) n=1 Tax=Picoides pubescens RepID=A0A093H6X4_PICPB
+------------MKFLA-VLFL------LSVGAA------SIDAVPRAMWTLRKMIKCTI
+PNSFPLLQYADY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDNCYNLA
+MEHES--CK-YILDNPYTETYAFTCSN--K--------TVTCSSKNND-CKAFICNCDR-
+---------------IAATCFAK--APYNPQHH----------KLDAEKYCK--------
+--
+>lcl|UniRef90_U3K7L8 Phospholipase A(2) n=5 Tax=Passeriformes RepID=U3K7L8_FICAL
+------------MRNL--LLAVLLACGLR--------------PAGGSVLQLERIIRAAT
+GRSA-LLSYSWY-------GCFCGIGGSGTPVDP-----------TDRCCQAHDCCYRRL
+-REGS--C------SPLITPYSFTSSD--G--------NITCSDEQSW-CDRETCLCDT-
+---------------AVASCFASTLHSYN-NSY----------RFYFKLKCQGSKLQC--
+--
+>lcl|UniRef90_L9KLJ2 Phospholipase A(2) n=2 Tax=Tupaia chinensis RepID=L9KLJ2_TUPCH
+----------------M-DAQL-DQMWGLRVATA------ESSVSPRALWQFRSMIKCTI
+PGSDPLRDYNNY-------GCYCGLGGSGTPVDE-----------LDTCCQTHDHCYDQA
+KKLSS--CK-FLLDNPYTKTYSYTCSG--S--------EITCNSKNNE-CQAFICNCDR-
+---------------NAAICFSK--VPYNKEYK----------NLDTKKYC---------
+--
+>lcl|UniRef90_Q45Z48 PLA-6 n=1 Tax=Oxyuranus scutellatus RepID=Q45Z48_OXYSU
+------------MHPAH-LLVL-LAVCVSLLGAS------DIPPLPLNLLQFGYMIRCAN
+RRTRPVWHYMDY-------GCYCGKGGSGTPVDD-----------LDRCCQVHDECYGEA
+KRRFR--CA------PYWTLYSWKCYG--T--------APSC-NTKTQ-CEGFVCNCDA-
+---------------KAAECFAR--SPYQPSNR----------NINTKERCK--------
+--
+>lcl|UniRef90_UPI000510FB47 PREDICTED: phospholipase A2, partial n=1 Tax=Pelecanus crispus RepID=UPI000510FB47
+------------MKSLA-LLFL------LAAGTA------STAVSPRAMWGLRSMIKCTI
+PDSHPLLQFADY-------GCYCGFGGSGTPVDE-----------LDRCCQVHDGCYAKA
+KKLES--CR-FLVDNPYTNSYSFNCSD--G--------QITCSSSNND-CEMFICDCDR-
+---------------TAAMCFAK--APYIPEHS----------RLDTKKY----------
+--
+>lcl|UniRef90_R4G2X1 PLA2-Hem-3 n=1 Tax=Hemiaspis signata RepID=R4G2X1_9SAUR
+------------MSPAH-LLVL-LAVCVSLLGAA------NIRPQPLNLYQFKNMIECAN
+RGSRSWLAYANY-------GCYCGWGGSGTPVDE-----------LDTCCKIHDDCYGEA
+EKK-G--CY------PKLTLYTWQCTE--N--------VPTC-DSKTG-CEGSVCDCDA-
+---------------KAAICFAG--APYNSANI----------KINTKTRCQ--------
+--
+>lcl|UniRef90_UPI000696432B PREDICTED: neutral phospholipase A2 agkistrodotoxin-like n=2 Tax=Lingula unguis RepID=UPI000696432B
+------------MNTAF-VVLFIAACAVA----VCTCEDDAHSREKRNAFQFGRMIRSRT
+GRSA--LDYNGY-------GCWCGLGGRGTPKDG-----------VDRCCQAHDRCYDRL
+-INSG--CR-----NPVLNAYSYTLSG-----------GIVCNRSRNDRCEQGGCECDR-
+---------------TAAYCFAR--NRYN-SVY----------KNWRG-SC---------
+--
+>lcl|UniRef90_A0A091HQ91 Phospholipase A(2) (Fragment) n=2 Tax=Buceros rhinoceros silvestris RepID=A0A091HQ91_BUCRH
+----------------------------------------------RGILELAGAIRCTT
+GRSP--FAYLRY-------GCYCGLGGKGWPKDG-----------VDWCCFNHDCCYGKA
+-QQAG--C------HPKIESYHWECED--N--------AAVCESLEDK-CQKMACECDR-
+---------------EAAKCFSK--APYH-TKY----------LLWPDYMCGEIQPFC--
+--
+>lcl|UniRef90_F5CPE9 Putative phospholipase A2 n=1 Tax=Micrurus altirostris RepID=F5CPE9_MICAT
+------------MNPAH-LLVL-AAVCISLLGAS------SIAPQPLNLYQFGNMINCTM
+PGGSPLLDYADY-------GCYCGSGGGGTPVDD-----------LDRCCQAHDNCYGEA
+ETVHK--CN------PFWTFYSYECSE--G--------QLTCRDNDTN-CKEFVCNCDL-
+---------------EAANCFAK--APYIEENY----------NINLNR-CT--------
+--
+>lcl|UniRef90_P20252 Basic phospholipase A2 PA-5 n=2 Tax=Pseudechis australis RepID=PA2B_PSEAU
+-----------------------------------------------NLIQFSNMIQCAN
+KGSRPSLDYADY-------GCYCGWGGSGTPVDE-----------LDRCCKVHDDCYAEA
+GKK-G--CY------PKLTLYSWDCTG--N--------VPIC-NPKTE-CKDFTCACDA-
+---------------EAAKCFAK--APYKKENW----------NIDTKTRCK--------
+--
+>lcl|UniRef90_B5G6G1 PLA2-7 n=1 Tax=Tropidechis carinatus RepID=B5G6G1_TROCA
+------------MYPAH-LLVL-LAVCVSLLGAS------DIRQQPLNLLQFAFMIRCAN
+NRRRPVWHYMNY-------GCYCGKGGSGTPVDE-----------LDRCCKIHDDCYARA
+TKSYS--CA------PYWTLYSWKCYG--N--------GPTC-NSKTR-CQRFVCDCDS-
+---------------KAAMCFAR--APYNNANW----------NIDTKKRCR--------
+--
+>lcl|UniRef90_P21789 Acidic phospholipase A2 n=1 Tax=Cerastes cerastes RepID=PA2A_CERCE
+-----------------------------------------------NLYQFGKMIFKMT
+GKSP-IFSYGDY-------GCYCGWGGKGTPVDA-----------TDRCCFVHDCCYGRV
+---NS--C------NPKRSTYSYSFQN--G--------GIVC-DDQNL-CKRAVCECDR-
+---------------VAAICFGENVNTYD-KKY----------KDYPTSQCT-ETEQ---
+--
+>lcl|UniRef90_A0A091J7X2 Phospholipase A(2) (Fragment) n=2 Tax=Calypte anna RepID=A0A091J7X2_CALAN
+--------------------------------AA------CADVSPRAVWEFRSMIKCTI
+PASHPLWDYGDY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDACYSKA
+TKLDS--CK-FLLDNPYTEMYKYSCSK--G--------EITCHTKNNE-CEMFICNCDR-
+---------------AAAMCFAK--ASYDPAHR----------NLDTAKHCK--------
+--
+>lcl|UniRef90_A0A091RVQ1 Phospholipase A(2) (Fragment) n=2 Tax=Mesitornis unicolor RepID=A0A091RVQ1_9GRUI
+-------------------LHL------FAVGAA------SAAVSPRALWEFRSMIKCTI
+PDSHPLLEFGDY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDHCYSEA
+KKLES--CT-FLVDNPYTEPYRYNCSS--G--------QITC------------------
+------------------------------------------------------------
+--
+>lcl|UniRef90_M3ZL66 Phospholipase A(2) n=2 Tax=Poeciliinae RepID=M3ZL66_XIPMA
+------------MSVKA-LLLL-LTACVV-----------SGGRLPMALWQFGEMISCAQ
+PGVNP-LAYNEY-------GCWCGLGGSGTPVDD-----------VDRCCEAHDKCYQNS
+RKIPG--CE-GVFDLPYIIIYGFSCSN--R--------QVYCSAANEK-CEAAVCECDR-
+---------------VAAHCFAR--HTYDPDNK----------HLDPQ-LCVS-------
+--
+>lcl|UniRef90_UPI0002C5442D PREDICTED: group IIE secretory phospholipase A2 n=1 Tax=Odobenus rosmarus divergens RepID=UPI0002C5442D
+------------MKSPP-LLTFLCLLVAP---------------AGGNLVQFGVMIERVT
+GKPA--LQYNDY-------GCHCGIGGSHWPVDQ-----------TDWCCHAHDCCYGRL
+-EKLG--C------EPKLERYLFSAGR--H--------NVFC-AGRTA-CQRQTCECDR-
+---------------TAALCFRRNLGTYN-RNF----------VRYPKKLCSGPTPPC--
+--
+>lcl|UniRef90_UPI0005223F2A PREDICTED: phospholipase A2 n=1 Tax=Haliaeetus albicilla RepID=UPI0005223F2A
+------------MKSLA-LLFL------LSVGAA------SAAVSPRAVWELRSMIKCTI
+PGSHPLLEFGDY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDECYSRA
+RKLEA--CR-SILDNPYTELYRFSCSK--G--------QITCNSKSTS-MSLHFKHYSS-
+---------------LSSEGMELRYAP---------------------------------
+--
+>lcl|UniRef90_UPI0006990510 PREDICTED: phospholipase A2 OS2-like n=1 Tax=Lingula unguis RepID=UPI0006990510
+------------MKFTF-NLVALVVLSAA---------LIEAKPHKRNIAQFGAMISIAT
+GRSP--FDYNNY-------GCFCGVGGQGTPIDG-----------VDRCCQAHDSCYTAA
+-TASG--C------NTYLDFYHFTSKD--K--------TITCDSSQNDACEQSICNCDK-
+---------------VAVECFAK--NIYRKKHK---------------GKC---------
+--
+>lcl|UniRef90_A0A093Q0I2 Phospholipase A(2) n=1 Tax=Manacus vitellinus RepID=A0A093Q0I2_9PASS
+------------MKFLT-LLFL------LSVGAA------SADVSPRAMWLFRKLIKCTL
+PDSQPLLVFNGY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDNCYGEA
+KKLDS--CR-FLLDNPYTKSYKYSCSS--G--------EITCSSKNDE-CSSFICNCDR-
+---------------TAAICFAN--TPYNPEHK----------DLDKKKYCQ--------
+--
+>lcl|UniRef90_UPI0003340455 PREDICTED: group IIE secretory phospholipase A2 n=1 Tax=Echinops telfairi RepID=UPI0003340455
+------------MRPPP-LLTCLCLQVAL---------------ASGNLLQFGVMIERMT
+GKPA--LHYNDY-------GCYCGIGGSNWPVDQ-----------TDWCCHAHDCCYGRL
+-EKLG--C------EPKLEKYLFAPSK--H--------NIVC-AGRTT-CQRLTCMCDR-
+---------------KAALCFRHNLGTYD-RKY----------AHYPNKLCTGPTPPC--
+--
+>lcl|UniRef90_P00598 Acidic phospholipase A2 1 n=14 Tax=Naja RepID=PA2A1_NAJAT
+------------MTPAH-LLIL-AAVCVSPLGAS------SNRPMPLNLYQFKNMIQCTV
+P-SRSWWDFADY-------GCYCGRGGSGTPVDD-----------LDRCCQVHDNCYNEA
+EKISG--CW------PYFKTYSYECSQ--G--------TLTCKGGNNA-CAAAVCDCDR-
+---------------LAAICFAG--APYNNNNY----------NIDLKARCQ--------
+--
+>lcl|UniRef90_A0A091RPW4 Phospholipase A(2) (Fragment) n=2 Tax=Mesitornis unicolor RepID=A0A091RPW4_9GRUI
+----------------------------------------------RGILELAGAIRCTT
+GRSP--FAYLRY-------GCYCGLGGRGWPKDR-----------VDWCCFNHDCCYGLA
+-EQAG--C------HPKTESYYWECED--R--------TPVCESLEDK-CQKMACECDR-
+---------------EAAKCFSK--APYH-TKY----------LLWPDFMCGQIQPLC--
+--
+>lcl|UniRef90_UPI0003F17D2B PREDICTED: phospholipase A2 n=1 Tax=Chrysochloris asiatica RepID=UPI0003F17D2B
+------------MKLLV-LVAL------LIVGAA------TVDLGPKAVWQFRNMIKCTI
+PESDPLVDYNNY-------GCYCGLGGSGTPVDE-----------LDQCCYTHDQCYSQA
+KKLDS--CK-FLLDNPYTKTYSYSCSG--T--------EVTCSSSNTE-CQAFICNCDR-
+---------------SAAMCFSK--AAYNQENK----------NLNS-QFCKD-------
+--
+>lcl|UniRef90_P81166 Basic phospholipase A2 nigroxin A n=2 Tax=Micrurus nigrocinctus RepID=PA2BA_MICNI
+-----------------------------------------------NLYQLKNMIKCT-
+-NTRHWVSFTNY-------GCYCGYGGSGTPVDE-----------LDKCCQVHDKCYDTA
+KHVCK--CS------PSMTMYSYDCSE--G--------KLTCKDNNTK-CKDFVCNCDR-
+---------------TAALCFAK--APYNNKNF----------KIDPTKGCQ--------
+--
+>lcl|UniRef90_F1MSG5 Phospholipase A(2) n=4 Tax=Bovidae RepID=F1MSG5_BOVIN
+------------MKRPP-LLTFLCLLAAL---------------AGGNLVQFGVMIERMT
+GKPA--LQYNDY-------GCYCGVGGSHWPVDK-----------TDWCCHAHDCCYGRL
+-EKLG--C------EPKMERYLFSATR--H--------SIFC-AGRTS-CQRQTCECDK-
+---------------KAALCFRRNLGTYN-RKY----------AHYPNKLCTGPTPPC--
+--
+>lcl|UniRef90_A0A091NG60 Phospholipase A(2) (Fragment) n=2 Tax=Apaloderma vittatum RepID=A0A091NG60_APAVI
+-------------------LCL------FSAGVA------SDDISPRAVWNLRKMIKCTI
+PNSHPFLQFGNY-------GCYCGLGGHGTPVDE-----------LDKCCQAHDHCYSEA
+EKLES--CT-FLLDNPYTEWYKFTCSD--G--------EITCSSKNDA-CEAFICNCDR-
+---------------TAAMCFAK--APYIKQHE----------RLDTKKYC---------
+--
+>lcl|UniRef90_UPI00038EDDE3 PREDICTED: phospholipase A2 n=1 Tax=Chinchilla lanigera RepID=UPI00038EDDE3
+------------MKLLV-LAVL------LTVGAA------EHRISTRALWQFRGMIKCAI
+PGSSPYKEYNNY-------GCFCGLGGSGTPVDE-----------LDRCCQTHDQCYTTA
+KKMDS--CK-FLVDNPYTNSYSYSCSG--T--------EITCSSKNNE-CEAFICNCDR-
+---------------AAAICFSK--APYIKEHK----------DLDTKKYC---------
+--
+>lcl|UniRef90_UPI0004F0C57E PREDICTED: phospholipase A2, membrane associated-like n=1 Tax=Acanthisitta chloris RepID=UPI0004F0C57E
+------------MRNL--LLAMLLACGLL--------------PASTSVLELEQMIKSAT
+GKSA-LLSYSWY-------GCFCGIGGRGTPVDP-----------TDQCCQAHDCCYRRL
+-REGE--C------SPLITPYSFTTHD--G--------HITCSQKQSW-CEREICLCDK-
+---------------AVASCFASTLHSYN-NSY----------RFYFKLKCQGNKLQC--
+--
+>lcl|UniRef90_A0A091K6B1 Phospholipase A(2) (Fragment) n=2 Tax=Egretta garzetta RepID=A0A091K6B1_9AVES
+-------------------LCL------SSAGTA------SAAVSPRAVWQLRSMLKCTM
+PDSHPLLEFADY-------GCYCGLGGHGTPVDE-----------LDRCCQAHDGCYSQA
+KKLES--CK-FLWDNPYTKTYSFSCSG--E--------QITCSSKNTE-CEMFICNCDR-
+---------------TAAMCFAK--APYNPEHS----------RMDTKKYC---------
+--
+>lcl|UniRef90_UPI00042AD9A4 PREDICTED: phospholipase A2-like, partial n=1 Tax=Peromyscus maniculatus bairdii RepID=UPI00042AD9A4
+---------------------------------------------------LNDMIKCII
+PGNDPLAPLKIY-------GFYCTFESSQLVETE-----------LETCCHTFQDCYIQV
+LTMES--CK-SLGNTGYTSSYSYSCSG--N--------EVTCSDKNNP-CEDFISNCDR-
+---------------QAAICLTP--ASEIKEYK----------GVHY-------------
+--
+>lcl|UniRef90_Q5G290 Acidic phospholipase A2 6 (Fragment) n=1 Tax=Naja sagittifera RepID=PA2A6_NAJSG
+----------------------------------------SNRPMPLNIKQFNNMIQCTV
+P-ARSWWDFADY-------GCYCG-SGSGSPVDD-----------LDRCCQVHDNCYNAG
+GGVTG--CA------PKSKTYTYECSQ--G--------TLTCSGENSA-CAATVCDCDR-
+---------------LAAICFAG--APYNDNNY----------NIDLKSRCQ--------
+--
+>lcl|UniRef90_C1IC46 Acidic phospholipase A2 PL-I (Fragment) n=2 Tax=Walterinnesia aegyptia RepID=PA2A1_WALAE
+------------------------AVCVSLLGAS------SIRPLPLHLGQFNNMIKCTI
+PGSTPWWDFSDY-------GCYCGYGGSGTPVDQ-----------LDRCCQTHDNCYTEA
+QKFSG--CS------PYTRKYSYECSE--G--------TLTCKSDNDE-CAAFVCNCDR-
+---------------SAAICFAR--APYNSNNV----------DIDLEAHCQ--------
+--
+>lcl|UniRef90_P14615 Neutral phospholipase A2 3 n=1 Tax=Bungarus fasciatus RepID=PA2N3_BUNFA
+-----------------------------------------------NLFQFKNMIQCA-
+-GTRSWTDYVSY-------GCYCGKGGSGTPVDQ-----------LDRCCKVHDDCYGDA
+EKIPK--CK------PYYKTYSYDCSE--G--------KLTCKADNDE-CAAFICNCDR-
+---------------VAAICFAG--APYNDNNF----------MIDSKTRCNDI------
+--
+>lcl|UniRef90_A0A091G318 Phospholipase A(2) (Fragment) n=2 Tax=Cuculus canorus RepID=A0A091G318_9AVES
+----------------------------------------------RGILELAGAVRCTT
+GRSP--FAYLRY-------GCYCGLGGRGWPKDR-----------VDWCCFNHDCCYAKA
+-EQAG--C------HPKTESYYWVCED--N--------AVECESLEDQ-CQKMACECDR-
+---------------EAAKCFAK--APYH-TKY----------LLWPDFMCGEIQPFC--
+--
+>lcl|UniRef90_A0A0N4VQI0 Uncharacterized protein n=1 Tax=Enterobius vermicularis RepID=A0A0N4VQI0_ENTVE
+------------MQAVV-IAVAATLVAKS-----------SAFGQSRALWNLGSMGSCNL
+GYYP-LVYYNGY-------GCWCGMGGSGTPVDE-----------IDECCKMHDLCYDRA
+IGEGK--C--KDVAAAYFTPYDWQCVN--S--------TVVCTSTSHP-CKAAMCNCDK-
+---------------TVVECWKKYPQPTKLAR------------------CSSTSN----
+--
+>lcl|UniRef90_UPI0005297F18 PREDICTED: phospholipase A2 n=1 Tax=Chlamydotis macqueenii RepID=UPI0005297F18
+------------MKSLA-LLFL------LSAGAA------SAALSPRAVWGLRSMIKCTL
+PDSYPLLEFGDY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDHCYSQA
+EKLDS--CR-FLIDNPYTEWYSFTCSN--K--------QITCEKKNDD-CEMFICNCDR-
+---------------TAAMCFAK--APYNPQHD----------RLDTKKYCK--------
+--
+>lcl|UniRef90_P00618 Basic phospholipase A2 beta-bungarotoxin A2 chain n=5 Tax=Bungarus multicinctus RepID=PA2B2_BUNMU
+--------------MLI-FLWC-GAVCVSLLGAA------NIPPHPLNLINFMEMIRYTI
+PCEKTWGEYADY-------GCYCGAGGSGRPIDA-----------LDRCCYVHDNCYGDA
+EKKHK--CN------PKTQSYSYKLTK--R--------TIICYGAAGT-CARIVCDCDR-
+---------------TAALCFGN--SEYIERHK----------NIDTKRHCR--------
+--
+>lcl|UniRef90_UPI0003EBEB04 PREDICTED: phospholipase A2-like n=1 Tax=Neolamprologus brichardi RepID=UPI0003EBEB04
+-------------------------------------------------------MCCKS
+PKI-----YNNY-------GCYCGFGGKGTPRDG-----------VDACCQIHDKCYKNS
+RKIPG--CG-DVENLPYIIDFDFTCNN--Q--------RVTCSAANKT-CQAAVCECDR-
+---------------AAAHCFAQ--NTYNPENK----------NLDQSVYCVN-------
+--
+>lcl|UniRef90_UPI0006B06DB2 PREDICTED: phospholipase A2 n=1 Tax=Apteryx australis mantelli RepID=UPI0006B06DB2
+------------------------------------------------------MVKCTI
+PESNPLVDFADY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDHCYSEA
+KKLPA--CR-VLLDNPYTKTYSFTCSG--K--------EITCSSTNTD-CEMFICNCDR-
+---------------VAATCFAK--APYIMAHR----------KLDTKKYCQEPSSSQA-
+--
+>lcl|UniRef90_G5B779 Phospholipase A(2) n=1 Tax=Heterocephalus glaber RepID=G5B779_HETGA
+------------MKVLV-LAAL------LTVGTA------EHRISPRALWQFRNMIKCVI
+PGSKPYLDYNNY-------GCFCGLGGSGTPVDD-----------LDRCCQTHDQCYSKA
+KKMES--CK-FLIDNPYTNTYSYSCSG--T--------TITCSSKNKE-CDAFICNCDR-
+---------------EAAICFSK--VPYNSEHK----------NLDKNKYC---------
+--
+>lcl|UniRef90_R4G7M1 PLA2-Sut-1 n=1 Tax=Suta fasciata RepID=R4G7M1_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAT------GIPPRPLTLLQFDTMIECAN
+NRSRSSNDYMDY-------GCYCGEGGSGTPVDD-----------LDRCCKIHDDCYGEA
+KKH-E--CD------PLSLKYRWRCGR--Q--------GPYC-RSKTQ-CQRFVCLCDL-
+---------------LAAKCIAQ--ETYNRENY----------NIDTKKRCQ--------
+--
+>lcl|UniRef90_G3I6R7 Phospholipase A(2) n=1 Tax=Cricetulus griseus RepID=G3I6R7_CRIGR
+------------MKLLL-LITL------LTAGAN------AHSIRRRALWQFGKVIKCSI
+PGSHPLKDYNNY-------GCYCGFGGSKTPVDE-----------LDRCCQTHDHCYDQA
+NELES--CT--FLDSPYTTTYSYSCSG--N--------EITCSDKNNA-CEAFICSCDR-
+---------------QAAICFSK--APYNKENK----------GI----HC---------
+--
+>lcl|UniRef90_UPI0006B316D5 PREDICTED: phospholipase A2-like n=1 Tax=Austrofundulus limnaeus RepID=UPI0006B316D5
+------------MNGLT-LLQL-LTVCVV------------SEASSEALWQFANMIVCVQ
+PNVNP-LQFNDY-------GCYCGIGGSGKPVDD-----------LDRCCQTHDNCXGDV
+EK--N--CS-SSTLMLFIQVYNYACTS--K--------TVTCTGTNNP-CQAALCECDR-
+---------------AAAHCFSQ--TXFHPEHK----------HLDPK-LCQ--------
+--
+>lcl|UniRef90_P81458 Basic phospholipase A2 RVV-VD n=1 Tax=Daboia russelii RepID=PA2B_DABRR
+-----------------------------------------------NLFQFAEMIVKMT
+GKNP-LSSYSDY-------GCYCGWGGKGKPQDA-----------TDRCCFVHDCCYEKV
+---KS--C------KPKLSLYSYSFQN--G--------GIVC-GDNHS-CKRAVCECDR-
+---------------VAATCFRDNLNTYD-KKY----------HNYPPSQCT-GTEQC--
+--
+>lcl|UniRef90_A0A0H3U1Z6 Phospholipase A2 n=4 Tax=Trimeresurus hageni RepID=A0A0H3U1Z6_TRIHG
+------------MRTLW-IMAVLLVGV------------------GGHLIQFETLIMKVA
+GRSG-MFSYSAY-------GCYCGWGGSGQPQDD-----------TDRCCFVHDCCYGKA
+---TG--C------DPKTDVYTYSEEN--G--------DIIC-GGDDP-CKKEVCECDK-
+---------------AAAICFRDNVGTYDWKKY----------WRFPTKNCQ-ESVPC--
+--
+>lcl|UniRef90_A0A060WK44 Phospholipase A(2) n=2 Tax=Salmoninae RepID=A0A060WK44_ONCMY
+------------MHPKS-LLLL-LTAYAA-----------HGSLQPQALWQFGRMITCTQ
+PDVNP-FMYNNY-------GCWCGLGGTGTPRDD-----------LDRCCEVHDLCYRAS
+RHLPE--CR-PIIDVPYIKVYIFSCTN--G--------QVSCSASNDV-CQASVCECDR-
+---------------VAANCFAQ--STYNPENN----------NLDPKTHCIT-------
+--
+>lcl|UniRef90_A6MFM8 PLA2-3 n=1 Tax=Cryptophis nigrescens RepID=A6MFM8_CRYNI
+------------MYPAH-LLVL-LAVCVSLLGAA------GIPPQPLNLLQFKGMIECAN
+HGSRDPWDYNNY-------GCYCGTGGSGTPVDD-----------LDRCCKIHDDCYGEA
+ENSQN--CS------PYYTWYTWDCIE--N--------VPTC-ISKTG-CNRSVCECDA-
+---------------AAAKCFAE--TPYNDANK----------GIKTKTPCE--------
+--
+>lcl|UniRef90_A6MFM9 PLA2-4 n=2 Tax=Elapidae RepID=A6MFM9_CRYNI
+------------MYPAH-LLVL-LAVCVSLLGAS------DIPPQPLNLIQFGFMIKCGN
+KRRQPLFRYMDY-------GCYCGKGGSGTPVDD-----------LDMCCKIHDDCYAKA
+TKSYS--CA------PYWTLYSWKCYA--S--------GPYC-NSKTR-CQRFVCACDA-
+---------------AASRCFAR--ARYNPANY----------NINTKKRCR--------
+--
+>lcl|UniRef90_UPI00022F5FD4 PREDICTED: phospholipase A2-like isoform X1 n=1 Tax=Cricetulus griseus RepID=UPI00022F5FD4
+------------MKFLL-LVTL------LTAGAT------AHNIRRRSLLQFHNMIQCTI
+PGSHPLKDYNNY-------GCYCGFGGSNPPVDE-----------LDWCCQTHDHCYHQA
+NELES--CT--FLDSAYTTTYSYWCSE--N--------EITCSDKNNA-CEAFICNCDQ-
+---------------QATICFSK--APYNKDNK----------GI----HC---------
+--
+>lcl|UniRef90_UPI00069705A3 PREDICTED: acidic phospholipase A2 PLA-1-like n=1 Tax=Lingula unguis RepID=UPI00069705A3
+------------MKITI-GLFAIAALVVL----------ADTKPRPRNLVQFALMVNKAT
+GRSA--LDFNDY-------GCYCGLGGKGKPVDD-----------LDKCCKVHDFCYEMV
+-SHEG--CW-----NAKVGTYDYRTNG--T--------DITCDYYTNDNCDYMTCECDR-
+---------------VAALCFAS--NTYNDSHK----------AINRDGFCSG-------
+--
+>lcl|UniRef90_UPI0001772A11 PREDICTED: group IIE secretory phospholipase A2 n=3 Tax=Euarchontoglires RepID=UPI0001772A11
+------------MKPPP-VLTFLCLLVAL---------------AGGNLVQFGVMIERMT
+GKSA--LQYNDY-------GCYCGIGGSHWPVDP-----------TDWCCHAHDCCYGRL
+-EKLG--C------EPKLEKYLFSVAG--H--------SIFC-AGKTA-CQRQTCECDK-
+---------------RAALCFRHNLDTYD-RKY----------AHYPNKLCTGPTPPC--
+--
+>lcl|UniRef90_UPI000698E8C5 PREDICTED: neutral phospholipase A2 agkistrodotoxin-like n=1 Tax=Lingula unguis RepID=UPI000698E8C5
+-----------MMKTTL-ILFILAACAVI----ACVCEDNVHSREKRNFFQFGRMIKRRT
+GRSA--LDYNGY-------GCWCGLGGKGTPKDG-----------VDRCCRAHDYCYDRL
+-IKSG--CR-----SPVWNSYRYTLRW-----------GIYCYRGGNDRCELGGCRCDR-
+---------------TAAYCFAR--NTYH-NKY----------KNWKG-SC---------
+--
+>lcl|UniRef90_Q6H3C8 Acidic phospholipase A2 Ts-A6 n=2 Tax=Trimeresurus RepID=PA2AF_TRIST
+------------MRALW-IMAVLLLGV------------------EGHLMQFENMIKKVT
+GRSG-IWWYGSY-------GCYCGKGGQGLPQDA-----------SDRCCFVHDCCYGKV
+---NG--C------DPKDDFYVYSSEN--R--------DIVC-GEDNP-CTKEICECDK-
+---------------AAAICFRDNMDTYQ-NKY----------WFYPSSNCNEESEPC--
+--
+>lcl|UniRef90_Q6H3C9 Acidic phospholipase A2 Ts-A3 n=3 Tax=Trimeresurus RepID=PA2AC_TRIST
+------------MRTLW-IMAVLLLGV------------------EGSLIQFETLIMKVA
+KKSG-MFSYSAY-------GCYCGWGGQGQPQDA-----------TDRCCFVHDCCYGKV
+---TG--C------DPKMDIYTYSEEN--G--------DIVC-GGDDP-CRKAVCECDK-
+---------------AAAICFRDNKDTYDWKKY----------WRFPTKNCQ-ESVPC--
+--
+>lcl|UniRef90_Q45Z49 PLA-5 n=1 Tax=Oxyuranus scutellatus RepID=Q45Z49_OXYSU
+------------MHPAH-LLVL-LAVCVSLLGAS------DIPPLPLNLVQFGFMIECAI
+RNRQPALDFMNY-------GCYCGTVGCGTPVDD-----------LDRCCQVHDECYGEA
+EKRLG--CS------PFVTLYSWKCYG--K--------APSC-NTKTD-CQRFVCNCDA-
+---------------KAAECFAR--SPYQKKNW----------NINTKARCK--------
+--
+>lcl|UniRef90_R4FIA4 PLA2-Cac-6 n=1 Tax=Cacophis squamulosus RepID=R4FIA4_9SAUR
+------------MYPAH-LLVL-LAVCVSILGAV------TIPPLPLNVIQFKNMIQCAN
+HGSRPTRHYMNY-------GCFCGSGGHGTPVDA-----------LDMCCKTHDDCYGEA
+EKQ-S--CN------PRLTKYDYYCGK--D--------GPIC-SVKKK-CQRFVCDCDV-
+---------------TAANCFAR--APYKDRNY----------NISTKARCQ--------
+--
+>lcl|UniRef90_P07037 Acidic phospholipase A2 CM-II n=1 Tax=Aspidelaps scutatus RepID=PA2A2_ASPSC
+-----------------------------------------------NLYQFKNMIQCTV
+P-NRSWWHFADY-------GCFCGYGGSGTPVDE-----------LDRCCQTHDNCYSEA
+EKLSG--CK------PYIKTYSYDCSQ--G--------KLTCSGNDDK-CAAFVCNCDR-
+---------------VAAICFAG--APYIDDNY----------NVDLNERCQ--------
+--
+>lcl|UniRef90_UPI0003BB7E5F PREDICTED: phospholipase A2 n=1 Tax=Myotis brandtii RepID=UPI0003BB7E5F
+------------MATHA-VTAT--------------------------------------
+----------------------TRWASSEHMIRP--------------CCQTHDRCYDQA
+KKLDT--CK-FLLDNPYTKSYSYKCSG--S--------EIICSSKNKP-CQAFICECDR-
+---------------KAAICFSK--APYNKEHK----------NLNTKKFCQD-------
+--
+>lcl|UniRef90_Q6SLM2 Acidic phospholipase A2 1 (Fragment) n=1 Tax=Bungarus caeruleus RepID=PA2A1_BUNCE
+---------------------L-VAVCVSLLGAA------NIPPQPLNLYQLMNMIQCA-
+-NTRTWPSYTNY-------GCYCGKGGSGTPVDD-----------LDRCCYTHDHCYNDA
+KNIDG--CN------PVTKTYSYTCTE--P--------TITCNDSKDK-CARFVCDCDR-
+---------------TAAICFAK--APYNTSNV----------MIRSTNSCQ--------
+--
+>lcl|UniRef90_R4FJB5 PLA2-Aca-45 n=2 Tax=Acanthophis wellsi RepID=R4FJB5_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAS------DIPPQPLNLYQFGGMIKCAN
+KGTRSWLSYVNY-------GCYCGWGGSGKPVDE-----------LDRCCQIHDNCYAEA
+GKK-R--CK------PKLTLYSWKCAK--D--------VPVC-NSKSV-CGSFVCDCDA-
+---------------AAAKCFAK--APYNKNNI----------GIGSKTRCQ--------
+--
+>lcl|UniRef90_W5KDU7 Phospholipase A(2) n=2 Tax=Astyanax mexicanus RepID=W5KDU7_ASTMX
+------------MYLSW-FLLF-ATVSAV-----------RGAVVPYALWQFGNMIQCAQ
+PGVNP-LIYNNY-------GCFCGLGGSGSPKDQ-----------LDRCCQVHDQCYTNA
+KKLPE--CT---FLDPYVKVYSHSCSN--E--------KASCSGSNAK-CEAAVCECDR-
+---------------VAAHCFAQYNHVYNSAYK----------NL-SQSQCK--------
+--
+>lcl|UniRef90_UPI0004438391 PREDICTED: group IIE secretory phospholipase A2 n=1 Tax=Erinaceus europaeus RepID=UPI0004438391
+------------MKPPP-LLTFFGLLAAL---------------ADGNLVQFGVMIERMT
+GKSA--LQYNDY-------GCYCGLGGAHWPVDA-----------TDWCCHAHDCCYGRL
+-EKLG--C------EPKFERYLFSTSK--D--------DILC-AGKTA-CQRQTCECDR-
+---------------RAALCFRRHLDTYS-CKF----------AHYPNKLCVGPTPPC--
+--
+>lcl|UniRef90_A0A093HBE8 Phospholipase A(2) (Fragment) n=2 Tax=Gavia stellata RepID=A0A093HBE8_GAVST
+-------------------LHL------FSAGTA------SPPVSPRAVWEFRSMIRCTI
+PDSHPLLEFADY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDNCYSQA
+KELES--CR-FLVDNPYTKPYTFSCSR--G--------QITCNGKNNE-CEMFICNCDR-
+---------------AAALCFAK--APYNPEHR----------RLDTAKYC---------
+--
+>lcl|UniRef90_E2RM12 Phospholipase A(2) n=7 Tax=Carnivora RepID=E2RM12_CANLF
+------------MKPSP-LLTFLCLLVAP---------------AGGNLVQFGVMIERMT
+GKPA--LQYNDY-------GCYCGVGGSHWPVDP-----------TDWCCHAHDCCYGRL
+-EKLG--C------EPKLERYLFSASR--H--------SIFC-AGKTA-CQRQTCECDR-
+---------------KAALCFRHHLGTYN-RNF----------VRYPNKLCSGPTPPC--
+--
+>lcl|UniRef90_K7G739 Phospholipase A(2) n=2 Tax=Pelodiscus sinensis RepID=K7G739_PELSI
+-----------------------VGFSLA----SKGALEKKHSRNPRGILELAGAIKCST
+GRTP--LAYLRY-------GCYCGLGGQGWPKDK-----------VDWCCFKHDCCYSKA
+-EQAG--C------QPKMESYNWECED--N--------AAVCDSLEDK-CQKIVCECDR-
+---------------KASKCLAK--APYQ-PRY----------IFWPDFLCGESHPQCK-
+--
+>lcl|UniRef90_H8PG88 Phospholipase A2 isoform 7 n=1 Tax=Parasuta nigriceps RepID=H8PG88_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAT------GIPPQPLNLYQFKGMIECAN
+RGSRDPWDYNNY-------GCFCGTGGSGTPVDD-----------LDRCCKTHDDCCGEA
+TSSQS--CD------PYWTLYTWDCIE--N--------VPTC-KSKSG-CARSVCECDA-
+---------------AAAKCFAE--TPYNDANK----------GIKGTAHCQ--------
+--
+>lcl|UniRef90_Q6A3F4 Ammodytin I2(A) variant n=20 Tax=Vipera RepID=Q6A3F4_VIPAP
+------------MRTLW-IVAVCLIGV------------------VGNLYQFGNMIFKMT
+KKSA-LLSYSNY-------GCYCGWGGKGKPQDA-----------TDRCCFVHDCCYGRV
+---NG--C------DPKLSIYSYSFEN--G--------DIVC-GGDDP-CLRAVCECDR-
+---------------VAAICFGENLNTYD-KKY----------KNYPSSHCT-ETEQC--
+--
+>lcl|UniRef90_A0A091XGX3 Phospholipase A(2) (Fragment) n=1 Tax=Opisthocomus hoazin RepID=A0A091XGX3_OPIHO
+-------------------LCV------FSVGTA------CAAVEPRALWDFRSMIKCTI
+PDSYPLLEFADY-------GCYCGLGGGGTAVDE-----------LDRCCEAHDQCYTKA
+KKLES--CK-SLADNPYTGSYSFSCSS--G--------KITCSS----------------
+------------------------------------------------------------
+--
+>lcl|UniRef90_Q90Y77 Basic phospholipase A2 PL-Y n=12 Tax=Crotalinae RepID=PA2BY_PROFL
+------------MRTLW-IMAVLLVGV------------------EGHLLQFRKMIKKMT
+GKEP-IVSYAFY-------GCYCGKGGRGKPKDA-----------TDRCCFVHDCCYEKV
+---TG--C------DPKWDYYTYSLEN--G--------DIVC-GGDNP-CTKVVCECDK-
+---------------AAAICFRDNLKTYK-KRY----------MTFPDIFCTDPTEKC--
+--
+>lcl|UniRef90_A0A091CVU2 Phospholipase A(2) n=2 Tax=Hystricognathi RepID=A0A091CVU2_FUKDA
+------------MKVLM-LAAL------LTVGAA------AHRISTRAVWQFRNMIKCAI
+PGSEPYKDYNNY-------GCFCGLGGSGTPVDE-----------LDRCCQTHDQCYSTA
+KKMES--CK-FLIDNPYTNTYSYSCSG--T--------EITCSSKNKE-CEAFICNCDR-
+---------------EAAICFSK--APYIKEHK----------DLDSKKYC---------
+--
+>lcl|UniRef90_B0LSG2 Phospholipase A2 n=3 Tax=Sistrurus catenatus RepID=B0LSG2_SISCA
+------------MRTLW-IVAVLLLGV------------------EGNLIQFETLTLKVA
+KKSG-MFSYSAY-------GCYCGWGGHGRPQDA-----------TDRCCFVHDCCYGKV
+---TD--C------DPKLDTYTYSEEN--G--------EIIC-GGDDQ-CKKQICECDK-
+---------------AAAICFRDNKNTYN-NKY----------WRLPTENCQEEPEPC--
+--
+>lcl|UniRef90_P45881 Basic phospholipase A2 bothropstoxin-2 n=3 Tax=Bothrops RepID=PA2B2_BOTJR
+------------MRTLW-IMAVLLVGV------------------EGDLWQFGQMILKET
+GKLP-FPYYTTY-------GCYCGWGGQGQPKDA-----------TDRCCFVHDCCYGKL
+---TN--C------KPKTDRYSYSREN--G--------VIIC-GEGTP-CEKQICECDK-
+---------------AAAVCFRENLRTYK-KRY----------MAYPDVLCKKPAEKC--
+--
+>lcl|UniRef90_Q9PTA6 Basic phospholipase A2 beta-bungarotoxin A-AL3 chain (Fragment) n=4 Tax=Bungarus RepID=PA2BC_BUNMU
+-----------------------LAVCVSLIGAA------NIPPQHLNLYQFKEMIRYTI
+PCEKTWLEYTDY-------GCYCGYGGSGTPVDA-----------LDRCCYVHDNCYGDA
+EKKHK--CN------PKMQLYSYKLTK--R--------TIICYGAAGT-CERIVCDCDR-
+---------------TAALCFGN--SEYIERHK----------NIDTKRYCR--------
+--
+>lcl|UniRef90_Q9PUH8 Acidic phospholipase A2 S3-24 n=1 Tax=Austrelaps superbus RepID=PA2A6_AUSSU
+------------MYPAH-LLVL-LAVCVSLLGAS------DMPPQPLNLVQFSNMIQCAN
+HGRRPTSNYMDY-------GCYCGKGGSGTPVDA-----------LDRCCKIHDDCYGEA
+EKSQN--CA------PYWTWYTWKCGS--D--------GPQCDDSETG-CKRIVCDCDV-
+---------------EAADCFAG--APYNNANW----------NIDTKKRCQ--------
+--
+>lcl|UniRef90_UPI00042AB9F3 PREDICTED: phospholipase A2-like n=1 Tax=Peromyscus maniculatus bairdii RepID=UPI00042AB9F3
+------------MKLLL-FALVTGAT--------------TSRISTRAEWKFDNLFQCTL
+PGILFFPEYNYY-------GCRCGVFIRNSWVE-------------DRCCQIRDNCRDQV
+KKLES--CK-SLIDDPYRSFYTYLCSG--N--------KVTCSEENNT-CEDLICNCDH-
+---------------QATICFSK-------EN----------------------------
+--
+>lcl|UniRef90_UPI0003F07571 PREDICTED: group IIE secretory phospholipase A2 n=2 Tax=Afrotheria RepID=UPI0003F07571
+------------MKLLP-VLTCLCLQVAL---------------ACGNLLQFGVMIERMT
+GKPA--LHYNDY-------GCYCGIGGSNWPVDQ-----------TDWCCHAHDCCYERL
+-QKLG--C------EPKLEKYLFSVNG--H--------SIFC-AGRTA-CQRQTCACDK-
+---------------RAALCFRHNLGTYN-RKY----------AHYPNKLCTGPSPPC--
+--
+>lcl|UniRef90_G3PLQ8 Phospholipase A(2) n=2 Tax=Gasterosteus aculeatus RepID=G3PLQ8_GASAC
+------------YRTLL-LLSVSIDAFLS-------------ILMERGLLELAGAIKCST
+GRSA--LAYMVY-------GCYCGLGGQGWPRDK-----------ADWCCHRHDCCYGDA
+-ERLG--C------QTKTDQYQWTCED--E--------KAECDDLKDK-CEKLLCRCDR-
+---------------NAARCLRK--APFI-PKF----------ALWPDFLCGHQHPMC--
+--
+>lcl|UniRef90_A0A093S8K9 Phospholipase A(2) (Fragment) n=2 Tax=Manacus vitellinus RepID=A0A093S8K9_9PASS
+----------------------------------------------RGILELAGAIRCTT
+GRSP--FAYLRY-------GCYCGLGGRGWPKDR-----------VDWCCFNHDCCYGKA
+-EQAG--C------QPKTESYHWECKD--N--------SAVCDSLEDK-CQKMACECDR-
+---------------EAAKCFSK--APYH-RKY----------LLWPDFMCGEIQPLC--
+--
+>lcl|UniRef90_G3I6R5 Phospholipase A(2) (Fragment) n=1 Tax=Cricetulus griseus RepID=G3I6R5_CRIGR
+---------------------------ILAAGAT------AQGISPRAVCQLGNVFQCTI
+SRIHPLKQYNNY-------GCYCGLRSLGTPVDE--------------CCWTWDNCYNQA
+KDVES--CK-LLIGIPYTISYIFSCRD-----------------KNNT-CEDNICNCD--
+------------------------------------------------------------
+--
+>lcl|UniRef90_UPI0006EB1BCF PREDICTED: group 10 secretory phospholipase A2 n=1 Tax=Alligator sinensis RepID=UPI0006EB1BCF
+----------------------------M----AYGSLGKIQSRNRRGIFELAGVVKCST
+GRSA--ISYIRY-------GCYCGLGGRGWPRDA-----------VDWCCFKHDCCYSKA
+-EQAG--C------QPKTGRYDWECND--K--------SAVCDS-EDE-CQEMMCECDS-
+---------------EAAKCFAK--APYN-SKY----------IFWPDFKCGERQPKCK-
+-D
+>lcl|UniRef90_U3FYP0 Phospholipase A2 4b n=18 Tax=Micrurus fulvius RepID=U3FYP0_MICFL
+------------MNPAH-LLVL-AAVCVSLLGAS------SIPPEPLNLYQFKNMIKCT-
+-NTRHWLSFTNY-------GCYCGYGGSGTPVDE-----------LDRCCQVHDKCYDTA
+KRVHK--CF------PSVRTYSYDCSE--G--------KLTCKDNNTK-CKDFVCNCDR-
+---------------TAALCFAK--APYNNKNF----------KIDPSH-CQ--------
+--
+>lcl|UniRef90_M3ZL71 Phospholipase A(2) n=1 Tax=Xiphophorus maculatus RepID=M3ZL71_XIPMA
+------------MIVKA-LLLL-LAACVV-----------SGGHVPNAVWHFGEMISCAQ
+PGVNP-LDYNEY-------GCYCGLGGSGTPVDD-----------VDRCCQVHDSCYSNS
+MKIPE--CE-GILDLPYVISYNFSCSN--K--------QVTCSATNDK-CQATVCECDR-
+---------------VAAHCFAR--YKYNPDYK----------NLDSK-FC---------
+--
+>lcl|UniRef90_P23027 Basic phospholipase A2 homolog textilotoxin B chain n=1 Tax=Pseudonaja textilis RepID=PA2BB_PSETE
+-----------------------------------------------DLVEFGFMIRCAN
+RNSQPAWQYMDY-------GCYCGKRGSGTPVDD-----------VDRCCQTHNECYDEA
+AKIPG--CK------PKWTFYFYQCGS-GS--------QFTCRKSKDV-CRNVVCDCDF-
+---------------KAALCLTG--ARYNSANY----------NIDIKTHCR--------
+--
+>lcl|UniRef90_U3F584 Phospholipase A2 27 n=1 Tax=Micrurus fulvius RepID=U3F584_MICFL
+------------MNPAH-LLVL-AAVCVSLLGAS------SIPPEPLNLYQFKNMIKCT-
+-NTRHWLSFTNY-------GCYCGYGGSGTPVDE-----------LDRCCQVHDKCYDTA
+KRVHK--CF------PSLTLYSYKCSK--G--------QLTCKDNNTK-CKDFVCNCDC-
+---------------TAALCFAK--APYDDNNF----------YINSKR-CQ--------
+--
+>lcl|UniRef90_UPI0006B1AF8C PREDICTED: phospholipase A2 homolog otoconin-22-like n=1 Tax=Thamnophis sirtalis RepID=UPI0006B1AF8C
+------------MKPLV-ISGLILACGLA--------------LVASAPPQFNEMIQLST
+VTYG-LANFTNY-------GCHCGPGTQGLPVDT-----------IDRCCHSHDCCYNKA
+-EMYG--C------NPKALTYRFFAQR--D--------KIKCVKSRDR-CEKMVCECDQ-
+---------------KAASCFQKHLFTYN-PQF----------KNLPVTNCRAQRPFC--
+--
+>lcl|UniRef90_UPI000441B4B1 PREDICTED: phospholipase A2, major isoenzyme-like n=1 Tax=Lipotes vexillifer RepID=UPI000441B4B1
+------------MKLLV-LAAL------LTVGAA------QSGISPRALWQFRGMIKCKI
+PSSHPLHDFNNY-------GCYCGLGGSGTPVDE-----------LDKCCQTHDNCYRKA
+EELGS--CT-FLLDNPYTESYSYSCSN--T--------EITCNSKNDA-CEAFICNCDR-
+---------------AAATCFSK--VPYNKKHK----------NLDS-KYCKD-------
+--
+>lcl|UniRef90_P06596 Phospholipase A2 n=5 Tax=Caniformia RepID=PA21B_CANLF
+------------MKFLV-LAAL------LTVAAA------EGGISPRAVWQFRNMIKCTI
+PESDPLKDYNDY-------GCYCGLGGSGTPVDE-----------LDKCCQTHDHCYSEA
+KKLDS--CK-FLLDNPYTKIYSYSCSG--S--------EITCSSKNKD-CQAFICNCDR-
+---------------SAAICFSK--APYNKEHK----------NLDTKKYC---------
+--
+>lcl|UniRef90_A0A093BYX5 Phospholipase A(2) (Fragment) n=2 Tax=Pterocles gutturalis RepID=A0A093BYX5_9AVES
+---------------------L------FSVGAA------SAAVSPRAMWDFRSMIKCTL
+PNSRPLLEYADYGCFCGFGGCFCGLGGSGTPVDE-----------LDRCCQTHDGCYTQA
+KKLDA--CKNHIVDNPYTKSYSFSCSS--G--------RVTCSSQNDA-CEMFICNCDR-
+---------------AAAICFAK--APYNPAHY----------MLDTKKYC---------
+--
+>lcl|UniRef90_P14423 Phospholipase A2, membrane associated n=5 Tax=Rattus norvegicus RepID=PA2GA_RAT
+------------MKVLL-LLAVVIMAFGS-------------IQVQGSLLEFGQMILFKT
+GKRA-DVSYGFY-------GCHCGVGGRGSPKDA-----------TDWCCVTHDCCYNRL
+-EKRG--C------GTKFLTYKFSYRG--G--------QISCSTNQDS-CRKQLCQCDK-
+---------------AAAECFARNKKSYS-LKY----------QFYPNKFCKGKTPSC--
+--
+>lcl|UniRef90_F7A6K0 Phospholipase A(2) (Fragment) n=1 Tax=Monodelphis domestica RepID=F7A6K0_MONDO
+-----------------------------------FSVSGKSHVHRRGLTELATTITCAT
+KSSA--LVYLKY-------GCYCGLGGSGQPQDQ-----------VDWCCQKHDCCYKAA
+-SDAG--C------IPKLQTYSWNCVN--N--------TVECASSQSK-CAAIACKCDQ-
+---------------ELSHCLAS--AKYN-KKH----------FLSLASDCGDQSPKCE-
+--
+>lcl|UniRef90_P00594 Phospholipase A2 (Fragment) n=5 Tax=Equus RepID=PA21B_HORSE
+----------------------------------------ENGISPRAVWQFRSMIQCTI
+PNSKPYLEFNDY-------GCYCGLGGSGTPVDE-----------LDACCQVHDNCYTQA
+KELSS--CR-FLVDNPYTESYKFSCSG--T--------EVTCSDKNNA-CEAFICNCDR-
+---------------NAAICFSK--APYNPENK----------NLDSKRKCA--------
+--
+>lcl|UniRef90_P10116 Basic phospholipase A2 2 n=1 Tax=Laticauda colubrina RepID=PA2B2_LATCO
+-----------------------------------------------NLIQFSELIQCAN
+KGKRATYYYMDY-------GCYCGKGGSGTPVDD-----------LDRCCKTHDDCYGQA
+EKK-G--CF------PFLTLYNFICFP--G--------GPTC-DRGTT-CQRFVCDCDI-
+---------------QAAFCFAR--SPYNNKNY----------NINISKRCK--------
+--
+>lcl|UniRef90_UPI0004ED4959 PREDICTED: phospholipase A2 n=1 Tax=Nannospalax galili RepID=UPI0004ED4959
+------------MKFLV-LAAL------LTAGAT------AHSISTRAVWQFRNMIKCAI
+PGSKPYLEYNNY-------GCYCGLGGSGTPVDD-----------LDRCCQTHDNCYTQA
+KKLDS--CK-FLLDNPYTNTYSFTCSD--N--------EITCSSKNKD-CEAFICNCDR-
+---------------EAAICFSK--VPYNKENK----------DIDKKK-C---------
+--
+>lcl|UniRef90_G3I6R8 Phospholipase A(2) (Fragment) n=2 Tax=Cricetulus griseus RepID=G3I6R8_CRIGR
+---------------------------ILTAGAT------AHSISPQPVWQFDNALKCTI
+PFIQPFSDFNYY-------GCYCGYITWNNRLEI-----------LDRCCQTQEHCYDQV
+KNMKN--CK-FFKDKTYNSSYLFAYSG--N--------EIICSDKNT--CEDFICNCDR-
+---------------QAAICFFK--AL---------------------------------
+--
+>lcl|UniRef90_P31854 Basic phospholipase A2 Pla2Vb n=1 Tax=Vipera berus berus RepID=PA2B_VIPBB
+------------MRTLW-IVAVWLMGV------------------EGNLFQFGNMINHMV
+GKHA-VWSYLSY-------GCYCGWGGQGKPQDA-----------TDRCCFVHDCCYGRA
+---NG--C------DPKLSTYSYNFQN--G--------NIVC-GNKYG-CLRHICECDR-
+---------------VAAICFQKNMNTYN-KKY----------KNYSSSNCQENSDKC--
+--
+>lcl|UniRef90_P04056 Basic phospholipase A2 PA-11 n=6 Tax=Pseudechis RepID=PA2BB_PSEAU
+-----------------------------------------------NLIQFGNMIQCAN
+KGSRPSLDYADY-------GCYCGWGGSGTPVDE-----------LDRCCQVHDNCYEQA
+GKK-G--CF------PKLTLYSWKCTG--N--------VPTC-NSKPG-CKSFVCACDA-
+---------------AAAKCFAK--APYKKENY----------NIDTKKRCK--------
+--
+>lcl|UniRef90_UPI0003F1520F PREDICTED: group IIE secretory phospholipase A2 n=1 Tax=Pteropus alecto RepID=UPI0003F1520F
+------------MQPPP-LLTFLCLLVAL---------------AWGNLVQFGVMIEKMT
+GKPA--LQYNDY-------GCYCGIGGSHWPVDQ-----------TDWCCHAHDCCYECL
+-EKLG--C------EPKLERYLFSVSR--S--------DIFC-AGKTA-CQQQTCKCDK-
+---------------TAALCFRQNLATYN-YSY----------AHYPNKLCSGPTPPC--
+--
+>lcl|UniRef90_Q45Z42 Basic phospholipase A2 paradoxin-like alpha chain n=3 Tax=Oxyuranus microlepidotus RepID=PA2PA_OXYMI
+------------MHPAH-LLVL-LAVCVSLLGAS------DIPPLPLNLAQFGFMIKCAN
+HRSRPVSHYMDY-------GCYCGKGGSGTPVDE-----------LDRCCQVHDECYGEA
+EKRFK--CV------PYMTLYSWKCYG--T--------APSC-NTKTD-CQRFVCNCDA-
+---------------KAAECFAR--SPYQNKNW----------NINTKARCK--------
+--
+>lcl|UniRef90_W4Z0R5 Phospholipase A(2) n=2 Tax=Strongylocentrotus purpuratus RepID=W4Z0R5_STRPU
+------------------------------------------------------MSSCAT
+NSYS--SRYDGY-------GCFCGLGGHGTPVDN-----------LDVCCQVHDNCYGDV
+EAANGGPC--PQGTNIYTLGYTYECRAPWSWFYKAEELTITCDAEANDGCAQALCECDK-
+---------------TASLCFAA--NEYNDEYA----------SYDKENMCTA-------
+--
+>lcl|UniRef90_A0A0K8RYR4 Phospholipase A2 1a n=4 Tax=Crotalus horridus RepID=A0A0K8RYR4_CROHD
+------------MRTLW-ILAVLLLGV------------------EGDLLQFEMMIMEVA
+KRSG-MFWYSAY-------GCYCGWGGHGRPQDA-----------TDRCCFVHDCCYGKV
+---TG--C------DPKVDSYTYSKEN--G--------EIVC-GGDDP-CKKQICECDR-
+---------------VAAVCFRDNIPTYD-NKY----------WRFPAKNCQEEPEPC--
+--
+>lcl|UniRef90_A0A0H3U1Z9 Phospholipase A2 n=1 Tax=Protobothrops mangshanensis RepID=A0A0H3U1Z9_PROMB
+------------MRTLW-IMAVLLVGV------------------GGHLMQFETMIKKAA
+GRSG-IWWYGSY-------GCYCGKGGQGQPQDA-----------SDRCCFVHDCCYGRV
+---NG--C------SPKMDFYRYSEEN--G--------DIVC-EANNP-CTKEICECDK-
+---------------AAAICFRDNINTYD-NKY----------WNVPTESCQ-ESGPC--
+--
+>lcl|UniRef90_T1DH13 Phospholipase A2 8 n=1 Tax=Crotalus horridus RepID=T1DH13_CROHD
+------------MRTLW-IMAVLLLGV------------------EGNLYQFEKLIQKIV
+GRSG-VLWYSAY-------GCYCGWGGQGRPQDA-----------TDRCCFVHDCCYNKV
+---TS--C------NPKLDIYTYSVKN--R--------DVVC-GGTNP-CKKQICECDR-
+---------------AAAICFRDNKDTYDSKKY----------WKYPKKNCKEESEPC--
+--
+>lcl|UniRef90_UPI0005295401 PREDICTED: phospholipase A2 n=1 Tax=Eurypyga helias RepID=UPI0005295401
+------------MKSLV-LLFL------LSVGAA------TAAVSPRAVWELRSMIRCTI
+PDSHPLLEFADY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDECYSQA
+NKLES--CR-FLVDNPYTEMYSFSCSN--G--------KITCSSKNNE-CETFICNCDR-
+---------------AAAMCFAK--APYNPEYS----------KLDTKEYCS--------
+--
+>lcl|UniRef90_P31482 Phospholipase A2, membrane associated n=8 Tax=Mus musculus RepID=PA2GA_MOUSE
+------------MKVLL-LLAASIMAFGS-------------IQVQGNIAQFGEMIRLKT
+GKRA-ELSYAFY-------GCHCGLGGKGSPKDA-----------TDRCCVTHDCCYKSL
+-EKSG--C------GTKLLKYKYSHQG--G--------QITCSANQNS-CQKRLCQCDK-
+---------------AAAECFARNKKTYS-LKY----------QFYPNMFCKGKKPKC--
+--
+>lcl|UniRef90_P24027 Phospholipase A2 crotoxin basic chain CBa2 n=20 Tax=Crotalinae RepID=PA2BA_CRODU
+------------MRALW-IVAVLLVGV------------------EGSLLQFNKMIKFET
+RKNA-VPFYAFY-------GCYCGWGGQGRPKDA-----------TDRCCFVHDCCYGKL
+---AK--C------NTKWDIYRYSLKS--G--------YITC-GKGTW-CKEQICECDR-
+---------------VAAECLRRSLSTYK-NEY----------MFYPDSRCREPSETC--
+--
+>lcl|UniRef90_A0A077L7Z9 Phospholipase A2 n=1 Tax=Protobothrops flavoviridis RepID=A0A077L7Z9_PROFL
+------------MRTLW-IMAVLLVGV------------------EGGLWQFENMIIKVV
+KKSG-ILSYSAY-------GCYCGWGGRGKPKDA-----------TDRCCFVHDCCYEKV
+---TG--C------DPKWDYYTYSLEN--G--------DIVC-GGDNP-CTKVVCECDK-
+---------------AAAICFRDNLKTYK-KRY----------MTFPDIFCTDPTEKC--
+--
+>lcl|UniRef90_UPI0003F0C224 PREDICTED: phospholipase A2 n=1 Tax=Elephantulus edwardii RepID=UPI0003F0C224
+------------MKLLI-LAAL------FTVGTA------ISGLGSKALWQFRNMIKCTI
+PSSDPLLDYNNY-------GCYCGLGGSGTPVDD-----------LDRCCYQHDRCYDQA
+KKMDS--CT-FLLDNPYTNTYSYKCSG--S--------EITCNSNNKE-CEAFLCNCDR-
+---------------TAAICFSK--APYNPENK----------NLNS-KYCKN-------
+--
+>lcl|UniRef90_G5BZK5 Phospholipase A(2) n=1 Tax=Heterocephalus glaber RepID=G5BZK5_HETGA
+------------MKPLL-LLALIVVSGLP--------------QIYGSLTQFAEMIKSKT
+GKNA-LASYGAY-------GCHCGVDGKGTPKDA-----------TDRCCLKHDCCYKRL
+-VNRK--C------GTKLLKYDFTIKG--S--------SITCKANQGS-CQKQLCECDK-
+---------------AAASCFAQNLKSYN-KKY----------QFYPNLMCHGKAPSC--
+--
+>lcl|UniRef90_Q9Z0Y2 Phospholipase A2 n=3 Tax=Mus musculus RepID=PA21B_MOUSE
+------------MKLLL-LAAL------LTAGAA------AHSISPRAVWQFRNMIKCTI
+PGSDPLKDYNNY-------GCYCGLGGWGTPVDD-----------LDRCCQTHDHCYSQA
+KKLES--CK-FLIDNPYTNTYSYSCSG--S--------EITCSAKNNK-CEDFICNCDR-
+---------------EAAICFSK--VPYNKEYK----------NLDTGKFC---------
+--
+>lcl|UniRef90_A0A061IDH0 Phospholipase A(2) n=2 Tax=Cricetulus griseus RepID=A0A061IDH0_CRIGR
+------------MKPPL-VLAFLCLLVSP---------------VDGNLVQFGVMIERMT
+GKSA--LQYNDY-------GCYCGVGGSNWPVDQ-----------TDWCCHAHDCCYGRV
+-EKLG--C------EPKLEKYLFSVGR--D--------TIFC-AGRTT-CQRQTCECDK-
+---------------RAALCFRHNLGTYN-RKY----------AHYPNKLCTGPTPPC--
+--
+>lcl|UniRef90_UPI00042ACE58 PREDICTED: phospholipase A2-like isoform X2 n=1 Tax=Peromyscus maniculatus bairdii RepID=UPI00042ACE58
+------------MKLLL-LVSLLTGAT-------------AQSISPQAVWQFGNVFHCNL
+LRTGTVSEYRFY-------GCYCGVYGLGDSDED-----------LDRCCRTRDICLAQV
+KNLEN--CA-FLIRNAHTSSYSYSCSG--N--------EVTCSDKNNP-CEAFICNCDR-
+---------------QAAICFS-------KQIN----------DI----HC---------
+--
+>lcl|UniRef90_UPI00042AE93E PREDICTED: phospholipase A2-like n=1 Tax=Peromyscus maniculatus bairdii RepID=UPI00042AE93E
+------------MKLLL-LVSLLTGAT-------------AQSIGPQAVWHWGNVFECNI
+TLSDTVSEGRFY-------GCFCGLWGPGYSDEV-----------LGRCCRTHDNCLAQV
+HELEN--CT-FLIWRP--SFYSFSCSG--S--------EITCSDKNNH-CQAFICNCDR-
+---------------EAATCLS-------KNML----------PI----LC---------
+--
+>lcl|UniRef90_A0A087RI03 Phospholipase A(2) (Fragment) n=3 Tax=Spheniscidae RepID=A0A087RI03_APTFO
+-------------------LHL------FSVGAA------STAVSPWAVWEFRRMIKCTM
+PDSHPLLQFADY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDSCYSQA
+NEQPS--CR-YLLDNPYTEWYKFSCSS--G--------QITCNSKNNK-CEMFICNCDR-
+---------------AAAMCFAK--APYNPKYK----------RLDTKKYC---------
+--
+>lcl|UniRef90_Q9PUH4 Acidic phospholipase A2 S5-32M n=3 Tax=Elapidae RepID=PA2AA_AUSSU
+------------MYPAH-LLVL-LAVCVSLLGAA------SIPPQPLNLVQFSYLIQCAN
+HGSRATWHYTDY-------GCYCGKGGSGTPVDE-----------LDRCCKIHDDCYGEA
+EKK-G--CY------PKMSAYDYYCGE--N--------GPYCRNIKKE-CQRFVCDCDV-
+---------------EAAKCFAR--APYNDANW----------NIDTKKRCQ--------
+--
+>lcl|UniRef90_R4FIM5 PLA2-Hop-9 n=2 Tax=Hoplocephalus bungaroides RepID=R4FIM5_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAS------NIPLRPRNLMQFSNMIQCAN
+HRSRPTSHYADY-------GCYCGKGGSGTPVDE-----------LDRCCKTHDDCYAKA
+KK-----CS------PKLLLYSWRCSR--N--------VPICKDSKSG-CKGVVCDCDA-
+---------------KAAKCFAK--APYNDANW----------DIDTKTRC---------
+--
+>lcl|UniRef90_P20253 Basic phospholipase A2 PA-9C n=1 Tax=Pseudechis australis RepID=PA2B9_PSEAU
+-----------------------------------------------NLIQFKSIIECAN
+RGSRRWLDYADY-------GCYCGWGGSGTPVDE-----------LDRCCKVHDECYGEA
+VKQ-G--CF------PKLTVYSWKCTE--N--------VPIC-DSRSK-CKDFVCACDA-
+---------------AAAKCFAK--APYNKDNY----------NIDTKTRCQ--------
+--
+>lcl|UniRef90_UPI0004D04C22 PREDICTED: phospholipase A2 isoform X1 n=2 Tax=Galeopterus variegatus RepID=UPI0004D04C22
+------------MKLLV-LAAL------LTVGAA------K---DLRAVWQLRSMIKCAI
+PGSKPYLEFNDY-------GCYCGLGGSGTPVDD-----------VDQCCYTHDNCYDQA
+MKLKS--CK-TLLDNPYTNSYSFSCSG--T--------EITCSSGNSD-CDAFICNCDR-
+---------------QAAICFSE--APYNKENK----------DLDRNKYC---------
+--
+>lcl|UniRef90_U3F588 Phospholipase A2 22 n=1 Tax=Micrurus fulvius RepID=U3F588_MICFL
+------------MNPAH-LLVL-AAVCVSLLGAS------SIPPEPLNLINFKRMIECT-
+-TRRSVWDFTNY-------GCYCGSGGRGTPVDE-----------LDRCCKVHDDCYAAA
+EKYHK--CS------PKWTLYSYDCSN--G--------QLTCKDNNTK-CKDFVCNCDR-
+---------------TAALCFAK--APYNNKNF----------KIDPSR-CQ--------
+--
+>lcl|UniRef90_F5CPF1 Phospholipase A2 n=1 Tax=Micrurus altirostris RepID=PA235_MICAT
+------------MNPAH-LLVL-AAVCISLSGAS------SIAPQPLNLIQFGNMIQCTI
+PGSSPLLDYADY-------GCYCGRGGSGTPVDK-----------LDRCCQAHDKCYTDA
+YRFYR--CW------PFLTLYSHTCSN--R--------KVICRGNTTK-CKAFVCNCDR-
+---------------VAANCFAK--APYNKRNY---------------NNCK--------
+--
+>lcl|UniRef90_UPI0004951E34 PREDICTED: phospholipase A2-like n=1 Tax=Stegastes partitus RepID=UPI0004951E34
+------------MNATAPLLLLLLTACVA-----------SGALLPKALWQFMSLTTCIQ
+PGVNP-LKYNEY-------GCWCGIRASGTPLDD-----------LDRCCQVHDKCYEAI
+AKMSG--CT-SVADNPVVLVYDYKCSN--K--------QVTCSELV--------------
+------------------------------------------------------------
+--
+>lcl|UniRef90_A0A0D3N8V5 Acidic phospholipase A2 n=1 Tax=Azemiops feae RepID=A0A0D3N8V5_AZEFE
+------------MRTLW-IVAVLLMGV------------------KGSLIQFETLIMKVA
+GRSG-IWYYGSY-------GCFCGAGGQGRPQDA-----------SDRCCFVHDCCYGKV
+---TG--C------DPKMDSYTYSEEN--K--------AIVC-GGDNP-CKKEVCECDK-
+---------------AAAICFRDNLDTYN-KEY----------WFYPASNCQEESEQC--
+--
+>lcl|UniRef90_UPI0003831C35 PREDICTED: phospholipase A2 n=1 Tax=Melopsittacus undulatus RepID=UPI0003831C35
+------------MKSLV-VLLV------LSVGAA------SGAGLSRAVWEFRDMIKCTI
+PDSHPLLELADY-------GCYCGLGGSGTPVDD-----------LDRCCQVHDNCYSQA
+EKLEA--CR-FLVDNPYTNSYHFSCSN--G--------QITCKSSNNE-CEMFICNCDR-
+---------------AAAMCFAR--STYHPQHS----------RLDTKKYCN--------
+--
+>lcl|UniRef90_A0A093EW41 Phospholipase A(2) (Fragment) n=2 Tax=Tyto alba RepID=A0A093EW41_TYTAL
+-------------------LCL------SSVGAA------SADLSSRAVWELRSMIKCTI
+PSSRPLLEFSDY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDNCYTQA
+NKLKS--CR-FLLDNPYTKLYSFSCSG--G--------QITCNS----------------
+------------------------------------------------------------
+--
+>lcl|UniRef90_H0WKR5 Phospholipase A(2) n=1 Tax=Otolemur garnettii RepID=H0WKR5_OTOGA
+------------MKPPS-VLIFLCLLVVL---------------AGGNLVQFGIMIEKMT
+GKSA--LQYNDY-------GCYCGIGGSHWPVDQ-----------TDWCCQAHDCCYGHL
+-EKLD--C------EPKMEKYLFSVSR--R--------NIFC-AGRTA-CQRQTCMCDR-
+---------------RAALCFRHNLGTYN-RKY----------AHYPNKLCTGPTPPC--
+--
+>lcl|UniRef90_UPI0002C554B2 PREDICTED: phospholipase A2 isoform X1 n=2 Tax=Odobenus rosmarus divergens RepID=UPI0002C554B2
+------------MKFLV-LAAL------LTVAAA------DEGISPRAVWQFRNMIKCTI
+PGSKPFKEYNDY-------GCYCGLGGSGTPVDE-----------LDKCCQTHDNCYSQA
+KKLDS--CK-LLLDNPYTKTYSYSCSG--S--------EITCSAKNKE-CQAFICNCDR-
+---------------KAAICFSK--APYNEKHK----------NLNTKKYCK--------
+--
+>lcl|UniRef90_A0A087VL93 Phospholipase A(2) (Fragment) n=2 Tax=Balearica regulorum gibbericeps RepID=A0A087VL93_BALRE
+-------------------LCL------SSVGAA------SAAVSPRAVWEFRSMLKCTI
+PDSHPLLDFADY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDECYTQA
+KKLKS--CT-FLLDNPYTEVYKFSCSN--G--------QITCSSKNDE-CETFICNCDR-
+---------------TAAMCFAK--APYNPEHR----------QLDTKKYC---------
+--
+>lcl|UniRef90_UPI000359B377 PREDICTED: group IIE secretory phospholipase A2 n=4 Tax=Muroidea RepID=UPI000359B377
+------------MKPPL-ALAFLCLLVSP---------------AGGNLVQFGVMIERMT
+GKSA--LQYNDY-------GCYCGVGGSNWPVDQ-----------TDWCCHAHDCCYGRL
+-EKLG--C------EPKLEKYLFSVGR--D--------TIFC-GGRTT-CQRQTCECDK-
+---------------RAALCFRHNLSTYN-RKY----------AHYPNKLCTGPTPPC--
+--
+>lcl|UniRef90_A0A093R991 Phospholipase A(2) (Fragment) n=2 Tax=Pygoscelis adeliae RepID=A0A093R991_PYGAD
+----------------------------------------------RGILELAGAIRCTT
+GRSP--FAYLRY-------GCYCGLGGRGWPKDR-----------VDWCCFNHDCCYGKA
+-EQAG--C------HPKIESYHWECED--N--------AVVCESLEDK-CQKMACECDR-
+---------------EAAKCFSK--APYH-TKY----------LLWPDFMCGEIQPLC--
+--
+>lcl|UniRef90_A0A091J9R5 Phospholipase A(2) (Fragment) n=2 Tax=Egretta garzetta RepID=A0A091J9R5_9AVES
+----------------------------------------------RGIIELAGAIRCTT
+GRSP--FAYLRY-------GCYCGLGGKGWPKDR-----------VDWCCFNHDCCYGKA
+-EQAG--C------HPKTENYHWECED--N--------NVVCESLEDK-CQKMACKCDR-
+---------------EAAKCFSN--APYH-TKY----------LLWPDFMCGDIQPLC--
+--
+>lcl|UniRef90_R4FI60 PLA2-Aca-2 n=1 Tax=Acanthophis wellsi RepID=R4FI60_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAA------RIPPLPLNLAQFGKMIECAN
+KGSRPSLDYMNY-------GCYCGTEDRGTPVDE-----------LDRCCKIHDDCYAEA
+EKH-G--CF------PKMTSYSWKCAN--D--------VPVC-NSKTQ-CQHFVCYCDL-
+---------------WATKCFSQ--ETYNKNNF----------GIDTKTRCK--------
+--
+>lcl|UniRef90_G1MQT9 Phospholipase A(2) n=2 Tax=Meleagris gallopavo RepID=G1MQT9_MELGA
+---------------------------------YGGPLGEAHVRNRRGILELAGAIRCTT
+GRSP--FAYLRY-------GCYCGLGGRGWPKDR-----------VDWCCFNHDCCYGKA
+-EQAG--C------HPKIESYHWECED--N--------TAVCESLEDK-CQKMACECDR-
+---------------EAAKCFSK--APYH-TKY----------LLWPDIMCGEVQPLCR-
+-Y
+>lcl|UniRef90_A0A091KBN2 Phospholipase A(2) (Fragment) n=2 Tax=Colius striatus RepID=A0A091KBN2_COLST
+-------------------LCL------SSAGAA------SKAVSPRAVWGLRKMIKCTL
+PDSYPLLDYADY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDNCYSEA
+QKLKS--CT-YILDNPYTKFYSYSCSN--K--------EITCSSKNSE-CAMFICNCDR-
+---------------TAAMCFAK--APYNSEYK----------ALDTKKYCQ--------
+--
+>lcl|UniRef90_Q92147 Acidic phospholipase A2 pgPLA 1b/pgPLA 2b n=1 Tax=Protobothrops flavoviridis RepID=PA2AP_PROFL
+------------MRTLW-IMAVLLVGV------------------KGHLMQFENMIKKVT
+GRSG-IWWYGSY-------GCYCGKGGEGRPQDP-----------SDRCCFVHDCCYGKV
+---TG--C------DPKDDFYIYSSEN--G--------DIVC-GDDDL-CKKEVCECDK-
+---------------AAAICFRDNMDTYQ-NKY----------WFYPASNCKEESEPC--
+--
+>lcl|UniRef90_P23026 Basic phospholipase A2 textilotoxin A chain n=1 Tax=Pseudonaja textilis RepID=PA2BA_PSETE
+------------MHPAH-LLVL-LGVCVSLLGAS------DIPPLPLNLVQFSYLIRCAN
+KYKRPGWHYANY-------GCYCGSGGRGTPVDD-----------VDRCCQAHDKCYEDA
+EKL-G--CY------PKWTTYYYYCGA--N--------GPYC-KTRTK-CQRFVCNCDV-
+---------------VAADCFAS--YPYNRRYW----------FYSNKKRCR--------
+--
+>lcl|UniRef90_Q800C3 Acidic phospholipase A2 Cvv-E6f n=3 Tax=Crotalus viridis viridis RepID=PA2AF_CROVV
+------------MRTLW-IVAVLLLGV------------------EGSLVQFEMMIIKVA
+KRSG-LFWYGAY-------GCYCGWGGQGRPQDA-----------TDRCCFVHDCCYGKA
+---TD--C------NPKTVSYTYSVKN--G--------EIIC-EDDDP-CKKQVCECDR-
+---------------VAAVCFRDNIPSYN-NNY----------KRFPAENCREEPEPC--
+--
+>lcl|UniRef90_UPI000522B5CD PREDICTED: phospholipase A2 n=1 Tax=Leptosomus discolor RepID=UPI000522B5CD
+------------MKSLA-LLFL------LSVGAA------SAAVSPRAVWELRSMIKCTI
+PNSHPLLEFGDY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDHCYSEA
+KKLAS--CK-FLWDSPYTEIYKYSCSK--E--------EITCSSKNDE-CEMFVCNCDR-
+---------------AAAMCFAK--APYDPQHR----------KLDTKKYC---------
+--
+>lcl|UniRef90_UPI00035A1DE8 PREDICTED: phospholipase A2-like n=1 Tax=Mesocricetus auratus RepID=UPI00035A1DE8
+------------MKLLL-LVTL------LTAGAT------AHSIRRRALLQFNNVIKCII
+PGSHPFKDYSNY-------GCYCGFGGSNTPVDE-----------LDRCCQTHDYCYDRA
+KELKS--CG--FLDNPYIAFYSYSCSR--N--------EIICSDKNNA-CNAFICNCDK-
+---------------QAAICFSN--APYNKKNK----------GI----HC---------
+--
+>lcl|UniRef90_G1T1K5 Phospholipase A(2) n=1 Tax=Oryctolagus cuniculus RepID=G1T1K5_RABIT
+------------MELPL-LCGLLVMAGVI--------------PGQGGILNLNKMVKQVT
+NKTP-ILSYWSY-------GCHCGIGGRGQPKDA-----------TDWCCRVHDCCYARL
+KKTHG--C------HPLVDSYRYTFAE--G--------HVQCSDKGSW-CEQQLCACDK-
+---------------EVALCFKRNLDTYQ-KHL----------RYYWRPRCSGQAPEC--
+--
+>lcl|UniRef90_G3INN9 Phospholipase A(2) n=3 Tax=Cricetulus griseus RepID=G3INN9_CRIGR
+------------------------------------------------MWKYGNVFQCTN
+PLIQSFRIYNYY-------CWYCLFDTWNDRMED-----------LDKCCRFRADCYAQG
+NKMKN--CT-FRLGDPKTTSYSYSCSG--A--------VVTCSDENDA-CEDIICNCDR-
+---------------QAAICFSK--SSENKGLV----------GG----YC---------
+--
+>lcl|UniRef90_UPI0003D08927 PREDICTED: phospholipase A2-like n=1 Tax=Alligator mississippiensis RepID=UPI0003D08927
+------------MKVIL-XILL------SSVGTA------SAAAFPRSVWQLHNMIKCTI
+PDSDPVKDYTDY-------GCYCGLGGSGTPVDQ-----------LDRCCQAHDHCYAEA
+KKYSK--CK-GIMDNPYTEIYYYSCHD--Q--------DITCSG----------------
+------------------------------------------------------------
+--
+>lcl|UniRef90_Q45Z14 PLA-4 n=1 Tax=Pseudechis porphyriacus RepID=Q45Z14_PSEPO
+------------MSPAH-LLVL-LAVCVSLLGAS------DIPPQPLNLYQFKNMIQCAN
+KGSRATWHYLDY-------GCYCGPGGRGTPVDE-----------LDRCCKAHDDCYIEA
+GKD-G--CF------PRLTLYSWKCTG--N--------VPTC-NSKSK-CKAAVCACDA-
+---------------TAAKCFAK--APYDNKNW----------NIDTGKHC---------
+--
+>lcl|UniRef90_P08873 Basic phospholipase A2 notechis 11'2 n=1 Tax=Notechis scutatus scutatus RepID=PA2B2_NOTSC
+------------MYPAH-LLVL-LTVCVSLLEAS------SIPARPLNLYQFGNMIQCAN
+HGRRPTLAYADY-------GCYCGAGGSGTPVDE-----------LDRCCKAHDDCYGEA
+GKK-G--CY------PTLTLYSWQCIE--K--------TPTC-NSKTG-CERSVCDCDA-
+---------------TAAKCFAK--APYNKKNY----------NIDTEKRCQ--------
+--
+>lcl|UniRef90_P00602 Acidic phospholipase A2 CM-I n=4 Tax=Naja RepID=PA2A1_NAJMO
+-----------------------------------------------NLYQFKNMIHCTV
+P-SRPWWHFADY-------GCYCGRGGKGTAVDD-----------LDRCCQVHDNCYGEA
+EKL-G--CW------PYLTLYKYECSQ--G--------KLTCSGGNNK-CEAAVCNCDL-
+---------------VAANCFAG--APYIDANY----------NVNLKERCQ--------
+--
+>lcl|UniRef90_I3MJ87 Phospholipase A(2) n=2 Tax=Ictidomys tridecemlineatus RepID=I3MJ87_ICTTR
+--------------------------VAM---------------ASGNLVQFGVMIERMT
+GKSA--LQYNDY-------GCYCGIGGSHWPVDQ-----------TDWCCHAHDCCYGRL
+-GKLG--C------EPKLEKYLFSVGQ--Q--------DIFC-AGKTT-CQRWTCECDR-
+---------------RAALCFRRYVSTYN-RKY----------AHYPNKLCTGPTPPC--
+--
+>lcl|UniRef90_L5LPH4 Phospholipase A(2) n=4 Tax=Vespertilionidae RepID=L5LPH4_MYODS
+------------MKPPR-LLTFLSLLVAL---------------AGGNLLQFGVMIEKMT
+GKSA--LQYNDY-------GCYCGIGGSHWPVDP-----------TDWCCHAHDCCYGRL
+-QKLG--C------EPKLERYLFSASK--S--------NILC-SGRTA-CQQETCECDK-
+---------------TAALCFRQNLDTYD-RKY----------VRYPNKLCTGPSPPC--
+--
+>lcl|UniRef90_UPI00042AA7D6 PREDICTED: phospholipase A2-like n=1 Tax=Peromyscus maniculatus bairdii RepID=UPI00042AA7D6
+------------MKLLL-LVTL------LTAGAN------AHSISRRSLWQFNNVIKCTI
+PASHPLLEYSNY-------GCYCGFGGSGTPVDA-----------LDRCCQTHDNCYDQV
+MKMEN--CK-SLIDNPYTTSYSYSCSG--T--------EITCSDENDP-CEAFICNCDR-
+---------------EAAICFSQ--APYNKENK----------GI----AC---------
+--
+>lcl|UniRef90_F1LFX1 Phospholipase A(2) n=1 Tax=Ascaris suum RepID=F1LFX1_ASCSU
+------------MFISQ-IILLALLNQIF-----------ANHPYNKALWNMDGMSQCIL
+HYTG--LYYNMY-------GCFCGMGGSGYAVDG-----------IDACCMYHDNCYDDA
+FKKGN--CS---TIELYTKNYKWECID--G--------MIICTRGQGS-CEQALCDCDK-
+---------------RLFNCLAHFPKPTVKASCPI-------------------------
+--
+>lcl|UniRef90_P00611 Acidic phospholipase A2 1 n=1 Tax=Laticauda semifasciata RepID=PA2A1_LATSE
+------------MYPAH-LLVL-LAVCVSLLGAT------AIPPLPLNLVQFSNLIQCVN
+KGSRASYHYADY-------GCYCGAGGSGTPVDE-----------LDRCCKIHDDCYGEA
+EKM-G--CY------PKWTLYTYDCST--E--------EPNC-STKTG-CQGFVCACDL-
+---------------EAAKCFAR--SPYNNKNY----------NIDTSKRCK--------
+--
+>lcl|UniRef90_P04055 Phospholipase A2 n=2 Tax=Rattus norvegicus RepID=PA21B_RAT
+------------MKLLL-LAAL------LTAGVT------AHSISTRAVWQFRNMIKCTI
+PGSDPLREYNNY-------GCYCGLGGSGTPVDD-----------LDRCCQTHDHCYNQA
+KKLES--CK-FLIDNPYTNTYSYKCSG--N--------VITCSDKNND-CESFICNCDR-
+---------------QAAICFSK--VPYNKEYK----------DLDTKKHC---------
+--
+>lcl|UniRef90_A0A091NNL4 Phospholipase A(2) (Fragment) n=2 Tax=Apaloderma vittatum RepID=A0A091NNL4_APAVI
+----------------------------------------------RGILELAGAIRCTT
+GRSP--FAYLRY-------GCYCGLGGRGWPKDR-----------VDWCCFNHDCCYGKA
+-EQAG--C------HPKTESYRWECED--H--------AAVCESLEDR-CQKMACECDR-
+---------------EAARCFSK--APYH-TKY----------LLWPDFMCGEIQPLC--
+--
+>lcl|UniRef90_P00613 Basic phospholipase A2 4 n=1 Tax=Laticauda semifasciata RepID=PA2B4_LATSE
+-----------------------------------------------NLVQFSYLIQCAN
+TGKRASYHYADY-------GCYCGAGGSGTPVDE-----------LDRCCKIHDNCYGQA
+EKM-G--CY------PKLTMYNYYCGT--Q--------SPTC-DNKTG-CQRYVCACDL-
+---------------EAAKCFAR--SPYNNKNY----------NIDTSKRCK--------
+--
+>lcl|UniRef90_P00617 Basic phospholipase A2 beta-bungarotoxin A1 chain n=16 Tax=Bungarus RepID=PA2B1_BUNMU
+------------MNPAH-LLVL-SAVCVSLLGAA------NIPPHPLNLINFMEMIRYTI
+PCEKTWGEYADY-------GCYCGAGGSGRPIDA-----------LDRCCYVHDNCYGDA
+EKKHK--CN------PKTQSYSYKLTK--R--------TIICYGAAGT-CGRIVCDCDR-
+---------------TAALCFGN--SEYIEGHK----------NIDTARFCQ--------
+--
+>lcl|UniRef90_UPI0003959093 PREDICTED: phospholipase A2 n=1 Tax=Pseudopodoces humilis RepID=UPI0003959093
+------------MKFLA-LLFL------LSVGAA------STEVSPRAMWLFRNMIKCTL
+PKSHPLLDFADY-------GCYCGLGGSGTPVDE-----------LDRCCQVHDKCYSQA
+MEMES--CK-FLLDNPYTKLYRFSCSD--G--------EITCSSKNKE-CAMFICNCDR-
+---------------AAAKCFAK--APYNPEHK----------KLDTDKYC---------
+--
+>lcl|UniRef90_G3HU37 Phospholipase A(2) n=2 Tax=Cricetulus griseus RepID=G3HU37_CRIGR
+------------MKVLL-LLAALIMAFGS-------------IQIQGSIVEFGQMILFKT
+GKRP-DTSYAFY-------GCHCGVGGKGTPKDA-----------TDRCCVAHDCCYYRL
+-EKKG--C------GTKFLTYKFSARG--G--------KITCSANQNS-CRKQLCQCDK-
+---------------AAAECFARNRKSYS-LKY----------QFYPNKFCSGKSPKC--
+--
+>lcl|UniRef90_A0A091F9C7 Phospholipase A(2) n=1 Tax=Corvus brachyrhynchos RepID=A0A091F9C7_CORBR
+------------MKFLA-LLFL------LSVGAA------STEVSPRAVWLFRKMIKCTL
+PGSYPLLDFADY-------GCYCGLGGTGTPVDK-----------LDRCCQVHDNCYTQA
+KKMES--CR-FLLDNPYTKLYHFSCSD--G--------QITCSSKNKE-CASFICNCDR-
+---------------AAAMCFAK--APYNPEYK----------KLDTEKYCK--------
+--
+>lcl|UniRef90_A0A087R6N6 Phospholipase A(2) (Fragment) n=2 Tax=Aptenodytes forsteri RepID=A0A087R6N6_APTFO
+----------------------------------------------RGILELAGAIRCTT
+GRSP--FAYLRY-------GCYCGLGGRGWPKDR-----------VDWCCFNHDCCYGKA
+-EQAG--C------HPKIESYHWECED--N--------AAVCESLEDK-CQKMACECDR-
+---------------EAAKCFSK--APYH-TKY----------LLWPDFMCGEIQPLC--
+--
+>lcl|UniRef90_UPI0006B38B42 PREDICTED: phospholipase A2-like n=1 Tax=Austrofundulus limnaeus RepID=UPI0006B38B42
+------------MNGPA-LLLLLLTACVV----------------RGGVIQYLNMIMCVQ
+PDVNS-LAYSDY-------GCYCGHKGTVTPVDE-----------VDKCCQTHGRCYETF
+KTTPG--CE-STFKNPFLLIYKYSCVD--Q--------QVTCSDS-DK-CQAALCECDR-
+---------------AAAHCFSK--NAYNPQNE----------HLYSRSHCVNTASR---
+--
+>lcl|UniRef90_UPI00046B65B0 PREDICTED: group IIE secretory phospholipase A2 n=1 Tax=Tarsius syrichta RepID=UPI00046B65B0
+------------MKPPP-VLTFLCLLVAL---------------AGGNLVQFGVMIERMT
+GKSA--LQYNNY-------GCYCGIGGSHWPVDQ-----------TDWCCHAHDCCYGHL
+-EKLG--C------EPKLEKYVFSASS--R--------SISC-AGRTA-CQRQTCECDK-
+---------------RAALCFRHNLGTYN-RKY----------VRYPKKLCAGPTPPC--
+--
+>lcl|UniRef90_F8QN51 Acidic phospholipase A2 Vur-PL3 n=1 Tax=Vipera renardi RepID=PA2A3_VIPRE
+------------MRTLW-IVAVCLIGV------------------EGNLFQFGKMIKYKT
+GKSA-LLSYSAY-------GCYCGWGGQGKPQDP-----------TDRCCFVHDCCYGRV
+---NG--C------NPKMDTYSYSFLN--G--------DIVC-GDDDP-CLRAICECDR-
+---------------AAAICFGENVNTYD-KKY----------KYYSSSHCT-ETEQC--
+--
+>lcl|UniRef90_U1M579 Phospholipase A(2) n=2 Tax=Ascaris RepID=U1M579_ASCSU
+------------MFISQ-IILLALLNQIF-----------AKHPYNKALWNMDGMSQCIL
+HYTG--LYYNMY-------GCFCGMGGSGYAVDG-----------IDACCMYHDNCYDDA
+FKKGN--CS---TIELYTKNYKWECID--G--------MIICTRGQGS-CEQALCDCDK-
+---------------RLFNCLAHFPKPTVKASCPI-------------------------
+--
+>lcl|UniRef90_P00612 Basic phospholipase A2 3 n=8 Tax=Laticauda semifasciata RepID=PA2B3_LATSE
+-----------------------------------------------NLVQFTYLIQCAN
+SGKRASYHYADY-------GCYCGAGGSGTPVDE-----------LDRCCKIHDNCYGEA
+EKM-G--CY------PKLTMYNYYCGT--Q--------SPTC-DDKTG-CQRYVCACDL-
+---------------EAAKCFAR--SPYNNKNY----------NIDTSKRCK--------
+--
+>lcl|UniRef90_H8PG85 Phospholipase A2 isoform 4 n=2 Tax=Elapidae RepID=H8PG85_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAA------RIPPQPLNLVQFDSIIECAN
+YGSRPSWHYLDY-------GCYCGKGGSGTPVDD-----------LDRCCKTHDDCYAEA
+DKK-G--CN------PTFSVYSWKCGS--D--------GPTC-SDNNE-CKAFICNCDA-
+---------------AAAKCFAR--APFNQENW----------GIGTETRCQ--------
+--
+>lcl|UniRef90_UPI00004E17EC Phospholipase A2 n=1 Tax=Micropechis ikaheka RepID=UPI00004E17EC
+-----------------------------------------------NLYQFRKMIKCTI
+PGREPLLAFTDY-------GCYCGKGGSGTPVDE-----------LDRCCQTHDNCYDKA
+EKLPE--CK-GILSGPYVNTYSYDCTD--G--------KLTCNDQKDK-CKLFICNCDR-
+---------------TAAMCFAK--APYIEANN----------HIDP-NRCK--------
+--
+>lcl|UniRef90_A0A099YYQ6 Phospholipase A(2) (Fragment) n=2 Tax=Tinamus guttatus RepID=A0A099YYQ6_TINGU
+-------------------LCF------SSVGAA------AADVSPRAVWQLRRMIKCTI
+PHSDPIRDFANY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDQCYSEA
+R---------FLLDNPHTNMYSYSCSG--E--------EITCSSTNNN-CEMFICNCDR-
+---------------TAAMCFAK--APYNLSHR----------NMNT-KYCK--------
+--
+>lcl|UniRef90_U3JMU0 Phospholipase A(2) n=24 Tax=Neognathae RepID=U3JMU0_FICAL
+--------------------------STV----YKGTFGEAHLRNRRGILELAGAIRCTT
+GRSP--FAYLRY-------GCYCGLGGKGWPKDR-----------VDWCCFHHDCCYGRA
+-EQAG--C------QPKTESYHWECKD--N--------SAVCDSLEDK-CQKMACECDR-
+---------------EAAKCFSK--APYH-RKY----------LLWPDFLCGEIQPLCR-
+-Y
+>lcl|UniRef90_A0A0G2CRF8 Phospholipase A(2) n=1 Tax=Scleropages formosus RepID=A0A0G2CRF8_9TELE
+------------MQGLV-LTADCHPLCAL----V------PADPDYRAVWQLRSMLICVM
+PDSWPALEYADY-------GCYCGLGGSGTPVDE-----------LDRCCQTHDHCYSAA
+MELKA--CW-PVLENPYTLIYHYSCDKANK--------TVTCEGRYPP------------
+-------------------------------------------GLKPSARVHGLIVNGQ-
+--
+>lcl|UniRef90_UPI0003EC36C0 PREDICTED: phospholipase A2 n=1 Tax=Myotis davidii RepID=UPI0003EC36C0
+------------MRLVV-PVCL--------------------PALRGALSAAGPVLGPEL
+KQVDDLPPVDGF-----------ATTPTTTPSDEAGLS-------AKGCCQTHDRCYDQA
+KKLDS--CK-FLLDNPYTKSYSYKCSG--S--------EIVCNSKNKP-CQAFICECDR-
+---------------NAAICFSK--APYNKEHK----------NLNTKKFCRD-------
+--
+>lcl|UniRef90_Q6SLM0 Basic phospholipase A2 3 (Fragment) n=1 Tax=Bungarus caeruleus RepID=PA2B3_BUNCE
+---------------------L-VAVCVSLLGAA------NIPPQPLNLQQFKNMIQCA-
+-GTRTWTAYINY-------GCYCGKGGSGTPVDK-----------LDRCCYTHDHCYNQA
+DSIPG--CN------PNIKTYSYTCTQ--P--------NITCTRTADA-CAKFLCDCDR-
+---------------TAAICFAS--APYNINNI----------MISASNSCQ--------
+--
+>lcl|UniRef90_Q8UUI1 Basic phospholipase A2 PC17 n=2 Tax=Laticauda laticaudata RepID=PA2BH_LATLA
+------------MYPAH-LLLL-LAVCVSLLGAS------AIPPLPLNLIQFTYLIECAN
+KGRRTSFNYADY-------GCYCGIGGSGTPVDK-----------LDRCCKTHDECYAQA
+EKK-G--CY------PKLTMYNYYCGE--G--------GPYC-NSKTE-CQRFVCDCDV-
+---------------RAADCFAR--YPYNNKNY----------NINTSKRCK--------
+--
+>lcl|UniRef90_P00624 Acidic phospholipase A2 n=17 Tax=Crotalus RepID=PA2A_CROAT
+------------MRTLW-IVAVLLLGV------------------EGSLVQFETLIMKIA
+GRSG-LLWYSAY-------GCYCGWGGHGLPQDA-----------TDRCCFVHDCCYGKA
+---TD--C------NPKTVSYTYSEEN--G--------EIIC-GGDDP-CGTQICECDK-
+---------------AAAICFRDNIPSYD-NKY----------WLFPPKNCREEPEPC--
+--
+>lcl|UniRef90_UPI0006B3A709 PREDICTED: phospholipase A2, minor isoenzyme-like n=1 Tax=Austrofundulus limnaeus RepID=UPI0006B3A709
+------------MNGPA-LLLL-LTACVV-----------SGGNVPKAMWQFGNVIMCYQ
+PGVNP-LAYNNY-------GCWCGLGGTGTPVDE-----------VDECCRVHDKCYEAS
+RKDPD--CS-TISTLPHILVYDFSCSN--T--------QVECSDTNDK-CQXAVCECDR-
+---------------VAANCFAQ--KDYNPENK----------NLDPTIYCVN-------
+--
+>lcl|UniRef90_P00627 Basic phospholipase A2 6 (Fragment) n=4 Tax=Bungarus fasciatus RepID=PA2B6_BUNFA
+------------------------AVCVSLLGAA------NIPPQSLNLYQFKNMIECA-
+-GTRTWLAYVKY-------GCYCGPGGTGTPLDE-----------LDRCCQTHDHCYDNA
+KKFGN--CI------PYLKTYVYTCNK--P--------DITCTGAKGS-CGRNVCDCDR-
+---------------AAAICFAA--APYNLANF----------GIDKEKHCQ--------
+--
+>lcl|UniRef90_G3I6R6 Phospholipase A(2) n=2 Tax=Cricetulus griseus RepID=G3I6R6_CRIGR
+-------------------------------------------------------MECTI
+QGSHPLKDYNTY-------SCFCG---SYTPVDE-----------LDRCCKAQDHCYDQA
+KKLEI--C--TFPHSPYTTPYSFSCSG--N--------EVTCSDENDA-CEAFICNCDL-
+---------------QAAICFSK--ASYTKKNK----------GI----HC---------
+--
+>lcl|UniRef90_UPI00045761CE PREDICTED: phospholipase A2, minor isoenzyme-like n=1 Tax=Callorhinchus milii RepID=UPI00045761CE
+------------MFSLV-LVSL------LLAGAQ------SRDFNSKALWQFRGMIKCSI
+PDSNPLLEFNNY-------GCYCGYGGGGTPVDT-----------LDQCCFVHDNCYGDT
+MEMEE--CW-PIFDNPYTEIYAYTCDD--S--------IVKCTSDNGP-CEMAICECDR-
+---------------KAALCFSK--AEYHEEHK----------NLDQYKYCS--------
+--
+>lcl|UniRef90_H8PG83 Phospholipase A2 isoform 2 n=1 Tax=Parasuta nigriceps RepID=H8PG83_9SAUR
+------------MYPAH-LLVL-LAVCVSLLGAT------RFPPRPLNLIQFSYLIQCAN
+HGRRPTWHYMDY-------GCFCGSGGYGTPVDD-----------LDRCCKIHDDCYGEA
+QKK-G--CN------PYWTMYDYYCGS--N--------GPYCRNIKKK-CLRAVCDCDV-
+---------------EAAYCFAR--TPYNNAN----------------------------
+--
+>lcl|UniRef90_Q90ZZ9 Phospholipase A2 EC1 n=1 Tax=Echis coloratus RepID=PA21_ECHCO
+------------MRTLW-IVAVWLMSV------------------EGNLYQFGKMIKNKT
+GKPA-MFSYSAY-------GCYCGWGGQGKPQDA-----------SDRCCFVHDCCYTRV
+---ND--C------SPKMTSYSYSFEN--R--------DIIC-GDDDS-CRKAVCECDR-
+---------------EAAICLGENVNTYD-EKY----------RFYSSSHCVEETEQC--
+--
+>lcl|UniRef90_U3J268 Phospholipase A(2) n=3 Tax=Anas platyrhynchos RepID=U3J268_ANAPL
+------------MKSLA-LLFL------LSVGAA------SADVSPRAVWQLRSMIQCTI
+PGSHPLLQYDGY-------GCYCGLGGSGTPVDE-----------LDKCCQAHDNCYSQA
+KKLSA--CT-FLVDNPYTETYKFSCSS--E--------EITCSSTNDE-CEMFICNCDR-
+---------------TAAMCFAK--APYNPGH----------------------------
+--
+>lcl|UniRef90_P00605 Phospholipase A2 "basic" n=3 Tax=Naja RepID=PA2B4_NAJNG
+-----------------------------------------------NLYQFKNMIHCTV
+P-SRPWWHFADY-------GCYCGRGGKGTPVDD-----------LDRCCQVHDNCYEKA
+GKM-G--CW------PYLTLYKYKCSQ--G--------KLTCSGGNSK-CGAAVCNCDL-
+---------------VAANCFAG--ARYIDANY----------NINFKKRCQ--------
+--
+>lcl|UniRef90_A0A094NER9 Phospholipase A(2) (Fragment) n=1 Tax=Podiceps cristatus RepID=A0A094NER9_9AVES
+-------------------LHL------FSVGAA------SAALSPRAVWELRSMIKCTI
+PNSHPLLEFGDY-------GCYCGLGGSGTPVDE-----------LDRCCQAHDNCYEEA
+KKLGS--CK-YLWDNPYTEWYKFNCTD--G--------QVTCSSKNNE-CEMYVCNCDR-
+---------------TAAMCFAK--APYNPEHD----------RMDTKKYCK--------
+--
+>lcl|UniRef90_UPI0003C26A2F PREDICTED: phospholipase A2, membrane associated-like n=1 Tax=Alligator sinensis RepID=UPI0003C26A2F
+------------MKLVF-VDVVLA---------------------HGDASQFEEMIKATT
+GKNA-LLSYNGY-------GCFCGLGGKGTPVDA-----------TDRCCYAHDCCYRRA
+-KQRG--CK-----NPVTTSYNHRI--------------ITCLDASNS-CKREFCDCDR-
+---------------AAALCFKRTLSTYK-GSY----------LFYPSKKCGGKKLTC--
+--
+>lcl|UniRef90_UPI00045E187B PREDICTED: phospholipase A2, partial n=1 Tax=Orycteropus afer afer RepID=UPI00045E187B
+--------------TLA-VSSL-------AVSAA------TSGINPRAVWQFRNMIKCTI
+PDSDPLKDYNDY-------GCYCGLGGSGTPVDE-----------LDTCCQTHDNCYKKA
+KDI----CT-FFLDNPYTKSYSYKCSG--S--------EITCSDSNKE-CQAFVCNCDR-
+---------------EAAICFSK--APYNPENK----------NLDTKKFCQS-------
+--
+>lcl|UniRef90_P00595 Basic phospholipase A2 DE-1 n=1 Tax=Hemachatus haemachatus RepID=PA2B1_HEMHA
+-----------------------------------------------NLYQFKNMIKCTV
+P-SRSWWHFANY-------GCYCGRGGSGTPVDD-----------LDRCCQTHDNCYSDA
+EKISG--CR------PYFKTYSYDCTK--G--------KLTCKEGNNE-CAAFVCKCDR-
+---------------LAAICFAG--AHYNDNNN----------YIDLARHCQ--------
+--
+>lcl|UniRef90_G3TYR4 Phospholipase A(2) n=2 Tax=Loxodonta africana RepID=G3TYR4_LOXAF
+------------MKLFV-LAVL------LTVGAA------GSGISPRAVWQFRNMIKCAI
+PNSNPLKEYNDY-------GCYCGLGGSGTPVDE-----------LDTCCQTHDQCYDRV
+KNLSS--CT-FLLDNPYTNNYSYKCSG--S--------DITCSSSNEE-CEAVLCNCDR-
+---------------SAAICFSK--APYNEEHK----------SLDKKKYC---------
+--
+>lcl|UniRef90_A0A091W8U1 Phospholipase A(2) (Fragment) n=2 Tax=Opisthocomus hoazin RepID=A0A091W8U1_OPIHO
+----------------------------------------------RGIVELAGAVRCTT
+GRSP--FAYLRY-------GCYCGLGGRGWPKDR-----------VDWCCFNHDCCYGKA
+-EQAG--C------HPKTERYYWECDD--N--------AVVCESLEDE-CQKMACECDR-
+---------------EAAKCFAR--APYH-TKY----------LLWPDFRCGDIQPLC--
+--
+>lcl|UniRef90_M7B849 Phospholipase A(2) n=1 Tax=Chelonia mydas RepID=M7B849_CHEMY
+------------MWKLF-PMAILAASILT--------------MIHSSLLNFKFMIRRIT
+RKSA-LISYNGY-------GCHCGLGGRGQPLDK-----------TDWCCHAHDCCYKEL
+-TNQS--C------HPFFDHYRYSIIN--K--------DVMCWNTNNATCAKRACECDR-
+---------------TAVLCFRKEASSYH-KGY----------RYYFNFFCKGSTPSC--
+--
+>lcl|UniRef90_UPI0007045701 UPI0007045701 related cluster n=1 Tax=unknown RepID=UPI0007045701
+------------MKLLV-LAAL--------------------------------------
+------------------------LTDAGGPAAPHLLLPQPFPLLHPRCCQTHDRCYDQA
+KKLDT--CK-FLLDNPYTKSYSYKCSG--S--------EIICSSKNKP-CQAFICECDR-
+---------------KAAICFSK--APYNKEHK----------NLNTKKFCQD-------
+--
+>lcl|UniRef90_UPI0002C624CD PREDICTED: phospholipase A2, major isoenzyme-like n=1 Tax=Ceratotherium simum simum RepID=UPI0002C624CD
+------------MKLLV-LAVL------LTVGAG------KSGISPRAVWQFRKMIQCTI
+PGSHPLLEYNNY-------GCYCGLGGSGTPVDE-----------LDTCCQTHDECYGQA
+KKLDS--CR-FLVDNPYTENYSYSCSG--S--------EITCSSTNDP-CEDFICNCDR-
+---------------TAAICFSK--ASYSSENK----------NLDS-KYCQD-------
+--
+>lcl|UniRef90_UPI00035941E1 PREDICTED: phospholipase A2-like n=1 Tax=Mesocricetus auratus RepID=UPI00035941E1
+------------MKLLL-LVTLITGAT-------------AQSISPRAVWQFGNVFQCNI
+PLIQRFMEYNFY-------CWYCLFDGWNHPMED-----------IDRCCRARANCYAQG
+NNMKN--CN-FRLGDLYTTSYSYSCSG--A--------VVTCNEENDA-CAAFICNCDR-
+---------------QAAICFSN--TTYSKDFS----------GD----YC---------
+--
+>lcl|UniRef90_G1L8V5 Phospholipase A(2) (Fragment) n=1 Tax=Ailuropoda melanoleuca RepID=G1L8V5_AILME
+----------PASAPVP-A-------VAL---------------AGGNLVQFGVMIERMT
+GRPA--LQYNDY-------GCYCGVGGSHWPVDQ-----------TDWCCHAHDCCYGRL
+-EKLG--C------EPKLERYLFSASR--H--------NIFC-DGKTA-CQRQTCECDR-
+---------------TAALCFRHNLGTYN-RNF----------VRYPNKLCSGPTPPC--
+--
+>lcl|UniRef90_G3I6R9 Phospholipase A(2) n=4 Tax=Cricetulus griseus RepID=G3I6R9_CRIGR
+------------------------------------------------------MIKCII
+PRSHPLLANNDY-------ACYCGTGGSDTPMDD-----------LDRCCQTQEHCYDQV
+KGLGR--CK-QLINNPYTTSYSYSCSG--S--------EITCSDKNNV-CEDFICNCDR-
+---------------QAAICFSR--VLSTSSTRALTIRLAITDNTDTIPTCLIVFITS--
+--
+>lcl|UniRef90_P00607 Basic phospholipase A2 homolog 1 n=1 Tax=Notechis scutatus scutatus RepID=PA2H1_NOTSC
+-----------------------------------------------NLVQFSNMIQCAN
+HGSRPSLAYADY-------GCYCSAGGSGTPVDE-----------LDRCCKTHDDCYARA
+TKSYS--CT------PYWTLYSWQCIE--K--------TPTC-DSKTG-CQRFVCDCDA-
+---------------TAAKCFAK--APYNKENY----------NIDPKKRCQ--------
+--
+>lcl|UniRef90_A0A0K0D0X7 Phospholipase A(2) n=1 Tax=Angiostrongylus cantonensis RepID=A0A0K0D0X7_ANGCA
+------------MSAFC-SIFLAV------------------------------------
+--------YVDY-------GCWCGFGGRHSPVDG-----------IDGCCMVHDKCYSSA
+VRSGA--C--PSTILVYLQHYTFTCTN--H--------TATCSAKSDA-CQSALCACDV-
+---------------AVAECWSKFPRPQERKKKTLKGMSKHLQH----------------
+--
+>lcl|UniRef90_I3M3V7 Phospholipase A(2) n=1 Tax=Ictidomys tridecemlineatus RepID=I3M3V7_ICTTR
+------------MKFLL-LAAL------LAGSVT------AHIINRRAVWQFRNVIKCTI
+PGSDPYKDYNNY-------GCFCGLGGSGTPVDE-----------LDRCCQKHDACYSQA
+KKLPS--CK-FLVDNPYTNTYSYTCSG--T--------EVICSSKNKE-CEAFICNCDR-
+---------------EAAICFSK--APYNKEHK----------NLDTDKFC---------
+--

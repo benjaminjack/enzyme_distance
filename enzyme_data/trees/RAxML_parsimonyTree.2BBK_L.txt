@@ -1,0 +1,1 @@
+(lcl|UniRef90_A0A0F8X4Y6,((lcl|UniRef90_L8MF83,lcl|UniRef90_A0A070C2K4),lcl|UniRef90_V9RRA8),2BBK_L);

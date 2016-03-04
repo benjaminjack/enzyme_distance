@@ -1,0 +1,3080 @@
+>1A95_C
+-----------------------------------------------------------E
+---KYIVTWDMLQIHARKLASRLM----------P-SEQ----------------WK--G
+IIAVSRGGLVPGALLARELGIRHVDTVCISSY------D---HDN-----Q---------
+-RE--LKVL-K--RAE---GD-----------------GEGF-----IVIDDLVDTGGTA
+VAIREMYPK----AHFVTIFAKPAGR--PLVDDYVVDIPQDTWIEQPWDMGV--VFVPP-
+------ISGR-------------
+>lcl|UniRef90_F2J508 Xanthine phosphoribosyltransferase n=3 Tax=Alphaproteobacteria RepID=F2J508_POLGS
+----------------------ME----N--PEQP------------------------K
+---AFPVSWDQFHRDARALAWRLS----GQ----G---E----------------WQ--A
+IVCITRGGLVPAAIVARELGIRMIETVCIASY-----HD---YEN-----Q---------
+-GS--LQVI-K--PVD---PKVVGLDGG---------QGAGV-----LVIDDLVDTGKTA
+RVVREMLPK----AHFATIYAKPMGR--PMVDTFVTEVSQDTWIYFPWDMGW--QFQPP-
+------LAKT-TAG---------
+>lcl|UniRef90_A0A0M8KSN4 Xanthine-guanine phosphoribosyltransferase n=2 Tax=Brachybacterium RepID=A0A0M8KSN4_9MICO
+-----------------MTQAYHA----DS-SDLV------------------------E
+---KEVLTWELFGTASRELAQTIA----DS--------D----------------FEPEI
+IIAVARGGLLPAGALSYALGVKLSDAINVEFY-----TD---VHE-----TLPDPVLLAP
+MLD--TESI-K---------------------------GKRL-----LVVDDVADSGRTL
+ALVLDLMREMGADARSAVIYGKPR----SVVDPDFVWRRTDEWIVFPWSAEP------P-
+------VTPS-VG----------
+>lcl|UniRef90_W9V8W2 Xanthine phosphoribosyltransferase n=2 Tax=Nitrincola RepID=W9V8W2_9GAMM
+-----------------------M----TE-HHYR------------------------M
+---DFPVGWEELHRNARALAWRLL----DK----G---E----------------WK--G
+IIAITRGGLVPAAILAREMDIRLIDTICVVSY------Q---KSD-----A-SGTAAKQ-
+-GA--LDVL-K--G------V------E----G----DGEGM-----ILIDDLVDTGKTA
+RHVREMLPK----AHFATIYAKPAGK--PLVDTFITEVSQDTWIRFPWDMEH--TFSTP-
+------LADR-TKGQSGS-----
+>lcl|UniRef90_K2L505 Xanthine phosphoribosyltransferase n=1 Tax=Idiomarina xiamenensis 10-D-4 RepID=K2L505_9GAMM
+----------------------------MT-WHAN------------------------K
+---EFFVSWEELHRATKELARRQL----------P-AEQ----------------WR--G
+IIAVSRGGLVPAAIVSRELNIRLVDSVSVSSY------N---HTE-----QR--------
+-GD--LQLL-K--DVT---AS------E---------DGEGF-----LVIDDLVDSGNTL
+AFLRQRLPR----AKFITVYAKPKGL--ATVDDYVADLDQETWIHFPWDMHL--HYVEP-
+------LAGQ-EA----------
+>lcl|UniRef90_M9RPG4 Xanthine phosphoribosyltransferase n=3 Tax=Octadecabacter RepID=M9RPG4_9RHOB
+----------------------MTAKDESR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GK----G---P------DDGA------WK--A
+VVAITRGGMAPAMIVARELDIRTVDTISVISY-YSGGGA---ADQ-----R---------
+-RE--ARVL-K--SPD---ATMM----G---------DGTGI-----LVIDDLVDSGKTL
+ELVRAQYPK----AHFATVYAKPEGE--PQVDTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-KD----------
+>lcl|UniRef90_S6HU04 Xanthine phosphoribosyltransferase n=2 Tax=unclassified Oceanospirillaceae RepID=S6HU04_9GAMM
+-----------------------M----SA-TPYN------------------------R
+---DFPVSWEELHRNSRALSWRLL----EM----G---P----------------WK--G
+IIAITRGGLVPAAILAREMDIRFIDTVCISSY------S---SGE-----TDGDKS--Q-
+-GE--LQLL-K--A------A------A----G----DGEGM-----LLVDDLVDTGKTA
+KYVRELLPK----AHFATVYAKPSGK--PLVDTFITEVSQDTWIRFPWDMEY--SFSTP-
+------LADR-K-----------
+>lcl|UniRef90_UPI0003645F86 xanthine phosphoribosyltransferase n=1 Tax=Elioraea tepidiphila RepID=UPI0003645F86
+-------------------------------MS-R------------------------K
+---FYTVTWDQLHRDGKALAWKLL----PL----G---P----------------WH--G
+IVAITRGGLIPAAIVARELDCRQIETVSIVTY------E---EMD-----R---------
+-GE--PQVT-K--PPI---AA------G---------TGAGW-----LIVDDLVDTGATA
+KVVRALLPD----AHFATVYAKPAGK--PLVDTYVTEVSQDTWILFPWDTEP--QFVQP-
+------IAKA-NGVR--------
+>lcl|UniRef90_K2HMX5 Xanthine phosphoribosyltransferase n=2 Tax=root RepID=K2HMX5_9RHOB
+----------------------MT----DR-LPHE------------------------K
+---GFHVSWDQIHRDSRALAWRLD----GL----G---P------DGGAGARGGGWR--A
+VVAITRGGMAPAMIVARELDIRSVDTISVKSY------D---HQQ-----Q---------
+-AE--ATML-K--SPD---AQLM----G---------DGTGI-----LVVDDLVDSGKTL
+ELVRRLYPK----AHFATVYAKPQGR--AQVDTFVTEVSQDTWIFFPWDMAL--QYAPP-
+------Y-RG-KD----------
+>lcl|UniRef90_UPI00037DDA65 hypothetical protein n=1 Tax=Novispirillum itersonii RepID=UPI00037DDA65
+-----------------------M----KD-YTAS------------------------R
+---YLPIAWELFHRDTRMLAHKLV----------Q-MAP----------------FK--G
+IVAITRGGLIPSSILARELDIRLIDCISIVSY------D---DRV-----Q---------
+-GD--PTVI-K--DVQ---KDIV----G---------DGEGW-----LVVDDLVDSGVTA
+RLVKKLLPK----AHIATVYAKPQGQ--DAVDTFVVPIEQTTWLLFPWDAEL--QPNEP-
+------LARR-K-----------
+>lcl|UniRef90_UPI0004634E0F xanthine phosphoribosyltransferase n=1 Tax=Aminobacter sp. J41 RepID=UPI0004634E0F
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDARALAWRLS----GL----N-M-Q----------------WK--A
+IVCITRGGLVPAAVIARELGIRLIETVCVASY-----HD---YTD-----Q---------
+-GD--LRVL-K--EIN---AELMK---E---------EGAGV-----LIVDDLTDTGKTA
+AIVRAMMPK----AHFAAVYAKPKGR--PIIDTFVTEVSQDTWIYFPWDMGF--TYQKP-
+------IADS-AVR---------
+>lcl|UniRef90_A0A0M9GMS8 Xanthine phosphoribosyltransferase n=2 Tax=Rhodobacteraceae RepID=A0A0M9GMS8_9RHOB
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDARALAWRVA----NV----S-K-E----------------WK--A
+IVCITRGGLVPAAVISRELGIRVIETVSVASY-----HD---YEN-----Q---------
+-GD--IYVL-K--EIS---PELLE---A---------EGEGI-----LIIDDLTDTGKTA
+GLVRAMMPK----AHFATVYAKPKGM--PLVDTFITEVSQDTWIYFPWDMGF--TYQKP-
+------IAEN-HKG---------
+>lcl|UniRef90_A0A0A0D546 Xanthine phosphoribosyltransferase n=2 Tax=Inquilinus limosus RepID=A0A0A0D546_9PROT
+----------------------MA----EH-ASFR------------------------K
+---DFPVSWEELHRNARALAWRLA----EL----G---P----------------WK--G
+IVAITRGGLVPAAILARELDVRLIDTVCVSTY------D---HQD-----I---------
+-RE--SKIL-K--PPV---EG----------------DGEGW-----LIVDDLVDTGRTA
+RVVRDLLPK----AHFATVYAKPAGR--PLVDTFITEVSQDTWIFFPWDIEY--RYAEP-
+------IAEI-RQKR--------
+>lcl|UniRef90_UPI000427C1BB xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio bastinii RepID=UPI000427C1BB
+----------------------MS----GA-DRYR------------------------K
+---TFPVSWEQLQRDCRVLSWRLL----DK----G---P----------------FD--G
+ILAITRGGLVPAAILARELDIRTIDTICVSTY------D---WKT-----Q-------T-
+-KK--ATVL-K--G------F------E----G----SGKNW-----LLVDDLVDTGKTA
+KIVRDMVPD----AHFATVYAKPEGR--PLVDTYITEVSQDTWILFPWDAET--QFVQP-
+------IIKN-SES---------
+>lcl|UniRef90_UPI0006B68611 xanthine phosphoribosyltransferase n=1 Tax=Pseudorhodobacter sp. PAMC 27389 RepID=UPI0006B68611
+----------------------MN----DR-LPHE------------------------K
+---GFHVSWDQMHRDSRALAWRLD----GK----G---P------DGGA------WK--A
+VVGITRGGLVPAMIVARELDIRRVDTISIKSY------N---HQT-----Q---------
+-GA-VPQII-K--APQ---ADLM----G---------DGTGI-----LIVDDLVDSGKTL
+EVVRKLYPN----AHFATVYAKPSGK--PQVDSYITEVSQDTWIFFPWDMAL--QYVQP-
+------F-RG-AD----------
+>lcl|UniRef90_A0A0D6MTQ4 Xanthine phosphoribosyltransferase n=1 Tax=Acetobacter aceti NBRC 14818 RepID=A0A0D6MTQ4_ACEAC
+-------------------------------MA-T------------------------T
+---YATVTWDQLHRDARTLAETLM----SK----G---P----------------FK--G
+IVAITRGGLIPAAILARELDCRLIESISVVTY------D---EES-----K---------
+-GA--PKII-K--DPQ---AA------G---------DGEGF-----LVVDDLVDSGITA
+RVVRERLPK----ALFACLYAKPTGK--PLTDLFVMEVPQDTWVLFPWDTAP--LFIAP-
+------LAKK-ATNGN-------
+>lcl|UniRef90_D2Z8N3 Xanthine phosphoribosyltransferase n=1 Tax=Dethiosulfovibrio peptidovorans DSM 11002 RepID=D2Z8N3_9BACT
+----------------------MG----SE-ERYH------------------------K
+---TFSVSWEQIQRDCKALAWRLL----DR----K--------------------WE--R
+IIGIARGGLIPAAIIARELDIRLVDTVCVSSY------T---MKR-----Q---------
+-GE--LEIL-K--QID---TS------S---------KGEGW-----LIVDDLVDTGKTA
+KVVRDMFPE----ARFAAVYAKPEGR--PYVDTYITEVSQDTWILFPWDAEA--QYSDP-
+------ISMR-QK----------
+>lcl|UniRef90_J1QKZ9 Xanthine phosphoribosyltransferase n=3 Tax=Alishewanella RepID=J1QKZ9_9ALTE
+----------------------------MS-LTTN------------------------K
+---MFYVSWEAFHRATKELARQLL------------GQN----------------FT--A
+IVAVSRGGLVPAAIIARELNIRVLDSICVASY------Q---HDK-----Q---------
+-GS--LSVL-K--DAS---LA----------------DSEQL-----LIVDDLVDTGETA
+KALRERFPK----ARFVTVYAKPQGK--PLVDNYVTDIEQDTWIQLPWDMEL--AYSKP-
+------LAEE-V-----------
+>lcl|UniRef90_UPI0003F65BB7 xanthine phosphoribosyltransferase n=1 Tax=Rhodopseudomonas palustris RepID=UPI0003F65BB7
+---------------MTAS-DLNK----Q--DRAG------------------------R
+---PFPVSWDQFHRDCRALTWRLN----EV----G---P----------------FK--A
+VIAITRGGLVPAAIVARELGIRVIDTVCIASY------D---HDK-----Q---------
+-GS--LQLL-K--PIA---ADIVALGEG---------TGKGV-----LIVDDLVDTGATA
+RVVRDMMPA----AHFATVYAKPLGR--PLVDTFITEVSQDTWIYFPWDLGL--SFQPP-
+------MKDG-AG----------
+>lcl|UniRef90_UPI000494535E xanthine phosphoribosyltransferase n=1 Tax=Bosea sp. 117 RepID=UPI000494535E
+----------------------MS----D--TRQQ------------------------K
+---AFPVSWDQFHRDARALAWRLA----GA----G---P----------------FE--G
+IVCITRGGLVPAAIVARELGVRMIETVCVASY-----HD---YQT-----Q---------
+-GD--TLIL-K--PIA---KAVTDAAGS---------GGQGL-----LVIDDLVDTGKTA
+SVVREMLPK----AHFATVYAKPLGR--PIIDTFITEVSQDTWIYFPWDMGL--SFQPP-
+------IRDG-VA----------
+>lcl|UniRef90_E2CM74 Xanthine phosphoribosyltransferase n=1 Tax=Roseibium sp. TrichSKD4 RepID=E2CM74_9RHOB
+----------------------ME----N--PAQD------------------------K
+---AFPVSWDMFHRDARALAWRLK----DQ----G---Q----------------WK--A
+IVCITRGGLVPAAIVARELGIRTIETVCIASY-----HD---YEN-----Q---------
+-GK--LEVI-K--PVD---GNLIDLEGG---------EGNGV-----LVIDDLVDTGKTA
+KVVREMLPK----AHFATVYAKPVGC--PMVDTFVTEVSQDTWIYFPWDMGW--QFQPP-
+------LSRD-TKG---------
+>lcl|UniRef90_A0A0J8YW75 Xanthine-guanine phosphoribosyltransferase n=1 Tax=bacteria symbiont BFo2 of Frankliniella occidentalis RepID=A0A0J8YW75_9BACT
+---------------------------------MS------------------------Q
+---KYVVTWDMLQIHARQLAEKLL----------P-VEQ----------------WK--G
+IIAVSRGGLVPAALLARELGIRHVDTVCISSY------D---HDH-----Q---------
+-RE--MKIL-K--RAE---GD-----------------GEGF-----IVIDDLVDTGGTA
+KVVREMYHK----ARFVTIFAKPAGR--PLVDDYVVDIPQDTWIEQPWDMGI--TFIPP-
+------LVKS-------------
+>lcl|UniRef90_W0Q5X4 Xanthine phosphoribosyltransferase n=5 Tax=Pasteurellaceae RepID=W0Q5X4_9PAST
+---------------------------------MS-------------------EKYTNE
+---KYVVTWDMFHMHARKLAENLL----------P-ASQ----------------WK--G
+IIAVSRGGLFPAAVLARELGIRHVETVCIASY------D---HDN-----Q---------
+-GE--LKVL-H--AAE---TD-----------------GEGF-----IVVDDLVDTGNTA
+KEIRRMYPK----ARFVTVFAKPQGA--PLVDDYIIDIPQETWIEQPWDLGI--TFVPP-
+------LARK-------------
+>lcl|UniRef90_A0A0H3RPY1 Xanthine-guanine phosphoribosyltransferase n=1 Tax=Salmonella enterica subsp. enterica serovar Pullorum str. 13036 RepID=A0A0H3RPY1_SALPU
+---------------------------------ME------------------------R
+---HY-------------------------------------------------------
+-IAVSRGGLVPGALLARELGIRHVDTVCISSY------D---HDN-----Q---------
+-RE--LKVL-K--RAE---GD-----------------GEGF-----IVIDDLVDTGGTA
+VAIREMYPK----AHFVTIFAKPAGR--PLVDDYVIDIPQNTWIEQPWDMGV--VFVPP-
+------ISGR-------------
+>lcl|UniRef90_UPI00041E56B5 xanthine phosphoribosyltransferase n=2 Tax=Pleomorphomonas RepID=UPI00041E56B5
+----------------------MSPQDAQ--PLAP------------------------K
+---AFPVSWDQFHRDARALAWRLA----GL----G---E----------------WK--A
+IVCITRGGLVPAAIVARELNIRIIETVGIASY-----HD---YTS-----Q---------
+-GE--LQII-K--KVS---PDVVDLEEG---------QGASV-----LIIDDLVDTGKTA
+RIVRDMLPK----AHFATVYAKPKGR--PLVDTFITEVSQDTWIYFPWDLGF--AFQPP-
+------ISRQ-GND---------
+>lcl|UniRef90_UPI0006C78E79 xanthine phosphoribosyltransferase n=1 Tax=Prosthecomicrobium hirschii RepID=UPI0006C78E79
+----------------------MS----Q--PQP-------------------------K
+---AFPVSWDQFHRDARALAWRLS----GQ----G---Q----------------WQ--A
+IVAITRGGLVPAAIVARELDIRLIETVGVASY-----HD---YKN-----Q---------
+-SE--LRVL-K--DVS---PSLIALAGG---------DGAGI-----LIVDDLVDTGKTA
+RVVREMMPK----AHFATVYAKPMGR--PLVDTFVTEVSQDTWIYFPWDMGL--SFQPP-
+------IAGA-AAG---------
+>lcl|UniRef90_G6EZN5 Xanthine phosphoribosyltransferase n=1 Tax=Commensalibacter intestini A911 RepID=G6EZN5_9PROT
+-------------------------------MT-T------------------------Q
+---YLTISWDQLHRDARILCERLS----NK----K--------------------IK--G
+IVAVTRGGMVPAAIIARELECRLIETVSIISY------D---EEK-----Q---------
+-GE--LKII-K--SPT---VA------G---------DGEGF-----LIVDDLVDSGITA
+KAIRKLLPK----AYFVCLYAKPAGK--PCTDDFIMEVQQDTWILFPWDSAP--AFAPP-
+------LVKN-QK----------
+>lcl|UniRef90_A0A087PS72 Xanthine-guanine phosphoribosyltransferase n=3 Tax=Acetobacter RepID=A0A087PS72_9PROT
+-------------------------------MA-V------------------------N
+---YATVTWDQLHRDARILAEALV----PK----M---P----------------FK--G
+VVAVTRGGLIPAAIIARELNCRLVETISVVTY------D---EEE-----R---------
+-GK--PTII-K--SPD---AA------G---------DGEGF-----LVIDDLVDSGVTA
+RVVRERLPK----AYFACLYAKPAGM--KLTNHFVVEVPQDTWVLFPWDTAP--LFVPP-
+------LASK-TMDKAD------
+>lcl|UniRef90_B9JEB6 Xanthine phosphoribosyltransferase n=10 Tax=Rhizobium/Agrobacterium group RepID=B9JEB6_AGRRK
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRLA----GL----N-K-N----------------FR--A
+MVCITRGGLVPAAIISRELNIRMIETVCVASY-----HD---YSS-----Q---------
+-GE--MNLL-K--GIT---AELLT---D---------GGEGV-----LVVDDLTDTGKTA
+LEVRAMLPK----AHFACVYAKPTGV--PTIDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------IAKG-HKG---------
+>lcl|UniRef90_A0A0F7PGX9 Xanthine phosphoribosyltransferase n=4 Tax=Hoeflea RepID=A0A0F7PGX9_9RHIZ
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRLS----GT----G-H-A----------------WN--A
+IVCITRGGLVPAAIISRELDIRRIDTVSVASY-----HD---YVN-----Q---------
+-GD--MKVL-K--EIN---ADILE---T---------EGEGV-----LIVDDLTDTGKTA
+AIVRAMLPK----AHFATVYAKPKGR--PLVDTFVTEVSQDTWIYFPWDMGF--AYVEP-
+------IAKD-SRG---------
+>lcl|UniRef90_A0A0G3CLB6 Xanthine phosphoribosyltransferase n=4 Tax=Enterobacteriaceae RepID=A0A0G3CLB6_9ENTR
+---------------------------------MS------------------------E
+---KYVVTWDMLQMEARKLARRLL----------P-REQ----------------WK--G
+IIAVSRGGLVPAALLARELSIRYVDTVCISSY------D---HDN-----Q---------
+-RE--MKIL-K--RAE---GD-----------------GEGF-----IVIDDLVDTGSTA
+QAIRDMYPK----AHFVTIFAKPAGR--PLVDDYVVDIPQDTWIEQPWDMGI--TFVKP-
+------IGDC-------------
+>lcl|UniRef90_UPI00041ADFAA xanthine-guanine phosphoribosyltransferase n=2 Tax=Ferrimonas RepID=UPI00041ADFAA
+---------------------------------MS------------------------N
+---KFVITWDNMQMYSRQLAERLL----------P-ADQ----------------WK--G
+IIAVSRGGLVPSAILARELGIRYVDTVCISSY------D---HNH-----Q---------
+-RD--LTVV-K--QAP---GD-----------------GEGF-----IVIDDLVDTGGTA
+EMIRELYPK----AHFVTVCAKPAGK--HLVDDYVVDIPQDTWIEQPWDMAV--TFVDP-
+------LVKG-------------
+>lcl|UniRef90_A0A0B4C224 Xanthine phosphoribosyltransferase n=1 Tax=Tateyamaria sp. ANG-S1 RepID=A0A0B4C224_9RHOB
+----------------------MA----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GQ----G---P------DNGA------WR--A
+VVAITRGGMAPAMIVSRELDIRTVDTISVKSY------H---HQS-----Q---------
+-GE--VEVL-K--APD---ADLM----G---------DGTGI-----LIIDDLVDSGRTL
+EVVRDLYPK----AHFATVYAKPKGE--PMVDTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-KD----------
+>lcl|UniRef90_D5QHB8 Xanthine phosphoribosyltransferase n=1 Tax=Komagataeibacter hansenii ATCC 23769 RepID=D5QHB8_KOMHA
+-------------------------------MA-T------------------------S
+---YATVTWDQLHRDARQLAAELM----PR----G---P----------------FR--G
+IVAITRGGLIPAAIIARELDCRLIETVSVVTY------D---EEK-----Q---------
+-GS--ATVI-K--QPE---AA------G---------DGEGF-----LIIDDLVDSGVTA
+QVVRGLLPK----ALFACLYAKPAGR--SLTDLFVVEVPQETWVLFPWDTAP--LFIPP-
+------LARR-DDTPRS------
+>lcl|UniRef90_UPI00056FEB19 xanthine phosphoribosyltransferase n=1 Tax=Zymobacter palmae RepID=UPI00056FEB19
+----------------------MA----SS-ERYQ------------------------R
+---YFKVSWDRLQNDIRELCKDLE------------GRT----------------FK--G
+IIAIARGGLIPTGLFAQEMGLRNIDTLCVQSY------D---AMS-----QR--------
+-EG--VTVD-K--GVD---HD-----------------GEGW-----LLIDDLVDTGKTA
+RIVRELLPK----ALFITVYAKPEGR--PLVDRFHTEVSQDTWVVFPWEP-------NP-
+------PADA-------------
+>lcl|UniRef90_W6KAI3 Xanthine phosphoribosyltransferase n=1 Tax=Magnetospira sp. QH-2 RepID=W6KAI3_9PROT
+----------------------MP----TP-ITDT------------------------D
+---GMIVTWPDVHRDAKYLVRKLL----------S-GQN----------------WK--G
+IVALTRGGLVPAAIVAREMDMRLIDTLCISTY----------EEQEI---G---------
+-TQ--ATIL-K--APE---TAAAE-------------QGEGW-----LLIDDLVDTGTTL
+KAARDLLPK----AHFATLYAKPEGQ--PLVDTFLHEVPQDQWVFFPWDTDL--QYVVP-
+------LARG-------------
+>lcl|UniRef90_UPI0004806CDC xanthine phosphoribosyltransferase n=1 Tax=Dongia sp. URHE0060 RepID=UPI0004806CDC
+-----------------------------M-VSPQ------------------------K
+---TFPVSWEELHRTAKALAWRLI----AL----G---P----------------FE--G
+IVAITRGGLVPAAIIARELDVRLIDTVCMSSY------S---EED-----HAEGTAGVHQ
+AGE--LKLL-K--G------D------AGKMWG----DGTGW-----LIIDDLVDTGRTA
+KYVREMMPK----AHFATVYAKPAGR--PLVDTFVTEVSQDTWIYFPWDIEP--QFIQP-
+------IAKQ-QRS---------
+>lcl|UniRef90_A0A0F5ZRH1 Xanthine phosphoribosyltransferase n=5 Tax=Vibrionaceae RepID=A0A0F5ZRH1_9GAMM
+---------------------------------MS------------------------N
+---KFVITWDNMQMYTRQLAEKLL----------P-ADQ----------------WK--G
+IIAVSRGGLVPSAILARELGIRHVDTVCISSY------D---HDH-----Q---------
+-RD--MRVL-K--KAD---GD-----------------GEGF-----LVVDDLVDTGGTA
+EVIREMYPK----AKFVTVCAKPAGK--HLVDDYVVDIPQDCWIEQPWDMGV--TFVEP-
+------ISKR-------------
+>lcl|UniRef90_Q5FUI1 Xanthine phosphoribosyltransferase n=3 Tax=Gluconobacter RepID=XGPT_GLUOX
+----------------MTAN---Q----TP-QT-V------------------------H
+---YATVTWDQLHRDARLLAATLM----QK---HG---P----------------FR--G
+IVAITRGGLIPAAILGREMGCRLIESVSVISY------A---GEEGT---Q---------
+-HE--PKVV-K--PPV---AA------G---------DGEGF-----LIVDDLVDSGVTA
+RIVRELLPK----AVFACLYAKPEGK--PFTDHYVTEVAQDTWVLFPWDTAP--LFVPP-
+------LVRS-EGE---------
+>lcl|UniRef90_A0A077AU14 Uncharacterized protein n=1 Tax=Candidatus Paracaedibacter acanthamoebae RepID=A0A077AU14_9RICK
+-----------------------M----TE-TPVP------------------------K
+---NY-LTDNQIRQTSITLADKIK----GN--------E----------------YL--G
+LVAITRGGLAPTLYLSEQLIIKDIRTISISSY-----GD---DGK-----Q---------
+-GH--FKITHK--PDL---AN----------------GGEGY-----LFIDDLVDSGKTL
+KLIRSFYPN----ATFAVLYAKPEGK--DATDFFAVEVPQHEWLVFPWEPDW--------
+------IPQS-------------
+>lcl|UniRef90_A0A0A2R5V9 Xanthine phosphoribosyltransferase n=2 Tax=Morganella morganii RepID=A0A0A2R5V9_MORMO
+---------------------------------MS------------------------E
+---KYVVTWDMLQMHARKLAQRLM----------P-TEQ----------------WK--G
+IIAVSRGGLVPGALLARELGIRHVDTVCISSY------D---HDH-----Q---------
+-RD--MKVL-K--KAD---GD-----------------GEGF-----IIVDDLVDTGGTA
+QMIRDMYPK----AHFVTIFAKPAGR--PLVDDYVVDIPQDTWIEQPWDMTV--SFVKP-
+------ICDQ-------------
+>lcl|UniRef90_Q7VKP2 Xanthine phosphoribosyltransferase n=8 Tax=Pasteurellaceae RepID=XGPT_HAEDU
+---------------------------------MS-------------------GKYTNE
+---KYVVTWDMFHMHTRKLAERLL----------P-ASQ----------------WK--G
+IIAVSRGGLFPAAVLARELSIRHVETVCISSY------E---HDE-----Q---------
+-GE--LKVL-H--AAQ---TD-----------------GEGF-----IVVDDLVDTGNTA
+KEIRRMYPK----AKFVTVFAKPLGA--PLIDDYVIDIPQETWIEQPWDLGI--TFVPP-
+------LARK-------------
+>lcl|UniRef90_D4DWM0 Xanthine phosphoribosyltransferase n=6 Tax=Serratia RepID=D4DWM0_SEROD
+---------------------------------MS------------------------E
+---KYVVTWDMLQMQARKLAHRLL----------P-ADK----------------WT--G
+IIAVSRGGLVPAALLARELGIRHVDTVCISSY------D---HDN-----Q---------
+-RE--MKVL-K--RAE---GD-----------------GEGF-----IVVDDLVDTGGTA
+KAIREMYPK----AHFVTIFAKPAGR--PLVDDYVVDIPQDTWIEQPWDMAV--SFVPP-
+------IGGR-------------
+>lcl|UniRef90_G4RDL1 Xanthine phosphoribosyltransferase n=1 Tax=Pelagibacterium halotolerans (strain JCM 15775 / CGMCC 1.7692 / B2) RepID=G4RDL1_PELHB
+----------------------------M--TPQN------------------------K
+---SFPVSWDQFHRDSRALAWRLT----SE----G---P----------------FH--S
+IVAITRGGLVPAAIIARELNIRVIESVSVKSY------D---HQS-----Q---------
+-GK--ISVL-K--AIN---SDLIAAD-T---------SGEKL-----LIIDDLVDTGATA
+RAVRDMLPN----AHFATVYAKPQGR--EMVDSFITEVSQDTWIFFPWDLDF--TYAAP-
+------IAGG-TD----------
+>lcl|UniRef90_A0A0B9A8I5 Phosphoribosyltransferase n=1 Tax=Brevibacterium linens RepID=A0A0B9A8I5_BRELN
+-------------------MAYHA----DS-TDLD------------------------E
+---KEILSWDMFGQSARDMAQTIA----DS--------D----------------YDPEI
+VIAVARGGLLPAGALAYALGLKLSDAINVEFY-----TD---VHE-----TLPDPILLAP
+MLD--IEAI-K---------------------------GKKL-----LVVDDVADSGRTL
+ALVLELLRKHGAEAQSAVIYAKSA----SIIDPDFVWKRTDQWIVFPWSAEP------P-
+------VVAN-K-----------
+>lcl|UniRef90_A6FCB0 Xanthine phosphoribosyltransferase n=4 Tax=Moritella RepID=A6FCB0_9GAMM
+---------------------------------MS------------------------D
+---KFIVSWDDLQRDTRKLARKLL----------P-ATQ----------------WK--G
+IIAVSRGGLVPAAILARELDLRHVDTVCISSY------D---HDH-----Q---------
+-RD--MTVL-K--SAP---GD-----------------GEGF-----IIIDDLVDSGETA
+KKIRLMYPK----GKFVTVYAKPLGE--HLVDDFVTAISQDTWIELPWDMAI--EFVEP-
+------ICKQ-G-----------
+>lcl|UniRef90_G9PSW3 Uncharacterized protein n=2 Tax=Synergistaceae RepID=G9PSW3_9BACT
+---------------------MAE----TA-SRYH------------------------K
+---NYPVSWEQVQRDCRALAWKLL----DI----R---SD---------------WS--R
+LITVARGGLVPAAIIARELNIRLVDTVCISSY------T---MRD-----Q---------
+-TA--ADIL-K--RPD---LV------G---------VDEKW-----LIIDDLVDTGKTA
+RIVRGMFGP----AHFATVYAKPEGR--PLVDTFVTEVSQDTWVLFPWDTAPTTAFIPP-
+------IADM-NLEK--------
+>lcl|UniRef90_A0A0M3BR58 Xanthine phosphoribosyltransferase n=3 Tax=Rhizobium RepID=A0A0M3BR58_9RHIZ
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRLA----GL----D-Q-D----------------FH--A
+IVCITRGGLVPAAIISRELNIRLIETVCIASY-----HD---YVN-----Q---------
+-GE--MNLL-K--GIS---PDLTK---D---------GGKGV-----LVVDDLTDTGKTA
+SEVRAMMPE----AHFACVYAKPKGV--PTVDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------IAKG-TKG---------
+>lcl|UniRef90_UPI0004014162 xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio inopinatus RepID=UPI0004014162
+----------------------MS----EA-DRYK------------------------K
+---MYPVSWDQLHRDCRALTWRLV----DR----K--------------------WK--G
+ILAITRGGLIPAAIIARELDIHLIDTVCISTY------N---WLE-----Q-------T-
+-KE--ISIL-K--S------F------T----A----DSTGW-----LLVDDLVDTGKTA
+SIVREMVPH----AYFATVYAKPQGR--PLVDAFVTEVSQDTWILFPWDSQP--QFIEP-
+------IYQT-TGHSS-------
+>lcl|UniRef90_E3D002 Xanthine phosphoribosyltransferase n=1 Tax=Aminomonas paucivorans DSM 12260 RepID=E3D002_9BACT
+---------------------MSD----AA-DRYH------------------------K
+---TYPVSWDQLQRDCRALAWRLL----NL----R---P----------------WT--R
+ILAVARGGLVPAAIIARELNIRLVDTVCVSSY------T---LRT-----Q---------
+-GE--ASIL-K--RPD---LE------D---------MDEDC-----LIVDDLVDTGRTA
+KVVRDLFPR----AHFAAVYAKPEGR--PLVDSYITEVSQDTWILFPWDSTC--AFCTP-
+------IVDQ-DR----------
+>lcl|UniRef90_V7EIE0 Xanthine phosphoribosyltransferase n=1 Tax=Rhodobacter sp. CACIA14H1 RepID=V7EIE0_9RHOB
+----------------------MSA---ER-LPHE------------------------K
+---GFHVSWDQIHRDARALAWRLD----GK----G---PG-----EGGA------WK--A
+VVGITRGGLVPAMIVSRELDIRVVDTISVKSY-HSGGGA---QDQ-----R---------
+-RE--AQVV-K--APQ---TDLM----G---------DGSGI-----LIVDDLVDSGRTL
+ELIRSLYPK----AHCATVYAKPHGK--PQVDTYVTEVSQDTWIFFPWDMAL--QYVQP-
+------F-RG-ND----------
+>lcl|UniRef90_W7Q5F5 Xanthine phosphoribosyltransferase n=2 Tax=Halomonas RepID=W7Q5F5_9GAMM
+----------------------------MS-NRYH------------------------Q
+---HFTVSWDQLHRDVRELCHRLV------------ERD----------------FK--G
+IVAITRGGLIPAALIARELNVRLIDTVCISSY------D---RMS-----Q---------
+-GG--LEVL-K--GVD---HD-----------------GEGW-----LLVDDLVDTGKTA
+RKVREMMPK----AHFVTVYAKPEGR--PLVDQYLTEVAQDCWIQFPWDMGI--AYVEP-
+------LVDQ-VKR---------
+>lcl|UniRef90_I3DBC1 Xanthine phosphoribosyltransferase n=1 Tax=Pasteurella bettyae CCUG 2042 RepID=I3DBC1_9PAST
+---------------------------------MS------------------------E
+---KYVVTWDMFHMHARKLAERLL----------P-ASQ----------------WK--G
+IIAVSRGGLFPAAVLARELGLRHVETVCIASY------D---HDL-----Q---------
+-GE--LKVI-H--KAN---TD-----------------GEGF-----IVIDDLVDTGNTA
+REIRKMYPK----AKFVTVFAKPAGA--SLVDDYVIDIPQNTWIEQPWDLGI--TFVPP-
+------LARK-------------
+>lcl|UniRef90_B9NRC5 Xanthine phosphoribosyltransferase n=2 Tax=Rhodobacteraceae RepID=B9NRC5_9RHOB
+----------------------MSAK--DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GQ----G---P------DDGA------WR--A
+VVAITRGGMAPAMIVSRELDIRTVDTVSVKSY------H---HQA-----Q---------
+-GE--AEVL-K--APN---PDLM----G---------DGTGV-----LIIDDLVDSGKTL
+ELVREMYPK----AHFATVYAKPKGR--PMVDTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------
+>lcl|UniRef90_UPI0006C74C5E xanthine phosphoribosyltransferase n=1 Tax=Gemmobacter sp. LW-1 RepID=UPI0006C74C5E
+----------------------MI----DR-LPHE------------------------K
+---GFHVSWDQIHRDSRALAWRLD----GK----G---PG-----EGGA------WK--A
+VVGITRGGLVPAMIVSRELDIRVVDTISVKSY------N---HQA-----Q---------
+-ME--AVVT-K--SPQ---VDLM----G---------DGTGI-----LVVDDLVDSGKTL
+EMVRKLYPK----AHFATVYAKPSGR--PQVDTYITEVSQDTWIFFPWDMAL--QYVQP-
+------F-RG-TD----------
+>lcl|UniRef90_UPI000368B80E xanthine phosphoribosyltransferase n=2 Tax=Kaistia RepID=UPI000368B80E
+----------------------MV----D--ARSD------------------------K
+---AFPVSWDQFHRDARALTWRLS----GD----Q---K----------------WQ--A
+IVCVTRGGLVPAAIVARELGIRMIETICIASY-----HD---YKE-----Q---------
+-GS--LKVL-K--PVS---QEIIDLGGG---------DGAGV-----LVIDDLVDTGRTA
+RLVREMLPK----AHYATLYSKPMGR--PVVDTFITEVSQDTWIYFPWDMGL--AFQPP-
+------IVG--------------
+>lcl|UniRef90_UPI0004663BF1 xanthine phosphoribosyltransferase n=1 Tax=Aminobacterium mobile RepID=UPI0004663BF1
+----------------------MG----SE-DRYH------------------------K
+---TFPVSWDQLHRDCKALAWRLL----SR----K--------------------WD--K
+IIGIARGGLIPAAIIARELNIRVVDTVCISSY------T---LRT-----Q---------
+-GE--AHIL-K--KIE-----------G---------DGENC-----LIIDDLVDTGKTA
+QVVRKMLPK----AYFATVYAKPEGC--SYVDTYITQVSQDTWILFPWDAET--AYSTP-
+------LVDR-SSEESSL-----
+>lcl|UniRef90_A6W1J6 Xanthine phosphoribosyltransferase n=4 Tax=Marinomonas RepID=A6W1J6_MARMS
+-----------------------------M-TPYS------------------------K
+---DFPVSWEELHRNARALSWRLL----EQ----G---P----------------WK--G
+IIAITRGGLVPAAILCREMDIRLIDTICIVSY------G---AGE-----K-GDGVMKQ-
+-GE--LNVL-K--G------V------E----G----DGEGF-----ILIDDLVDTGRTA
+AKVREMLPK----AHFATIYAKPAGK--PLVDTFITEVSQDTWIRFPWDMEY--TFSTP-
+------LADR-QAK---------
+>lcl|UniRef90_D5ALM1 Xanthine phosphoribosyltransferase n=2 Tax=Rhodobacter capsulatus RepID=D5ALM1_RHOCB
+----------------------MA----ER-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLD----GK----G---P------DNGA------WK--A
+IVGITRGGMVPAAIIARELNIRIIDTISVKGY------N---HQT-----Q---------
+-SD--PVVI-K--APQ---DDLM----GA--------DGEGI-----LVIDDLVDSGRTL
+ELVRRLYPK----AHFATVYAKPKGR--EQVDTFITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-TD----------
+>lcl|UniRef90_B8ERK3 Xanthine phosphoribosyltransferase n=1 Tax=Methylocella silvestris (strain BL2 / DSM 15510 / NCIMB 13906) RepID=B8ERK3_METSB
+-------------MSASPPPSSSS----AP-PVSQ------------------------K
+---AFHVSWDQFHRDARALAWRLS----AS----G---P----------------FS--S
+MIAVTRGGLVPAAIVARELDLRLIDTFCVTSY-----VA---EGV-----Q---------
+-GE--VTVL-K--GVA---AEIAA---G---------AGAGV-----LVVDDLADTGATV
+KQIRALLPK----AHIATVYAKPLGG--PLVDTYVTEVSQDTWIYFPWDLGL--SFQAP-
+------IADA-RR----------
+>lcl|UniRef90_Q5QW45 Xanthine phosphoribosyltransferase n=4 Tax=Idiomarina RepID=XGPT_IDILO
+----------------------------MG-WHSN------------------------R
+---EFFVSWEELHRATRELARRQL----------P-AEQ----------------YK--G
+IIAVSRGGLVPAAIVSRELNIRVVDCVAVSSY------D---HTE-----QR--------
+-DD--LQVM-K--DVT---AT------E---------DGEGF-----LVVDDLVDTGNTM
+KFLRERLPK----AKFVTVYAKPSGM--EMVDDFVADLAQDTWIHFPWDMHL--HYIEP-
+------LAGQ-ES----------
+>lcl|UniRef90_A0A011USJ1 Xanthine phosphoribosyltransferase n=2 Tax=Proteobacteria RepID=A0A011USJ1_9RHIZ
+----------------------------M--SLPD------------------------K
+---AFPISWDQFHRDARALAWRLA----GA----N-Q-K----------------WK--A
+IVCITRGGLVPAAVISRELGIRIIETVCVASY-----HD---YAS-----Q---------
+-GQ--LQVL-K--EVN---PALLE---N---------DGESV-----LIIDDLTDTGKTA
+GIVRAMLPK----AHFATMYAKPKGR--PLVDTFVTEVSQDTWIYFPWDMGF--TYQKP-
+------IADD-QVK---------
+>lcl|UniRef90_UPI0003B45B82 xanthine phosphoribosyltransferase n=2 Tax=Fodinicurvata RepID=UPI0003B45B82
+----------------------MS----PS-DIPA------------------------K
+---TFPVSWWELHRDARALAWRLM----AN----G---P----------------YE--G
+IVAITRGGMVPAAIVARELEIRLIDTICIASY------D---ETV-----Q---------
+-GE--LKVL-K--DVQ---G-----------------DGAGW-----LIIDDLVDTGKTA
+RAVRDRLPK----AHFASIYAKPEGR--PLVDSFITEVSQDTWILFPWDTDM--QAVPP-
+------LIKR-------------
+>lcl|UniRef90_A3JSD7 Xanthine phosphoribosyltransferase n=1 Tax=Rhodobacteraceae bacterium HTCC2150 RepID=A3JSD7_9RHOB
+----------------------MN----DRLLPHE------------------------K
+---GFHVSWDQMHRDSRALAWRLD----GQ----G---PG-----EEGS------WK--M
+VVAITRGGMAPAMIIARELDVRCVDTISVKSY------D---HQD-----Q---------
+-TT--AKVL-K--SPD---AELM----G---------DGTGV-----LIIDDLVDSGKTL
+ELVRSLYPN----AHFATVYAKPSGR--PQVDTFITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-SD----------
+>lcl|UniRef90_Q2NVF2 Xanthine phosphoribosyltransferase n=3 Tax=Sodalis RepID=XGPT_SODGM
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARTMAKLLL----------P-AEQ----------------WK--G
+IIAVSRGGLVPGALLARELGIRHVDTVCIASY------D---HDN-----Q---------
+-RD--LNVL-K--RAE---AD-----------------GEGF-----IVVDDLVDTGVTA
+KAIREMYPK----AHFVTIFAKPAGR--PLVDDYIIDIPQNTWIEQPWDMGV--VFVSP-
+------LAGK-------------
+>lcl|UniRef90_UPI000409828F xanthine phosphoribosyltransferase n=1 Tax=Pseudodonghicola xiamenensis RepID=UPI000409828F
+----------------------MT----DL-LPHE------------------------K
+---GFLVSWDQLHRDARALAWRLQ----GH----A---P------EGG-------WR--A
+VVAITRGGMAPAMIVARELDIRTVDTISVKSY------D---HQT-----Q---------
+-SD--PVVI-K--SPD---MDIV----G---------KGEGI-----LIVDDLVDSGRTL
+EVVRALMPE----AHVATVYAKPKGR--AQVDTFITEVSQDTWIFFPWDTAL--QYVKP-
+------Y-RA-LD----------
+>lcl|UniRef90_Q11IP4 Xanthine phosphoribosyltransferase n=2 Tax=Chelativorans RepID=XGPT_CHESB
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDARALAWRLA----GT----N-G-R----------------WQ--A
+IVCITRGGLVPAAVIARELGIRLIETVCIASY-----HD---YSE-----Q---------
+-GE--LKVL-K--EIS---PSLLE---E---------DGQNI-----LIVDDLTDTGKTA
+AIVRAMMPK----AHFATVYAKPKGR--PLVDTFVTEVSQDTWIYFPWDLGF--SYQKP-
+------IADG-EIG---------
+>lcl|UniRef90_UPI000701F2F5 UPI000701F2F5 related cluster n=1 Tax=unknown RepID=UPI000701F2F5
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDSRALAWRLA----GV----N-S-Q----------------WK--A
+IVCITRGGLVPAAVISRELGIRVIETVCVASY-----HD---YTS-----Q---------
+-GQ--LQVL-K--QIS---PPLLA---N---------DGENV-----LIIDDLTDTGKTA
+AVVRAMLPK----AHFATIYAKPKGR--PLVDTFVTEVSQDTWIYFPWDMGF--TYQKP-
+------IADD-HAG---------
+>lcl|UniRef90_UPI00040ADB88 xanthine phosphoribosyltransferase n=1 Tax=Geminicoccus roseus RepID=UPI00040ADB88
+----------------------MA----DQ-AR--------------------------R
+---YFPVHWDQLHRDAKALSWRLA----GL----G---P----------------WT--G
+IIAVTRGGLVPAHIVARELDVRMIDTIGISSY------D---HQD-----Q---------
+-RE--PQIV-K--PCA---AA------G---------DGKGW-----LVIDDLVDTGQTG
+RIVRQLLPN----AHFATIYAKPLGR--PLVDTFITEVSQDTWILFPWDMEA--SYAKP-
+------IAQMSLPS---------
+>lcl|UniRef90_Q89IM4 Xanthine phosphoribosyltransferase n=33 Tax=Bradyrhizobiaceae RepID=XGPT_BRADU
+-------------MMGGEAPELSA----Q--ERAG------------------------K
+---AFPVSWDQFHRDCRALTWRLN----EV----G---P----------------FH--A
+VIAITRGGLVPAAIVARELGVRVIDTVCIASY------D---HNK-----Q---------
+-GE--LQVL-K--GIS---EAAMKLGGG---------TGKGL-----LIVDDLVDTGKTG
+KLVREMLPD----AHFATVYAKPKGR--PLVDTYITEVSQDTWIFFPWDTAL--SYHPP-
+------LRDG-AA----------
+>lcl|UniRef90_E5Y7N5 Xanthine phosphoribosyltransferase n=2 Tax=Bilophila RepID=E5Y7N5_BILWA
+----------------------MG----KA-DRYQ------------------------K
+---LYPVTWDQLHRDAKALAWRLL----EQ----G---P----------------FK--G
+IIGVARGGLVPAAIVARELNIRLVDTLCICTY------Q---GRE-----Q-------T-
+-GG--EEVL-K--A------I------E----G----DGDGW-----LVVDDLVDTGNTA
+TIIRNMLPK----AHFATLYSKPAGK--PLVDTFITEVSQDTWILFPWDSEV--QYTAP-
+------LVEQ-N-----------
+>lcl|UniRef90_UPI0006844DFF xanthine phosphoribosyltransferase n=1 Tax=Methyloferula stellata RepID=UPI0006844DFF
+----------------------MA----SD-QPAK------------------------N
+---TLTISWDQFHRDARALAALLR----AA----G---P----------------FS--S
+LVAVTRGGLTPAAIVARELDLRCIETISVASY-----VA---ETV-----Q---------
+-GD--GRVV-K--EIA---PAFIAAAVG-----------AKV-----LVIDDLADTGETL
+KLVRQILPS----AHVATLYVKPAGK--PLVDTFVTEVPQETWIYFPWDLGL--RFEPP-
+------LVDG-H-----------
+>lcl|UniRef90_Q65QN6 Xanthine phosphoribosyltransferase n=18 Tax=Pasteurellaceae RepID=XGPT_MANSM
+---------------------------------MS------------------------E
+---KYVVTWDMFHMHARKLAERLL----------P-ASQ----------------WK--G
+IIAVSRGGLFPAAVLARELGLRHVETVCIASY------D---HDQ-----Q---------
+-GD--LKVI-H--KAE---TD-----------------GEGF-----IVVDDLVDTGNTA
+REIRNMYPK----AKFVTVFAKPAGA--PLVDDYVIDIPQNTWIEQPWDLGI--GFVPP-
+------LARK-------------
+>lcl|UniRef90_A0A066RRA5 Xanthine phosphoribosyltransferase n=1 Tax=Photobacterium halotolerans RepID=A0A066RRA5_9GAMM
+---------------------------------MA------------------------K
+---KFVITWDNMQSYTRQLAEKLL----------P-ADQ----------------WQ--G
+IIAVSRGGLVPAAILARELGIRYVDTVCISSY------D---HDH-----Q---------
+-RD--MKVL-K--KVD---GD-----------------GEGF-----IIVDDLVDTGGTA
+EMIRAMYPK----AKFVTVCAKPAGK--HLVDDYVVDIEQDTWIEQPWDMGV--AFVEP-
+------ISKR-------------
+>lcl|UniRef90_C9M887 Phosphoribosyl transferase domain protein n=3 Tax=Jonquetella RepID=C9M887_9BACT
+----------------------MS----LS-DRYH------------------------K
+---TFQISWEQLQRDCRSLARRLV----TR--------P----------------WD--R
+IIGIARGGLVPAAIIARELDVRLVDTVCISSY------S---LRE-----Q---------
+-GE--LQVL-K--NID---LS------G---------DPDRT-----LIVDDLVDTGRTA
+AFVRNMMPG----AHFVSVYAKPAGH--PYVDDCVDSVSQDTWILFPWDAGW--GYVDP-
+------IGAS-VVR---------
+>lcl|UniRef90_J3VT70 Xanthine phosphoribosyltransferase n=1 Tax=secondary endosymbiont of Ctenarytaina eucalypti RepID=J3VT70_9ENTR
+---------------------------------MR------------------------E
+---KYIVSWDMLQIHTRTMATRLL----------P-AEQ----------------WK--G
+IIAVSRGGLVPAALLSRELGIRHVDTVCIASY------D---HDN-----Q---------
+-HN--LSVL-K--RAE---GA-----------------GERF-----IVVDDLVDTGGTA
+KAIRKMYPK----AHFVTIFAKGAGR--PLVDDYIIDIPQHTWIEQPWDMGM--VFVPP-
+------LGGK-------------
+>lcl|UniRef90_UPI000424502C xanthine phosphoribosyltransferase n=1 Tax=Thiomicrospira sp. Kp2 RepID=UPI000424502C
+-----------------------------M-SNQI------------------------R
+---KHIISWDQLHRDCRALTHELL----------ALDKK----------------WD--G
+IIAITRGGMIPAGIIAREMGIRVVDTISVRTY------S---HQE-----I---------
+-SE--PQVLND--VTA---TT----------------DGDGF-----LLIDDLVDTGKTA
+KFVRERLPN----AYFATVYAKPEGR--PLVDNFITEVPQETWIYFPWDLEL--DYVKP-
+------ISKH-ADE---------
+>lcl|UniRef90_UPI00036B70AB hypothetical protein n=1 Tax=Algicola sagamiensis RepID=UPI00036B70AB
+----------------------------ME-LNER------------------------K
+---EFFVSWEDLHRTTKVLAKRLM----------P-NDQ----------------WD--A
+IIAVSRGGLVPGAILARELNIRMIDTICISSY------D---NEH-----Q---------
+-RE--LKVL-K--DVL---DD-----------------SARL-----LVVDDLVDTGETA
+KVIREKFPK----ATFVAVYAKPQGK--ALVDKYVIDVDQDTWINLPWDMEL--SYVDP-
+------LAGE-------------
+>lcl|UniRef90_UPI0003F96F80 xanthine phosphoribosyltransferase n=1 Tax=Methylocapsa acidiphila RepID=UPI0003F96F80
+----------------------MTTTPGAKTPFVE------------------------K
+---AFHVSWDQFHRDARALAWRLN----GS----A---P----------------FT--G
+VVAITRGGLVPAAIVARELDMRIIDTFCVASY-----VA---ESV-----R---------
+-SE--VRVL-K--NVS---PELGR---T---------EGEGL-----LVVDDLVDTGATI
+MVVRALLPK----AHVATVYAKPLGR--PLVDTFITEVSQDTWIYFPWDLGL--SFQAP-
+------IAGS-ERG---------
+>lcl|UniRef90_A0A0F9U0T7 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=A0A0F9U0T7_9ZZZZ
+----------------------------M--STVD------------------------K
+---SFPVSWDQFHRDARALAWRLA----GM----R-S-D----------------WK--A
+IVCITRGGLVPAAIIAREIGTRLIDTVCIASY-----HD---YSE-----Q---------
+-GE--LKVL-K--EIS---PTLLE---N---------DGEGI-----LIVDDLTDTGKTA
+GLVRAMLPK----AHFATVYAKPKGR--PLVDTFITEVSQDTWIFFPWDLGL--TFQAP-
+------IGKA-TKG---------
+>lcl|UniRef90_UPI00047B0AEF xanthine phosphoribosyltransferase n=1 Tax=Afifella pfennigii RepID=UPI00047B0AEF
+-------------------------------MIQE------------------------K
+---AFPVSWDQFHRDARALAWRLA----GA----G---P----------------FQ--A
+MVCITRGGLVPAAIVCRELEVRLIDTVCVSSY-----HD---YKN-----Q---------
+-GD--LEVL-K--PVS---EAVIGIGGG---------GGKGV-----LLIDDLVDTGKTA
+SIVREMLPE----AHFATVYAKPKGR--PLVDTFVTEVSQDTWIYFPWDLGL--SFQPP-
+------ISGG-IG----------
+>lcl|UniRef90_A0A0H4L7U8 Xanthine phosphoribosyltransferase n=1 Tax=Marinovum algicola DG 898 RepID=A0A0H4L7U8_9RHOB
+----------------------MN----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLD----GH----G---P------DDGA------WR--A
+VVAITRGGMAPAMIVARELDIRMVDTISVKSY------N---HQE-----Q---------
+-TE--PKVI-K--SPD---MDVV----G---------DGTGV-----LVIDDLVDTGKTI
+EAVRTHMPN----AHIATVYAKPMGR--PQVNSFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-KD----------
+>lcl|UniRef90_H0TX40 Xanthine phosphoribosyltransferase n=17 Tax=Bradyrhizobium RepID=H0TX40_9BRAD
+---------------MADK-TLSA----E--ERAG------------------------R
+---AFPVSWDQFHRDCRALTWRLN----EV----G---P----------------FH--A
+VIAITRGGLVPAAIVARELGVRIIDTVCIASY------D---HNK-----Q---------
+-GD--LTVL-K--GVS---ADTAKLGGG---------TGKGL-----LIVDDLVDTGKTG
+RMVREMLPE----AHFATVYAKPKGR--PLVDTFITEVSQDTWIFFPWDTAL--SFQPP-
+------IRDG-AA----------
+>lcl|UniRef90_UPI00035D4CE6 MULTISPECIES: xanthine phosphoribosyltransferase n=2 Tax=Rhizobiales RepID=UPI00035D4CE6
+--------------------------------MED------------------------K
+---AFPVSWDAFHRDARALAWRLS----AV----G---G----------------FS--A
+IVAVTRGGLVPAGVVARELGIRVIDTIGVASY-----QE---ETQ-----R---------
+-GE--VRVL-K--PLS---ETILT---L---------PSEEV-----LIVDDLVDTGATA
+KVVRALLPK----AHFATVYAKPQGR--PLVDTFVTEVSQDTWIFFPWDTGL--SFQAP-
+------IARG-SS----------
+>lcl|UniRef90_A0A094NW05 Xanthine phosphoribosyltransferase n=2 Tax=Cobetia RepID=A0A094NW05_COBMA
+-----------------------M----SS-ERYH------------------------D
+---HFIVSWDQLHRDVRALCHDLS------------GRD----------------FK--G
+IIAITRGGLIPAGLIARELGIRHIDTVCIKSY-----HD---HME-----Q---------
+-GG--LEVV-K--GVD---HD-----------------GDGW-----LLVDDLVDTGNTA
+RAVRDMLPK----AHFVTVYAKPEGR--PLVDGFITEVPQNCWIQFPWDMGI--AYVEP-
+------IAEQ-LKKQESDS----
+>lcl|UniRef90_A0A0A1PWC4 Xanthine phosphoribosyltransferase n=1 Tax=bacterium YEK0313 RepID=A0A0A1PWC4_9BACT
+----------------------MA----T--PHSE------------------------K
+---AFPVSWDQFHRDARALAWRLS----GQ----G---P----------------FR--A
+IVCITRGGLVPAAIVTREIGIRLIDTVCIASY-----HD---YQN-----Q---------
+-GQ--LQVI-K--TIT---PDLTASG------------GEGI-----LVVDDLVDTGKTA
+KVVRDMLPK----AHIATVYAKPQGR--PLVDTFVTEVSQDTWIYFPWDMGY--SFQPP-
+------IREG-G-----------
+>lcl|UniRef90_D1P5V5 Xanthine phosphoribosyltransferase n=11 Tax=Providencia RepID=D1P5V5_9ENTR
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARKLAQRLL----------P-AKQ----------------WT--G
+IIAVSRGGLVPGALLARELGIRHVDTVCISSY------D---HNN-----Q---------
+-RE--MQVI-K--RAE---GD-----------------GEGF-----IVIDDLVDTGGTA
+QAIRDMYPK----AHFVTIFAKPAGR--PLVDDYVVDIPQNTWIEQPWDMGV--VFIEP-
+------LCEQ-DK----------
+>lcl|UniRef90_A0A0M0I0T1 Xanthine phosphoribosyltransferase n=1 Tax=Vibrio hepatarius RepID=A0A0M0I0T1_9VIBR
+---------------------------------MS------------------------K
+---KFVITWDQMHAFCRELAAKQM----------P-AEQ----------------WK--G
+IWAVSRGGLVPGAILARELGIRHVDTVCISSY------D---HDH-----Q---------
+-RD--MSVI-K--APE---GD-----------------GEGF-----LIVEDLVDSGDTA
+RKLRELYPK----AKLIAVCAKPSGA--ALLDDYVVDIAQETWIEQPWDMAI--QYIEP-
+------INRK-QK----------
+>lcl|UniRef90_A0A095CLP5 Xanthine phosphoribosyltransferase n=1 Tax=Rhodovulum sp. NI22 RepID=A0A095CLP5_9RHOB
+----------------------MS----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GR----G---P------DNGA------WR--A
+IVAITRGGMAPAMIIARELDVRVIDTISVKSY------N---HQE-----Q---------
+-MD--AVVL-K--APD---PATV----G---------DGTGI-----LVIDDLVDSGKTL
+ELVRKLYPK----AHFATVYAKPQGR--PLVDTYITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RA-RD----------
+>lcl|UniRef90_B6B0Q6 Xanthine phosphoribosyltransferase n=1 Tax=Rhodobacteraceae bacterium HTCC2083 RepID=B6B0Q6_9RHOB
+----------------------MT----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLD----GK----G---P------DDGA------WK--A
+VVAITRGGMAPAMIVARELDIRAVDTIAVVSY-HSGGGA---ATE-----R---------
+-RE--AKVL-K--APD---AELM----G---------DGTGI-----LIIDDLVDSGKTL
+ELVRSLYPN----AHYACVYAKPSGE--PQTDTFITGVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-QD----------
+>lcl|UniRef90_A0A0D6MPC5 Xanthine phosphoribosyltransferase n=1 Tax=Tanticharoenia sakaeratensis NBRC 103193 RepID=A0A0D6MPC5_9PROT
+-------------------------------MA-V------------------------T
+---YATVTWDQLHRDARALASELM----PL----G---P----------------FK--G
+IVAITRGGLIPAAIIARELDCRLVESVSVIAY------E---EEE-----R---------
+-GETAPKVV-K--APV---AA------G---------DGEGF-----LIIDDLVDSGVTA
+KVVRDLLPK----AYFACLYAKPAGR--PHTDKFVLEVGQDTWVLFPWDTAP--LFVPP-
+------LARK-KD----------
+>lcl|UniRef90_Q9CL73 Xanthine phosphoribosyltransferase n=44 Tax=Pasteurellaceae RepID=XGPT_PASMU
+---------------------------------MS------------------------E
+---KYVVTWDMFQMHARKLSERLL----------P-ASQ----------------WK--G
+IIAVSRGGLFPAAVLARELGIRHIETVCIASY-----HD---HVE-----Q---------
+-GE--LKVL-H--RAE---GD-----------------GEGF-----IVVDDLVDTGNTA
+RAIRDMYPK----AKFVTVFAKPAGA--ALVDDYVIDIPQNTWIEQPWDLGL--TFVPP-
+------LARK-------------
+>lcl|UniRef90_UPI0006F24828 UPI0006F24828 related cluster n=3 Tax=unknown RepID=UPI0006F24828
+----------------------------M--SSVE------------------------K
+---SFPVSWDQFHRDARALAWRLA----GI----R-P-E----------------WK--A
+IVCITRGGLVPAAIISRELGTRLIETVCIASY-----HE---YSE-----Q---------
+-GE--LRVL-K--EIS---PLLIE---D---------EGEGI-----LIVDDLTDTGKTA
+GLVRAMLPK----AHFATVYAKPKGR--PLVDTFITEVSQDTWIFFPWDLGL--TFQAP-
+------IAKG-SAG---------
+>lcl|UniRef90_V3TH50 Xanthine phosphoribosyltransferase n=1 Tax=Serratia sp. ATCC 39006 RepID=V3TH50_9ENTR
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARKLAQRLL----------P-AEQ----------------WK--G
+IIAVSRGGLVPGSLLAREMSIRYVDTVCISSY------D---HDS-----Q---------
+-RE--MKVL-K--RVE---GD-----------------GEGF-----IIVDDLVDTGGTA
+QAIRDMYPK----AYFVTIFAKPAGK--PLVDDYVVDIPQDTWIEQPWDMGV--VFIPP-
+------LSGN-------------
+>lcl|UniRef90_Q28PG8 Xanthine phosphoribosyltransferase n=1 Tax=Jannaschia sp. (strain CCS1) RepID=XGPT_JANSC
+----------------------MT----TQ-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----NH----G---P------DDGA------WK--A
+VVAITRGGMAPAMIVARELDIRTVDTISVVSY-HSGGGK---ADE-----R---------
+-RE--AKVL-K--GPD---ADLM----G---------DGEGV-----LIIDDLVDSGKTL
+ELVRTLYPK----AHFATVYAKPEGE--PMVDTFITGVSQDTWIFFPWDMAL--QYVDP-
+------Y-RG-KD----------
+>lcl|UniRef90_Q0FMD2 Xanthine phosphoribosyltransferase n=2 Tax=Rhodobacteraceae RepID=Q0FMD2_PELBH
+----------------------MTN---DL-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLQ----GH----G---P------EDGG------WK--A
+VVAITRGGMAPAMIIARELDIRTVDTISVKSY-HSGGGK---ADQ-----R---------
+-RE--AQVL-K--SPD---AELV----G---------DGDGI-----LIIDDLVDSGKTL
+ELVRSLYPK----AHVATVYAKPMGK--PMVDSYITEVSQDTWIFFPWDMAL--QYVKP-
+------Y-RGDSD----------
+>lcl|UniRef90_D5ECV8 Xanthine phosphoribosyltransferase n=1 Tax=Aminobacterium colombiense (strain DSM 12261 / ALA-1) RepID=D5ECV8_AMICL
+----------------------MG----SE-DRYH------------------------K
+---TYPVSWDQLHRDCKALAWQLL----PR----K--------------------WE--K
+IIGIARGGLIPAAIIARELNIRLVDTVCISSY------T---IRT-----Q---------
+-GE--ANIL-K--GIN-----------G---------DGENC-----LIIDDLVDTGKTA
+RVVRKMLPK----AYFATVYAKPEGS--PFVDTYITQVSQDTWILFPWDSET--AYSTP-
+------LVDR-KE----------
+>lcl|UniRef90_UPI00063D063F xanthine phosphoribosyltransferase n=1 Tax=Nereida ignava RepID=UPI00063D063F
+----------------------MT----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GK----G---P------DDGN------WR--A
+IVAITRGGMAPAMIVARELDVRTVDTISVKSY------S---HQD-----Q---------
+-SE--ASVL-K--RPD---ADMM----G---------DGTGI-----LIIDDLVDSGKTL
+ELVREMYPN----AHFATVYAKPKGE--PQVDTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-V-----------
+>lcl|UniRef90_R5QWG9 Xanthine phosphoribosyltransferase n=1 Tax=Proteobacteria bacterium CAG:495 RepID=R5QWG9_9PROT
+---------------------------------MS------------------------E
+---KYYIGWDDFHRHTKKLAGQIK----------Q-AGN----------------FN--K
+IVAVSRGGLLPAGIIAYELDIRNCETINMSSY------DNNYDRR---------------
+-PDDKIELH-A--DLS---GV-----------------DEQT-----LIIDDLSDSGRTF
+RILRGMFPK----AKFVSVYAKPQGA--GEVDIYAERLP-DEWIVFPWDL----------
+-----------------------
+>lcl|UniRef90_A1JNY0 Xanthine phosphoribosyltransferase n=88 Tax=Enterobacteriaceae RepID=XGPT_YERE8
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARKLASRLL----------P-ADQ----------------WK--G
+IIAVSRGGLVPAGILARELGIRYVDTVCIASY------N---HDN-----Q---------
+-GE--LKVL-K--RAE---GD-----------------GEGF-----IVIDDLVDTGGTA
+KAIREMYPK----AHFVTIFAKPAGR--PLVDDYEVDIPQGTWIEQPWDMAV--TFVAP-
+------LSAK-------------
+>lcl|UniRef90_UPI00042113BD xanthine-guanine phosphoribosyltransferase n=1 Tax=Acetobacter nitrogenifigens RepID=UPI00042113BD
+-------------------------------MA-T------------------------N
+---YATVTWDQLHRDARLLATDLM----PR----G---P----------------FK--G
+LVAVTRGGLIPAAIVARELDCRLIETISVVTY------D---EEE-----K---------
+-GK--PVVI-K--APD---VA------G---------DGEGF-----IVVDDLVDSGVTA
+RIVRERLPK----AVFACLYAKPAGK--PLTDLFVAEVPQDTWILFPWDTAP--LFVPP-
+------LARK-SETPTG------
+>lcl|UniRef90_A0A0L7S3I1 Xanthine phosphoribosyltransferase n=2 Tax=Shinella RepID=A0A0L7S3I1_9RHIZ
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRLA----DG----G-R-E----------------WR--A
+IVCITRGGLVPAAVISRELNIRLIETVCVASY-----HD---YVS-----Q---------
+-GD--MHVL-K--GIS---PELTK---E---------GGEGI-----LIVDDLTDTGKTA
+AQVRAMLPK----AHFAAVYAKPKGR--PLVDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------IAKG-TRG---------
+>lcl|UniRef90_A3U3R6 Xanthine phosphoribosyltransferase n=2 Tax=Rhodobacteraceae RepID=A3U3R6_OCEBH
+----------------------MN----DR-LPHE------------------------K
+---GFHVSWDQIHRDSRALAWRLD----GH----G---P------DDGN------WK--A
+VVAITRGGMAPAMIVARELDIRMVDTISVRSY------H---HQA-----Q---------
+-GE--AEIL-N--TPD---AGMM----G---------DGTGV-----LVVDDLVDSGKTL
+ELVRQMYPK----AHFATVYAKPKGR--EQVDTFITEVSQDTWIFFPWDMAM--QYVKP-
+------Y-RG-SD----------
+>lcl|UniRef90_UPI00037130D0 MULTISPECIES: xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio RepID=UPI00037130D0
+----------------------MS----DS-NRYS------------------------K
+---VTPVSWELLQRDARQLAWDLL----KK----G---T----------------WK--G
+IYAVTRGGLVPAAILAREMEIHQIETICVSSY------N---WKN-----Q---------
+-GE--MNVL-K--KPE---GD-----------------GEGW-----LIIDDLVDTGGTA
+RVVRDMLPK----AYFATLYAKPEGR--PLVDTFIREYSQDTWILFPWDSEG--QFVEP-
+------LVKRVNDTK--------
+>lcl|UniRef90_A3WM46 Xanthine phosphoribosyltransferase n=1 Tax=Idiomarina baltica OS145 RepID=A3WM46_9GAMM
+----------------------------MG-WHSN------------------------R
+---EFFVSWEELHRATRELAHRQL----------P-AEQ----------------YK--G
+VIAVSRGGLVPAAIIARELNLRTVDCVAVSSY------A---HDQ-----QK--------
+-DE--LALL-K--DVS---AT------E---------DGEGF-----LVVDDLVDTGNTL
+KFLRKRLPK----AKFITVYAKPAGI--ELVDDYVADLEQETWIHFPWDMHL--HYVEP-
+------LAGQ-ES----------
+>lcl|UniRef90_UPI000464CCCC xanthine phosphoribosyltransferase n=1 Tax=Oceanicola sp. HL-35 RepID=UPI000464CCCC
+----------------------MT----DR-LPHE------------------------K
+---GFHVSWDQLHRDSRALAWRLD----GK----G---P------DDGA------WR--G
+LVAITRGGMAPAMIVARELDIRLVDTISVKSY------H---NQA-----Q---------
+-GR--AEVL-K--APA---RDVMG---G---------DGTGI-----LIVDDLVDSGKTL
+ELVRQIYPR----AHFATVYAKPKGR--DQVDTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-KD----------
+>lcl|UniRef90_UPI0004664822 xanthine phosphoribosyltransferase n=1 Tax=Aliihoeflea sp. 2WW RepID=UPI0004664822
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDSRALAWRLS----GI----N-A-N----------------WR--A
+IVCITRGGLVPAAVISRELGVRLIETVCVASY-----HD---YTE-----Q---------
+-GE--LKVL-K--EIN---PALLE---N---------EGKDV-----LIIDDLTDTGKTA
+AIVRAMMPK----AHFATIYAKPKGR--PLVDTFVTEVSQDTWIYFPWDLGF--TYQKP-
+------IAEG-HLG---------
+>lcl|UniRef90_UPI00041FFB9A xanthine phosphoribosyltransferase n=1 Tax=Stappia stellulata RepID=UPI00041FFB9A
+----------------------ME----N--PQQP------------------------K
+---AFPVSWDQFHRDSRALAWRLS----GQ----G---T----------------WE--A
+IVCITRGGLVPAAIVARELGIRMIETVCIASY-----HD---YEE-----Q---------
+-GD--LQII-K--TVG---ESVVNLNGG---------QGASV-----LVIDDLVDTGKTA
+RVVRDMLPD----AHFATVYAKPMGR--PLVDTFVTEVSQDTWIYFPWDMGW--QFQPP-
+------IAKS-TQS---------
+>lcl|UniRef90_J6LG68 Xanthine phosphoribosyltransferase n=1 Tax=Rhodovulum sp. PH10 RepID=J6LG68_9RHOB
+----------------------MA----AA-KSPD------------------------K
+---AFPVSWEMFHRDCRALTWRLA----GH----G---P----------------FS--T
+IVTVTRGGLVPAAIVARELGIRVIETICVASYGHGGNQP---ETS-----Q---------
+-GE--LTIL-K--GVA---EEIRVLGNG---------EGRRV-----LIIDDLVDTGKTA
+RVVRELLPA----AHFATVYAKPMGR--PLVDTFITEVSQDTWIYFPWDMGL--TFQPP-
+------IHGN-D-----------
+>lcl|UniRef90_R8ANL7 Xanthine phosphoribosyltransferase n=3 Tax=Plesiomonas RepID=R8ANL7_PLESH
+---------------------------------MT------------------------E
+---KYIVSWDMLQIHARKLAHRLL----------P-AEQ----------------WK--G
+IIAVSRGGLVPAALLARELGIRHVDTVCISSY------D---HDH-----Q---------
+-RA--LTVL-K--RAE---GD-----------------GEGF-----LLVDDLVDTGGTA
+KVLREMYPK----AHFVTMFAKPAGR--PLVDDYVIDIPQDTWIEQPWDMGI--TFVPP-
+------VAGR-D-----------
+>lcl|UniRef90_UPI000497DE0C xanthine phosphoribosyltransferase n=1 Tax=Bradyrhizobium sp. URHD0069 RepID=UPI000497DE0C
+---------------MAEHPELSA----Q--ERAG------------------------K
+---AFPVSWDQFHRDCRALTWRLN----EV----G---P----------------FH--A
+VIAITRGGLVPAAIVARELGVRVIDTVCITSY------D---HVE-----Q---------
+-GH--LKVL-K--GVS---ADTAKLGGD---------TGKGL-----LIVDDLVDTGKTA
+RLVRDMLPD----AHFATVYAKPKGR--PLVDTFITEVSQDTWIFFPWDTAL--SFQPP-
+------IREG-AA----------
+>lcl|UniRef90_A0A0M2VE09 Xanthine phosphoribosyltransferase n=3 Tax=Chromatiaceae RepID=A0A0M2VE09_9GAMM
+----------------------------MS-LTTN------------------------K
+---MFYVSWEAFHRASKELAQQLL------------GRE----------------FS--G
+IVAVSRGGLVPAAILARELNIRVVDSICVASY------Q---HDQ-----Q---------
+-GS--LRIL-K--DAT---LT----------------DNDKL-----LIVDDLVDTGETA
+RALREHFPQ----ACFVTVYAKPQGK--PLVDHYVTDIEQDTWIQLPWDMEL--AYSKP-
+------LAEH-------------
+>lcl|UniRef90_UPI000423A560 xanthine phosphoribosyltransferase n=1 Tax=Salinarimonas rosea RepID=UPI000423A560
+----------------------MT-------PPTP------------------------K
+---AFPVSWDQFHRDARALAWRLA----ES----G---P----------------FE--A
+IVCITRGGLVPAAIVARELEIRMIESVCIASY-----HE---YKS-----Q---------
+-GG--LQVL-K--EIA---PAVRALGDG---------QGKGV-----LVIDDLVDTGKTA
+RVVRDMLPN----AHFATVYAKPAGR--PLVDTFITEVSQDTWIYFPWDLGY--AFQPP-
+------IRDG-APG---------
+>lcl|UniRef90_A0A0D6TG40 Xanthine phosphoribosyltransferase n=2 Tax=Paracoccus RepID=A0A0D6TG40_9RHOB
+----------------------MN----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRMD----GT----E--------------------WR--A
+VVAVTRGGLVPAMIVARELDIRTIDTISIRSY--KGVGT---EAG-----Q---------
+-GQ--LEVL-K--RPD---PELM----G---------DGEGI-----LVVDDLVDSGRTL
+ELIREMYPK----AHLATVYAKPKGK--PMVASYVTEVSQDTWIFFPWDMAL--QYVQP-
+------F-RG-ED----------
+>lcl|UniRef90_D3NY38 Xanthine phosphoribosyltransferase n=7 Tax=Azospirillum RepID=D3NY38_AZOS1
+-----------------------M----AE-APFN------------------------K
+---HFPVSWEELHRNAKALAWRLI----DR----G---P----------------WK--G
+IIAITRGGMVPAAIIARELEIRMIDTVCVSSY------D---HQQ-----Q---------
+-RN--ATIL-K--G------V------EGAKAG----DGEGW-----LIIDDLVDTGKTA
+EIVRKMLPK----AHFATVYAKPAGR--PLVDTFITEVSQDTWIHFPWDIEL--QFSQP-
+------IAKQ-RNG---------
+>lcl|UniRef90_G8PR66 Xanthine phosphoribosyltransferase n=3 Tax=Pseudovibrio RepID=G8PR66_PSEUV
+----------------------MD----N--QQQS------------------------K
+---AFPVSWDQFHRDCRALSWRLA----DK----G---E----------------FT--A
+IVAITRGGLVPAGIIARELGVRTIETVCIASY-----HD---YDD-----Q---------
+-GE--LKVI-K--PID---PKVIGSE-----------GGEGI-----LIIDDLVDTGKTA
+KVVREMLPK----AHFATVYAKPMGR--DLADTIVTEVSQDTWVYFPWDLGM--QFQPP-
+------ISKD-TAG---------
+>lcl|UniRef90_UPI00040A4DF9 xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio aminophilus RepID=UPI00040A4DF9
+----------------------MS----FS-DRYS------------------------K
+---MYPISWEQLHRDCRALCWRLM----DK----G---P----------------FE--G
+IHAVTRGGLVPAAIIARELDIRLIDTVCVSSY------D---WQR-----Q---------
+-GG--ATVL-K--E------V------R----G----DGSGW-----LLVDDLVDTGRTA
+RLVREMLPK----AHFATVYAKPEGR--PLVDTFITEVSQDTWILFPWDAES--QFVQP-
+------IVKK-GV----------
+>lcl|UniRef90_J3VUA3 Xanthine phosphoribosyltransferase n=1 Tax=secondary endosymbiont of Heteropsylla cubana RepID=J3VUA3_9ENTR
+---------------------------------MK------------------------N
+---KYVATWDMLQIYARTMAERLL----------P-AEQ----------------WE--G
+IIAVSRGGLVPGTLLARELGIRHVDTICIASY------D---HDN-----Q---------
+-GN--LSIL-K--RAE---GN-----------------GQGF-----IVVDDLVDTGSTA
+KTIRSIYPK----AHFVTIFAKPAGH--LLVDDYIIDIPQNTWIEQPWDMGV--IFVPP-
+------LAGK-------------
+>lcl|UniRef90_UPI0002E106BA xanthine phosphoribosyltransferase n=2 Tax=Rhodospirillaceae RepID=UPI0002E106BA
+----------------------MS----SHHADTA------------------------K
+---NFPVTWEELHRHAKALAWRIS----DK----G---P----------------WK--G
+IVAITRGGLVPAAILARELNIRLIDTICISSY------D---HQN-----Q---------
+-RT--AQNL-K--APVAVEG-----------------EGEGW-----LIVDDLVDTGKTA
+AIVRNMMPK----AHFATIYAKPAGR--PLVDTFITEVSQDTWIHFPWDL-------NP-
+------IAYM-QIRND-------
+>lcl|UniRef90_UPI000360B3EB xanthine phosphoribosyltransferase n=1 Tax=Martelella mediterranea RepID=UPI000360B3EB
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDARALAWRLA----GL----E-Q-T----------------FT--A
+IVCVTRGGLVPSAIISRELEIRLIETVCIASY-----HD---YTD-----Q---------
+-GE--TLLL-K--GIS---EELKK---N---------GGEGV-----VIIDDLTDTGNTA
+REVREMLPK----AHFACLYAKPQGV--PMVDTFVTEVSQDTWIYFPWDMGF--TYQAP-
+------IKKA-PSDK--------
+>lcl|UniRef90_A6FNL6 Xanthine phosphoribosyltransferase n=1 Tax=Roseobacter sp. AzwK-3b RepID=A6FNL6_9RHOB
+----------------------MT----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLQ----DV----A---P------AGGE------WR--A
+VIAITRGGMAPAMIVARELDIRTVDTISVKSY------N---HQT-----Q---------
+-SE--AQVI-K--SPD---MDLV----G---------DGEGV-----LIVDDLVDTGRTL
+KVVRERMPK----AHVATVYAKPMGR--DMVDTFVTEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-A-----------
+>lcl|UniRef90_UPI0004154ED5 xanthine phosphoribosyltransferase n=1 Tax=Niveispirillum irakense RepID=UPI0004154ED5
+----------------------MS----NKITDPQ------------------------K
+---NFPVTWEELHRNAKALAWRLA----DL----R---Q----------------WK--G
+IIAITRGGLVPAAIIARELNIRVVETISVKSY------D---DKS-----Q---------
+-GE--IQVL-K--APDAVTD-----------------GGKGW-----MLIDDLVDTGKTA
+AYVRKMLPE----AHFATLYAKPAGR--PLVDTFITEVSQDTWIYFPWDL-------LP-
+------VSYL-QIER--------
+>lcl|UniRef90_UPI000471F585 xanthine-guanine phosphoribosyltransferase n=1 Tax=Komagataeibacter kakiaceti RepID=UPI000471F585
+-------------------------------MA-T------------------------S
+---YATVTWDQLHRDARQLASTLI----TR----G---P----------------FK--G
+IVAITRGGMIPAAIIARELDCRLIETVSVVTY------D---EEK-----M---------
+-GQ--PNVI-K--KPE---AA------G---------DGEGF-----VIIDDLVDSGVTA
+QLVRQMLPK----AVFACLYAKPAGR--PITDLFVVEVPQDTWVLFPWDTAP--LFIPP-
+------LASK-SAGEE-------
+>lcl|UniRef90_UPI00037FA26F xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio oxyclinae RepID=UPI00037FA26F
+----------------------MS----NS-ERYK------------------------K
+---MFPVSWEQLHRDCRALSWRLV----EH----G---P----------------WK--G
+IIAITRGGLVPAAIIARELDIRLVDTICLASY------D---WQ------S-------Q-
+-GE--ANII-K--N------V------Q----N----DGEGW-----LLIDDLVDTGKTA
+KIARDMVPN----AHFATVYAKPEGR--PLVETFITEVSQDTWILFPWDSQP--QFIQP-
+------IVTL-D-----------
+>lcl|UniRef90_UPI000559E048 xanthine phosphoribosyltransferase n=1 Tax=Roseovarius sp. MCTG156(2b) RepID=UPI000559E048
+----------------------MT----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLQ----DK----T---P------EGG-------WR--A
+VVAITRGGMAPAMIVARELDIRTVDTVSIKSY------D---HQT-----Q---------
+-SA--PVVI-K--SPD---MAIM----G---------DGTGV-----LIIDDLVDTGRTL
+EVVRQRLPK----AHVATVYAKPMGR--NQVETFVTEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-A-----------
+>lcl|UniRef90_A5F5Y8 Xanthine phosphoribosyltransferase n=33 Tax=Vibrio RepID=XGPT_VIBC3
+---------------------------------MS------------------------K
+---KFVITWDNMQHYCRELAQRQM----------P-AEQ----------------WK--G
+ILGVSRGGLVPAAILARELGIRYVDTVCISSY------D---HDH-----Q---------
+-RD--MTVL-K--APE---HD-----------------GEGF-----LIIDDLVDSGDTA
+RKIREMYPK----AKFVTVCAKPAGK--DLVDEYVVDIPQDTWIEQPWDMVL--SYVEP-
+------VNRK-QK----------
+>lcl|UniRef90_A3SNV8 Xanthine phosphoribosyltransferase n=1 Tax=Roseovarius nubinhibens (strain ATCC BAA-591 / DSM 15170 / ISM) RepID=A3SNV8_ROSNI
+----------------------MT----DQ-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLD----GK----G---P------ENGE------WR--A
+LVAITRGGMAPAMIIARELDIRTVDTISIKSY------D---HQT-----Q---------
+-GA--AQIT-K--APD---MDLI----G---------DGHGV-----LVIDDLVDTGRTL
+EVVRKLLPK----AHIATVYAKPKSR--DLVQTYVTEVSQDTWIFFPWDLAL--QYVEP-
+------Y-RG-R-----------
+>lcl|UniRef90_A0A099TCG7 Xanthine phosphoribosyltransferase n=1 Tax=Thalassobacter sp. 16PALIMAR09 RepID=A0A099TCG7_9RHOB
+----------------------MS----TR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GR----G---P------DDGA------WR--A
+IVAITRGGMAPAMIVARELDIRMVDTISVRSY------N---HQT-----Q---------
+-GE--AVVL-N--KPS---DELM----G---------DGTGV-----LVIDDLVDSGKTL
+EVVRGLYPN----AHFATVYAKPKGE--PMVDTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------
+>lcl|UniRef90_A0A0C2U925 Xanthine-guanine phosphoribosyltransferase n=1 Tax=Magnetospirillum magnetotacticum MS-1 RepID=A0A0C2U925_MAGMG
+----------------------MT----LD-PAFS------------------------H
+---TRSLSWDEIHAVTRQLARRLQ----------G-KGP----------------FD--G
+IIAIARGGLVPAAILAIELNIRKVDTVCIAGY------D---EST-----R---------
+-HD--LEVL-K--RIS-----------G---------DGAGW-----LVVDDLVDTGRTA
+QVVRDMLPG----GHYATLYAKPSGR--PMVHTHVEDVEQETWLIFPWEAVE--QI----
+-----------------------
+>lcl|UniRef90_A0A081FTF7 Xanthine phosphoribosyltransferase n=3 Tax=Marinobacterium RepID=A0A081FTF7_9ALTE
+----------------------------MS-HQYQ------------------------M
+---DFPVSWDELHRNARALSLRLL----DK----G---P----------------WK--G
+IIAITRGGLVPAAILAREMDIRLIDTICVVSY------G---KSD-----K-GGTQARQ-
+-GE--LNVL-K--T------V------E----G----DGEGM-----LLVDDLVDTGKTA
+RYVRELLPK----AHFATLYAKPAGK--PLVDTFITEVSQDTWIRFPWDMAY--TFATP-
+------LADQ-EK----------
+>lcl|UniRef90_J0ZKG1 Xanthine phosphoribosyltransferase n=1 Tax=Bartonella tamiae Th239 RepID=J0ZKG1_9RHIZ
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRIA----GH----K-K-E----------------WR--A
+MVAITRGGLVPAAIICRELGIRMIETVCIASY-----HD---YLT-----Q---------
+-SD--MVVL-K--GIS---DELKE---N---------GGDNI-----LVIDDLTDTGKTA
+KVVREMIPK----AHFATVYAKPQGR--DLVDTFVTEVSQDTWIYFPWDMGY--SFQKP-
+------IADS-DAG---------
+>lcl|UniRef90_Q6N7S7 Xanthine phosphoribosyltransferase n=4 Tax=Rhodopseudomonas palustris RepID=XGPT_RHOPA
+---------------MTQS-EPTE----Q--KRAG------------------------R
+---PFPVSWDQFHRDCRALSWRLN----EL----G---P----------------FH--A
+VIAITRGGLVPAAIVARELGLRVIDTVCIASY------E---HDK-----Q---------
+-GE--LQVL-K--GVS---DQTATLGGG---------TGKGL-----LIIDDLVDTGKTG
+RMVRSMLPD----AHFAAVYAKPKGR--PLVDTFITEVSQDTWIFFPWDTGL--SFQPP-
+------LKDG-AG----------
+>lcl|UniRef90_UPI00059F454F xanthine phosphoribosyltransferase n=2 Tax=Micavibrio aeruginosavorus RepID=UPI00059F454F
+------------------------------------------------------------
+----MFISWDRFHEDSKALAWRLD----MP----K---K----------------WV--G
+IIAITRGGLVPACIVARELDVRLVETLGIASY------D---HTN-----Q---------
+-RK--ADVL-K--LPQ---GV------G---------TGKGW-----LVIDDLVDSGNTF
+KIARTMLPD----AHFAAVYAKPKGK--PTCDTYVTEISQDTWLHFPWDLTM--QYSAP-
+------IAEQKARRA--------
+>lcl|UniRef90_A0A058ZP98 Xanthine phosphoribosyltransferase n=2 Tax=Rhodobacteraceae RepID=A0A058ZP98_9RHOB
+----------------------MS----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GQ----G---P------EDGA------WK--A
+IVAITRGGMAPAMIIARELDVRIIDTISVKSY------N---HQD-----Q---------
+-MD--AKVL-K--APD---DALM----G---------DGTGI-----LIIDDLVDSGKTL
+ELVRKLYPK----AHFGTVYAKPKGR--PMVDTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------
+>lcl|UniRef90_UPI000650AC34 xanthine phosphoribosyltransferase n=1 Tax=Halomonas sp. PR-M31 RepID=UPI000650AC34
+-----------------------M----TA-NRYQ------------------------Q
+---HFTVSWDQLHRDVRALCHQLV------------ERD----------------FK--G
+IVAITRGGLIPAALIARELNVRLIDTICVKSY------E---RMD-----Q---------
+-GG--LEVM-K--GID---HD-----------------GDGW-----LLIDDLVDTGKTA
+RVVRDMLPQ----AHFVTIYAKPEGR--PLVDQCLTEVAQDCWIQFPWDMGI--AYVEP-
+------LVDQ-VRGSDS------
+>lcl|UniRef90_K9APT5 Putative phosphoribosyltransferase n=3 Tax=Brevibacterium RepID=K9APT5_9MICO
+-----------------MSQAYHA----DS-SDLT------------------------D
+---KEILTWDTFGQSARELAQTIA----DS--------D----------------YDPEI
+VIAIARGGLLPAGALAYALGLKLSDAINVEFY-----TD---VEE-----TLPDPILLAP
+MLD--IDAI-K---------------------------GKKL-----LVVDDVADSGRTL
+ALVLELLKKNGAEAQSAVIYAKSA----SIVDPDFVWKRTDQWIVFPWSAEP------P-
+------VQPS-R-----------
+>lcl|UniRef90_A0A0D6N779 Xanthine-guanine phosphoribosyltransferase n=1 Tax=Acetobacter cibinongensis 4H-1 RepID=A0A0D6N779_9PROT
+-------------------------------MA-V------------------------N
+---YATVTWDQLHRDARLLAEALV----PA----L---P----------------LK--G
+IVAVTRGGLIPAAIIARELNCRLVETISVVTY------D---EED-----R---------
+-GQ--PSII-K--SPD---AA------G---------DGEGF-----LVIDDLVDSGVTA
+RVVREKLPK----ATFACLYAKPAAK--ALTDKFVVEVPQDTWVLFPWDTAP--LFVPP-
+------LASK-TKEHK-------
+>lcl|UniRef90_Q0I1C0 Xanthine phosphoribosyltransferase n=6 Tax=Pasteurellales RepID=XGPT_HAES1
+---------------------------------MS------------------------E
+---KYVVTWDMFQMHTRKLSERLL----------P-ATQ----------------WK--G
+IIAVSRGGLFPAAVIARELGIRHIETVCISSY------D---HNQ-----Q---------
+-GN--LNVL-H--AAQ---VKNG---------------GEGF-----IVVDDLVDTGNTA
+RAIRELYPN----ARFVTVFAKPAGA--NLVDDYVIDIPQNTWIEQPWDMGI--TFVPP-
+------LARK-------------
+>lcl|UniRef90_G7V9S9 Xanthine phosphoribosyltransferase n=1 Tax=Thermovirga lienii (strain ATCC BAA-1197 / DSM 17291 / Cas60314) RepID=G7V9S9_THELD
+---------------------MTN----SE-EKYK------------------------K
+---VYPVSWQQLHQDCKALAWRLL----DL----G---T----------------WD--K
+IVAVARGGLVPAAIIARELEIRFVDTVCISSY------T---LRT-----Q---------
+-GE--TRIL-K--EIK---RD----------------EKERI-----LIIDDLVDTGSTA
+RVVRKMIPG----AHFATVYAKPDGR--PEVDTFITEVSQDTWILFPWDSEPQYHYIKP-
+------IVSQ-K-----------
+>lcl|UniRef90_A0A0D6B429 Xanthine phosphoribosyltransferase n=1 Tax=Rhodovulum sulfidophilum RepID=A0A0D6B429_RHOSU
+----------------------MDP---DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLD----GQ----G---P------DNGG------WR--A
+VVAITRGGMAPAMIVSRELDIRMVDTISVKSY------N---HQS-----Q---------
+-SA--PVII-K--MPD---RELV----G---------DGTGV-----VIVDDLVDTGRTL
+EVVRATMPK----AHVATVYAKPKGK--PQVDTFITEVSQDTWIFFPWDMAL--QYVKP-
+------Y-RA-GE----------
+>lcl|UniRef90_A0A0D5LT80 Xanthine phosphoribosyltransferase n=2 Tax=Martelella RepID=A0A0D5LT80_9RHIZ
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDARALAWRLS----SA----G-R-S----------------FN--A
+IVCVTRGGLVPAAIISRELEIRLIETVCIASY-----HD---YTS-----Q---------
+-GE--TLLL-K--GIS---EELTK---D---------GGEGV-----LIIDDLTDTGNTA
+REVREMLPK----AHFACVYAKPKGV--PLVDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------ISKG-PK----------
+>lcl|UniRef90_UPI0004E11404 xanthine-guanine phosphoribosyltransferase n=1 Tax=Rheinheimera texasensis RepID=UPI0004E11404
+----------------------------MS-LSSN------------------------K
+---NFYVSWEAFHRATKELAKMCL------------HGN----------------FD--S
+IVAVSRGGLVPATIIARELNIRVLDTICVSSY------D---HDQ-----Q---------
+-RA--LKVL-K--DAA---LP----------------DSERL-----LVIDDLVDTGETA
+RALRERFPK----ACFATVYAKPQGK--ALVDKYVTDIEQDTWIHLPWDMEL--AYSAP-
+------LAEQ-SN----------
+>lcl|UniRef90_H0UNQ6 PRPP-binding protein, adenine/guanine phosphoribosyltransferase n=1 Tax=Thermanaerovibrio velox DSM 12556 RepID=H0UNQ6_9BACT
+-----------------------M----SE-ERYH------------------------K
+---TYSVSWDQIQRDCRTLARELV----KL----R---S----------------WN--R
+IIAVARGGLVPAAIMARELEVRLVDTVCISSY------T---LKN-----Q---------
+-GD--MKIL-K--RPD---LD------G---------VDENC-----LIIDDLVDTGKTA
+KVVREMFPK----AYFATVYAKPEGI--PMVDKFVTQVTQDTWILFPWESDA--AFCDP-
+------IVDQ-EKQG--------
+>lcl|UniRef90_UPI00047FF75D xanthine phosphoribosyltransferase n=1 Tax=Rhodovibrio salinarum RepID=UPI00047FF75D
+---------------------MSE----QQ-PPVY------------------------K
+---PFPVSWEELHRYSKALAWRLV----QM----G---P----------------WK--G
+LIAITRGGMVPAAIVARELEIRTIDTLSIASY------D---EQD-----Q---------
+-GK--LHVL-K--NVK---QD------V----G----DGEGW-----LVIDDLVDTGKTA
+RAVRKLLPQ----AHLGTVYAKPDGR--PTVDTFVTEVSQDTWILFPWDTEP--QATQP-
+------IWKT-VERPR-------
+>lcl|UniRef90_K8P962 Xanthine phosphoribosyltransferase n=7 Tax=Bradyrhizobiaceae RepID=K8P962_9BRAD
+----------------------MS----D--EGAR------------------------K
+---PFPVSWDQFHRDARALAWRLS----GA----G---P----------------FE--A
+MIAVTRGGLVPAAVIARELGIRVIDTLCVSSY------S---HTS-----QV--------
+-SE--PTVL-K--GIS---DAVSRLGGG---------TGKGL-----LVVEDLVDTGKTA
+RIVRDLVPQ----AHIAAVYAKPMGK--PLVDTFITEVSQDTWIFFPWDTGL--SYLPP-
+------IKDG-AA----------
+>lcl|UniRef90_N8N884 Xanthine phosphoribosyltransferase n=1 Tax=Brucella ovis IntaBari-2002-82-58 RepID=N8N884_BRUOV
+------------------------------------------------------------
+------------------------------------------------------------
+---------MPAAIICRELGIRLIETVCIASY-----HD---YTS-----Q---------
+-GE--MQVL-K--GIG---ASLLE---N---------QGEGV-----IVVDDLTDTGKTA
+AIVREMMPR----AHFATVYAKPKGR--PLIDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------IAGG-KRG---------
+>lcl|UniRef90_A3VY37 Xanthine phosphoribosyltransferase n=5 Tax=Roseovarius RepID=A3VY37_9RHOB
+----------------------MM----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLQ----DK----T---P------EDG-------WR--A
+VVAITRGGMAPAMIVARELDIRTVDTISVKSY------N---HQT-----Q---------
+-TA--PVVI-K--SPD---MAIM----G---------DGAGV-----LIVDDLVDTGRTL
+EVVRQHLPL----AHVATVYAKPMGR--AQVDTFVTEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-T-----------
+>lcl|UniRef90_Q311U1 Xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio alaskensis (strain G20) RepID=XGPT_DESAG
+----------------------MA----DP-DRYN------------------------K
+---MFPVSWEQLHRDTRALSWRLM----ER----G---P----------------FK--G
+IVAITRGGLVPAAILARELEVRLVDTICIASY------D---WKS-----Q---------
+-GG--ISVL-K--G------V------E----G----DGEGW-----LIVDDLVDTGTTA
+RAVREMLPK----AHFATVYAKPSGR--PVVDTYITEVSQDTWILFPWDSEI--QYVQP-
+------LVNR-RQEG--------
+>lcl|UniRef90_UPI0002FF7FAF hypothetical protein n=1 Tax=Reyranella massiliensis RepID=UPI0002FF7FAF
+----------------------MA----SS-TGYN------------------------K
+---MFPVSWTELHRDARALAWRLA----DL----G---P----------------FK--G
+LVAITRGGLVPAAIVARELNLRLIDTVCCSTY------D---RME-----RG--------
+-AK--VELL-K--GTS---AE------Q----D----KGKDW-----LIVDDLVDTGVTA
+RAVRAMLPE----AHFATVYAKPAGR--PTVDSFITEVSQDTWILFPWDQEA--VMAKT-
+------IIEL-KGSGQ-------
+>lcl|UniRef90_UPI000485A79E xanthine-guanine phosphoribosyltransferase n=1 Tax=Spongiibacter marinus RepID=UPI000485A79E
+----------------------------MS-TSET------------------------P
+---VYYLTWDELHRDTRNLARKLT------------ATP----------------WK--G
+IISIARGGLVPGAILARELNLRVVDTLCIASY------D---HDK-----Q---------
+-GE--ISIL-K--SVE---GD-----------------GDGY-----LLVDDLVDTGGTA
+KIARELLPK----ATFVTIYAKPQAM--ALAEYYTREFAQDTWIHFPWDIEH--SYSEP-
+------LIK--------------
+>lcl|UniRef90_UPI000470BA56 xanthine-guanine phosphoribosyltransferase n=1 Tax=Acetobacter papayae RepID=UPI000470BA56
+-------------------------------MA-T------------------------H
+---YATVTWDQLHRDARTLARQLM----PL----M---P----------------FK--G
+VVAITRGGMIPAAIIARELGCRVMETISVVSY------D---EEQ-----Q---------
+-GE--PVIV-K--QPD---AA------G---------NGEGF-----LVVDDLVDSGVTA
+RLVRERLPK----AVFACLYAKPKGR--ELTDHFVTEVSQDTWVLFPWDTAP--LFVPP-
+------LVDG-GRDGDTAA----
+>lcl|UniRef90_K7SXP3 Xanthine phosphoribosyltransferase n=7 Tax=Gluconobacter RepID=K7SXP3_GLUOY
+-------------MKVMTAT---Q----TP-KP-V------------------------T
+---YATVTWDQLHRDARTLAATLM----EK---HG---P----------------FR--G
+IVAITRGGLIPAAILGREMGCRLIESVSVISY------A---GEEGT---Q---------
+-HE--PKVV-K--APT---AA------G---------DGEGF-----LIVDDLVDSGITA
+KYVREMLPK----AVFACLYAKPDGK--PHTDHYVTEVAQDTWVLFPWDTAP--LFVPP-
+------LVRN-EKD---------
+>lcl|UniRef90_Q87RV3 Xanthine phosphoribosyltransferase n=83 Tax=Vibrionales RepID=XGPT_VIBPA
+---------------------------------MS------------------------K
+---KFIITWDAMQTYCRELAEKQM----------P-AEQ----------------WK--G
+IWAVSRGGLVPGAILARELGIRYVDTICISSY------D---HDH-----Q---------
+-RD--MTVL-K--APE---GD-----------------GEGY-----LIVEDLVDSGDTA
+RKLREMYPK----AKMIAVCAKPSGK--ELLDDYVVDIAQDTWIEQPWDMSI--QYAEP-
+------VNRK-QK----------
+>lcl|UniRef90_UPI00040FCA6F xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio zosterae RepID=UPI00040FCA6F
+----------------------MS----KA-DRYS------------------------K
+---MYPISWDQLHRDCRTLSWQLL----DK----G---P----------------FK--G
+ILAITRGGLVPAAILARELDIRFIDTVCISTY------D---WKT-----Q-------E-
+-KK--ATVL-K--N------F------E----G----DGEGW-----LLVDDLVDTGGTA
+KLVREMVPK----ALFVTVYAKPEGR--PLVDTYITEVSQDTWILFPWDSAT--QFAEP-
+------IVKV-SKEDD-------
+>lcl|UniRef90_Q138L1 Xanthine phosphoribosyltransferase n=3 Tax=Rhodopseudomonas RepID=XGPT_RHOPS
+---------------MGSGAEASV----A--ER--------------------------R
+---PFPVSWDQFHRDCRALTWRLN----AV----G---P----------------FH--A
+VVAITRGGLVPAAIVARELGLRVIDTICVASY------A---HDK-----Q---------
+-GE--LQVL-K--GVS---EQTAALGGG---------TGKGL-----LIVDDLVDTGKTG
+RMVRDLLPD----AHFATVYAKPKGK--PLVDTFITEVSQDTWIFFPWDTGL--SFQPP-
+------LKDG-AA----------
+>lcl|UniRef90_X0XVZ8 Marine sediment metagenome DNA, contig: S01H1_S27494 (Fragment) n=2 Tax=marine sediment metagenome RepID=X0XVZ8_9ZZZZ
+---------------------MAK----NK-SSYQ------------------------R
+---NFPVTWEQFHRDSRALAWRLL----DT----K---KK---------------WD--R
+IIAVARGGLIPAAIIARELDIHYVDTVCISSY------T---LMH-----R---------
+-RE--LSIL-K--RVT---EF------K----D----RGDRY-----LIIDDLVDTGKTG
+KAVRDMIPG----AYFATVYAKPDGR--PMVDTFITEVSQDTWVLFPWDSEITSNFV---
+-----------------------
+>lcl|UniRef90_W3RG58 Xanthine phosphoribosyltransferase n=1 Tax=Afipia sp. P52-10 RepID=W3RG58_9BRAD
+-------------------MSESA----I--PSPD------------------------K
+---IFPVSWDQFHRDCRALTWRLS----GL----G---P----------------FA--A
+VVGITRGGLVPATIVARELNVRIIDTVCVVSY------E---HQT-----Q---------
+-GD--LRVL-K--SVS---PETLALGGG---------TGKGL-----LIVDDLVDTGKTA
+RIVRDLLPD----AHFATVYAKPQGK--PLVDTFITEVSQDTWIFFPWDTGL--AFQPP-
+------IREG-GA----------
+>lcl|UniRef90_F7NY92 Xanthine phosphoribosyltransferase n=3 Tax=Rheinheimera RepID=F7NY92_9GAMM
+----------------------------MS-LTTN------------------------K
+---MFYVSWEAFHRATKELAKGLL------------KRD----------------FD--S
+IVAVSRGGLVPAAILARELDIRVVDSICVSSY------D---HDQ-----Q---------
+-RE--LKVL-K--DAA---LA----------------DSPRL-----LIVDDLVDTGETA
+KALREHFPT----ACFVTVYAKPQGK--PLVDHYVTDIEQDTWIQLPWDMEL--AYSAP-
+------LAEQ-K-----------
+>lcl|UniRef90_A0A0B5DWF3 Xanthine phosphoribosyltransferase n=1 Tax=Celeribacter indicus RepID=A0A0B5DWF3_9RHOB
+----------------------MS----DI-LPHE------------------------K
+---GFHVSWDQIHRDSRALAWRLD----GK----G---P------DNGA------WR--A
+IVAITRGGMAPAMIIARELDIRTVDTISVKSY------D---HQT-----Q---------
+-TE--PQVL-N--APD---PDLM----G---------DGEGI-----LVIDDLVDSGKTL
+ELCRARYPK----AHFATVYAKPKGR--AQVDSYITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-RD----------
+>lcl|UniRef90_UPI00046F9EAA xanthine phosphoribosyltransferase n=1 Tax=Sneathiella glossodoripedis RepID=UPI00046F9EAA
+----------------------MG----EA-AGYT------------------------K
+---YFPVSWEELHRNGRALAWRLM----DL----A---P----------------FE--G
+IVAVTRGGLVPAAIVARELDIRNIETVCIAAY-----RD---DKS-----V---------
+-GE--VNII-K--GLD---IP------N---------NGKGW-----LIVDDLVDSGITA
+KYVRDMIPE----AHFATIYAKPKGR--PRVDTYITEVSQDTWILFPWDQAP--SFAEP-
+------IVKE-KKKS--------
+>lcl|UniRef90_C7LXS3 Xanthine phosphoribosyltransferase n=2 Tax=Desulfomicrobium RepID=C7LXS3_DESBD
+----------------------MT----EN--RYQ------------------------R
+---TYPISWDQLHRDAKALSWRLL----DK----D---F----------------FN--G
+IIAVTRGGLVPAAIIARELDIRLVDTICVSSY------D---WKN-----Q-------K-
+-GE--VKLL-K--G------I------E----G----NGEGW-----LIIDDLVDTGRTA
+KLIRELLPK----AHFASVYAKPAGR--PLVDTFVTEVSQDTWILFPWDTES--QFVQP-
+------IAGM-RQG---------
+>lcl|UniRef90_UPI00046373A1 xanthine-guanine phosphoribosyltransferase n=1 Tax=Candidatus Schmidhempelia bombi RepID=UPI00046373A1
+---------------------------------ML----------------------KNK
+---KYTVTWDMLQINARVLAARLM----------P-TTQ----------------WK--G
+IIAVSRGGLVPAALLARELGIRYVDTVCISSY------D---HDH-----Q---------
+-RE--QKIL-K--QAP---GD-----------------GEGF-----IVIDDLVDTGNTA
+KTIREMYPK----ARFVTIFAKPDGR--PLVDDYVEDIAQDVWIEQPWDMGV--AFIKP-
+------ICES-E-----------
+>lcl|UniRef90_A0A0C6FTK1 Xanthine phosphoribosyltransferase n=8 Tax=Methylobacterium RepID=A0A0C6FTK1_9RHIZ
+----------------------MA-------APSD------------------------K
+---AFPVSWDQFHRDARALAWRLA----GA----G---P----------------FE--A
+IVCITRGGLVPAAIVARELGIRLIETVCVASY-----HD---YHE-----Q---------
+-GS--LQVL-K--DVA---PSIRAIGDG---------RGRGV-----LVLDDLTDTGKTA
+QVVRAMLPD----AHFATVYAKPAGR--PLIDTFVTEVSQDTWIYFPWDMGL--SYQAP-
+------IQPG-TSG---------
+>lcl|UniRef90_F7RVC5 Xanthine phosphoribosyltransferase n=1 Tax=Idiomarina sp. A28L RepID=F7RVC5_9GAMM
+----------------------------MG-LHSN------------------------Q
+---EYFVSWEELHRATRELARRQL----------P-AEQ----------------WQ--G
+IIAVSRGGLVPAAILARELNIRLVESVCVRSY------A---HQS-----QA--------
+-AE--PEML-K--DIS---CT------E---------DGAGF-----LVVDDLVDTGNTL
+RFLRKRLPK----AKFVTVYAKPEGL--PLVDEYEADIEQSTWIHFPWDVHL--HYVDP-
+------LAGE-DN----------
+>lcl|UniRef90_UPI0002E222A5 MULTISPECIES: xanthine phosphoribosyltransferase n=2 Tax=Acetobacteraceae RepID=UPI0002E222A5
+-------------------------------MAVP------------------------R
+---YYTVSWDQLHRDGKALAWRLV----DKGPSGG---P----------------WN--G
+IVAITRGGLIPAAIVARELDCRLIESVSVVTY------D---EEE-----R---------
+-GK--PSVV-K--MPE---AA------G---------DGEGW-----LILDDLVDTGTTA
+RVVRGLLPK----AHFATIYAKPAGK--PLVDTFVTEVSQDTWILFPWDTEP--QFVAP-
+------IAKS-AKA---------
+>lcl|UniRef90_D7A0B8 Xanthine phosphoribosyltransferase n=1 Tax=Starkeya novella (strain ATCC 8093 / DSM 506 / CCM 1077 / IAM 12100 / NBRC 12443 / NCIB 9113) RepID=D7A0B8_STAND
+----------------------MS----D--DRQK------------------------K
+---AFPVSWDQFHRDARALAWRLA----GA----G---P----------------FA--G
+IVCITRGGLVPAAIVARELGVRLIETVCIASY-----HD---YTK-----Q---------
+-GE--MEVL-K--PIA---DVVKGAAGA---------KGQGL-----LVIDDLVDTGKTM
+RLVREMLPE----AHVATVYAKPLGR--PLVDTFITEVSQDTWIYFPWDMGL--SFQPP-
+------IRDG-VA----------
+>lcl|UniRef90_G2I558 Xanthine phosphoribosyltransferase n=9 Tax=Acetobacteraceae RepID=G2I558_KOMMN
+-------------------------------MA-T------------------------S
+---YATVTWDQLHRDARQLASTLM----TR----G---P----------------FK--G
+IVAITRGGMIPAAIIARELDCRLIDTISVVTY------D---EEK-----M---------
+-GE--PSVI-K--NAD---AA------G---------DGEGF-----LIIDDLVDSGVTA
+QLVRKLMPK----AVFACLYAKPSGR--PVTDMFVVEVPQDTWVLFPWDTAP--LFIPP-
+------LASK-PAVKA-------
+>lcl|UniRef90_UPI00041D9E14 xanthine phosphoribosyltransferase n=1 Tax=Halomonas halocynthiae RepID=UPI00041D9E14
+-----------------------M----TS-QRYH------------------------Q
+---HFIVSWDQLQRDVRELCHQLV------------ERD----------------FK--G
+IAAIARGGLIPAALIARELNVRLIDTVCIKSY------D---RMD-----Q---------
+-SS--LEVL-K--GVE---HD-----------------GEGW-----LLVDDLVDTGKTA
+LKVREMMPK----AHFVTIYAKPDGR--PLVDQYLTEVAQDCWIRFPWDMGV--AYVEP-
+------LVDQ-VRR---------
+>lcl|UniRef90_Q8UEM6 Xanthine phosphoribosyltransferase n=8 Tax=Rhizobium/Agrobacterium group RepID=XGPT_AGRFC
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRLA----GL----D-K-E----------------FR--A
+IVCITRGGLVPAAIISRELNIRMIDTVCIATR-----HD---YVN-----Q---------
+-GD--TVLL-K--GVA---PELTT---D---------AGEGV-----LVVDDLTDTGKTA
+LEVREMLPR----AHFACVYAKPKGV--PTIDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------IAKG-SRG---------
+>lcl|UniRef90_A0A0M7BG39 Xanthine phosphoribosyltransferase n=1 Tax=Jannaschia seosinensis RepID=A0A0M7BG39_9RHOB
+----------------------MP----AETLPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GR----G---P------DDGH------WR--A
+VVAITRGGMAPAMIVARELDIRLVDTISIKSY------A---HQT-----Q---------
+-GE--PVVL-S--KPE---DAMV----G---------DGDGV-----LVIDDLVDSGKTL
+EVVRSLYPK----AHFATVYAKPQGE--PMVDTFITGVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-TD----------
+>lcl|UniRef90_D5RGB1 Xanthine phosphoribosyltransferase n=1 Tax=Roseomonas cervicalis ATCC 49957 RepID=D5RGB1_9PROT
+-------------------------------MA-S------------------------R
+---YYTVSWDQLHRDSKALAWRLV----ER----G---P----------------WK--G
+IVAITRGGLIPAAIIARELDCRLIESVSIITY------D---EEK-----K---------
+-GE--PVVA-K--PPI---AA------G---------DGDGW-----LVLDDLVDTGTTA
+KVVRGMLPK----AHFATVYAKPAGK--PLVDTFVTEVSQDTWILFPWDTEP--QFVAP-
+------IARS-AAAK--------
+>lcl|UniRef90_A4WRD6 Xanthine phosphoribosyltransferase n=6 Tax=Rhodobacter RepID=XGPT_RHOS5
+----------------------MK----ER-LPHE------------------------K
+---GFHVSWDQIHRDSRALAWRLD----GQ----G---P------DNGA------WR--A
+VVGITRGGLVPAMIVSRELDIRTVDTISVKSY------N---WQE-----Q---------
+-QP--PSVI-K--APQ---AELM----G---------DGHGI-----LIVDDLVDSGKTL
+ELVRTLYPR----AHFATVYAKPSGR--PMVDTYITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-RD----------
+>lcl|UniRef90_UPI00056427AE xanthine phosphoribosyltransferase n=1 Tax=Maribius sp. MOLA 401 RepID=UPI00056427AE
+----------------------MT----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLD----GM----G---PEGEAGERGGG------WR--A
+VVAITRGGMAPAMIVARELDIRTVDTISVKSY------D---HQS-----Q---------
+-SA--AKVL-K--SPD---ADMM----R---------DGTGI-----LVVDDLVDSGRTL
+ELVRQLYPK----AHFATVYAKPMGR--DQVDTFVTEVSQDTWIFFPWDMGL--QYVPP-
+------Y-RG-TD----------
+>lcl|UniRef90_Q0FF09 Xanthine phosphoribosyltransferase n=1 Tax=Rhodobacterales bacterium HTCC2255 RepID=Q0FF09_9RHOB
+----------------------MT----NQ-LPHE------------------------K
+---GFHVSWDQLHRDSRALAWRLD----GK----G---P------NDGN------WK--A
+VIGITRGGMAPAMIVARELDIRVVDTISVKSY------D---HQA-----Q---------
+-SE--AIVL-K--SPD---SDLI----G---------DGQGI-----LIIDDLVDSGRTL
+EIVRKMYPK----AHFATVYAKPKGH--PMVDTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-N-----------
+>lcl|UniRef90_S2L9N7 Xanthine phosphoribosyltransferase n=6 Tax=Halomonas RepID=S2L9N7_9GAMM
+-----------------------M----SA-NRYQ------------------------Q
+---HFTVSWDQLHRDVRALCHKLV------------ERD----------------FK--G
+IVAITRGGLIPAALIARELNVRLIDTVCIKSY------D---HMD-----Q---------
+-GG--LDVM-K--GVD---HD-----------------GDGW-----LLVDDLVDTGKTA
+RAVRDMLPK----AHFVTVYAKPEGR--PLVDQCLTEVAQDCWIQFPWDMGV--SYVEP-
+------LVDQ-VRSQAPE-----
+>lcl|UniRef90_UPI0003636817 xanthine phosphoribosyltransferase n=1 Tax=Saccharibacter floricola RepID=UPI0003636817
+-------------MKRMTAT-QNT----TP-QN-V------------------------N
+---YATVTWDQLHRDARLLATELM----HK---HK---P----------------FR--G
+LVAITRGGLIPTAILGRELGCRLIESVSVVSY------E---AEEGT---Q---------
+-QK--PVTL-K--APE---AA------G---------DGEGF-----LIVDDLVDSGVTA
+RYVREMLPK----AVFACLYAKPDGK--PFTDHFVTEVPQDTWVLFPWDTAP--LFVPP-
+------LNRG-TKS---------
+>lcl|UniRef90_A0A085GMS0 Xanthine phosphoribosyltransferase n=2 Tax=Enterobacteriaceae RepID=A0A085GMS0_9ENTR
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARTMAKRLL----------P-AEQ----------------WK--G
+IIAVSRGGLVPAALLARELCIRHVDTVCISSY------D---HDN-----Q---------
+-RE--MKVL-K--RAE---GD-----------------GEGF-----IVVDDLVDTGGTA
+KAIRDMYPK----AHFITMFAKPAGA--PLVDDYVIDIPQDTWIEQPWDMGV--VFVPP-
+------LVGK-------------
+>lcl|UniRef90_V6F4I3 Xanthine phosphoribosyltransferase n=2 Tax=Magnetospirillum gryphiswaldense RepID=V6F4I3_9PROT
+----------------------MT----HD-YRQA------------------------E
+---TLSLSWQDMHRDACALAVLLH----DK----G---T----------------FD--G
+IVAVARGGLVPAAILARELDIKLVETVCISSY------D---HRS-----Q---------
+-GD--MEIL-K--TLA---E-----------------DGKRW-----LVVDDLVDSGATA
+KVVRAMLPD----CHYATLYAKPEGA--DLADSYVRHLEQHVWLVFPWEATP-----AP-
+-----------------------
+>lcl|UniRef90_Q98NH3 Xanthine phosphoribosyltransferase n=65 Tax=Phyllobacteriaceae RepID=XGPT_RHILO
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDARALSWRLS----GA----NKG-Q----------------WK--A
+IVCITRGGLVPAAIIARELGIRVIETVCVASY-----HD---YTS-----Q---------
+-GQ--LQVL-K--EIT---PALLA---D---------DGAGV-----LIIDDLTDTGKTA
+GIVRAMMPK----AHFATVYAKPKGR--PLVDTFVTEVSQDTWIYFPWDMGF--TYQKP-
+------IADD-HAG---------
+>lcl|UniRef90_I1E1T6 Xanthine phosphoribosyltransferase n=2 Tax=Rheinheimera RepID=I1E1T6_9GAMM
+----------------------------MS-LSTN------------------------K
+---MFYVSWEAFHRATKELAHQLL------------GKN----------------YT--A
+IVAVSRGGLVPAAILARELNIRVVDSICVASY------E---HDK-----Q---------
+-GS--LRIL-K--DAS---IE----------------DSEQL-----LVVDDLVDTGETA
+KALREHFPK----ACFVTVYAKPQGK--PLVDHYITDIEQDTWIQLPWDMEL--AYSKP-
+------LADK-------------
+>lcl|UniRef90_D0I7K0 Xanthine phosphoribosyltransferase n=3 Tax=Vibrionaceae RepID=D0I7K0_GRIHO
+---------------------------------MS------------------------N
+---KFVITWDNMQMYTRQLAEKLL----------P-AEQ----------------WK--G
+IIAVSRGGLVPSAILARELGIRYVDTVCISSY------D---HNH-----Q---------
+-RD--MQVL-K--KAE---GD-----------------GEGF-----LIVDDLVDTGGTA
+EAIRQMYPK----AKFVTVCAKPAGK--HLVDDYIVDIAQDCWIEQPWDMAV--TYVDP-
+------IAKR-------------
+>lcl|UniRef90_UPI0006D03DE1 xanthine phosphoribosyltransferase n=1 Tax=Desulfosarcina cetonica RepID=UPI0006D03DE1
+--------------------MTRS----KA-RTYR------------------------R
+---TYPISWEQLHRDARALSWRLN----EK----G---P----------------WQ--G
+IVAITRGGLVPAAIIARELEIRLVDTICIASY------V---GRN-----Q---------
+-GQ--IEVL-K--SVA---G-----------------DGDGW-----LLVDDLVDTGKTA
+RIVREMVPK----AHFATIYAKPAGR--PLVDTFMTEVSQDTWILFPWDSEI--QFVQP-
+------IAER-LHQEGA------
+>lcl|UniRef90_UPI0006C8A853 xanthine phosphoribosyltransferase n=1 Tax=Phaeobacter sp. 11ANDIMAR09 RepID=UPI0006C8A853
+----------------------MT----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GK----G---P------DEGS------WR--A
+VVAITRGGMAPAMIVSRELDIRTVDTISVKSY-HSGGGA---QDQ-----Q---------
+-RD--AQVL-K--SPD---ADLM----R---------DGEGI-----LIIDDLVDSGKTL
+ELVRQLYPK----AHCATVYAKPKGE--PMVDTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-QD----------
+>lcl|UniRef90_UPI00036DFD6F hypothetical protein n=1 Tax=Arhodomonas aquaeolei RepID=UPI00036DFD6F
+----------------------MV----P--HPQE------------------------K
+---AFPVSWDQLHRDARALAWRLS----GV----G---Q----------------WD--A
+LVCITRGGLVPSAIVARELGIRLIETVCVASY-----HD---YDT-----Q---------
+-GD--LVVL-K--HVT---DAVTNLGAG---------SGERV-----LIVDDLVDTGRTA
+REVRDMLPK----AHFATVYAKPQGC--EVVDTFVTEVSQDTWIYFPWDMSL--QFTPP-
+------LHDG-H-----------
+>lcl|UniRef90_A3MYX7 Xanthine phosphoribosyltransferase n=32 Tax=Pasteurellaceae RepID=XGPT_ACTP2
+---------------------------------MS-------------------EKYTNE
+---KYVVTWDMFHMHARKLAERLL----------P-ASQ----------------WK--G
+IIAVSRGGLFPAAVLARELSIRHVETVCISSY------D---HDE-----Q---------
+-GE--LKVL-H--AAQ---TD-----------------GEGF-----IVVDDLVDTGNTA
+KEIRKMYPK----AKFVTVFAKPAGT--PLVDDYVIDIPQETWIEQPWDLGI--TFVPP-
+------LARK-------------
+>lcl|UniRef90_B6JHX3 Xanthine phosphoribosyltransferase n=1 Tax=Oligotropha carboxidovorans (strain ATCC 49405 / DSM 1227 / OM5) RepID=B6JHX3_OLICO
+----------------------MS----E--NAAQ------------------------K
+---PFPVSWDQFHRDARALAWRLN----GA----G---P----------------FR--A
+LVAVTRGGLVPAAIVARELGLRVIDTLCVASY------E---HTT-----Q---------
+-TE--MRVL-K--GLS---ETVTRLGGD---------NGEGL-----LIVDDLVDTGRTA
+RIIRETAPK----AHIAAVYAKPMGK--PLVDTFITEVSQDTWIFFPWDTGL--SFQPP-
+------IREN-GA----------
+>lcl|UniRef90_U4UUD7 Xanthine phosphoribosyltransferase n=1 Tax=Rhodobacteraceae bacterium HIMB11 RepID=U4UUD7_9RHOB
+----------------------MT----ER-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLD----GQ----G---P------DEGGA-----WR--A
+VVAITRGGMAPAMIIARELDIRLVDTISVKSY------N---HQT-----Q---------
+-SE--PRII-K--MPD---QELV----G---------DGEGV-----LIIDDLVDTGKTL
+EVVRKVLPK----AHVATVYAKPMGR--DQVNSFVTEVSQDTWIFFPWDLAL--QYVEP-
+------Y-RG-RD----------
+>lcl|UniRef90_UPI00040A395E xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio cuneatus RepID=UPI00040A395E
+----------------------MS----GA-ERYT------------------------Q
+---QYPVSWAQLHRDTKALAARLV----EM----G---P----------------FK--G
+IIAVTRGGLVPTAVVARELEIHMIETMCLVSY------D---WQS-----Q---------
+-ND-GCTIL-K--TVE---GD-----------------GKGW-----LVLDDLVDTGKTM
+AVVRELLPE----ATLAAIYAKPGGV--NSVDVYVSEVSQDTWILFPWDVEA--QYVKP-
+------LVAR-CEK---------
+>lcl|UniRef90_R6JVQ5 Xanthine phosphoribosyltransferase n=1 Tax=Azospirillum sp. CAG:239 RepID=R6JVQ5_9PROT
+---------------------------------MT------------------------E
+---KLHISWEEFHRDTRELCAKIK----------N-SGN----------------YD--K
+IVAVSRGGLLPAGILAYELNIRNTAVVNMSTY------DGDVRRA-----A---------
+-ES--FQLAAA--GVG---AV-----------------DEHT-----LVVDDLSDSGNTC
+NLLRPLFPQ----ARFVTVYAKPAGR--SAVDVYAREMP-DSWLVFPWD-----------
+-----------------------
+>lcl|UniRef90_UPI0003B3C275 xanthine phosphoribosyltransferase n=1 Tax=Spongiibacter tropicus RepID=UPI0003B3C275
+----------------------------MS-DSQ-------------------------P
+---VYYLTWDELHRDTRNLARNLT------------DKS----------------WR--G
+IISIARGGLVPGAILARELNLRVVDTLCIASY------D---HDQ-----Q---------
+-GD--IQIL-K--SVD---GD-----------------GDGY-----LLVDDLVDTGGTA
+KIARQLLPK----ATFVTIYAKPQAR--DLAEHYSREFAQETWIHFPWDIEH--CYSEP-
+------LVR--------------
+>lcl|UniRef90_K2J1V9 Xanthine phosphoribosyltransferase n=1 Tax=Celeribacter baekdonensis B30 RepID=K2J1V9_9RHOB
+----------------------MS----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GK----G---P------DDGA------WR--A
+VVAITRGGMAPAMIIARELDIRTVDTISVKSY------D---HQD-----Q---------
+-SE--AVVL-K--APD---KDIM----G---------DGTGI-----LIIDDLVDSGKTL
+KLVRELYPN----AQFATVYAKPAGR--PQVDTFITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-RD----------
+>lcl|UniRef90_UPI000304B37A oxytetracycline resistance phosphoribosyltransferase Tet(34) n=1 Tax=Vibrio genomosp. F10 RepID=UPI000304B37A
+---------------------------------MS------------------------N
+---KFVITWDNMQTYCRQLAEKQM----------P-AEQ----------------WK--G
+ILGVSRGGLVPAAILARELGIRYVDTICISSY------D---HDH-----Q---------
+-HD--MTVV-K--APE---GD-----------------GEGF-----LIVEDLVDSGDTA
+RKLREMYPK----AKLIAVCAKPSGS--DLLDDYIVDIPQDTWIEQPWDTAI--QYAEP-
+------INRK-QK----------
+>lcl|UniRef90_A0A0E8XES7 Xanthine phosphoribosyltransferase n=12 Tax=Enterobacteriaceae RepID=A0A0E8XES7_YERPU
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARKLAQRLL----------P-AEQ----------------WK--G
+IIAVSRGGLVPAGILARELGIRYVDTVCISSY------D---HDN-----Q---------
+-RD--LKVL-K--RAE---GD-----------------GEGF-----IVIDDLVDTGGTA
+TAIREMYPK----AHFVTIFAKPAGR--PLVDDYVVDIPQNTWIEQPWDMAV--TFVAP-
+------LSGK-------------
+>lcl|UniRef90_A0A0B4WZB5 Xanthine phosphoribosyltransferase n=3 Tax=Rhizobium RepID=A0A0B4WZB5_9RHIZ
+----------------------------M--SFPD------------------------K
+---AFPVSWDQFHRDARALAWRIA----GL----N-K-E----------------FK--G
+IVCITRGGLVPAAIICRELDIRLIETVCVASY-----HD---YVN-----Q---------
+-GD--MVVL-K--GVA---PELKE---N---------GGEGI-----LVIDDLTDTGKTA
+VQVRAMLPK----AHFACVYAKPLGV--PTVDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------IAKG-PR----------
+>lcl|UniRef90_A0A068JH14 Xanthine phosphoribosyltransferase n=3 Tax=Desulfonatronum RepID=A0A068JH14_9DELT
+----------------------------MK-DRYN------------------------K
+---LYPISWDQLHRDSKALAWRLL----DL----G---P----------------WQ--G
+VVAITRGGLVPAAVIARELEIRVIDTVCVSSY------A---WQD-----Q---------
+-GQ--CSVL-K--R------F------Q----PLAQDVAAKT-----LIIDDLVDTGRTA
+KIVREMLPE----AHFATVYAKPAGR--PMVDTFITEVSQDTWILFPWDSEA--RFVEP-
+------LADQ-KGK---------
+>lcl|UniRef90_UPI000472D507 xanthine phosphoribosyltransferase n=1 Tax=Carnimonas nigrificans RepID=UPI000472D507
+----------------------MA----KS-DRYQ------------------------Q
+---YFTVSWDQLHRDVRELCEPLL------------HHH----------------FK--G
+IVAIARGGLIPAGLIARELDIRLVDSLCVKSY------D---NME-----QH--------
+-DD--VEVL-K--GVD---HD-----------------GEGW-----LLVDDLVDTGKTA
+AAVRRMLPK----AHFITIYAKPEGR--ALVDQYHTEVGQDCWIQFPWDTGF--SYVEP-
+------LVER-HRRADAGKSGV-
+>lcl|UniRef90_UPI0003F9D987 phosphoribosyltransferase n=2 Tax=Meiothermus RepID=UPI0003F9D987
+----------------------------------M------------------------E
+---KHYLTWSDISSLVSKLLARLN----RD--------D----------------YD--A
+ILCVTRGGMVPACLISEALDLRNVLTAAVMFY-----TD---VGE-----TLDQPVFLQF
+PSD--ALLV-----------------------------GKRI-----LVVDDVWDSGKTA
+VAVRERVRQAGGKPTLCTLHYKPTHSHFPGDGPDICAQETDGWIVYPWDPTQVWSSASA-
+-----------------------
+>lcl|UniRef90_UPI0004106668 phosphoribosyltransferase n=1 Tax=Jonesia quinghaiensis RepID=UPI0004106668
+----------------------------MA-EILT------------------------E
+HGIREVLEWDEFGVAARELAQQVV----DS--------G----------------FVPDV
+VVAIARGGLVPGGAVAYALGTKGVGTMNIEFY-----TD---IGQ-----TLTDPRVLPP
+LMD--TQEL-P---------------------------GQKV-----LVVDDVADSGRTL
+ALVMEMLAKQGADARSAVLYTKPR----SIIRPTYSWKDTDEWITFPWSALP------P-
+------IGQD-HSIDA-------
+>lcl|UniRef90_A0A0J1CH39 Xanthine phosphoribosyltransferase n=3 Tax=Proteus RepID=A0A0J1CH39_PROMI
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARQLAQRLL----------P-VEQ----------------WT--G
+IIAVSRGGLVPAALLARELGIRHVDTVCISSY------D---HDH-----Q---------
+-RD--LKIL-K--KAE---GD-----------------GEGF-----IVVDDLVDTGGTA
+KVIREMYPK----AHFVTIFAKPEGR--PLVDDFVVDIPQNTWIEQPWDMGV--AFIPP-
+------VCDQ-K-----------
+>lcl|UniRef90_J3CAB6 Xanthine phosphoribosyltransferase n=2 Tax=Phyllobacterium RepID=J3CAB6_9RHIZ
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRVA----GM----Q-R-E----------------WR--A
+MVAITRGGLVPAAIICRELGIRMIETVCIASY-----HD---YDE-----Q---------
+-GE--LKVL-K--DVD---ARLLE---D---------GGEGI-----LVIDDLTDTGKTA
+AIVRAMMPK----AHFATVYAKPKGR--PLIDTFVTEVSQDTWIYFPWDMGL--TYQEP-
+------ITKG-HKG---------
+>lcl|UniRef90_G2LPB5 Xanthine phosphoribosyltransferase n=1 Tax=Buchnera aphidicola str. Ua (Uroleucon ambrosiae) RepID=G2LPB5_BUCUM
+---------------------------------MS------------------------E
+---KYIVTWDMLQIHTRKLAIRLL----------KKNNF----------------CN--G
+IIAVSRGGLVPSAVLARELDIRCIDTVCIESY------Q---HNCL----K---------
+-NK--RKII-K--KAD---SD-----------------GDKI-----IVIDDLVDTGGTA
+KIIRNLYPK----AYFVTIFAKPMGR--LLVDDYIIDIPQNVWIEQPWDMST--SYISP-
+------IISK-I-----------
+>lcl|UniRef90_B6IUD0 Xanthine phosphoribosyltransferase n=1 Tax=Rhodospirillum centenum (strain ATCC 51521 / SW) RepID=B6IUD0_RHOCS
+----------------------MS----DQIADPA------------------------K
+---NFPVTWEELHRNAKALSWRLS----DR----G---P----------------WN--G
+IVAITRGGLVPAAIVARELNIRIVETVSVKSY------E---HQS-----Q---------
+-GE--VRVL-K--SPDAVPD-----------------EGAGW-----LLIDDLVDTGKTA
+TVVRKLLPK----AHFATIYAKPAGR--PLVDTFITEVSQDTWIHFPWDL-------NP-
+------VSFM-QIPR--------
+>lcl|UniRef90_A0A0B4XVF9 Xanthine phosphoribosyltransferase n=6 Tax=Thalassospira RepID=A0A0B4XVF9_9PROT
+-----------------------M----SE-AAYN------------------------K
+---GFPVSWEQMHRDARALAWRLL----EK----G---P----------------YK--G
+IIAITRGGLVPAAIIARELDIRLIDTVCVRSY------S---DKS-----R---------
+-GD--LEWL-K--G------I------E----G----DGTDM-----LIIDDLVDTGKTA
+KAVREKLPN----AHFATVYAKPLGR--EIVDSFVTEVSQDTWIYFPWDMEL--SVNAP-
+------ISER-VR----------
+>lcl|UniRef90_U4DWC4 Xanthine phosphoribosyltransferase n=3 Tax=Vibrio nigripulchritudo RepID=U4DWC4_9VIBR
+---------------------------------MS------------------------N
+---KFIISWDNMQMYCRQLAERQM----------P-AEQ----------------WK--G
+IIGVSRGGLVPAAILARELGIRYVDTVCISSY------D---HDH-----Q---------
+-RD--MTVL-K--APE---GD-----------------GEGF-----LIVDDLADSGDTA
+RKIRDMYPK----AKLITVCAKPAGI--DLVDDYIVDIPQDTWIEQPWDMAL--TFVDP-
+------INK--------------
+>lcl|UniRef90_A4YS40 Xanthine phosphoribosyltransferase n=3 Tax=Bradyrhizobium RepID=A4YS40_BRASO
+---------------MTDK-TLTA----E--ERAG------------------------R
+---AFPVSWDQFHRDCRALTWRLN----DA----G---P----------------FG--A
+IIAITRGGLVPAAIVARELGIRVIDTVGIASY------D---HTR-----Q---------
+-GE--LNVL-K--AIS---EDTLKLGSG---------TGKGL-----LIVDDLVDTGKTA
+QLVREMLPD----AHFATVYAKPKGR--PLVDTFITEVSQDTWIFFPWDTAL--SFAPP-
+------LRDG-AA----------
+>lcl|UniRef90_A0A0F7M7J2 PRPP-binding protein, adenine/guanine phosphoribosyltransferase n=1 Tax=Spongiibacter sp. IMCC21906 RepID=A0A0F7M7J2_9GAMM
+----------------------------ML-DTP-------------------------P
+---IYYLSWDEFHRDTRSLAKQLA------------STP----------------WK--G
+IICIARGGLVPGAILARELNLRLVDTLCIASY------D---HDK-----Q---------
+-GE--ISIL-K--SIE---SD-----------------GEGY-----LLVDDLVDSGKTA
+EIAKQMLPK----ACFVTVYAKPKAK--ALADIYVKEFSQDTWIHFPWDIQY--SYSAP-
+------LVGG-------------
+>lcl|UniRef90_Q2VZ63 Adenine/guanine phosphoribosyltransferase and related PRPP-binding protein n=1 Tax=Magnetospirillum magneticum (strain AMB-1 / ATCC 700264) RepID=Q2VZ63_MAGSA
+----------------------MT----LD-PAFS------------------------H
+---ACSLSWEEIHSVSRRLARKLR----------D-KGP----------------FT--G
+IIAVARGGLVPAAILATELGIRQVDTVCIAGY------D---EST-----R---------
+-HD--LEIL-K--RVP-----------G---------DGTGW-----LVVDDLVDTGRTA
+QAIRDMLPG----GHYATLYAKPSGR--PLVHTHVEDVGQKTWLVFPWEAPE--RA----
+-----------------------
+>lcl|UniRef90_W7DNN6 Xanthine phosphoribosyltransferase n=1 Tax=Commensalibacter sp. MX01 RepID=W7DNN6_9PROT
+-------------------------------MT-T------------------------H
+---YMTISWDQLHRDARTLSERLS----NR----Q--------------------FK--G
+IVAITRGGMIPAAIIARELECRLIDTVSIVSY------D---EEE-----Q---------
+-GE--LKII-K--HPT---IA------G---------DGEGF-----LIVDDLVDSGITA
+KAIRKLLPK----AYFVCLYAKPAGK--PCTDDFIMEVQQDTWILFPWDSAP--AFAPP-
+------LIKI-KK----------
+>lcl|UniRef90_S9QSG0 Xanthine phosphoribosyltransferase n=2 Tax=Rubellimicrobium RepID=S9QSG0_9RHOB
+-----------------MPDQTRP----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GQ----G---P------EDGA------WR--A
+VVAVTRGGMAPAMIVSRELGIRTVDTISVKSY------D---HQT-----Q---------
+-SE--AVIL-K--APD---AGLM----R---------DGAGI-----LIVDDLVDSGRTL
+ELVRRLYPK----AHFATVYAKPKGK--PQVDTYVTEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-RD----------
+>lcl|UniRef90_Q72D63 Xanthine phosphoribosyltransferase n=3 Tax=Desulfovibrio vulgaris RepID=XGPT_DESVH
+----------------------MS----TA-DRYR------------------------K
+---VFPVTWEQLHRDAKALSWRLL----EK----G---P----------------YK--G
+IIAIARGGLVPAAVIARELDIHLVETICISSY------Q---WQE-----Q-------T-
+-SS--HKVL-K--T------V------E----G----RGEGW-----LIIDDLADTGGTA
+RLVREMLPE----AHFATVYAKPAGR--PLVDTFITEVSQDTWILFPWDSEV--QYVVP-
+------LVNQ-PQQS--------
+>lcl|UniRef90_F3YYF9 Xanthine phosphoribosyltransferase n=2 Tax=Desulfovibrio africanus RepID=F3YYF9_DESAF
+----------------------MS----SK-DRYK------------------------Q
+---TYRVSWDQLHRDSKALAWKLV----DV----R---PS---------------WE--G
+IIAITRGGLLPAAVIARELDIRRIDTVSVVSY------D---WKT-----Q---------
+-GE--PRIV-K--PLA---EE------T---------DGEGW-----LLVDDMVDTGKTA
+RFIRELLPK----AHFATVYAKPEGK--PLVDTFITEVSQDTWILQPWDSEV--QFVEP-
+------IVGQ-RST---------
+>lcl|UniRef90_UPI00037F8DF2 xanthine phosphoribosyltransferase n=6 Tax=Rhizobium/Agrobacterium group RepID=UPI00037F8DF2
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRLA----GN----G-G-E----------------WK--A
+IVCITRGGLVPAAIVCRELNIRLIETVCVASY-----HD---YDA-----Q---------
+-GE--MYVL-K--GIS---EELKA---D---------GGQGV-----LIIDDLTDTGKTA
+AVVRAMLPN----AHFAAVYAKPKGR--PQVDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------IAKG-SRG---------
+>lcl|UniRef90_F7SNW1 Xanthine phosphoribosyltransferase n=17 Tax=root RepID=F7SNW1_9GAMM
+-----------------------M----SS-ERYH------------------------Q
+---HFTISWDQLHRDVRQLCHQLI------------ERD----------------FK--G
+IVAITRGGLIPAALIARELNIRLIDTVCIKSY------D---HMD-----Q---------
+-GG--LDIM-K--GVD---HD-----------------GDGW-----LLVDDLVDTGKTA
+RAVREMLPK----AHFVTMYAKPEGR--PLVDQYLTEVAQQCWIQFPWDMGI--AYVEP-
+------LADQ-LKK---------
+>lcl|UniRef90_A0A0E0YZF1 Xanthine phosphoribosyltransferase n=9 Tax=Enterobacteriaceae RepID=A0A0E0YZF1_9ENTR
+---------------------------------MS------------------------E
+---KYVVTWDVLQMHARKLAARLL----------P-AER----------------WT--G
+IIAVSRGGLVPAALLARELGIRHVDTVCISSY------D---HDN-----Q---------
+-RE--LKVL-K--CAE---GD-----------------GEGF-----IVVDDLVDTGGTA
+KAIRDMYPK----AHFVTLFAKPAGR--PLVDDYVVDIPQNTWIEQPWDMGV--SFVEP-
+------LSSR-------------
+>lcl|UniRef90_A0A094JGH9 Xanthine phosphoribosyltransferase n=1 Tax=Idiomarina salinarum RepID=A0A094JGH9_9GAMM
+----------------------------MG-WHTN------------------------R
+---EFYISWEELHRATKELARRQL----------P-AEQ----------------WR--G
+IIAVSRGGLVPAAILARELNVRMVDCVSVSSY------D---HDS-----QR--------
+-DT--VTLL-N--DAS---AT------D---------DGEGF-----LVVDDLVDTGKTL
+KFLRKRFPK----ARFITVYAKPAGV--DLVDDHVADVDQETWIHFPWDMYL--HYVEP-
+------LAGH-ESI---------
+>lcl|UniRef90_X2H4E1 Xanthine phosphoribosyltransferase n=8 Tax=Gilliamella apicola RepID=X2H4E1_9GAMM
+---------------------------------MSIEQTLTEEEIKAQKQHKAELIAEKE
+---KFNVTWEMLQSYGRQLSKRLL----------P-ANQ----------------WK--G
+IIAVSRGGLVPAAILARELSIRYVDTVCISSY------D---HDH-----Q---------
+-RE--KLIL-K--QAN---GD-----------------GEGF-----IVVDDLVDTGNTA
+HTIREMYPK----ARFVTIFAKPAGK--PLVDDYIVDIEQDTWIEQPWDTGV--MFVKP-
+------ISDH-Q-----------
+>lcl|UniRef90_A0A0F5FP53 Xanthine phosphoribosyltransferase n=5 Tax=Devosia RepID=A0A0F5FP53_9RHIZ
+----------------------------MS-NPNQ------------------------K
+---SFPVTWDQFHRDSRALAWRLA----SV----G---P----------------FD--A
+VVAIARGGLVPAAIVARELNIRTVETVACKSY------D---HQN-----Q---------
+-SG--IKVL-K--EIS---QPVLDLA-R---------NGGKV-----LIVDDLVDTGNTA
+RVVRDMLPG----AHFATVYAKPKGR--DMVDTFITEVSQDTWIFFPWDLDV--AYVAP-
+------ISGG-TD----------
+>lcl|UniRef90_C4LBK1 Xanthine phosphoribosyltransferase n=2 Tax=Tolumonas RepID=C4LBK1_TOLAT
+---------------------------------MS------------------------R
+---KFYVSWENLHREARRLSRRQL----------P-ASQ----------------WK--G
+ILAVSRGGLVPAAIMARELGIRFVDTICISSY------E---HDN-----Q---------
+-GD--LNVL-K--RID---GD-----------------GEGF-----LIVDDLVDSGNTA
+RLLREMYPK----AKLVTVFAKPKGE--HLVDDFEVAIPQDTWIEQPWDMVH--CFVPP-
+------ICEE-NQ----------
+>lcl|UniRef90_F0JG63 Xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio desulfuricans ND132 RepID=F0JG63_DESDE
+----------------------MV----DK-SRYQ------------------------K
+---MFPVSWEQLHRDCRALSWRLV----DK----G---P----------------WK--G
+ILAITRGGLVPAAIIARELDIHLIDTICLSSY------D---WKN-----Q---------
+-GE--ATIL-K--E------V------D----N----DGEGW-----LLIDDLVDTGKTA
+KIARDMVPR----AHFATVYAKPAGR--PTVDTFITEVSQDTWILFPWDAGS--QFVEP-
+------IAQA-SE----------
+>lcl|UniRef90_Q2CG51 Xanthine phosphoribosyltransferase n=1 Tax=Oceanicola granulosus (strain ATCC BAA-861 / DSM 15982 / KCTC 12143 / HTCC2516) RepID=Q2CG51_OCEGH
+----------------------M-----DK-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLD----GH----G---P------DDGA------WK--A
+VVAITRGGMAPAMIVARELDIRHVDTISVKSY------N---HQT-----Q---------
+-SE--PKVI-K--SPD---MDLV----G---------DGTGV-----LIIDDLVDTGRTL
+EVVRAHMPK----AHVATVYAKPQGR--GQVDSFITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-TD----------
+>lcl|UniRef90_UPI0005903ABE xanthine phosphoribosyltransferase n=1 Tax=Halomonas salina RepID=UPI0005903ABE
+-----------------------M----ST-HRYH------------------------Q
+---HFTVSWDQLHRDVRELCHRLI------------ERD----------------FK--G
+IVAITRGGLIPAALIARELDVRLIDTVCIKSY------D---HME-----Q---------
+-GG--LEVL-K--GVD---HQ-----------------GEGW-----LLVDDLVDTGRTA
+KAVREMLPN----AHFVTIYAKPDGK--PLVDQYLTEVAQDCWIQFPWDMGV--AYVEP-
+------LVDQ-AKR---------
+>lcl|UniRef90_UPI0006FDE5D6 UPI0006FDE5D6 related cluster n=1 Tax=unknown RepID=UPI0006FDE5D6
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDARALAWRLA----GV----N-P-Q----------------WK--A
+IVCITRGGLVPAAIISRELGIRLIETICIASY-----HD---YTS-----Q---------
+-GQ--LQVL-K--EIT---PSLLE---G---------EGENV-----LIVDDLTDTGKTA
+AIVRAMMPK----AHFATVYAKPKGR--PLVDTFVTEVSQDTWIYFPWDLGF--TYQKP-
+------IAED-HMG---------
+>lcl|UniRef90_UPI0005516B51 xanthine phosphoribosyltransferase n=1 Tax=Beijerinckia mobilis RepID=UPI0005516B51
+----------------ME----------------H------------------------Q
+---HFQISWEQFHRDARSLSRLLM----RQ----G---P----------------FQ--G
+LIAVTRGGLVPAAIVARELDLRRIDTFCVTSY------D---TGN-----SP--------
+-GE--VNIV-K--EVS---SEIGQ---T---------RGEGM-----LIIDDLVDTGTTL
+RVIRQFLPK----AHVATLYAKPLGR--PFVDTFVTEFEQAIWVDFPWDLGL--GFQAP-
+------LVKG-------------
+>lcl|UniRef90_E6L0C7 Xanthine phosphoribosyltransferase n=18 Tax=Pasteurellaceae RepID=E6L0C7_9PAST
+------------------MPVKFL----KG-VFMS------------------------E
+---KYVVTWDMFHMHARKLSERLL----------P-ASQ----------------WK--G
+IVAVSRGGLFPGAVLARELGIRHVETICIASY------N---HDK-----Q---------
+-GE--LQVL-H--AAQ---LENG---------------GEGF-----IVIDDLVDTGNTA
+RAIREMYPN----AHFVTVFAKPAGA--ELVDDYVVDIPQNTWIEQPWDMGI--CFVPP-
+------LARK-------------
+>lcl|UniRef90_D5BU01 Xanthine phosphoribosyltransferase n=1 Tax=Puniceispirillum marinum (strain IMCC1322) RepID=D5BU01_PUNMI
+----------------------MA----EA-QV--------------------------K
+---SFPVSWEELHRTSKALAWRLL----EL----G---P----------------FE--G
+IVAVTRGGLVPAAIVARELEIRLIETACLSSY------H---GQE-----Q---------
+-GG--LTVL-K--EAT---LA------D---------KGKGW-----LIVDDLVDTGETA
+KSLRAMMPD----AHFATVYAKPAGR--PLVDTFVTEVSQDTWIFFPWDMEP--QPSTP-
+------IIGL-RG----------
+>lcl|UniRef90_A0P454 Xanthine phosphoribosyltransferase n=7 Tax=Labrenzia RepID=A0P454_LABAI
+----------------------ME----N--PAQN------------------------K
+---AFPVSWDMFHRDSRALAWRLS----SE----G---E----------------WK--A
+IVCITRGGLVPAGIVARELGIRTIETVCIASY-----HD---YDS-----Q---------
+-GS--LKVI-K--PID---PKVVDLEDG---------EGSGV-----LVIDDLVDTGKTM
+KVVREMLPK----AHYATVYAKPVGV--PMVDTFITEVSQDTWIYFPWDMGW--QFQPP-
+------LAKE-TAG---------
+>lcl|UniRef90_K2JFZ0 Xanthine phosphoribosyltransferase n=2 Tax=Gallaecimonas RepID=K2JFZ0_9GAMM
+---------------------------------MT------------------------K
+---KYLVTWEAFHQAARELAARQL----------P-AEQ----------------WK--G
+IVAVTRGGMAPALVLARELGIHSLDTVCISSY------D---HDH-----Q---------
+-RG--LNII-K--PASDLVGD-----------------GEGW-----LIVDDLVDSGATA
+KALREMYPK----AKLVAVFAKPAGK--PLVDEYVIDIAQDTWIEQPWDMGP--AFQPP-
+------LSGR-D-----------
+>lcl|UniRef90_UPI0006D7E1E3 xanthine phosphoribosyltransferase n=2 Tax=Devosia sp. DDS-1 RepID=UPI0006D7E1E3
+----------------------------MN-QTSQ------------------------K
+---SFPVTWDQFHRDSRALAWRLQ----AL----G---P----------------FD--A
+LVAITRGGLVPAAIVARELNIRVVESVAVKSY------D---HQS-----Q---------
+-GG--IKVL-K--PIA---PELLDKA-R---------SGGKI-----LIVDDLVDTGATA
+RVVRDMLPG----AHFATVYAKPKGR--EMVDTFITEVSQDTWIFFPWDLDV--AYVPP-
+------ISGG-TD----------
+>lcl|UniRef90_UPI000414BF57 xanthine phosphoribosyltransferase n=1 Tax=Sediminimonas qiaohouensis RepID=UPI000414BF57
+----------------------MT----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLQ----EL----G---PQ-----EDGG------WR--V
+VVAITRGGMAPAMIVARELDIRTVDTISIKSY------N---HQT-----Q---------
+-AE--AMVL-K--SPD---PALV----G---------DGEGV-----LVVDDLVDSGKTL
+ELVRKLYPK----AHFATVYAKPEGR--EQVDTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------
+>lcl|UniRef90_UPI00056736A2 xanthine phosphoribosyltransferase n=1 Tax=Methylocapsa aurea RepID=UPI00056736A2
+----------------------MPVPPAQKNTPVE------------------------K
+---AFHVSWDQFHRDARALAWRLS----GA----M---P----------------FS--G
+VVAITRGGLVPAAIVARELDMRIIDTFCVASY-----VG---ESV-----Q---------
+-GE--IKVL-K--SVS---PQIGQ---D---------GGEGL-----LVIDDLVDTGATV
+RAVRALLPR----AHVATVYAKPLGR--PLVDTFITEVSQDTWIYFPWDLGL--SFQAP-
+------ISQA-DRG---------
+>lcl|UniRef90_A0A084UA55 Xanthine phosphoribosyltransferase n=1 Tax=Nitratireductor basaltis RepID=A0A084UA55_9RHIZ
+----------------------------MP-ALPE------------------------K
+---AFPVSWDQFHRDARALAWRLA----GV----N-G-K----------------WK--A
+IVCITRGGLVPAAIISRELGIRLIETVCVASY-----HD---YSS-----Q---------
+-GE--LKVL-K--DIT---PELLE---D---------EGKDV-----LIVDDLTDTGKTA
+AIVRAMMPK----AHFATVYAKPKGR--PLVDTFITEVSQDTWIYFPWDLGF--SYQKP-
+------IAEG-EAG---------
+>lcl|UniRef90_A0A017HD95 Xanthine phosphoribosyltransferase n=2 Tax=Loktanella RepID=A0A017HD95_9RHOB
+----------------------MT----DR-LPHE------------------------K
+---GFHVSWDQLHRDSRALAWRLD----GR----G---PD-----SEGA------WK--A
+VVAITRGGMAPAMIVARELGIRTVDTISVKSY------E---HQN-----Q---------
+-SG--AKVL-K--APD---AEMM----G---------DGTGI-----LVVDDLVDTGRTL
+ELVRELYPN----AHFATVYAKPMGN--GQVDTYVTEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-KD----------
+>lcl|UniRef90_A0A0D6PBL9 Xanthine phosphoribosyltransferase n=1 Tax=Acidisphaera rubrifaciens HS-AP3 RepID=A0A0D6PBL9_9PROT
+-------------------------------MA-T------------------------H
+---YYTVTWDQLHRDGRALAWRLM----ER----G---P----------------VR--G
+VVAITRGGLIPAAIVARELEIRLIESVSVVTY------D---EEA-----R---------
+-GE--PVVV-K--APA---AA------G---------DGEGF-----VIIDDLVDTGTTA
+RIVRALLPR----AAFACIYAKPAGR--DIADVFVTEVSQDTWILFPWDTEP--QFVAP-
+------LAKR-PPG---------
+>lcl|UniRef90_UPI00037E7C26 xanthine phosphoribosyltransferase n=1 Tax=Kushneria aurantia RepID=UPI00037E7C26
+-----------------------M----SS-ERYR------------------------N
+---YFTITWDRLHRDVRALCHQLV------------ERD----------------FV--G
+IVAITRGGLIPAALIARELDIRLIDTVCISSY------D---KMA-----Q---------
+-GR--LDVL-K--GID---HD-----------------GDGW-----LLIDDLVDTGKTA
+GAVRRMLPK----AHFVTVYAKPDGR--PLVDQYLTEVSQDSWIQFPWDTGI--SFVEP-
+------LVDQ-LRSRGESS----
+>lcl|UniRef90_C7BHW6 Xanthine phosphoribosyltransferase n=12 Tax=Enterobacteriaceae RepID=C7BHW6_PHOAA
+----------------------MP----GS-ILMS------------------------E
+---KYVVTWDMLQIHARKLAQRLL----------P-VEQ----------------WK--G
+IIAVSRGGLVPGALLARELGIRHVDTVCISSY------D---HNN-----Q---------
+-RE--LQVL-K--KAE---GD-----------------GEGF-----IIVDDLVDTGGTA
+QAIREMYPK----AHFVTIFAKPAGR--PLVDDYVIDIPQDTWIEQPWDMGV--VFVPP-
+------ICEG-K-----------
+>lcl|UniRef90_A0A094L4D9 Xanthine phosphoribosyltransferase n=3 Tax=Idiomarina RepID=A0A094L4D9_9GAMM
+----------------------------MG-WHEN------------------------R
+---EFFVSWEELHRATKELARRQL----------P-AEQ----------------WQ--G
+VIAVSRGGLVPAAIVARELNLRVVESVCVSSY------D---HDS-----QR--------
+-DS--VTLL-K--DVS---CT------E---------DGEGF-----LVIDDLVDTGNTL
+KFLRKRLPK----AKFITVYAKPAGM--DLVDDFVADLEQETWIHFPWDMHL--HYVEP-
+------LAGQ-ES----------
+>lcl|UniRef90_UPI0004132FA1 xanthine-guanine phosphoribosyltransferase n=1 Tax=Rubritepida flocculans RepID=UPI0004132FA1
+-------------------------------MA-T------------------------R
+---YYTVGWEQLHRDAKALAWRLM----EK----G---P----------------FK--G
+VVAITRGGLMPAAIIARELECRVIETVSVITY------D---EET-----R---------
+-GE--PRVA-K--PPS---AA------G---------DGTGW-----LLVDDLVDTGTTA
+KVVRAMLPG----AHFATIYAKPAGK--PLVDSFVTEVSQDTWILFPWDTEP--QFIPP-
+------LAKG-AAAK--------
+>lcl|UniRef90_UPI0001F8713E xanthine phosphoribosyltransferase n=1 Tax=Methylocystis sp. ATCC 49242 RepID=UPI0001F8713E
+----------------------------M--HGAG------------------------K
+---SFPVSWDMFHRDARALAWRLA----SI----G---G----------------FS--A
+IVAVTRGGLVPAGIVARELGIRVIETVCVASY-----HE---ETE-----R---------
+-DT--IEVL-K--PLT---ETILE---R---------PSAEV-----LIIDDLVDTGATA
+RAVRNMLPR----AHFATVYAKPQGL--PMVDTFVTEVSQDTWIYFPWDTGL--SFQAP-
+------IQKT-QGRPTRRG----
+>lcl|UniRef90_A0A0L1JMJ3 Xanthine phosphoribosyltransferase n=1 Tax=Aestuariivita atlantica RepID=A0A0L1JMJ3_9RHOB
+----------------------MT----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLQ----GE----A---P------ESG-------WK--A
+VVAITRGGMAPAMIVARELDIRTVDTISVKSY-HSGGGK---ADQ-----R---------
+-RD--AEVL-K--SPD---ATVM----G---------DGKGI-----LIVDDLVDSGKTL
+ELVRSLYPQ----AHVATVYAKPMGR--PQVNTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------
+>lcl|UniRef90_UPI0004A6FEF1 xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio sp. L21-Syr-AB RepID=UPI0004A6FEF1
+----------------------MP----LS-DRYK------------------------R
+---MYPVSWEQLHRDSKALAWRLS----EL--------PD---------------IK--G
+LIAITRGGMFPAAVIARELDIRLIDTLCVVSY------D---WQQ-----QR--------
+-DK--AGLL-K--GLA---QE------T---------DGRGW-----ILVDDLVDTGKTA
+RFVRELLPE----AHFATVYAKPEGR--PVVDTFITEVSQDTWILQPWDAET--QFVQP-
+------IAKL-RSVPQQG-----
+>lcl|UniRef90_Q2YQ27 Xanthine phosphoribosyltransferase n=12 Tax=Brucella RepID=XGPT_BRUA2
+-------------M-SLP----------------D------------------------K
+---AFPVSWDQFHRDARALAWRIA----GL----D-R-E----------------WR--A
+IVAITRGGLVPAAIICRELGIRLIETVCIASY-----HD---YTS-----Q---------
+-GE--MQVL-K--GIG---ASLLE---N---------QGEGV-----IVVDDLTDTGKTA
+AIVREMMPR----AHFATVYAKPKGR--PLIDTLRHGGLTGYLDLFPMGYGL--HLSGAD
+CWRKTRLNET-K-----------
+>lcl|UniRef90_UPI0003139822 hypothetical protein n=1 Tax=Catenovulum agarivorans RepID=UPI0003139822
+---------------------------------MT------------------------E
+---KLVLDWQTLHGACKRLAQLIPLEK----------------------------YD--G
+IVAVTRGGLVPAAILSSELDIRMVETIGVQSY------R---GRQ-----Q---------
+-GK--LELV-K--PAY---LL----------------ESEQIQPQRWLFVEDLVDTGSTV
+KFLKQYYPR----ADFACVYVKPQGA--ELVKYSVEQVAQEIWIDFPWEN----------
+-----------------------
+>lcl|UniRef90_UPI0006459E79 xanthine phosphoribosyltransferase n=1 Tax=Mesorhizobium sp. F7 RepID=UPI0006459E79
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDARALAWRLA----GV----N-G-Q----------------WR--A
+IVCITRGGLVPAAIISRELGVRIIETVSIASY-----HD---YTT-----Q---------
+-GE--LAVL-K--EIT---PALLE---N---------DGEGI-----LIIDDLTDTGKTA
+GIVRAMMPK----AHFATVYAKPKGR--PLVDTFVTEVSQDTWIYFPWDMGF--TYQKP-
+------IADD-HTG---------
+>lcl|UniRef90_V4J3H2 Xanthine phosphoribosyltransferase n=1 Tax=uncultured Desulfofustis sp. PB-SRB1 RepID=V4J3H2_9DELT
+----------------------MN----D----YR------------------------R
+---TYPVSWEQMHRDSKALAWRLL----DM----H---Y----------------FT--G
+IIAITRGGLVPAAVVARELGIHLVETICISSY------D---WQD-----K-------K-
+-SE--AEVI-K--G------F------S----G----DGEGW-----LLIDDLVDTGRTA
+SLVRETVSK----AHFATVYAKPAGR--PLVDTFITEVSQDTWILFPWDTES--QFVQP-
+------LADP-QRS---------
+>lcl|UniRef90_UPI000492CC26 xanthine phosphoribosyltransferase n=1 Tax=Aminiphilus circumscriptus RepID=UPI000492CC26
+----------------------MS----AG-DRYH------------------------K
+---TFPVSWEQLHRDCRALAWRLV----AL----R---P----------------WT--R
+IIAVARGGLVPAAIIARELDIRLVDTVCISSY------T---LRT-----Q---------
+-GE--PAIL-K--QAQ---CL------D----R----EEETL-----LIVDDLVDTGKTA
+KIVRDIFPT----AHFATVYAKPDGR--PLVNTFITEVSQDTWILFPWDAETHVEFVHP-
+------IAMK-RTDG--------
+>lcl|UniRef90_UPI0005C1BA48 xanthine-guanine phosphoribosyltransferase n=1 Tax=Roseomonas aerilata RepID=UPI0005C1BA48
+-------------------------------MP--------------------------R
+---YYTVTWDQLHRDAKALAWRLV----GK----G---PVEGG------------FR--G
+IVAITRGGLIPAAIVARELDCRLIESVSVVTY------D---EEE-----M---------
+-GK--PRVV-K--PPA---AA------G---------TGAGW-----LVLDDLVDTGTTA
+KVVRAMLPE----AHFATIYAKPAGR--PLVDSFITEVSQDTWILFPWDTEP--QFVAP-
+------IIKT-AGAAGA------
+>lcl|UniRef90_J9Z0N9 Phosphoribosyl transferase family protein n=1 Tax=alpha proteobacterium HIMB59 RepID=J9Z0N9_9PROT
+----------------------------------M------------------------K
+---QVFLSYHDIHTDCIELAKIIK----KK-------------------------FKPEK
+LILISRGGLIPGSIIANYLGIQDIDVIAMKTY------S---NRK-----R---------
+-TN--KIEIFK--RIK---SQ------------------KKL-----VVIDDLVDSGETA
+KIVKSMMPN----SKFVTLYAKTSGK--KQADLHLYDFKDSDWLVFPWEQD---------
+-----------------------
+>lcl|UniRef90_D1B8U0 Xanthine phosphoribosyltransferase n=1 Tax=Thermanaerovibrio acidaminovorans (strain ATCC 49978 / DSM 6589 / Su883) RepID=D1B8U0_THEAS
+-----------------------M----SD-ERYV------------------------K
+---TYSVSWDQLQRECRQLAAELS----RL----R---R----------------WN--R
+LIAVARGGLVPAALMAQELQIKLVDTVCISSY------T---LKS-----Q---------
+-GD--LTVL-K--RPD---LE------G---------VDENC-----LIIDDLVDTGKTA
+QVVREMFPQ----AYFATVYAKPEGR--PLVDKFVTEVSQNTWIIFPWEPSH-----SP-
+------IL---------------
+>lcl|UniRef90_C6BXX8 Xanthine phosphoribosyltransferase n=2 Tax=Desulfovibrio RepID=C6BXX8_DESAD
+----------------------MS----KA-DRYN------------------------K
+---MYPISWEQLHRDCRALSWRLL----EK----G---P----------------FE--G
+ILAITRGGLVPAAILARELDIRLIDTVCISTY------D---WKV-----Q-------E-
+-KK--ATVL-K--D------F------K----G----DGEGW-----LLVDDLVDTGGTA
+RLVREMVPK----AHFATVYAKPEGR--PLVDTFITEVSQDTWILFPWDSET--QFAQP-
+------IVKV-SQENNS------
+>lcl|UniRef90_A6X0U5 Xanthine phosphoribosyltransferase n=17 Tax=Brucellaceae RepID=XGPT_OCHA4
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRIA----GM----N-R-D----------------WH--A
+IVAITRGGLVPAAIVCRELGIRLIETVCIASY-----HD---YTS-----Q---------
+-GD--MQIL-K--GVS---ETLLE---N---------GGEGV-----IVVDDLTDTGKTA
+AIVREMMPK----AHFATVYAKPKGR--PLIDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------IAGD-KRG---------
+>lcl|UniRef90_UPI0005EF4252 xanthine phosphoribosyltransferase n=1 Tax=Falsirhodobacter sp. alg1 RepID=UPI0005EF4252
+----------------------MSPS--DR-LPHE------------------------K
+---GFHISWDQMHRDSRALAWRLD----GH----G---P------DGGS------WK--A
+VVGITRGGLVPAMIVARELDLRVVDTIGIRSY------S---KQS-----Q---------
+-GE--IQVI-K--SPQ---AELM----G---------DGEGI-----LIVDDLVDSGKTL
+EVVRKMYPR----AHFATVYAKPSGR--PQVDTFITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-TD----------
+>lcl|UniRef90_C8S5B3 Xanthine phosphoribosyltransferase n=1 Tax=Rhodobacter sp. SW2 RepID=C8S5B3_9RHOB
+----------------------MSP---ER-LPHE------------------------K
+---GFHVSWDQIHRDARALAWRLD----GK----G---PG-----EGGA------WK--A
+VVGITRGGLVPAMIVSRELDIRVVDTISVISY------A---HQD-----R---------
+-GD--AEVT-K--SPQ---AELM----G---------DGTGI-----LVVDDLVDSGKTL
+ELVRSLYPK----AHFATVYAKPSGK--PQVDTYITEVSQDTWIFFPWDMAL--QYVQP-
+------F-RG-KD----------
+>lcl|UniRef90_A0A0M4H4H2 Xanthine phosphoribosyltransferase n=1 Tax=Buchnera aphidicola (Aphis glycines) RepID=A0A0M4H4H2_9ENTR
+---------------------------------MS------------------------E
+---KYIVTWDMLQIYTRKLASRLI----------K-INS----------------WN--R
+IIAVSRGGLVPASLLARELSIRYVDTICIASY------N---NNCL----Q---------
+-EN--RKII-K--TTK---IS-----------------NEKISGKQVIVVDDLVDTGGTA
+HIIRKFYPK----AYFVTIFAKPMGK--FLVDNYIIDVDQNIWIEQPWDMSI--SYIPP-
+------LIKK-NKIF--------
+>lcl|UniRef90_UPI00036BA7DE xanthine phosphoribosyltransferase n=1 Tax=Marinobacterium rhizophilum RepID=UPI00036BA7DE
+-----------------------M----AS-VPYR------------------------K
+---DFPVSWEELHRNARALSWRLL----EL----G---P----------------WK--G
+IIAITRGGLVPAAILARELDIRLIDTICVTSY------A---KGD-----ESGAAAMVR-
+-GE--LNIL-K--S------V------E----G----DGEGM-----ILIDDLVDTGKTA
+QCVRDLLPK----AHFATIYAKPAGK--PLVDTFITEVSQDTWIRFPWDMDY--AFAPP-
+------LADR-------------
+>lcl|UniRef90_UPI000423219B xanthine phosphoribosyltransferase n=1 Tax=Desulfobulbus mediterraneus RepID=UPI000423219B
+----------------------ME----EN-KKYR------------------------K
+---TYPISWEQLHRDSKALAWRLL----SM----D---Y----------------FK--G
+IVAITRGGLVPAAIVARELDIHLVDTICISSY------D---WKD-----Q-------K-
+-GE--AEIL-K--S------F------E----G----DGEGW-----LLLDDLVDTGRTA
+QLVKKMVPK----AHFATVYAKPAGR--PLVDTYITEVSQDTWILFPWDSES--QFVQP-
+------LASG-K-----------
+>lcl|UniRef90_A0A0F3IRJ9 Xanthine phosphoribosyltransferase n=1 Tax=Elstera litoralis RepID=A0A0F3IRJ9_9PROT
+----------------------MA----DS-NPSP------------------------K
+---TFPVSWEELHRNAKALAWRLI----EG----R---S----------------WH--G
+IIAIARGGLVPAAIIARELDLRVVDTICIKSY-----SD---DHA-----R---------
+-GE--IRIL-K--NIV---NP------G---------DGDGW-----LIIDDLVDTGYTA
+KAVRELLPK----AHFATVYAKPAGK--PMVDTYITEVSQDTWIYFPWDVEP--QFAQP-
+------LAAQ-RRG---------
+>lcl|UniRef90_B7RPT5 Xanthine phosphoribosyltransferase n=9 Tax=root RepID=B7RPT5_9RHOB
+----------------------MSKDS-SR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GM----G---P------DDGA------WR--A
+VVAITRGGMAPAMIAARELDIRTVDTISIKSY------D---HQD-----Q---------
+-SE--AIVL-K--APD---ADLM----G---------DGTGI-----LIIDDLVDSGKTL
+EVVRKLYPQ----AHLATVYAKPKGR--PQVDTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-KD----------
+>lcl|UniRef90_Q1YL20 Xanthine phosphoribosyltransferase n=1 Tax=Aurantimonas manganoxydans (strain ATCC BAA-1229 / DSM 21871 / SI85-9A1) RepID=Q1YL20_AURMS
+----------------------------M--STVE------------------------K
+---SFPVSWDQFHRDARALAWRLA----SQ----R-D-D----------------WR--A
+IVCITRGGLVPAAIIAREIGTRLIETVCIASY-----HE---YSE-----Q---------
+-GE--LRVL-K--EIS---PELLK---D---------EGDGI-----LIVDDLTDTGKTA
+GLVRTMLPK----AHFATVYAKPKGR--PLVDTFITEVSQDTWIFFPWDLGL--TFQAP-
+------ISKS-TLG---------
+>lcl|UniRef90_I5C7G1 Xanthine phosphoribosyltransferase n=5 Tax=Phyllobacteriaceae RepID=I5C7G1_9RHIZ
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDARALAWRLA----GA----N-G-D----------------WK--A
+IVCITRGGLVPAAVISRELGIRLIETVCVASY-----HD---YTE-----Q---------
+-GD--LRVL-K--EIN---PELLK---D---------DGENV-----LIVDDLTDTGKTA
+AIVRAMMPK----AHFATIYAKPKGR--PLVDTFVTEVSQDTWIYFPWDMGF--SYQKP-
+------IAED-QRG---------
+>lcl|UniRef90_A0A068SNU9 Xanthine phosphoribosyltransferase n=24 Tax=Rhizobium/Agrobacterium group RepID=A0A068SNU9_RHIGA
+---------------MLSQMVASP----M--SLPE------------------------K
+---AFPVSWDQFHRDARALAWRLA----GL----G-R-E----------------FR--A
+IVCITRGGLVPAAIISRELNIRLIETVCIASY-----HD---YVN-----Q---------
+-GE--MNLL-K--GIT---PELTV---D---------EGAGV-----LVIDDLTDTGKTA
+SEVRAMLPK----AHFACVYAKPSGV--PTIDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------IAKG-AKG---------
+>lcl|UniRef90_UPI0005791E76 xanthine phosphoribosyltransferase n=1 Tax=Halocynthiibacter sp. PAMC 20958 RepID=UPI0005791E76
+----------------------MT----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GK----G---S------VDGS------WR--A
+VVAITRGGMAPAMIMARELDIRTVDTISVKSY------D---HQD-----Q---------
+-SK--AEIL-K--APD---AALM----G---------DGEGI-----LIVDDLVDSGRTL
+ELVRALYPK----AHFATVYAKPKGR--AMVDTFITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-KD----------
+>lcl|UniRef90_K2IZ95 Xanthine phosphoribosyltransferase n=1 Tax=Oceanibaculum indicum P24 RepID=K2IZ95_9PROT
+----------------------------MT-QAAD------------------------K
+---PFLVSWEELHRDARVLAWRLL----EQ----G---P----------------FE--R
+IVAIARGGLVPAAVVARELEIRLVDTVCVASY--DDAKA---LGK-----Q---------
+-GD--MQVL-K---------DVA----G---------DGTGV-----LVVDDLVDSGLTA
+KLVRDMLPK----AHIATVYAKPKGR--PLVDTFVTEVSQDTWIYFPWDLGA--QPVQP-
+------IVLG-RKPR--------
+>lcl|UniRef90_UPI000689811D xanthine phosphoribosyltransferase n=1 Tax=Terasakiella pusilla RepID=UPI000689811D
+----------------------MA----SL-EDDI------------------------V
+---SEIVSWAEVHKDTRKLARELS----------K-REK----------------FK--G
+IIAITRGGLIPAAIMARELGLKLIDTVCCEAY----------RDEAAELNG---------
+-TP--VNVMKK--ATE---TE----------------DGEGF-----LLIDDLVDTGTTA
+KVVREMLPK----AYFVTLYAKPEGK--PLVDSFVKEVEQETWVFFPWDTQL--QYSKP-
+------IGTN-KG----------
+>lcl|UniRef90_UPI000491A665 xanthine-guanine phosphoribosyltransferase n=1 Tax=Phaseolibacter flectens RepID=UPI000491A665
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARKLASRLL----------P-ASQ----------------WT--G
+IIAVSRGGLVPAALLARELNLRYVDTTCISSY------D---HDN-----Q---------
+-RE--MKIL-K--RVE---GD-----------------GKGF-----IVIDDLVDTGGTA
+QALRAMYPA----AHFVTIFAKPEGR--PLVDDYVVDIPQNTWIEQPWDMAV--SYVAP-
+------LVQG-------------
+>lcl|UniRef90_A0A0D1EDL1 Xanthine phosphoribosyltransferase n=2 Tax=Jannaschia RepID=A0A0D1EDL1_9RHOB
+----------------------MA----APQLPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GR----G---PG-----QDGT------WK--A
+IVAITRGGMAPAMIIARELGVRLVDTISVKSY------D---HQT-----Q---------
+-GE--AQVL-S--KPD---PEMV----G---------DGTGV-----LVIDDLVDTGKTL
+EVVRGLYPQ----AHFATVYAKPKGE--PLVDTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-KD----------
+>lcl|UniRef90_Q6AQG4 Xanthine phosphoribosyltransferase n=1 Tax=Desulfotalea psychrophila (strain LSv54 / DSM 12343) RepID=XGPT_DESPS
+----------------------MS----DQ---YK------------------------R
+---TYPISWDQLHRDSKALAWRLL----DK----D---F----------------FK--G
+IIAITRGGMVPAAIIARELDIHLIDTICISSY------D---WKE-----K-------K-
+-GE--ADIL-K--G------F------D----G----DGEGW-----LLIDDLVDTGRTA
+EVVKNLIPK----AHFATVYAKPSGR--PLVDTFVTEVSQDTWILFPWDTES--QFAAP-
+------LIGR-EQR---------
+>lcl|UniRef90_A0A085JJ69 Xanthine phosphoribosyltransferase n=2 Tax=Tatumella RepID=A0A085JJ69_9ENTR
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARTLARRLL----------P-VDQ----------------WT--G
+IIAVSRGGLVPAALLARELGIRHVDTVCISSY------D---HDH-----Q---------
+-RE--MKVV-K--RAE---GD-----------------GEGF-----IVIDDLVDTGGTA
+KAIREMYSK----AHFVTIFAKPAGR--PLVDDYVIDIPQNTWIEQPWDMGV--AYIPP-
+------IVED-------------
+>lcl|UniRef90_UPI00040C348C xanthine phosphoribosyltransferase n=2 Tax=Neptunomonas RepID=UPI00040C348C
+-----------------------M----GQ-SPYS------------------------K
+---DFPVTWEELHRNSRALSWRLL----EL----G---P----------------WK--G
+IIAITRGGLVPAAILARELDIRLIDTVCVTSY------G---VND-----E-GDAAMHQ-
+-GE--LNIL-K--S------V------E----G----DGEGF-----LLVDDLVDTGKTA
+RCVREMLPK----AHFVTLYAKPAGR--PLVDTYAMEVSQDTWIRFPWDMEY--TFSTP-
+------LADR-TNNPG-------
+>lcl|UniRef90_UPI0002DFA05B xanthine phosphoribosyltransferase n=1 Tax=Vibrio genomosp. F6 RepID=UPI0002DFA05B
+---------------------------------MT------------------------T
+---KFIITWDNMQTYCRQLAEKQM----------P-AEQ----------------WK--G
+ILGVSRGGLVPAAILARELGIRYVDTVCIASY------D---HDH-----Q---------
+-RD--MRIL-K--APE---HD-----------------GEGF-----LIVDDLVDSGDTA
+RKIREMYPK----AKFVTVCAKPAGA--DLVDEYIVDIAQDTWIEQPWDTAI--TYVEP-
+------INRK-QK----------
+>lcl|UniRef90_H0RV37 Xanthine phosphoribosyltransferase n=3 Tax=Bradyrhizobium RepID=H0RV37_9BRAD
+---------------MADK-ALSA----E--ERAG------------------------R
+---PFPVSWDQFHRDCRALTWRLN----EV----G---P----------------FA--A
+IIAITRGGLVPAAIVARELGVRIIDTICIASY------D---HDK-----Q---------
+-GE--LTVL-K--GIS---DEVLKLGGG---------TGKGL-----LIVDDLVDTGKTG
+RMVRALLPD----AHFATVYAKPKGR--PLVDTFITEVSQDTWIFFPWDTAL--SFAPP-
+------LRDG-AA----------
+>lcl|UniRef90_A0A086D5Q2 Xanthine phosphoribosyltransferase n=1 Tax=Gammaproteobacteria bacterium MFB021 RepID=A0A086D5Q2_9GAMM
+-----------------------M----SA-NRYH------------------------Q
+---LFTISWDQLHRDVRTLCHHLV------------ERD----------------FK--G
+IVAITRGGLIPAALIARELNVRLIDTVCIKSY------D---EQS-----Q---------
+-GE--LDVM-K--GVE---HD-----------------GDGW-----LLVDDLVDTGKTA
+RAVREMLPK----AHFVTIYAKPEGR--PLVDQYLTEVAQDCWIQFPWDLGH--AYVEP-
+------LVDQ-VRAPKP------
+>lcl|UniRef90_S7UPX7 Xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio alkalitolerans DSM 16529 RepID=S7UPX7_9DELT
+----------------------MS----SR-ERYT------------------------R
+---MFPVSWEQLHRDSKALAWRLS----EM--------PD---------------IR--G
+VVAVTRGGMFPAAVIARELDIRVIDTISVVSY------D---WQD-----QS--------
+-AE--PRVV-K--PLA---IE------S---------DGEGL-----IVVDDLVDSGQTL
+RHVRKLLPK----ARFATVYAKPAGR--PAVDVFITEVSQDTWILQPWDSEH--QFVQP-
+------IAKL-RNGEGE------
+>lcl|UniRef90_UPI000492070F xanthine phosphoribosyltransferase n=1 Tax=Desulfocurvus vexinensis RepID=UPI000492070F
+---------------------MSS----TQ-HRYV------------------------K
+---TYPVSWEQLHRDAKALAWRLA----EL----G---P----------------WE--G
+VVAITRGGLVPASVIARELELRRIDTVSVSSY------A---WKD-----Q---------
+-GQ--PEVL-K--PCT---AT------G---------DGAGW-----LVIDDLVDTGRTL
+RVLREMLPR----GHFATVYAKPQGK--PLVDTFITEVSQDTWILFPWDAES--RFVPP-
+------IVKL-RENGDA------
+>lcl|UniRef90_B0TRJ4 Xanthine phosphoribosyltransferase n=3 Tax=Shewanella RepID=B0TRJ4_SHEHH
+---------------------------------MS------------------------K
+---KFLITWDQMQGYTRELAERLL----------P-AEQ----------------WK--G
+IIAVSRGGLVPAAILARELGIRHVDTICISSY------D---HDH-----Q---------
+-RE--TSII-K--QAP---GD-----------------GEGF-----IVIDDLVDSGSTA
+KIVREIYPK----AKFVTVCAKPAGK--PLVDDYIVDIPQDTWIEQPWDTGV--SFQAP-
+------LCK--------------
+>lcl|UniRef90_A8TKB6 Xanthine phosphoribosyltransferase n=1 Tax=alpha proteobacterium BAL199 RepID=A8TKB6_9PROT
+----------------------MA----EG-GAPE------------------------K
+---AFPVSWEELHRTGKALAWRLV----DV----G---P----------------FE--G
+IIGITRGGLVPAAIVARELAIRIVDTVCVTTY-GTDSAD---DKK-----R---------
+-GE--LRIV-K--PPS---VG------G---------DGEGW-----LIVDDLVDTGVTA
+RAVRALLPK----AHFATIYAKPAGR--PLVDTFVTEVSQDTWIYFPWDLEQ--RPVEP-
+------IATQ-RPRL--------
+>lcl|UniRef90_W7QLU6 Xanthine-guanine phosphoribosyltransferase n=1 Tax=Catenovulum agarivorans DS-2 RepID=W7QLU6_9ALTE
+---------------------------------MT------------------------E
+---KLVLDWQTFHKACKRLAQIIPLEK----------------------------YD--G
+LVAVTRGGLVPAAILSNDLDIRLIETIGVQSY------Q---QQQ-----Q---------
+-GD--LQLV-K--PAY---LL----------------ESELIEPQRWLFVEDLVDSGCTI
+KFLKQFYPR----ADFACVYAKPQGA--ELVKYSVEQVAQDIWIDFPWEI----------
+-----------------------
+>lcl|UniRef90_UPI00047F9847 xanthine phosphoribosyltransferase n=1 Tax=Halotalea alkalilenta RepID=UPI00047F9847
+----------------------MS----SS-DRYQ------------------------H
+---YFTVSWDRLHRDVRELCDSLL------------SRR----------------FV--G
+IVAVARGGLIPAGLIARELDIRLVDTVCVKSY------D---KME-----QG--------
+-EG--IDVL-K--GID---HD-----------------GDGW-----LLVDDLVDTGKTA
+RAVREMLPK----AHFLTIYAKPEGR--ELVDQYHSEVAQDTWIQFPWDTGF--AYVEP-
+------LADR-RRRDQD------
+>lcl|UniRef90_D0YZD7 Xanthine phosphoribosyltransferase n=13 Tax=Photobacterium RepID=D0YZD7_PHODD
+---------------------------------MT------------------------Q
+---KFVITWDNMQMYTRQLAEKLL----------P-ADQ----------------WK--G
+IIAVSRGGLVPAAILARELGLRHVDTVCISSY------D---HDH-----Q---------
+-RD--MRVL-K--QAD---GD-----------------GEGF-----IIIDDLVDTGGTA
+EKIREMYPR----GKFVTVCAKPAGK--HLVDDFVVDIPQDTWIEQPWDMAV--TFVDP-
+------IAKR-------------
+>lcl|UniRef90_UPI00036FEDF7 hypothetical protein n=1 Tax=Kiloniella laminariae RepID=UPI00036FEDF7
+----------------------MS----EE-P---------------------------K
+---TFPVSWEQLHRDAKALAWRLM----EK----G---P----------------FK--G
+VLAITRGGLVPAAIIARELDIRLIDTVCIVSY------S---EDN-----K-------R-
+-GD--LQVL-K--A------P------P----T----ESEGW-----LIIDDLVDTGKTA
+RAVRELMPH----AHFATIYAKPEGR--PIVDSFITEVSQDTWIYFPWDLGL--QTVPP-
+------LIRS-RG----------
+>lcl|UniRef90_UPI000480F84D xanthine phosphoribosyltransferase n=1 Tax=Oceanicola nanhaiensis RepID=UPI000480F84D
+----------------------MT----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GH----G---P------DDGA------WR--A
+VVAVTRGGMAPAMIVARELDIRVVDTISVKSY------N---HQA-----Q---------
+-MD--AQVL-K--APD---QEMM----G---------DGTGI-----LIVDDLVDSGKTL
+ELIRAHYPK----AHFATVYAKPQGR--PQVDTFITEVSQDTWIFFPWDMAM--QYVKP-
+------Y-RG-SD----------
+>lcl|UniRef90_K2N953 Xanthine phosphoribosyltransferase n=1 Tax=Nitratireductor indicus C115 RepID=K2N953_9RHIZ
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDARALAWRLS----GV----N-G-Q----------------WK--A
+IVCITRGGLVPAAVIARELDIRLIETVCVASY-----HD---YTE-----Q---------
+-GD--LRIL-K--EVH---PSLME---N---------DGADV-----LIVDDLTDTGKTA
+AIVRAMMPR----AHFATVYAKPKGR--PLVDTFVTEVSQDTWIYFPWDMGF--SYQKP-
+------IADG-QPD---------
+>lcl|UniRef90_A0KNR2 Xanthine phosphoribosyltransferase n=36 Tax=Aeromonadaceae RepID=XGPT_AERHH
+---------------------------------MP------------------------K
+---KFYVSWDNLQREARRLARRQL----------P-VSQ----------------WK--G
+IIAVSRGGLVPAALMARELGIRNVETLCISSY------D---HNN-----Q---------
+-RD--LVVV-KAATTA---GD-----------------GEGW-----LVVEDLVDTGTTA
+KAIRELYPK----AKFIAIFAKPMGE--QLLDDFEVAIPQDTWIEQPWDMAL--EFATP-
+------ICDE-E-----------
+>lcl|UniRef90_Q2IV51 Xanthine phosphoribosyltransferase n=1 Tax=Rhodopseudomonas palustris (strain HaA2) RepID=XGPT_RHOP2
+---------------MGSDADADL----G--ER--------------------------R
+---PFPVSWDQFHRDCRALTWRLN----EV----G---P----------------FA--A
+VIAITRGGLVPAAIVARELGLRVIDTICVASY------A---HDK-----Q---------
+-GD--LQVL-K--GVS---EQTAALGHG---------TGKGL-----LIVDDLVDTGKTG
+RMVRDLLPD----AHFATVYAKPMGK--PLVDTFITEVSQDTWIFFPWDTGL--SFQPP-
+------LKDG-AA----------
+>lcl|UniRef90_A0A0K2D8N8 Xanthine phosphoribosyltransferase n=2 Tax=Chelatococcus RepID=A0A0K2D8N8_9RHIZ
+----------------------MS-------PTSE------------------------K
+---AFPVSWDQFHRDARALAWRLH----GA----G---P----------------FE--A
+IVCITRGGLVPAAVVARELEIRLIETVCIASY-----HD---YQN-----Q---------
+-GE--LMVL-K--EID---PKIRALGDG---------SGAGV-----LVVDDLVDTGKTA
+RMVRQMLPK----AHFATVYAKPQGR--PVVDTFVTEVSQDTWIYFPWDMGL--TFQPP-
+------IRNG-ASG---------
+>lcl|UniRef90_C7D745 Xanthine phosphoribosyltransferase n=1 Tax=Thalassobium sp. R2A62 RepID=C7D745_9RHOB
+----------------------MT----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GN----G---P------DNGA------WR--A
+VVAITRGGMAPAMIVARELDVRTVDTISVVSY-HSGGGA---ADQ-----R---------
+-RE--AKVL-K--SPD---PEIM----G---------DGTGV-----LVIDDLVDSGKTL
+ELVRELYPN----AHFATVYAKPEGE--PQVDDFITGVSQDTWIFFPWDMAM--QYVKP-
+------Y-RG-TD----------
+>lcl|UniRef90_A0A023D210 Xanthine phosphoribosyltransferase n=1 Tax=Acidomonas methanolica NBRC 104435 RepID=A0A023D210_ACIMT
+-------------------------------MA-A------------------------N
+---YATVTWDQLHRDARTLASALM----PR----G---P----------------FK--G
+IVAVTRGGLIPAAIIARELDCRLIESISVVSY------AGESAEE-----Q---------
+-SE--PVIV-K--PAT---AA------E---------DGEGF-----LIIDDLVDSGETA
+KIVREALPK----AHFACLYAKPSGR--PHTDQYVMEVSQDTWVLFPWDTAP--LFVPP-
+------LARQ-SA----------
+>lcl|UniRef90_A0A074TBY8 Xanthine phosphoribosyltransferase n=2 Tax=Thioclava RepID=A0A074TBY8_9RHOB
+----------------------MP----DL-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLD----GK----G---PG-----EGGS------WR--G
+VLGITRGGLVPAAIVARELDIRTVDTISVKSY------N---HQE-----Q---------
+-RA--PQVI-K--PPQ---DTFLE---N---------GGEGV-----LIVDDLVDTGKTL
+QLVRDMFPK----AHFATCYAKPQGE--PLVDTFITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-TD----------
+>lcl|UniRef90_I4YNV2 Xanthine phosphoribosyltransferase n=6 Tax=Microvirga RepID=I4YNV2_9RHIZ
+----------------------MS-------PTSP------------------------K
+---AFPVSWDQFHRDCRALAWRLA----SA----G---P----------------FE--A
+IVCITRGGLVPAAIVARELDLRLIESVCIASY-----HD---YKN-----Q---------
+-GD--LQVL-K--DIA---PSIKAVGDG---------QGKGV-----LVIDDLTDTGKTA
+KIVRDMLPN----AHFAAVYAKPAGR--PLIDTFVTEVSQDTWIYFPWDMGL--AYQAP-
+------IREG-SAG---------
+>lcl|UniRef90_UPI0004810E75 xanthine phosphoribosyltransferase n=1 Tax=Pseudophaeobacter arcticus RepID=UPI0004810E75
+----------------------MT----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GQ----G---P------ENGA------WR--A
+VVAITRGGMAPAMIIARELDIRTVDTISVKSY-HSGGGK---ADQ-----R---------
+-RE--AEVL-K--RPD---PALM----G---------DGDGI-----LIIDDLVDSGKTL
+ELVRALYPK----AHVATVYAKPKGR--PMVDTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------
+>lcl|UniRef90_UPI0007035CF9 UPI0007035CF9 related cluster n=1 Tax=unknown RepID=UPI0007035CF9
+---------------------MSD----A--PRPD------------------------K
+---VFPVSWDQFHRDTRALTWRLH----EA----G---P----------------FE--A
+IVCITRGGLVPAAIVARELNVRIIETVCIASY-----HD---YKN-----Q---------
+-GD--IRVM-K--GVG---PEITSMR-A---------QGKGV-----LIIDDLVDTGKTA
+RMVREILPA----AHFATVYAKPMGR--PLVDTYITEVSQDTWIYFPWDTAL--SYAPP-
+------IRAG-GD----------
+>lcl|UniRef90_Q5E6W3 Xanthine phosphoribosyltransferase n=5 Tax=Aliivibrio RepID=XGPT_VIBF1
+---------------------------------MA------------------------N
+---KFVITWDNMQMYTRQLAEQLL----------P-ADQ----------------WK--G
+ILAVSRGGLVPAAILARELNIRHVDTVCISSY------D---HDH-----Q---------
+-RD--MTVV-K--AME---GD-----------------GEGF-----IIIDDLVDSGDTA
+VKLREMYPK----GKLVTVCAKPAGV--HLVDAYVVDIPQDTWIEQPWDMAV--TYVDP-
+------IAKK-------------
+>lcl|UniRef90_UPI000493D839 xanthine phosphoribosyltransferase n=1 Tax=Oceanicola sp. S124 RepID=UPI000493D839
+----------------------MVD---NR-LPHE------------------------K
+---GFHVSWDQIHRDSRALAWRLD----KH----G---PM-----EGGT------WK--A
+VVAITRGGMAPAMIVARELDIRTVDTISVKSY-HSGGGK---ADE-----R---------
+-RT--AEVL-K--SPD---PEIM----G---------DGEGI-----LIIDDLVDTGKTL
+ELVRSLYPK----AHVATVYAKPQGR--AQVQTFITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-QE----------
+>lcl|UniRef90_A0A0K6II86 Xanthine phosphoribosyltransferase n=1 Tax=Marinomonas fungiae RepID=A0A0K6II86_9GAMM
+-----------------------------M-NPYS------------------------K
+---DFPVSWHELHRDARALSWRLL----EQ----G---P----------------WK--G
+IIAITRGGLVPAAILCREMDIRLIDTICVVSY------D---AKE-----E-GGTANVQ-
+-GD--LRIL-K--G------V------D----G----DGEGY-----ILIDDLVDTGKTA
+REIRKLLPK----AHFATIYAKPAGK--PLVDTFITEVSQDTWIRFPWDMEY--TFSTP-
+------LADR-QKG---------
+>lcl|UniRef90_A3V4D3 Xanthine phosphoribosyltransferase n=7 Tax=Rhodobacteraceae RepID=A3V4D3_9RHOB
+----------------------MT----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GQ----G---P------DDGA------WR--A
+VVAITRGGMAPAMIVARELDIRTVDTISVKSY------D---HQN-----Q---------
+-SE--ARVL-K--APD---AALM----G---------DGTGI-----LVVDDLVDSGKTL
+ELVRALFPK----AHFATVYAKPKGR--PQVQTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-KD----------
+>lcl|UniRef90_A0A0J5TBA8 Xanthine phosphoribosyltransferase n=1 Tax=Puniceibacterium sp. IMCC21224 RepID=A0A0J5TBA8_9RHOB
+----------------------MT----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLQ----DH----G---P------ADTG------WR--A
+VVAITRGGMTPAMIVARELDIRTVDTISVKSY------D---HQT-----Q---------
+-SE--PRVI-K--SPD---MNVI----G---------DGTGV-----LIVDDLVDTGRTL
+EVVRSHMPK----AHVATIYAKPMGR--PMVDTFVTEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-KE----------
+>lcl|UniRef90_S5XKY3 Xanthine phosphoribosyltransferase n=2 Tax=Paracoccus RepID=S5XKY3_PARAH
+----------------------MT----ER-LPHE------------------------K
+---GFHVSWDQMHRDARALAWRLD----GR----D--------------------WR--A
+VVAITRGGLVPAMIVARELDIRTIDTISVKSY------H---KQE-----Q---------
+-GG--LVVL-K--SPD---PELM----Q---------DGEGI-----LVIDDLVDSGRTL
+ELVREKYPK----AHFGTVYAKPKGK--PMVQDYVTEVSQDTWIFFPWDMAL--QYVQP-
+------I-RG-ED----------
+>lcl|UniRef90_A0A0M6XSH3 Xanthine phosphoribosyltransferase n=1 Tax=Jannaschia rubra RepID=A0A0M6XSH3_9RHOB
+----------------------MS----DT-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GR----G---P------EDGR------WK--A
+IVAITRGGMAPAMIVARELDIRLVDTISIKSY------D---HQS-----Q---------
+-GD--AQVL-S--KPD---PEVV----G---------DGTGI-----LVVDDLVDSGKTL
+EVVRAMYPK----AHFATVYAKPKGE--PMVDTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-RD----------
+>lcl|UniRef90_UPI00047469C0 xanthine phosphoribosyltransferase n=1 Tax=Methylocystis parvus RepID=UPI00047469C0
+----------------------------MQ-SGPD------------------------K
+---TFPVSWDMFHRDARALAWRLA----TI----G---G----------------FS--A
+IVAVTRGGLVPAGIVARELGIRVIETVCVASY-----HE---ETE-----R---------
+-DK--IDVL-K--PLT---DTILL---R---------PGAEV-----LIIDDLVDTGATA
+KAVREMLPK----SHFATVYAKPQGL--PMVDTFVTEVSQDTWIYFPWDTGL--TFQAP-
+------IRKP-QRATRRG-----
+>lcl|UniRef90_R6HYK4 Xanthine phosphoribosyltransferase n=1 Tax=Azospirillum sp. CAG:260 RepID=R6HYK4_9PROT
+---------------------------------MP------------------------E
+---KLYISWDEFHRHTRELAQKLK------------ANN----------------YS--K
+IVAVSRGGLLPAGILAYELNIRNVEVINMSSY------DGETQRQ-----D---------
+-KD--ITVK-A--DIG---TV-----------------DEQT-----LIVDDISDTGKTF
+NLLRPRFPR----AAFVSVYAKRQGT--AAVDVYVRDIP-DVWLVFPWD-----------
+-----------------------
+>lcl|UniRef90_UPI0005BA525C xanthine-guanine phosphoribosyltransferase n=2 Tax=Belnapia RepID=UPI0005BA525C
+-------------------------------MA-T------------------------K
+---YYTVGWDQLHRDSKALAWRLM----EH----G---P----------------FK--G
+VVAITRGGMIPAAIVARELECRLLETVSVVTY------D---EEA-----M---------
+-GE--PQVV-K--PPL---AA------A---------DGEGW-----LVIDDLVDTGTTA
+RVVRGLLPR----AHLATVYAKPAGK--PLVDTFITEVSQDTWILFPWDTEA--QFIPP-
+------IART-AGR---------
+>lcl|UniRef90_K2EJW3 Xanthine phosphoribosyltransferase n=1 Tax=uncultured bacterium (gcode 4) RepID=K2EJW3_9BACT
+---------------------------------MS------------------------H
+---RYPVNWQEFYLNAQALAWRLN----------E-GKS----------------WK--G
+LIAITRGGLVPATVVARELGIRKIDTISIVSY-----DD---NDK-----Q---------
+-IE--PSVI-K--TCQ---TN------N---------QGQGW-----LVIDDLVDTGATA
+RIVRDLVPQ----AHIAAIYAKPSGK--DFVDTFMTEVSQDTWIVFPWEEEI--N-----
+-----------------------
+>lcl|UniRef90_D2U046 Xanthine phosphoribosyltransferase n=3 Tax=Arsenophonus RepID=D2U046_9ENTR
+-------------MYFAKIVSSYW----DQ-NFMS------------------------E
+---KYIVTWDMLQKHARTLAQRLL----------P-AKQ----------------WR--G
+IIAVSRGGLVPSAILARELGLRHVDTVCISSY------D---HNN-----Q---------
+-RE--LKVI-K--RVE---GD-----------------GEGY-----IVVDDLVDTGGTA
+QAIRDMYPK----GYFVTIFAKPAGR--PLVDNYVIDIPQNTWIEQPWDMEK-EIFIKP-
+------LCEQ-------------
+>lcl|UniRef90_UPI00055BF4E4 xanthine phosphoribosyltransferase n=1 Tax=Rhizobiales bacterium YIM 77505 RepID=UPI00055BF4E4
+----------------------MN-------ASSQ------------------------K
+---AFPVSWDQFHRDARALAWRLA----SA----G---P----------------FE--A
+IVCITRGGLVPAAIVARELGNRLIETVCIASY-----HD---YKN-----Q---------
+-GE--LKLL-K--DVS---PSVKAIGDG---------TGRGV-----LVVDDLTDTGKTA
+KIVRDILPN----AHFATVYAKPAGR--PMVDTFVTEVSQDTWIYFPWDMGL--AYQAP-
+------INEG-TRG---------
+>lcl|UniRef90_A3XBV3 Xanthine phosphoribosyltransferase n=3 Tax=Alphaproteobacteria RepID=A3XBV3_9RHOB
+----------------------MT----DR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GQ----G---P------NDGA------WR--A
+VVAITRGGMAPAMIVSRELDIRTVDTISVKSY-HSGGGA---QDQ-----Q---------
+-RE--AQVL-K--SPD---AELM----G---------DGEGI-----LIIDDLVDSGKTL
+ELVRKMYPK----AHCATVYAKPKGE--PMVDTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------
+>lcl|UniRef90_A0A0H2N0I6 Xanthine phosphoribosyltransferase n=2 Tax=Kiloniella RepID=A0A0H2N0I6_9PROT
+----------------------MS----EQ-P---------------------------K
+---TFPVSWEQLHRDAKALSWRLM----NE----G---P----------------FE--G
+ILAVTRGGLVPAAIIARELDIRLIDTVCIVSY------S---SDN-----K-------Q-
+-GE--LKVL-K--D------S------P----K----ESKGW-----LIVDDLVDTGKTA
+RAVREMMPD----AHFATLYAKPAGR--DIVDSFITEVSQDTWIYFPWDLAL--QTVPP-
+------LVKG-KYD---------
+>lcl|UniRef90_Q5LRI5 Xanthine phosphoribosyltransferase n=23 Tax=Rhodobacterales RepID=XGPT_RUEPO
+----------------------MSTKDPHR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GQ----G---P------DEGA------WR--A
+VVAITRGGMAPAMIVSRELDIRTVDTISVKSY------H---HQA-----Q---------
+-GQ--AQVL-K--APD---AGLM----G---------DGTGI-----LVIDDLVDSGKTL
+ELVREMYPN----AHFATVYAKPKGR--PMVDTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------
+>lcl|UniRef90_UPI0002F6E3DB xanthine phosphoribosyltransferase n=2 Tax=Vibrio RepID=UPI0002F6E3DB
+---------------------------------MS------------------------Q
+---KFIITWDNMQMYCRQLAAKQM----------P-AEQ----------------WK--G
+IVGVSRGGLVPAAILARELGIRYVDTICISSY------D---HDH-----Q---------
+-RE--MKVL-K--TIE---GD-----------------GEGF-----LIVDDLVDSGDTA
+RHIRNLYPK----AKLICVCAKPAGQ--DLVDDYIVDIAQDTWIEQPWDMTL--QFEEP-
+------VNRK-QK----------
+>lcl|UniRef90_X7EKX9 Xanthine phosphoribosyltransferase n=2 Tax=Roseivivax RepID=X7EKX9_9RHOB
+----------------------M-----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLQ----DQ----G---A------GEGG------WR--A
+VVAITRGGMAPAMIVSRELDIRTVDTISVKSY------N---HQT-----Q---------
+-AE--PQII-K--SPD---MDVV----G---------DGTGV-----LIVDDLVDTGKTL
+EVVRAAMPK----AHVATVYAKPQGK--PQVDTFVTEVSQDTWIFFPWDMAL--QYVKP-
+------Y-HG-ADD---------
+>lcl|UniRef90_B8DJ85 Xanthine phosphoribosyltransferase n=3 Tax=Desulfovibrio RepID=B8DJ85_DESVM
+----------------------MR----TA-DSYR------------------------K
+---VFPVTWEQLHRDAKALSWRLL----EK----G---P----------------WT--G
+IIAITRGGLVPAAIIAREVGVHLIDTVCITSY------K---WQD-----Q-------S-
+-SR--LEVL-K--G------V------Q----G----DGEGW-----LMVDDLVDTGRTA
+KAVREMLPK----AHFATVYAKPEGR--PLVDTYITEVSQDTWILFPWDSEV--QYVQP-
+------LVNQ-REAG--------
+>lcl|UniRef90_F7VC53 Xanthine phosphoribosyltransferase n=3 Tax=Acetobacter RepID=F7VC53_9PROT
+-------------------------------MA-V------------------------N
+---YATVTWDQLHRDARLLAEELV----AN----M---P----------------IK--G
+IVAVTRGGLIPAAIIARELNCRLVETISVVTY------D---EEE-----R---------
+-GE--PRII-K--APE---AA------G---------DGEGF-----LVIDDLVDSGVTA
+RVVRERLPK----AYFACLYAKPAGK--ALTDRFVVEVPQETWVLFPWDTAP--LFVPP-
+------LASK-PIESDS------
+>lcl|UniRef90_K2AWL7 Uncharacterized protein n=1 Tax=uncultured bacterium (gcode 4) RepID=K2AWL7_9BACT
+----------------------MN----DR-LPHE------------------------K
+---GFHVSWDQMHRDARALAWRLD----GK----G---P------DAGA------WK--A
+VVGITRGGLVPAMIVARELDIRVVDTISVKSY-HSGGGQ---ADQ-----R---------
+-SE--AKVI-K--SPQ---ADLM----G---------DGTGI-----LIVDDLVDSGKTL
+ELVRKLYPK----AHFATVYAKPSGK--PQVDSYITEVSQDTWIFFPWDMAL--QYVQP-
+------F-RG-QD----------
+>lcl|UniRef90_Q1QK75 Xanthine phosphoribosyltransferase n=3 Tax=Nitrobacter RepID=XGPT_NITHX
+---------------------MTA----N--TTPG------------------------K
+---AFPVSWDQFHRDCRALTWRLN----ET----G---P----------------FH--A
+VVAITRGGLVPAAIVARELGVRVIDTVCIVSY------D---HNQ-----K---------
+-SE--LKVL-K--DIS---DATAKLGGG---------TGKGL-----LIVDDLVDTGATA
+RVVRAMIPD----AHFAAVYAKPLGK--PLVDTFITEVSQDTWIYFPWDLDL--AFAPP-
+------LRDG-AA----------
+>lcl|UniRef90_Q8K9R8 Xanthine phosphoribosyltransferase n=1 Tax=Buchnera aphidicola subsp. Schizaphis graminum (strain Sg) RepID=XGPT_BUCAP
+---------------------------------MS------------------------E
+---KYIVTWDMLQIHTRILAHRLL----------KTKNA----------------WN--G
+IIAVSRGGLVPSAILARELGIRCVDTVCIASY------N---YDCL----Q---------
+-KN--RKII-K--KAR---GD-----------------GEKI-----IVVDDLVDTGGTA
+KIIRNLYPK----AYFVTIFAKPLGR--LLVDDYIIDIDQNIWIEQPWDMSI--SYISP-
+------LIKK-------------
+>lcl|UniRef90_A0A0A2HVV6 Xanthine phosphoribosyltransferase n=1 Tax=Desulfobulbus sp. Tol-SR RepID=A0A0A2HVV6_9DELT
+----------------------ME----SN-STYR------------------------K
+---TYPISWDQLHRDSKALAWRLL----HH----D---Y----------------FK--G
+IIAITRGGLVPAAIIAREIDIHLVDTICVSSY------D---WKD-----K-------K-
+-GE--ADVL-K--K------F------D----G----DGEGW-----LLIDDLVDTGRTA
+AIVKQMVPK----AHFATVYAKPAGR--PQVDTYITEVSQDTWILFPWDSES--RFVTP-
+------LAGR-DRTAG-------
+>lcl|UniRef90_A3VKB2 Xanthine phosphoribosyltransferase n=1 Tax=Maritimibacter alkaliphilus HTCC2654 RepID=A3VKB2_9RHOB
+----------------------MV----DNRLPHE------------------------K
+---GFHVSWDQIHRDSRALAWRLD----GK----G---P------NDGG------WK--A
+VVAITRGGLAPAMIVARELDIRTVDTISVKSY------N---HQT-----Q---------
+-TE--PVVI-K--SPD---MDVC----G---------DGTGV-----LVVDDLVDTGKTL
+EVVRDLMPN----AHFATVYAKPKGK--PMVDSYITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-KD----------
+>lcl|UniRef90_A0A097QHX4 Xanthine phosphoribosyltransferase n=9 Tax=Vibrio RepID=A0A097QHX4_9VIBR
+---------------------------------MS------------------------K
+---KFIITWDQMHSYCRELAEQQM----------P-AEQ----------------WK--G
+IWAVSRGGLVPGAILARELGIRYVDTICISSY------D---HDH-----Q---------
+-RD--MSVL-K--APE---GD-----------------GEGY-----LIVEDLVDSGDTA
+RKLRELYPK----AKLIAVCAKPSGA--ALLDDYVVDIAQETWIEQPWDMSI--QYAEP-
+------INRK-QK----------
+>lcl|UniRef90_UPI00037172C6 xanthine phosphoribosyltransferase n=2 Tax=Aureimonas ureilytica RepID=UPI00037172C6
+----------------------------M--STPD------------------------K
+---SFPVSWDQFHRDARALAWRLA----GV----R-A-E----------------WK--A
+IVCITRGGLVPAAIIARELGTRLIETVCIASY-----HD---YDS-----Q---------
+-GE--LMVL-K--DIA---PALRE---D---------DGDGI-----LIVDDLTDTGKTA
+ALVRAMLPK----AHFATVYAKPKGR--PLVDTFITEVSQDTWIFFPWDLGL--TFQAP-
+------IAKG-SAG---------
+>lcl|UniRef90_UPI000416AE9F xanthine phosphoribosyltransferase n=1 Tax=Oceanobacter kriegii RepID=UPI000416AE9F
+-----------------------M----SN-LTYS------------------------M
+---DYPVSWEELHRNARALSLRLL----DK----G---P----------------WK--G
+MIVITRGGLVPAAILARELNIRLIDTICVTSY------K---PSS-----DDDSTQNKQ-
+-GE--IELL-K--G------V------E----G----DGEGM-----LLIDDLVDTGKTA
+RYVRDMLPK----AHLATIYAKPAGV--GLVDTFITEVSQDTWIRFPWDMEY--TFSTP-
+------LAER-R-----------
+>lcl|UniRef90_A0A060Q973 Xanthine phosphoribosyltransferase n=2 Tax=Saccharibacter sp. AM169 RepID=A0A060Q973_9PROT
+--------MIEGHEQSMTGTVQTQ----GS-QS-I------------------------N
+---YATVTWDQLHRDARLLATELM----RK---YR---P----------------FR--G
+IVAITRGGLIPAAILGRELGCRLIESVSVVSY------A---GEEGT---Q---------
+-QE--PKLL-K--APE---AA------G---------DGEGF-----LIVDDLVDSGVTA
+RYVREMLPK----AVFACLYAKPDGR--PCTDHFVTEVPQDTWVLFPWDMAP--QFVAP-
+------LNRS-HKA---------
+>lcl|UniRef90_UPI00035EEB5D hypothetical protein n=1 Tax=Amorphus coralli RepID=UPI00035EEB5D
+-------------------MAEPT----A--APPD------------------------K
+---AFPVSWDQFHRDARALAWRLA----GQ----G---D----------------FK--G
+IACITRGGLVPAAIVARELGIRLIDTFCVASY-----HE---YKT-----Q---------
+-GN--LTVL-K--GVS---QALTEVGGE---------DGEHV-----LIIDDLVDTGATA
+KVVRSFLPK----AHFATVYAKPQGR--PLVDTFITEVSQDTWIYFPWDLGL--SFQAP-
+------ISGH-KA----------
+>lcl|UniRef90_UPI00041F06D1 xanthine phosphoribosyltransferase n=1 Tax=Azospirillum halopraeferens RepID=UPI00041F06D1
+----------------------MT----DQ-VPFN------------------------R
+---HFPVSWEELHRNAKALAWRLI----DK----G---P----------------WK--G
+IVAVTRGGLVPAAIIARELEIRLIDTVCVSTY------D---FQQ-----Q---------
+-RE--ARVL-K--G------V------E----G----EGEGW-----LIIDDLVDTGKTA
+HIVRAMLPK----AHFATIYAKPAGR--PLVDTFITEVSQDTWIHFPWDIEL--QYARP-
+------IADR-HRNG--------
+>lcl|UniRef90_UPI0004841A41 xanthine phosphoribosyltransferase n=1 Tax=Balneatrix alpica RepID=UPI0004841A41
+-----------------------M----SH-SPYN------------------------M
+---DYPVSWEELHRNARALSWRLL----DK----G---P----------------WK--G
+IIAITRGGLVPAAIIARELDVRLIDTICIVSY------G---SHG-----E-GEAAQQQ-
+-GE--LNIL-K--G------V------A----G----DGEGM-----LLVDDLVDTGKTA
+KAVRDMLPK----AHFATIYAKPAGK--PLVDTFITEVSQDTWIRFPWDMEY--TFSTP-
+------LADR-QR----------
+>lcl|UniRef90_A0A0H2QKG5 Xanthine phosphoribosyltransferase n=2 Tax=Moellerella wisconsensis RepID=A0A0H2QKG5_9ENTR
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARKLAQRLL----------P-AAQ----------------WK--G
+IIAVSRGGLVPGALLARELGIRNIDTVCISSY------D---HNN-----Q---------
+-RE--LTVI-K--RAE---GD-----------------GEGY-----IVVDDLVDTGGTA
+KAIRDMYPK----AHFVTIFAKPEGR--PLVDDYVVDIPQDTWIEQPWDMGV--VFLKP-
+------LCDQ-------------
+>lcl|UniRef90_B2VHN3 Xanthine phosphoribosyltransferase n=8 Tax=Enterobacteriaceae RepID=XGPT_ERWT9
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARKLAARLL----------P-AEQ----------------WK--G
+IIAVSRGGLVPAALLARELCIRHVDTVCISSY------D---HDN-----Q---------
+-RE--MSVL-K--RAE---GD-----------------GEGF-----IVIDDLVDTGGTA
+QAIRDMYPK----AHFVTIFAKPAGR--PLVDDYIIDIPQNTWIEQPWDMGI--AYIPP-
+------LVKS-------------
+>lcl|UniRef90_S6CXR1 Xanthine-guanine phosphoribosyltransferase n=8 Tax=Acetobacter RepID=S6CXR1_ACEPA
+-------------------------------MA-V------------------------N
+---YATVTWDQLHRDARALAEALM----PK----M---P----------------IK--G
+IVAVTRGGLIPAAIAARELGCRLIETISVVTY------D---EEN-----M---------
+-GK--PQII-K--EPV---AA------G---------DGEGF-----LIIDDLVDSGVTA
+RVVREKLPK----AFFACLYAKPAGK--ELTDLFITEVPQDTWVLFPWDTAP--LFVPP-
+------LAKS-KKSTVD------
+>lcl|UniRef90_UPI00036B3D87 hypothetical protein n=1 Tax=Meganema perideroedes RepID=UPI00036B3D87
+----------------------MS-------APYDPQ----------------------K
+---AFMVSWDQIHRDSRALSWRLD----GT----E--------------------WR--A
+IVAVTRGGLVPACILARELNLRVVDTIGLKSY------S---DQS-----QG--------
+-SE--VRLL-K--APD---AKLM----G---------DGEGI-----LIVDDLVDTGKTL
+EVARRMYPK----AHFATVYAKPKGR--PLVDTYITEVSQDTWIYFPWDTVP--QYVKP-
+------L-RG-AD----------
+>lcl|UniRef90_I2JKN1 Xanthine-guanine phosphoribosyltransferase n=1 Tax=gamma proteobacterium BDW918 RepID=I2JKN1_9GAMM
+----------------------------MP-DSNI------------------------P
+---VYYLSWDELHRDTLNLARKLT------------DRP----------------WK--G
+IVSIARGGLVPGAILARELNLRVVDTLCIASY------D---HDQ-----Q---------
+-GK--INIL-K--TVE---GD-----------------GDGY-----LLVDDLVDTGGTA
+KIAKELLPK----ACFVTIYAKPQAK--ALTEHYVREFTQETWIHFPWDSQP--SYSEP-
+------LVK--------------
+>lcl|UniRef90_C5B9M4 Xanthine phosphoribosyltransferase n=2 Tax=Edwardsiella ictaluri RepID=XGPT_EDWI9
+---------------------------------MS------------------------E
+---KYVVTWDVLQMHTRKLAARLL----------P-AER----------------WT--G
+IIAVSRGGLVPAAILARELGIRHVDTVCISSY------D---HDN-----Q---------
+-RE--LRVL-K--CAE---GD-----------------GEGF-----IVVDDLVDTGGTA
+QAIRDMYPK----AHFVTIFAKPAGR--PLVDDYVVDIPQNTWIEQPWDMGV--SFVEP-
+------LSGR-------------
+>lcl|UniRef90_UPI000484052A xanthine phosphoribosyltransferase n=1 Tax=Rhodospirillales bacterium URHD0088 RepID=UPI000484052A
+----------------MSNAPTSG----PA-AAPA------------------------K
+---TFPVSWDELHRHAKALAWRLV----EL----G---P----------------WK--G
+IVAITRGGLVPAAIVARELDIRLVDTVCVASY------Q---DRV-----E--GAGGVQ-
+-GD--VTIL-K--G------I------VGG--G----DGEGY-----LIIDDLVDTGLTA
+RIVRQLLPK----AHFATVYAKPAGR--PLVDSFVTEVSQDTWILFPWDIEP--QFMPP-
+------IARR-------------
+>lcl|UniRef90_K5ZM45 Xanthine phosphoribosyltransferase n=1 Tax=Acidocella sp. MX-AZ02 RepID=K5ZM45_9PROT
+-------------------------------MA-Q------------------------H
+---YFTVTWDQLHRDAKALSWRLH----AA----G---P----------------WK--G
+IVAVTRGGLIPAAIIARELDCRLIECICVVTY------D---DET-----R---------
+-GE--PHVT-K--PAP---AA------G---------DGEGW-----LIIDDLVDSGTTA
+RHVRALLPK----AHFATVYAKPAGK--PTVDTFITEVSQDTWILFPWDTEP--QFVAP-
+------LARK-S-----------
+>lcl|UniRef90_Q3SQJ9 Xanthine phosphoribosyltransferase n=1 Tax=Nitrobacter winogradskyi (strain Nb-255 / ATCC 25391) RepID=XGPT_NITWN
+---------------------MSA----H--KTPD------------------------K
+---AFPVSWDQFHRDCRALSWRLN----ET----G---P----------------FH--A
+VVAITRGGLVPAAIVARELGVRVIDTVCIASY------D---HLH-----K---------
+-SE--LKVL-K--GIS---DMTVKLGGG---------SGRNL-----LVVDDLVDTGATA
+RVVRGMIPD----AHFATVYAKPLGK--PLVDTFITEVSQDTWIYFPWDLDL--AFAPP-
+------LRDG-AA----------
+>lcl|UniRef90_A0A0F2N5C1 Xanthine phosphoribosyltransferase n=1 Tax=Desulfobulbaceae bacterium BRH_c16a RepID=A0A0F2N5C1_9DELT
+----------------------MS----TN-ATYR------------------------K
+---TYPISWDQLHRDSKALAWRLL----NM----D---Y----------------FK--G
+IIAITRGGLVPAAIIARELDIHLVDTICISSY------D---WKD-----K-------K-
+-GD--ADIL-K--K------F------D----G----NGEGW-----LLVDDLVDTGRTA
+QLVRQIVPK----AHFATVYAKPAGR--PQVDTYITEVSQDTWILFPWDTES--QFVSP-
+------LAGK-ERP---------
+>lcl|UniRef90_UPI0004012B86 xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio putealis RepID=UPI0004012B86
+----------------------MS----DS-ERYH------------------------R
+---MYPVSWDHLHRDCKALSWRLM----EL----G---P----------------WK--G
+IYAITKGGLIPAAILARELDVRVIDTICVASY------D---WQS-----Q-------G-
+-DK--VTVL-K--G------V------V----G----DGEGW-----LLVDDLVDTGKTA
+KAVREMVPK----AYFATVYAKPEGR--PLVDAYITEVSQDTWILFPWDSEP--QFIQP-
+------IAKS-AKTGE-------
+>lcl|UniRef90_A0A0D0NKS3 Xanthine phosphoribosyltransferase n=2 Tax=Rhodobacteraceae RepID=A0A0D0NKS3_9RHOB
+----------------------MPPAA-DR-LPHE------------------------K
+---GFHVSWDQIHRDSRALAWRLD----GD----G---P------DDGA------WR--A
+VVAITRGGMAPAMIVARELGIRTVDTISVKSY------D---HQA-----Q---------
+-TE--ASVL-K--SPD---AQMM----G---------DGTGI-----LVVDDLVDSGKTL
+ELVRRLYPK----AHFATVYAKPKGR--PQVDTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-RD----------
+>lcl|UniRef90_UPI0003F93C10 xanthine phosphoribosyltransferase n=1 Tax=Nisaea denitrificans RepID=UPI0003F93C10
+--------------------MPSD----DQ-ASFN------------------------K
+---SFPVSWEELHRTAKALAWRLT----EV----G---P----------------FD--G
+IVAITRGGLVPAAVVARELNIRIIDTVSAASY-GVD-GS---DQE-----R---------
+-GT--IRMM-K--TCD---IA------G---------DGTGW-----LIVDDLVDTGETA
+KAVRALLPK----AHFATVYAKPAGR--PLVDTFVTEVSQDTWIHFPWDLEP--RPVEP-
+------ISSL-RR----------
+>lcl|UniRef90_A0A087LVP3 Xanthine phosphoribosyltransferase n=3 Tax=Devosia RepID=A0A087LVP3_9RHIZ
+----------------------------MN-NPGQ------------------------K
+---SFPVSWDQFHRDSRALAWRLT----SV----G---P----------------FD--A
+IVAITRGGLVPAAIVARELNIRTIESVAVKSY------D---HQA-----Q---------
+-SA--IKVL-K--PIS---QQVLDLA-Q---------GGGKI-----LIVDDLVDTGATA
+RAVREMLPG----AHFATVYAKPKGR--EMVDTFITEVSQDTWIFFPWDMDV--TYAAP-
+------ISGG-TD----------
+>lcl|UniRef90_W1N1A5 Xanthine phosphoribosyltransferase n=1 Tax=Halomonas huangheensis RepID=W1N1A5_9GAMM
+----------------------------MS-SRYH------------------------K
+---HFTVSWDQLHRDVRELCHRLM------------ERD----------------LK--G
+IIAVTRGGLIPAALIARELDIRLIDTVCIKSY------E---HMD-----Q---------
+-DA--LHVL-K--GVD---HD-----------------GDGW-----LLVDDLVDTGKTA
+RAVREMLPQ----AYFVTIYAKPEGR--PLVDQYLTEVAQDCWIQFPWDMGV--AYVEP-
+------LVDR-HRSAVE------
+>lcl|UniRef90_A0A0J8GR60 Uncharacterized protein n=1 Tax=Gammaproteobacteria bacterium Q1 RepID=A0A0J8GR60_9GAMM
+--------------------------------MSS------------------------S
+---KLVISWDEFHLHTRQLASQLK----------S-IEN----------------IT--G
+IVAVTRGGIIPTGIITSELNIRLIDTVCVSSY------DK--NNQ-----Q---------
+-AE--INLL-K--YPN---HD-----------------GDGW-----LFIEDLVDSGNTI
+RFLKQHFPK----AIFACVYAKPNGV--CQTDYFVEKVKQDSWIQLPWEI----------
+-----------------------
+>lcl|UniRef90_Q6LTX6 Xanthine phosphoribosyltransferase n=12 Tax=Vibrionaceae RepID=XGPT_PHOPR
+---------------------------------MS------------------------N
+---KFVITWDNMQMYTRQLAEKLL----------P-ADQ----------------WK--G
+IIAVSRGGLVPAAILARELNIRHVDTVCISSY------D---HDH-----Q---------
+-RE--MKVL-K--QAD---GD-----------------GEGF-----IVIDDLVDTGGTA
+ELIRAMYPK----AKFVTVCAKPAGK--HFIDDYVVDIAQDTWIEQPWDMAV--TFVDP-
+------ISKK-------------
+>lcl|UniRef90_UPI00056DEB5D xanthine-guanine phosphoribosyltransferase n=1 Tax=Vibrio rhizosphaerae RepID=UPI00056DEB5D
+---------------------------------MS------------------------K
+---RFLITWDNMQMYCRQLAERQM----------P-AEQ----------------WK--G
+LIGVSRGGLVPAAILARELGIRYVDTICISSY------D---HDH-----Q---------
+-RD--MSVL-K--APE---HD-----------------GEGY-----LIVDDLVDSGDTA
+RKIRELYPK----AKLITVCAKPAGK--DLVDEYIVDVAQDTWIEQPWDTVL--SYVEP-
+------VNRK-LK----------
+>lcl|UniRef90_A0A0D0KLD0 Xanthine phosphoribosyltransferase n=3 Tax=Agrobacterium RepID=A0A0D0KLD0_RHIRD
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRLA----GL----N-Q-E----------------FS--A
+IVCITRGGLVPAAIISRELNIRLIDTVCIATR-----HD---YVN-----Q---------
+-GE--TMLL-K--GIS---PELLE---K---------GGEGI-----LVVDDLTDTGKTA
+IEVREMLPK----AHFACVYAKPKGV--PTIDTFITEVSQDTWIYFPWDLGF--TYQEP-
+------IAKG-SRG---------
+>lcl|UniRef90_A0A0A3APM4 Xanthine phosphoribosyltransferase n=1 Tax=Chelonobacter oris RepID=A0A0A3APM4_9PAST
+---------------------------------MS------------------------E
+---KYIVTWDMFHMHARKLAERLM----------P-ASR----------------WK--G
+IIAVSRGGLFPSAVIARELGLRHVETVCISSY------D---HDQ-----Q---------
+-SE--LKVL-H--AAQ---GD-----------------GEGF-----IVIDDLVDTGNTA
+RAIRKMYPK----AHFVTVFAKPSGA--PLVDEYVVDIPQNTWIEQPWDMGI--TFVPP-
+------LSRK-------------
+>lcl|UniRef90_UPI0004970195 hypothetical protein n=1 Tax=Candidatus Odyssella thessalonicensis RepID=UPI0004970195
+---------------------------------MA------------------------K
+---KY-LSHIQIQEAAAVLSARLQ-------------RP----------------YK--G
+IVAITRGGMVPATLLAQHLDIRDIRTISIASY-----NK---EGQ-----R---------
+-GQ--LKVIHQ--PDL---AN----------------QGEGY-----LFVDDLVDSGETL
+KLIRTLYPK----ADFVVLYAKPEGK--AAADVFAIEVPQDEWLVFPWELEG--------
+------AA---------------
+>lcl|UniRef90_A0A090SJZ6 Xanthine phosphoribosyltransferase n=3 Tax=Vibrio RepID=A0A090SJZ6_9VIBR
+---------------------------------MA------------------------N
+---KFIITWDNMHAYCRQLAERQM----------P-AEQ----------------WK--G
+IIGVSRGGLVPAAILARELGIRYVDTVCISSY------D---HDH-----Q---------
+-RD--MTVL-K--APE---HD-----------------GEGY-----LIVDDLVDSGDTA
+RKIREMYPK----AKLVTVCAKPAGV--ELVDEYIVDIDQDCWIEQPWDMAL--SYVEP-
+------INRK-QK----------
+>lcl|UniRef90_C8WZP0 Xanthine phosphoribosyltransferase n=1 Tax=Desulfohalobium retbaense (strain DSM 5692) RepID=C8WZP0_DESRD
+----------------------MH----DS-ERYT------------------------K
+---MFPVTWEQLHRDARALAWRLV----GS----G---P----------------WK--G
+IIAIARGGLVPAAIIARELEIRLIETICISSY------D---FQA-----Q---------
+-GQ--SRIL-K--ELH---L-----------------DSSGW-----LLIDDLVDTGNTA
+RMVREMLPE----AHFATVYAKPAGR--PNVDTFITEVSQDTWILFPWDSEH--QFCRP-
+------IVDR-TGQHP-------
+>lcl|UniRef90_U1R4I1 Xanthine phosphoribosyltransferase n=5 Tax=Aggregatibacter RepID=U1R4I1_9PAST
+---------------------------------MS------------------------E
+---KYVVTWDMFHMHARKLSERLL----------P-ASQ----------------WK--G
+IVAVSRGGLFPAAVLARELGIRHVETVCIASY------N---HDK-----Q---------
+-GE--LQVL-H--AAQ---LDNG---------------GEGF-----IVIDDLVDTGNTA
+RAIREMYPN----ARFVTVFAKPAGA--ELVDDYVVDIPQNTWIEQPWDMGI--CFVPP-
+------LARK-------------
+>lcl|UniRef90_A0A0D2WI99 Xanthine phosphoribosyltransferase n=3 Tax=Skermanella RepID=A0A0D2WI99_9PROT
+-----------------------M----PE-KDNA------------------------K
+---HFPVSWEELHRHAKALAWRMA----EK----G---P----------------WQ--G
+IVAVTRGGLVPAAIIARELDIRLIDTVCISSY------D---HQN-----Q---------
+-RE--ARVL-K--GFD---G-----------------DGEGW-----LIIDDLVDTGKTA
+TVLRKMIPK----AHFATIYAKPAGR--PLVDTFITEVSQDTWIYFPWDVEL--QFTQP-
+------IAQQ-RNGK--------
+>lcl|UniRef90_UPI0003FDE5A0 xanthine phosphoribosyltransferase n=1 Tax=Gemmobacter nectariphilus RepID=UPI0003FDE5A0
+----------------------MAAA--DR-LPHE------------------------K
+---GFHVSWDQIHRDARALAWRLD----GK----G---PG-----EGGA------WT--A
+IVGITRGGLVPAAIVSRELNIRVVDTISVKSY------S---HQS-----R---------
+-AE--ATVT-K--APQ---SDLL----G---------DGTGI-----LIIDDLVDSGKTL
+ELVRKLYPK----AHFATVYAKPAGR--AQVDTYVTEVSQDTWIFFPWDMAL--QYVDP-
+------Y-RG-RD----------
+>lcl|UniRef90_A9H0R0 Xanthine phosphoribosyltransferase n=2 Tax=Gluconacetobacter diazotrophicus (strain ATCC 49037 / DSM 5601 / PAl5) RepID=A9H0R0_GLUDA
+------------------MQPSPG----TR-FT-A------------------------N
+---YATVTWDQLHRDARLLAETLI----PR----G---P----------------FK--G
+IVAVTRGGLIPAAIIAREIDCRLIETISVVTY------D---EEE-----Q---------
+-GK--PTVL-K--APA---AA------G---------DGEGF-----LIIDDLVDSGVTA
+QIVRQLLPK----ALLACLYAKPSGR--PLTDLFVVEVPQDTWVLFPWDTAP--LFIPP-
+------LARK-SGTPG-------
+>lcl|UniRef90_L8XYN7 Xanthine phosphoribosyltransferase n=1 Tax=Wohlfahrtiimonas chitiniclastica SH04 RepID=L8XYN7_9GAMM
+---------------------------------MS------------------------K
+---KYLVTWDMLQVHGKALSQHLI----------E-RQE----------------WK--G
+IIAVSRGGLVPSAIVARELNIRYVDTLCIASY-----HE---YQQ-----Q---------
+-TD--MQLV-K--ECN---LP------N---------EGEGF-----VIIDDLVDSGNTA
+KLIRQLYPK----AYFVTIFAKPQGK--PLVDFNVIDVSQDTWIEQPWDTAV--HFIAP-
+------ICDQ-NKQ---------
+>lcl|UniRef90_F9Y3U1 Xanthine phosphoribosyltransferase n=2 Tax=Ketogulonicigenium vulgare RepID=F9Y3U1_KETVW
+----------------------MTTPRPDR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GH----G---PG-----ENGT------WR--G
+ICAITRGGMVPASILARELDIRTIDTIGVKSY------D---HNQ-----Q---------
+-SG--LEVL-N--QPD---PDFM----K---------DGEGI-----LIVDDLVDSGKTL
+ELVRQMYPK----AHFATVYAKPKGR--VQVDTFITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-RE----------
+>lcl|UniRef90_A0A086XZA1 Xanthine phosphoribosyltransferase n=2 Tax=Haematobacter RepID=A0A086XZA1_9RHOB
+----------------------MN----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLD----GK----G---PES----EAGG------WR--A
+IVAITRGGMAPAMIIARELNVRVIDTVSVKSY------S---DQS-----Q---------
+-GD--AHVI-K--APQ---AELM----R---------DGTGI-----LVIDDLVDSGKTL
+ELVRKLYPK----AHFATVYAKPKGR--AMVDSYITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-VD----------
+>lcl|UniRef90_A0A0D6NWR9 Xanthine phosphoribosyltransferase n=2 Tax=Acetobacter RepID=A0A0D6NWR9_9PROT
+-------------------------------MA-V------------------------H
+---YATVTWEQLHRDARALAAALV----PK----M---P----------------FK--G
+IVAVTRGGLIPAAIAARELGCRLIETISVVTY------D---EEE-----M---------
+-GK--PQII-K--SPD---AA------G---------DGEGF-----LIIDDLVDSGVTA
+RFVRERLPK----AYFACLYAKPAGK--ALTDLFITEVPQDTWVLFPWDTAP--LFVPP-
+------LVSN-KKECAE------
+>lcl|UniRef90_A0A0D7EWW4 Xanthine phosphoribosyltransferase n=2 Tax=Bradyrhizobiaceae RepID=A0A0D7EWW4_RHOPL
+---------------MTDS-EPSP----K--QRAG------------------------R
+---PFPVSWDQFHRDCRALTWRLN----DV----G---P----------------FH--A
+VIAITRGGLVPAAIVARELGLRVIDTVCVASY------D---HDK-----Q---------
+-GE--LQVL-K--GVS---EATAALGGG---------TGKGL-----LIVDDLVDTGATA
+RLVRDMLPD----AHFATVYAKPKGR--PLVDTFITEVSQDTWIFFPWDTAL--SFQPP-
+------IRDG-AA----------
+>lcl|UniRef90_A0A0B1Q0E8 Xanthine phosphoribosyltransferase n=1 Tax=Aureimonas altamirensis RepID=A0A0B1Q0E8_9RHIZ
+-------------------------------MTSE------------------------K
+---SFPVSWDQFHRDARALAWRLA----GV----R-D-D----------------WK--A
+IVCITRGGLVPAAIIARELGTRLIETVCVASY-----HD---YET-----Q---------
+-GE--LKVL-K--GIS---PDLSG---D---------EGDGV-----LIVDDLTDTGKTA
+ALVRSMLPK----AHFATVYAKPKGR--PLVDTFITEVSQDTWIFFPWDMGL--TFQAP-
+------ISKG-VAG---------
+>lcl|UniRef90_V4TG95 Xanthine phosphoribosyltransferase n=1 Tax=Lutibaculum baratangense AMV1 RepID=V4TG95_9RHIZ
+-----------------------M----T--VSPD------------------------K
+---AFPVSWDQFHRDTRALTWRLS----GH----G---T----------------WD--A
+IVCVTRGGLVPAAIVARELGIRVIETVCVASY-----HE---YSE-----Q---------
+-GE--LKVL-K--PVA---ESVSRLGEG---------GGDRV-----LIVDDLVDTGKTA
+RVVRDMLPK----AHFATVYAKPMGR--PLVDTFVTEVSQDTWIFFPWDTGL--AFQPP-
+------IAQA-TRG---------
+>lcl|UniRef90_D0D211 Xanthine phosphoribosyltransferase n=1 Tax=Citreicella sp. SE45 RepID=D0D211_9RHOB
+----------------------M-----DR-LPHE------------------------K
+---GFHVSWDQIHRDSRALAWRLQ----GH----G---P------EDGE------WR--A
+VVAITRGGMAPAMIIARELNIRLVDTISVKSY------D---NQT-----Q---------
+-SA--PRVI-K--FPD---MDVM----G---------DGTGV-----LIIDDLVDTGRTL
+EVVRAHLPK----AHVATVYAKPKGK--PMVDSYITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TH----------
+>lcl|UniRef90_H2G0Q0 Xanthine phosphoribosyltransferase n=2 Tax=Oceanimonas RepID=H2G0Q0_OCESG
+---------------------------------MS------------------------N
+---KFVVTWDLFQREARKLAARQL----------P-ASQ----------------WK--G
+IIAVSRGGLVPAAILARELGIRHVDTLCISSY------D---HNQ-----Q---------
+-RD-DLQVL-K--QVS---GD-----------------GEGF-----LIVDDLVDTGNTA
+RVIRELYPR----AKFITVFAKPKGE--PLVDDFEVPVGQDTWIEQPWDMSV--TFVPP-
+------LCEQ-DQA---------
+>lcl|UniRef90_Q1QVR0 Xanthine phosphoribosyltransferase n=2 Tax=Chromohalobacter RepID=XGPT_CHRSD
+-----------------------M----SI-DRYH------------------------Q
+---QFTVSWDQLHRDVRALCHQLV------------ERD----------------FQ--G
+IVAITRGGLIPAALIARELNVRLVDTVCIKSY------E---HQD-----Q---------
+-GG--LQVM-K--GID---HD-----------------GAGW-----LLVDDLVDTGNTA
+RAVREMLPE----AHFVTVYAKPEGR--PLVDQYLTEVAQDCWIQFPWDMGV--AYVEP-
+------LVDQ-VRSRDS------
+>lcl|UniRef90_B2IJ10 Xanthine phosphoribosyltransferase n=1 Tax=Beijerinckia indica subsp. indica (strain ATCC 9039 / DSM 1715 / NCIB 8712) RepID=B2IJ10_BEII9
+----------------MS----------------Q------------------------K
+---NYQVSWDQFHRDARTLARRLM----DL----G---P----------------FR--G
+MAAVTRGGLVPAAIVARELNLRLIDTFCVASY------G---ADN-----DL--------
+-AQ--TKIL-K--RIT---AELAG---E---------EGQGL-----LVIDDLVDTGTTA
+RLIREQLPK----AHIATLYAKPMGL--PLVDTFVMEVAQETWIDFPWDLGL--DFQAP-
+------LVPR-------------
+>lcl|UniRef90_A1B0C3 Xanthine phosphoribosyltransferase n=8 Tax=Rhodobacteraceae RepID=A1B0C3_PARDP
+----------------------MN----DR-LPHE------------------------R
+---GFHISWDQLHRDARALAWRLE----DR--------P----------------WR--A
+ILAITRGGLVPAMIVARELDVRVIDTISVKSY--RGKG----GQE-----R---------
+-GA--VTVL-K--APD---PAVM----L---------DGDGI-----LVVDDLVDSGRTL
+EHVRTMYPK----AHFATVYAKPKGR--PMVETYVTEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-ED----------
+>lcl|UniRef90_B4EUU7 Xanthine phosphoribosyltransferase n=11 Tax=Enterobacteriaceae RepID=XGPT_PROMH
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARQLAQRLL----------P-VEQ----------------WT--G
+IIAVSRGGLVPAALLARELGIRHVDTVCISSY------D---HDH-----Q---------
+-RD--LKIL-K--KAE---GD-----------------GEGF-----IVVDDLVDTGGTA
+KVIREMYPK----AHFVTIFAKPEGR--PLVDDFVVDIPQNTWIEQPWDMGV--MFVPP-
+------VCDK-K-----------
+>lcl|UniRef90_E1V4D9 Xanthine phosphoribosyltransferase n=4 Tax=Halomonas RepID=E1V4D9_HALED
+-----------------------M----ST-HRYH------------------------Q
+---HFTVSWDQLHRDVRELCHQLV------------ERD----------------FK--G
+IIAITRGGLIPAALIARELNVRLIDTVCIKSY------D---HME-----Q---------
+-GG--LEVM-K--GVE---HD-----------------GDGW-----LLVDDLVDTGKTA
+RRVREMLPK----AHFVTVYAKPEGR--PLVDQYLTEVAQDCWIQFPWDMGV--AYVEP-
+------LADQ-IKR---------
+>lcl|UniRef90_A5G256 Xanthine phosphoribosyltransferase n=5 Tax=Acidiphilium RepID=A5G256_ACICJ
+-------------------------------MA-T------------------------H
+---YYTVSWDQLHRDSKALAWRLN----AL----A---P----------------FD--G
+IVAITRGGLIPAAIVARELECRLIETVSIVTY------D---EER-----I---------
+-GK--PTIT-K--PPT---AA------G---------DGAGF-----LIIDDLVDTGTTA
+REVRQLLPR----AHFATVYAKPAGK--ALVDTFITEVSQDTWILFPWDTEP--QFVAP-
+------IARA-GTPPRGA-----
+>lcl|UniRef90_A0A0F5AV21 Xanthine phosphoribosyltransferase n=4 Tax=Salinivibrio RepID=A0A0F5AV21_9GAMM
+---------------------------------MS------------------------N
+---KFIITWDNMQMYTRQLAEKLL----------P-AEQ----------------WK--G
+IIAVSRGGLVPAAILARELGIRHVDTVCISSY------D---HDH-----Q---------
+-RD--MRVV-K--RAP---GD-----------------GEGF-----IVVDDLVDTGGTA
+EMVRQLYPK----ARFVTVSAKPAGK--PLVDDYVVDIAQDTWIEQPWDMAV--SYIDP-
+------IAK--------------
+>lcl|UniRef90_R5QHJ4 Xanthine phosphoribosyltransferase n=1 Tax=Acetobacter sp. CAG:977 RepID=R5QHJ4_9PROT
+-------------------------------MAEQ------------------------R
+---YLTISWEQFHKDARTLASRLL----------D-RDD----------------LK--K
+IVCVTRGGLFPAAVLARELEIRWIDTICVASY------D---EES-----RD--------
+-SK--ASIL-K--IPE-----------G---------DGEGV-----LVVDDLVDSGRTG
+RIIRELMPK----AYFVTMYAKPKGQ--EVVDDFVVPVDQDVWILFPWEAEL--SPASP-
+------LRRR-L-----------
+>lcl|UniRef90_Q2SN05 Adenine/guanine phosphoribosyltransferase and related PRPP-binding protein n=2 Tax=Hahella chejuensis RepID=Q2SN05_HAHCH
+------------------------------------------------------------
+-------------MLCRKLIDMGR-------------------------------WK--G
+IIAITRGGLIPAGIIARELGIRYIDTVCAVSY----------EEQKQ---S---------
+-DD--VNVI-K--SFD---ASVIG-------------DGEGY-----LLVDDLVDTGKTA
+KVVRNLIPN----AFFATLYAKPLGR--PFVDLCIKEVSQETWMRFPWDMEL--NYSTP-
+------LVDR-L-----------
+>lcl|UniRef90_A0A0D6PEJ7 Xanthine phosphoribosyltransferase n=1 Tax=Acidocella aminolytica 101 = DSM 11237 RepID=A0A0D6PEJ7_9PROT
+-------------------------------MA-K------------------------H
+---YFTVTWDQLHRDAKALAWRLH----TQ----G---P----------------WK--G
+IVAVTRGGLIPAAIIARELENRLVESICVVTY------D---DEK-----R---------
+-GE--PQVT-K--PAV---AA------G---------DGEGW-----LIIDDLVDSGTTA
+RHVRALLPK----AHFATIYAKEQGK--PVVDTFITEVSQDTWILFPWDTEP--QFVAP-
+------LARS-PG----------
+>lcl|UniRef90_A0A086XRR0 Xanthine phosphoribosyltransferase n=1 Tax=Paenirhodobacter enshiensis RepID=A0A086XRR0_9RHOB
+----------------------MI----DK-LPHE------------------------K
+---GFHVSWDQLHRDARALSWRLD----GK----G---P------IEGS------WK--A
+IVAITRGGLVPAAIVARELNIRVIDTISVKGY------N---HQT-----Q---------
+-HP--PMVI-K--APQ---DDLM----G---------DGEGI-----LVVDDLVDSGRTL
+ELVRHLYPK----AHFATVYAKPRGR--VQVDTFITEVSQDTWIFFPWDMAL--QYVQP-
+------F-RG-TE----------
+>lcl|UniRef90_E6VVZ8 Xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio aespoeensis (strain ATCC 700646 / DSM 10631 / Aspo-2) RepID=E6VVZ8_DESAO
+----------------------MG----DK-NSYQ------------------------K
+---MYPVSWEQLQRDCRALSWRLM----EK----G---P----------------WK--G
+IIAITRGGLVPAAIIARELDIRLIDTICLSSY------D---WKE-----Q---------
+-GQ--AAIL-K--P------L------Q----N----DGEGW-----LLIDDLVDTGKTA
+QIARDMVPK----AHFATVYAKPAGR--PMVETYITEVSQDTWILFPWDAGA--QFVEP-
+------IIQA-SE----------
+>lcl|UniRef90_UPI00042957BF xanthine phosphoribosyltransferase n=1 Tax=Azonexus hydrophilus RepID=UPI00042957BF
+--------------------MEHS----PA-SPYR------------------------D
+---DIVISWPELHRDTRLLCHQLI----------D-KGP----------------FK--G
+IIAIARGGLIPAALVARELEIRLVDTICASSY----------EATDDAAAQTMR------
+-KE--VKIL-K--GIE---GD-----------------GEGY-----LLIDDLVDTGNTA
+RVIRKLLPK----AFFATIYAKPQGR--EVVDLCVKEFSQDKWIYFPWDIDY--QFVAP-
+------IKKH-RASA--------
+>lcl|UniRef90_A0A0N1BXE1 Xanthine phosphoribosyltransferase n=1 Tax=alpha proteobacterium AAP38 RepID=A0A0N1BXE1_9PROT
+----------------------MT----NKIQNPD------------------------K
+---NFPVTWEELHRNAKALAWRLA----DH----T---K----------------WK--G
+IIAITRGGLVPAAIIARELDIRVVETISVKSY------D---HQT-----Q---------
+-GE--IRVL-K--AADAVTD-----------------GGKDW-----LLIDDLVDTGKTA
+AYVRKLLPN----AHFATIYAKPAGR--PLVDTFITEVSQDTWIYFPWDL-------LP-
+------VSYL-QIER--------
+>lcl|UniRef90_A0A0K8MBZ3 Xanthine phosphoribosyltransferase n=1 Tax=Caedibacter varicaedens RepID=A0A0K8MBZ3_9RICK
+--------------------------------MSN------------------------H
+---YLHVSWLDFHRDTRRLAEHFK----------D-PEQ----------------WK--G
+IIAITRGGLVPAAIMARELNIRFIDTICISSY-----DN---NES-----Q---------
+-AD--LQIL-K--TLN---GENKE-------------EGKGL-----IVLDDLVDSGRTL
+RTVRTMLPK----AHYAAVYAKPKGK--DILDTFGIEVEQSTWLVFPWEE----------
+-----------------------
+>lcl|UniRef90_UPI000571C744 xanthine phosphoribosyltransferase n=1 Tax=Thermopetrobacter sp. TC1 RepID=UPI000571C744
+----------------MQNTGGAD----LD-ERYR------------------------K
+---GFPVSWEQFHRDSRALAWRLA----EK----G---P----------------FK--A
+VVAITRGGLVPAAIVARELEIRVIETVCIASY------D---YGR-----Q---------
+-GE--LKVL-K--PVG---ETFAE---N---------GGEGV-----LVVDDLVDTGRTA
+RVVREMLPR----AHLATVYAKPAGV--PLVDTFVTEVSQDTWIYLPWDMAL--QFVPP-
+------FIQQ-GQP---------
+>lcl|UniRef90_A0A085F806 Xanthine phosphoribosyltransferase n=8 Tax=Rhizobiales RepID=A0A085F806_9BRAD
+----------------------MA----E--PTSN------------------------K
+---AFPVSWDQFHRDARALAWRLA----EK----G---P----------------FE--A
+IVCITRGGLVPAAIICRELGLRLIETVCVASY-----HD---YKN-----Q---------
+-SE--LKVL-K--DVA---PSIKAIGDG---------KGKGV-----LVVDDLTDTGKTA
+RVVREMLPN----AHFATVYAKPAGV--PTVDTFVTEVSQDTWIYFPWDMGL--AYVEP-
+------IAKD-HKG---------
+>lcl|UniRef90_Q0G7M3 Xanthine phosphoribosyltransferase n=1 Tax=Fulvimarina pelagi HTCC2506 RepID=Q0G7M3_9RHIZ
+----------------------------M--SATE------------------------K
+---SFPVSWDQFHRDARALAWRLS----GI----N-G-D----------------WK--A
+IVCITRGGLVPAAIIARELGVRLIETVCVASY-----HE---YSE-----Q---------
+-GQ--LKVL-K--EVS---AELTA---D---------GGKDV-----LIVDDLTDTGKTA
+RIVREMLPE----AHFAAVYAKPMGR--PLVDTFITEVSQDTWIYFPWDLGL--TFQAP-
+------IGRE-TRG---------
+>lcl|UniRef90_K9HNW0 Xanthine-guanine phosphoribosyltransferase n=1 Tax=Caenispirillum salinarum AK4 RepID=K9HNW0_9PROT
+---------------------MTD----GD-YTAN------------------------V
+---YIPIAWELFHRDTRALAHKLV----EA----D-LGP----------------LK--G
+IVAITRGGLIPASILARELDVRLIDTVGVVTY------D---DRV-----R---------
+-GE--PRVV-K--KPD----DMV----G---------DGEGW-----LIVDDLVDSGVTA
+RVVKDLLPK----AHLATVYAKPAGQ--DEAHTFAVPVKQDVWLLFPWDAEL--KPNEP-
+------LARQ-GRNPK-------
+>lcl|UniRef90_G6A1H6 Xanthine phosphoribosyltransferase n=1 Tax=SAR116 cluster alpha proteobacterium HIMB100 RepID=G6A1H6_9PROT
+----------------------MT-------YDQN------------------------K
+---NFPVSWEELHRTSKALAWRLL----EL----G---P----------------FK--G
+IIAVTRGGLVPAAIVARELEIRLIETACLASY------H---AQE-----R---------
+-GE--VEVM-K--APE---MA------G---------DGEGW-----LIIDDLVDTGETG
+KMLRQLLPK----AHFATVYAKPQGR--PVVDTFITEVSQDTWIFFPWDLEP--RPSRP-
+------IADS-QV----------
+>lcl|UniRef90_X1TW09 Uncharacterized protein (Fragment) n=1 Tax=marine sediment metagenome RepID=X1TW09_9ZZZZ
+------------------------------------------------------------
+------------------------------------------------------------
+-------GLIPAAIIARELDIHYVDTVCISSY------T---LEH-----Q---------
+-GE--LSIL-K--KVT---EF------K----D----REDRY-----LIIDDLVDTGKTG
+KAVRDMIPG----AYFATVYAKPDGR--PMVDTFVTEVSQDTWVLFPWDSEITSNFVNP-
+------IINK-NG----------
+>lcl|UniRef90_X1UQ67 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=X1UQ67_9ZZZZ
+------------------------------------------------------------
+------------------MATKKK-------------------------------WK--K
+IIAVSRGGLIPATIIARELDIHYIDTICVSSY------I---GQR-----Q---------
+-GE--LLIS-K--KIA---KPRTGRECG-----------EEY-----LVIDDLVDTGITG
+RSIRGVIPR----AYFATVYAKPDGE--PVVDTFITRVSQDTWVLFPWDSEVVPNFVEP-
+------IVDH-TNKIKE------
+>lcl|UniRef90_UPI0004103B9B xanthine phosphoribosyltransferase n=1 Tax=Thalassobaculum salexigens RepID=UPI0004103B9B
+--------------------MNAS----KD-DDPR------------------------R
+---SFPVSWEELHRTGRALAWRLL----DV----G---P----------------FE--G
+IIGITRGGLVPAAIVARELELRMIDTIGVSSY----AGY---DGP-----R---------
+-GE--LKVV-K--PPS---LT------K---------DGAGW-----LIVDDLVDTGETA
+KVVRAMLPK----AHFATIYAKPAGR--PLVDTFVTEVSQDTWIYFPWDLEP--RPVDP-
+------IIGL-RPPI--------
+>lcl|UniRef90_P57339 Xanthine phosphoribosyltransferase n=4 Tax=Buchnera aphidicola RepID=XGPT_BUCAI
+---------------------------------MS------------------------E
+---KYIVTWDMLQIHTRKLANRLV----------KKIHS----------------WN--G
+IIAVSRGGLVPSALLARELGLRCVDTVCIESY------N---YDCL----K---------
+-EN--RKII-K--KAE---GN-----------------GEKI-----IVIDDLVDTGGTA
+KIIRKLYPK----ACFVTIFAKPMGR--SLVDNYIIDIPQNVWIEQPWDMSI--SYIPP-
+------LIQN-YKIK--------
+>lcl|UniRef90_J7Q8N1 Xanthine phosphoribosyltransferase n=3 Tax=Methylocystis RepID=J7Q8N1_METSZ
+----------------------------M--YGSD------------------------K
+---IFPVSWDIFHRDARALAWRLA----SI----G---G----------------FS--A
+IVAVTRGGLVPAAIVARELGIRVIETVCVASY-----HE---ETE-----R---------
+-GE--IQVL-K--PLT---DTILA---R---------PSSEV-----LIIDDLVDTGATA
+KAVRDMLAN----AHFATVYAKPQGL--PMVDTFVTEVSQDTWIFFPWDTGL--SFQAP-
+------IGAP-DAKSERRRRRRL
+>lcl|UniRef90_UPI0003AA8A3B xanthine phosphoribosyltransferase n=1 Tax=Pseudochrobactrum sp. AO18b RepID=UPI0003AA8A3B
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRIS----GQ----G-K-D----------------WH--A
+IVAITRGGLVPAAIICRELGIRMIETVCIASY-----HD---YSE-----Q---------
+-GE--LRVI-K--SIG---EKLLE---N---------GGEGV-----LVIDDLTDTGKTA
+KIVRDMMPK----AHFATVYAKPQGR--PLIDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------IAKG-HRG---------
+>lcl|UniRef90_A0A0F2RLW2 Xanthine phosphoribosyltransferase n=1 Tax=Rhodospirillaceae bacterium BRH_c57 RepID=A0A0F2RLW2_9PROT
+-----------------------M----KD-YTAN------------------------R
+---YLPIAWELFHRDTRMLAHKLM----------E-LGP----------------FK--G
+IVAITRGGLIPSSILARELDLRLVESICVVSY------D---DRR-----Q---------
+-GD--PQVI-K--GVE---TAAV----G---------DGEGF-----LIVDDLVDSGVTA
+RLVKAMLPK----GHLATVYAKPQGQ--DAVDTFAVPVPQDMWLLFPWDGEL--QPNEP-
+------LARR-KT----------
+>lcl|UniRef90_UPI0004E26EE9 xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio frigidus RepID=UPI0004E26EE9
+----------------------MA-------DNYK------------------------K
+---MFPISWDQLHRDSRALSWRLL----EL----G---P----------------FK--G
+ILAITRGGLVPAAILARELDIRLIDTVCVSTY------D---WKV-----R-------E-
+-KK--STVL-K--G------F------E----G----DGEGW-----LLVDDLVDTGKTA
+KLVREMVPK----AHFATVYAKPEGR--SLVDTFITEVSQDTWILFPWDSET--QFAKP-
+------IVKV-SQDD--------
+>lcl|UniRef90_F2JTP8 Xanthine phosphoribosyltransferase n=1 Tax=Marinomonas mediterranea (strain ATCC 700492 / JCM 21426 / NBRC 103028 / MMB-1) RepID=F2JTP8_MARM1
+-----------------------------M-NPYS------------------------K
+---DFPVSWQELHRDARALSWRLL----EQ----G---P----------------WK--G
+IIAITRGGLVPAAILCREMDIRLIDTICIVSY------G---SED-----K-GEAAMKQ-
+-GD--LNVL-K--G------V------E----G----DGEGF-----ILVDDLVDTGRTA
+QKVRDMLPK----AHFATIYAKPAGK--PLVDTFITEVSQDTWIRFPWDMEY--TFSTP-
+------LADR-QGR---------
+>lcl|UniRef90_A0A059IU80 Xanthine phosphoribosyltransferase n=1 Tax=Defluviimonas sp. 20V17 RepID=A0A059IU80_9RHOB
+----------------------MT----DR-LPHE------------------------K
+---GFHVSWDQIHRDARALAWRLD----GQ----G---PGGSDGAAGGG------WR--A
+VVAITRGGMAPAMIVSRELDIRVVDTISVKSY------D---HQT-----Q---------
+-AE--PRVI-K--APQ---AEIM----GA--------DGEGV-----LVVDDLVDTGKTL
+ELVRRLYPK----AHFATVYAKPQGR--EMVDTFITEVSQDTWIFFPWDMAL--QYVEP-
+------F-RG-KD----------
+>lcl|UniRef90_A3YB04 Xanthine phosphoribosyltransferase n=2 Tax=Marinomonas RepID=A3YB04_9GAMM
+-----------------------------M-NPYS------------------------K
+---DYPVSWDELHRNARALAWRLL----EQ----G---P----------------WK--G
+IIAITRGGLVPAAIICRELDVRLIDTLCIASY------D---S-------S-GKEANEQ-
+-GE--LTIL-K--G------V------E----G----DGEGM-----LLIDDLVDTGRTA
+QVVREMLPK----AHFATIFAKPAGK--PLVDTFVTEVSQDTWIRFPWDMEY--TFSTP-
+------LADR-NG----------
+>lcl|UniRef90_UPI0003489A2C xanthine phosphoribosyltransferase n=1 Tax=Halomonas jeotgali RepID=UPI0003489A2C
+-----------------------M----SS-ERYH------------------------Q
+---HFTVSWDQLHRDVRQLSHQLV------------ERD----------------FQ--G
+IMAITRGGLIPAALIARELNVRLIDTVCIKSY------D---YRE-----Q---------
+-GG--LEVL-K--GAD---HD-----------------GEGW-----LLVDDLVDTGKTA
+RAVRDMLPR----AHFVTVYAKPGGR--PLVDQYLTEVGQHCWIQFPWDMGV--AYVEP-
+------LVDQ-VRK---------
+>lcl|UniRef90_S7TH15 Xanthine phosphoribosyltransferase n=1 Tax=Desulfococcus multivorans DSM 2059 RepID=S7TH15_DESML
+---------------------MSD----LD-RRYR------------------------K
+---TYPISWEQLQRDTRTLARRLL----EI----G---E----------------WR--G
+IIAVTRGGLVPAAIIARELDIHRVDTVCVSSY------T---WQN-----Q---------
+-GK--IQVI-K--PVA---DQ-----------------GEGW-----LIVDDLVDTGKTA
+AVVREMIPR----AHFATVYAKPAGR--PLVDSFITEVDQETWILFPWDASS--QFIRP-
+------IAGL-KQDRS-------
+>lcl|UniRef90_Q89AN2 Xanthine phosphoribosyltransferase n=1 Tax=Buchnera aphidicola subsp. Baizongia pistaciae (strain Bp) RepID=XGPT_BUCBP
+---------------------------------MS------------------------K
+---KYIVTWDMLQIYARELAQKLL----------P-VNQ----------------WK--G
+IIAVSRGGLIPSALLARELNIRFVDTICVSSY------D---HNR-----L---------
+-RD--LKIL-K--YAA---GN-----------------SSQI-----IIVDDLVDTGGTG
+KIIRNLYPK----AKFVTIFAKPMGK--LLVDEYIIDIPQKVWIEQPWDMGV--TYQSP-
+------LVRD-L-----------
+>lcl|UniRef90_UPI000426B3E7 xanthine phosphoribosyltransferase n=1 Tax=Desulfobulbus japonicus RepID=UPI000426B3E7
+----------------------MA----EK-SGYK------------------------K
+---TYPISWEQLHRDSKALAWRLL----SL----D---Y----------------FK--G
+IIAITRGGLVPAAIVARELDIHLVDTVCISSY------D---WKD-----K-------K-
+-GE--PDIL-K--P------F------V----G----DGEGY-----LLIDDLVDTGRTA
+QIVKKMIPK----AHFATVYAKPAGR--PLVETYITEVSQDTWILFPWDSES--QFVQP-
+------MATH-R-----------
+>lcl|UniRef90_A0A0F5PY89 Xanthine phosphoribosyltransferase n=6 Tax=Devosia RepID=A0A0F5PY89_9RHIZ
+----------------------------MT-DPNQ------------------------K
+---SFPVTWDQFHRDSRALAWRLA----GM----G---T----------------FD--A
+VVAIARGGLVPAAIVARELNIRTVETVAVKSY------D---HQN-----Q---------
+-SG--IQVL-K--PIS---QQVLDLA-K---------TGKKI-----LIVDDLVDTGSTA
+RVVREMLPG----AHFATVYAKPKGR--DLVDTFITEVSQDTWIFFPWDLDV--AYVAP-
+------ISGG-TD----------
+>lcl|UniRef90_A0A0F5LNX0 Xanthine phosphoribosyltransferase n=1 Tax=Devosia limi DSM 17137 RepID=A0A0F5LNX0_9RHIZ
+----------------------------MN-NPNQ------------------------K
+---SFPVSWDQFHRDSRALAWRLT----SI----G---P----------------FD--A
+VVAIARGGLVPATIVARELNIRTVETVAVKSY------D---HQN-----Q---------
+-GG--IKVL-K--EIS---QSILDMA-K---------NGAKV-----LIVDDLVDTGSTA
+RLVRDMLPG----AHFATVYAKPMGR--ELVDTFITEVSQDTWIFFPWDLDV--AYAAP-
+------IGGG-TD----------
+>lcl|UniRef90_A8LMJ0 Xanthine phosphoribosyltransferase n=1 Tax=Dinoroseobacter shibae (strain DSM 16493 / NCIMB 14021 / DFL 12) RepID=A8LMJ0_DINSH
+----------------------MT----DQ-LPHE------------------------K
+---GFHVSWDQIHRDSRALAWRLD----KR----G---PG-----PDGS------WR--M
+ILAITRGGMAPAMIVARELDIRQVATISVQSY------H---HQT-----Q---------
+-GE--TVVL-N--APD---AELM----G---------DGTGV-----LVIDDLVDSGRTL
+EVVRQMYPN----AHFATVYAKPKGE--PMVNTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-T-----------
+>lcl|UniRef90_B9JX91 Xanthine phosphoribosyltransferase n=1 Tax=Agrobacterium vitis (strain S4 / ATCC BAA-846) RepID=B9JX91_AGRVS
+----------------------------M--SLPD------------------------K
+---AFPVAWDQFHRDARALAWRLA----GL----G-Q-E----------------FR--A
+IVCITRGGLVPAAIISRELNIRLIETVCVASY-----HD---YVN-----Q---------
+-GE--FNLL-K--GIT---PELLT---N---------GGEGV-----LVIDDLTDTGKTA
+TEVRSIIPK----AHFACVYAKPKGV--PTVDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------IAKG-HKG---------
+>lcl|UniRef90_E1SEK1 Xanthine phosphoribosyltransferase n=32 Tax=Enterobacteriaceae RepID=E1SEK1_PANVC
+MRQLLIISRNLFPVAHFYATSVGW----DF-YFMS------------------------E
+---KYVVTWDMLQIHARKLAQRLL----------P-VEQ----------------WT--G
+IIAVSRGGLVPASLLARELGIRYVDTVCISSY------D---HDH-----Q---------
+-RE--MKVL-K--RAE---GN-----------------GEGF-----IVIDDLVDTGGTA
+QAIREMYPK----ARFCTIFAKPAGR--LLVDDYIVDIPQDTWIEQPWDMGV--VYIPP-
+------IVKN-------------
+>lcl|UniRef90_T2GBT2 Xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio gigas DSM 1382 = ATCC 19364 RepID=T2GBT2_DESGI
+----------------------MQ----NS-ERYV------------------------K
+---TYPISWEQLHRDSKALAWRLL----DK----G---P----------------FR--G
+IVAVARGGLIPAAVIARELEVRRIETVCVMSY------D---WQA-----Q---------
+-RE--SSVL-K--TLGADVPT----------------DGEGW-----LIVDDLTDTGGTA
+RIVREMLPK----ALFATVYAKPEGK--PLADVYVTEVSQDTWILFPWDTEH--QYVQP-
+------LAAR-KE----------
+>lcl|UniRef90_UPI000407976F xanthine phosphoribosyltransferase n=1 Tax=Nesiotobacter exalbescens RepID=UPI000407976F
+----------------------MD-------STQP------------------------K
+---AFPVSWDQFHRDCRALAWRLA----DK----G---D----------------FQ--A
+IVCITRGGLVPAGIIARELGVRTIETVCIASY-----HE---YKD-----Q---------
+-GD--LQVI-K--AID---PKVIGN------------DGEGV-----LIIDDLVDTGKTA
+SVVREMLPK----AHLATVYAKPAGR--DMADTIVTELSQDTWVYFPWDMGW--QFQPP-
+------ISKD-SVG---------
+>lcl|UniRef90_UPI0006F2618C UPI0006F2618C related cluster n=1 Tax=unknown RepID=UPI0006F2618C
+----------------------MA----D--ENAK------------------------K
+---PFPVSWDQFHRDARALAWRLN----GA----G---P----------------FE--A
+LVAVTRGGLVPAAIVAREIGIRVIDTICVSSY------N---HTA-----Q---------
+-GE--PTVL-K--GVS---DAVAKLGRG---------TGKGL-----LVIEDLVDTGKTA
+RIVRELVPQ----AHIAAVYAKPMGK--PLVDTFITEVSQDTWIFFPWDTGL--SFQPP-
+------IRDG-AA----------
+>lcl|UniRef90_S9RJY1 Xanthine phosphoribosyltransferase n=1 Tax=Salipiger mucosus DSM 16094 RepID=S9RJY1_9RHOB
+----------------------MSD---DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLQ----GH----G---P------AEGG------WR--A
+VVAITRGGMAPAMIVARELNIRLVDTISVKSY------D---HQT-----Q---------
+-SE--PHVI-K--FPD---MEVM----G---------DGTGV-----LIVDDLVDTGKTL
+EVVRAHLPK----AHVATVYAKPKGK--PMVDTYVTEVSQDTWIFFPWDMAL--QYVKP-
+------Y-RG-LD----------
+>lcl|UniRef90_E0MJM8 Xanthine phosphoribosyltransferase n=1 Tax=Ahrensia sp. R2A130 RepID=E0MJM8_9RHOB
+----------------------------M--ANPP------------------------K
+---AFPVSWDQFHRDCKALAWRLA----------G---PGKDKVE----------WS--A
+IVAITRGGLVPAAIIARELGIRTIETVCIASY-----HE---YKD-----Q---------
+-GE--LDVI-K--GID---SKMIEA--D---------GGKGV-----LVIDDLTDTGATA
+RKVREMLPN----AHIATVYAKPKGC--EMADTFITEVSQDTWIYFPWDMEM--GYVEP-
+------ISGL-KDG---------
+>lcl|UniRef90_U3AEP4 Xanthine phosphoribosyltransferase n=7 Tax=Vibrio RepID=U3AEP4_9VIBR
+---------------------------------MP------------------------K
+---KHIITWDEMQTSCRELAARQM----------P-AEQ----------------WK--G
+IWGVSRGGLVPAAILARELGIRYVDTICISSY------D---HDH-----Q---------
+-RD--MSVL-K--APE---GD-----------------GEGF-----LIVEDLVDSGDTA
+RKLREMYPK----AKLIAVCAKPSGA--DLLDDYVVDIEQETWIEQPWDMQL--TFVEP-
+------INRK-RK----------
+>lcl|UniRef90_A0A0F4QK39 Xanthine phosphoribosyltransferase n=1 Tax=Halomonas sp. S2151 RepID=A0A0F4QK39_9GAMM
+-----------------------M----SS-QRYH------------------------R
+---HFVVSWDQLHRDVRELCHRLI------------ERD----------------TK--G
+IIAITRGGLIPAALIARELNVRLIDTVCIKSY------D---HME-----Q---------
+-DS--LEVL-K--GVD---HD-----------------GEGW-----LLVDDLVDTGKTA
+RKVREMLPK----AHFVTIYAKPEGR--PLVDQYLTEVAQDCWIQFPWDMGV--AYVEP-
+------LADQ-RR----------
+>lcl|UniRef90_A0A0M9EJ56 Xanthine phosphoribosyltransferase n=1 Tax=Shimia sp. SK013 RepID=A0A0M9EJ56_9RHOB
+----------------------MS----ER-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GK----G---P------NDGA------WK--A
+VVAITRGGMAPAMIVSRELDIRTVDTISVKSY-YSGGGK---QDS-----Q---------
+-RE--AQVL-K--SPD---KALM----G---------DGEGI-----LIVDDLVDSGKTL
+ELVRELYPK----AHFATVYAKPAGE--PMVDTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------
+>lcl|UniRef90_H0A0L8 Xanthine phosphoribosyltransferase n=1 Tax=Acetobacteraceae bacterium AT-5844 RepID=H0A0L8_9PROT
+-------------------------------MA-P------------------------R
+---YYTVSWDQLHRDGKALAWRLI----ER----G---P----------------WK--G
+IVAITRGGLIPAAIVARELDCRLIESTSIVTY------D---EEV-----K---------
+-GE--PVVA-K--APV---AA------G---------DGEGW-----LVLDDLVDTGTTL
+KVVRKLLPK----AHYATVYAKPAGK--PLVDTFVTEVSQDTWILFPWDTEA--QFVAP-
+------IAKA-RATQ--------
+>lcl|UniRef90_M1WJ88 Xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio piezophilus (strain DSM 21447 / JCM 15486 / C1TLV30) RepID=M1WJ88_DESPC
+----------------------MG----DK-SRYQ------------------------K
+---MFPVSWEQLHRDCRALSWRLM----EK----G---P----------------WK--G
+IIAITRGGLVPAAILARELDIHLVDTICLSSY------N---WKE-----Q---------
+-GQ--AQVL-K--K------I------D----N----DGDGW-----LLIDDLVDTGKTA
+KIAQDMVPK----AHFATVYAKPEGR--PMVETYITEVSQDTWILFPWDAGS--QFVEP-
+------IIQV-VE----------
+>lcl|UniRef90_X7F5G6 Xanthine phosphoribosyltransferase n=1 Tax=Roseivivax isoporae LMG 25204 RepID=X7F5G6_9RHOB
+----------------------M-----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLQ----GH----G---P------EDGG------WR--A
+VVAITRGGMAPAMIVARELDIRTVDTISVKSY------D---HQS-----Q---------
+-SA--PRIL-K--SPD---AALV----G---------DGTGV-----LIVDDLVDTGRTL
+EVVRAAMPR----AHVATIYAKPQGR--AQVDTFVTEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-RD----------
+>lcl|UniRef90_A0A099MBK3 Xanthine phosphoribosyltransferase n=6 Tax=Vibrionaceae RepID=A0A099MBK3_9VIBR
+---------------------------------MS------------------------N
+---KFVITWDAMQTYCRKLAEQQM----------P-AEQ----------------WK--G
+IWAVSRGGLVPGAILARELGIRYVDTICISSY------D---HDH-----Q---------
+-RD--MTVI-K--APE---GD-----------------GEGY-----LIVEDLVDSGDTA
+RKLREMYPK----AKLIAVCAKPSGK--ALLDDYVVDIAQDTWIEQPWDMAL--SYAEP-
+------VNRK-QK----------
+>lcl|UniRef90_A0A099G2H8 Xanthine phosphoribosyltransferase n=3 Tax=Paracoccus RepID=A0A099G2H8_9RHOB
+-----------------MARTPAT----DR-LPHE------------------------R
+---GFHVSWDQLHRDARALAWRLQ----DK----A---P------AGGGE-----WR--A
+VVAITRGGMVPAMIVARELDIRTIDTISIKSY--KGDGA---KGV-----Q---------
+-GE--LQVL-K--SPD---AGMM----G---------DGEGV-----LVVDDLVDSGRTL
+ELVRQMYPK----AHFATVYAKPKGQ--PMVETYITEVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------
+>lcl|UniRef90_Q6D1I0 Xanthine phosphoribosyltransferase n=750 Tax=cellular organisms RepID=XGPT_PECAS
+---------------------------------MS------------------------E
+---KYVVTWDMLQIHARKLAQRLL----------P-AEQ----------------WK--G
+IIAVSRGGLVPGALLARELGIRHVDTVCISSY------D---HDN-----Q---------
+-RE--MKVI-K--RAE---GD-----------------GEGF-----IVVDDLVDTGGTA
+KAIRDMYPK----AHFVTIFAKPAGQ--PLVDDYVIDIPQDTWIEQPWDMCV--VFVPP-
+------LSGR-------------
+>lcl|UniRef90_Q1MHW9 Xanthine phosphoribosyltransferase n=33 Tax=Rhizobium/Agrobacterium group RepID=XGPT_RHIL3
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRLA----GL----N-Q-T----------------FK--A
+IVCITRGGLVPAAIISRELNIRLIETVCVASY-----HD---YVN-----Q---------
+-GD--MVLL-K--GIA---PELME---N---------GGETV-----LVVDDLTDTGKTA
+AQVRTMLPR----AHFACVYAKPKGV--PTVDTFITEVSQDTWIYFPWDMGF--TYQEP-
+------IAKG--AG---------
+>lcl|UniRef90_R5EDS5 Xanthine phosphoribosyltransferase n=1 Tax=Succinatimonas sp. CAG:777 RepID=R5EDS5_9GAMM
+-----------------------------------------------------------M
+---KEFISFETYANDAIKLADMIK--------------KTGRT------------FK--S
+IIVITRGGLFPATILSAQLNIKKIDTFCLASY------S---NKV-----G---------
+-GE--IQELKK--PVI---DL------------------KDA-----LFVDDLSDSGNTA
+RYVKHVYPD----AFFTCVYVKEHGK--DYPDLYVKEFPQDTWLVQPWEID---------
+-----------------------
+>lcl|UniRef90_A0A076K4L7 Xanthine phosphoribosyltransferase n=1 Tax=Planktomarina temperata RCA23 RepID=A0A076K4L7_9RHOB
+----------------------MS----DR-LPHE------------------------K
+---GFHVSWDQMHRDSRALAWRLD----GK----G---P------EDGG------WR--A
+IVAITRGGMAPAMIVARELDVRNVDTVSVKSY------H---HQE-----R---------
+-AD--AVIL-K--APD---AHLM----G---------DGTGI-----LVIDDLVDSGKTL
+ELVRSKYPK----AHFATVYAKPQGR--PMVDTFITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-TD----------
+>lcl|UniRef90_I1AY50 Xanthine phosphoribosyltransferase n=1 Tax=Citreicella sp. 357 RepID=I1AY50_9RHOB
+----------------------MDQ---DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRIQ----GH----G---P------ENGA------WR--A
+VVAITRGGMAPAMIVARELDIRMVDTISVKSY------N---HQA-----Q---------
+-SA--PRVI-K--FPD---MDVM----G---------DGTGV-----LIVDDLVDTGRTL
+EVVRQHLPK----AHVATVYAKPKGK--PLVDSYITEVSQDTWIFFPWDMAL--QYVKP-
+------Y-RGDSD----------
+>lcl|UniRef90_Q1GHI7 Xanthine phosphoribosyltransferase n=15 Tax=Rhodobacteraceae RepID=XGPT_RUEST
+----------------------MSTKDPNR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GL----G---P------DDGH------WR--A
+VVAITRGGMAPAMIVARELDIRTVDTISVKSY-HSGGGK---ADQ-----R---------
+-RE--AEVL-K--SPD---ADIM----G---------DGTGI-----LIVDDLVDSGKTL
+ELVRTLYPK----AHFATVYAKPQGE--PQVDTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------
+>lcl|UniRef90_UPI0003B46736 xanthine phosphoribosyltransferase n=1 Tax=Desulfospira joergensenii RepID=UPI0003B46736
+---------------------MDK----KE-DRYT------------------------R
+---SYPISWEQLHRDSKALSWRLH----DL----D---RK---------------WK--G
+IVAVTRGGLVPAAVIARELGIHHIDTVCITSY------D---WQS-----Q---------
+-GE--TTIL-K--EIR---GT-----------------GEDF-----LIIDDLVDTGGTA
+RVVRDMLPK----AYFATVYAKPAGK--PLVDAYVTEVSQDTWILFPWDSES--RFVEP-
+------IAGK-------------
+>lcl|UniRef90_Q92PU1 Xanthine phosphoribosyltransferase n=22 Tax=Rhizobiaceae RepID=XGPT_RHIME
+----------------------------M--SLPE------------------------K
+---AFPVSWDQFHRDARALAWRLA----DN----G-Q-E----------------WR--A
+MVCITRGGLVPAAIVSRELNIRMIETVCIASY-----HD---YDT-----Q---------
+-GQ--MKVL-K--SIS---PEIAK---D---------GGEGV-----LIVDDLTDTGKTA
+AEVRAMLPR----AHFAAVYAKPKGR--PLVDTFVTEVSQDTWIYFPWDLGF--TYQEP-
+------IAKG-TRG---------
+>lcl|UniRef90_E4U8U2 Phosphoribosyltransferase n=1 Tax=Oceanithermus profundus (strain DSM 14977 / NBRC 100410 / VKM B-2274 / 506) RepID=E4U8U2_OCEP5
+----------------------------------M------------------------N
+---KVILDWNDITRLAGKLIAQLN------------PED----------------YD--V
+VLAITRGGMIPGALVSEAMDLRNVMTAAVMFY-----QG---EQQ-----ALEEPHFLQF
+PGD--ALLI-----------------------------GKRV-----LIVDDVWDSGKTA
+LAVRERVAQAGGAPTVAVLHYKPKFSHFPEDAPDFYGEETDAWIVYPWDPERSREWGP--
+-----------------------
+>lcl|UniRef90_A6VKR2 Xanthine phosphoribosyltransferase n=1 Tax=Actinobacillus succinogenes (strain ATCC 55618 / 130Z) RepID=XGPT_ACTSZ
+---------------------------------MS------------------------E
+---KYVVTWDMFQMHSRKLAERLL----------P-ASQ----------------WK--G
+IIAVSRGGLFPAAVLSRELGIRHVETVCIASY------D---HDR-----Q---------
+-GE--LRVI-H--AAE---TD-----------------GEGF-----IVVDDLVDTGNTA
+KEIRNMYPK----AKFVTVFAKPAGA--PLVDDYVIDIPQDTWIEQPWDLGL--GFVPP-
+------IARK-------------
+>lcl|UniRef90_I4BZD3 PRPP-binding protein, adenine/guanine phosphoribosyltransferase n=1 Tax=Anaerobaculum mobile (strain ATCC BAA-54 / DSM 13181 / NGA) RepID=I4BZD3_ANAMD
+----------------------MA----DK-NRYR------------------------R
+---TYPVSWDQLHRDSRALAWRLI----DS----G---RS---------------WD--K
+IIAVVRGGLVPAAIIARELDIHYVDTICVSSY------T---LRQ-----Q---------
+-GE--LKII-K--SIE---GI----------------NGENA-----LIIDDLVDTGKTA
+RIVRQMLPD----AHFATVYAKPDGK--PYVDTYITEVSQDTWILFPWDSEI--QFVEP-
+------LIQQ-KP----------
+>lcl|UniRef90_A0A085TS62 Xanthine phosphoribosyltransferase n=2 Tax=Thioclava RepID=A0A085TS62_9RHOB
+----------------------MS----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLD----GK----G---P------DDGN------WR--A
+VVGITRGGLVPAAIVARELDIRTVDTISIKSY------S---HQD-----Q---------
+-RA--AQVL-K--PTQ---ADLME---N---------GGEGV-----LIVDDLVDTGNTL
+KLVRDLFPK----AQFATVYAKPMGA--PLVDTFVTEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-TD----------
+>lcl|UniRef90_UPI0003F7A02D xanthine phosphoribosyltransferase n=1 Tax=Bradyrhizobium elkanii RepID=UPI0003F7A02D
+--------------MADNNYEPSA----G--AKAG------------------------R
+---PFPVSWDQFHRDCRALTWRLN----EV----G---P----------------FH--A
+VIAITRGGLVPAAIVARELGLRVIDTVCVASY------D---HDK-----Q---------
+-GD--LQVL-K--GVS---PDVAKLGGG---------TGKGL-----LIVDDLVDTGTTG
+RLVRQLLPD----AHFATVYAKPKGK--PLVDTFITEVSQDTWIHFPWDTAL--SFQPP-
+------IRP--------------
+>lcl|UniRef90_J3BPL2 Xanthine phosphoribosyltransferase n=8 Tax=Rhizobium/Agrobacterium group RepID=J3BPL2_9RHIZ
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRLA----GL----K-R-D----------------FK--A
+IVCITRGGLVPAAIISRELNIRLIETVCVASY-----HD---YVN-----Q---------
+-GE--MLLL-K--GIA---PELTA---D---------EGEAV-----LVIDDLTDTGKTA
+SEVRSILPK----AHFACVYAKPQGV--PMIDTFVTEVSQDTWIYFPWDMGF--TYQEP-
+------ISKA-GRG---------
+>lcl|UniRef90_UPI0003B6790F xanthine phosphoribosyltransferase n=4 Tax=Pseudorhodobacter RepID=UPI0003B6790F
+----------------------MT----DR-LPHE------------------------K
+---GFHISWDQMHRDARALAWRLD----GK----G---P------DNGN------WK--A
+VVGITRGGMVPAMIVARELDIRVVDTISVKSY------D---HQD-----R---------
+-AE--AKVI-K--APQ---ADVM----G---------DGTGI-----LIVDDLVDTGKTL
+ELVRKLYPK----AHFATVYAKPHGR--PMVETFITEVSQDTWIFFPWDMAL--QYVQP-
+------Y-RG-KD----------
+>lcl|UniRef90_UPI0003819A09 xanthine phosphoribosyltransferase n=1 Tax=Methylopila sp. 73B RepID=UPI0003819A09
+----------------------MA----A--PGPE------------------------K
+---IYPVSWEQFHRDARALAWRLTADAEAV----G---G----------------FK--A
+IVSVTRGGLVPAAIVARELDIRVIETVCVASY-----HD---YDT-----Q---------
+-GA--MTVL-K--EVA---ASVAALGGG---------QGQGV-----LIVDDLVDTGGTA
+RCVRAMLPE----AHFATVYAKPQGR--PLVDTFVTEVSQDTWIYFPWDMGL--AFQPP-
+------IREG-AAG---------
+>lcl|UniRef90_UPI000426B97F xanthine phosphoribosyltransferase n=1 Tax=Maritalea myrionectae RepID=UPI000426B97F
+----------------------------MT-APQN------------------------K
+---SFPVSWDQFHRDSRALAWRLM----NE----E---P----------------FD--A
+IVCITRGGLVPAAIIARELGIRVIESVSVKSY------D---YKD-----Q---------
+-GE--LEVV-K--PIC---QEIVDLD-K---------NG-RV-----LIIDDLVDTGKTG
+RAVQAMLPN----AHFSTVYAKPLAR--DLVNSFVTEVSQDTWIYFPWDMDV--SYAPP-
+------IRDG-VGD---------
+>lcl|UniRef90_UPI00040538E4 xanthine phosphoribosyltransferase n=1 Tax=Cucumibacter marinus RepID=UPI00040538E4
+----------------------------MN-GPSS------------------------K
+---SFPVTWDQFHRDSRALAWRLM----DK----G---P----------------YS--A
+VVCITRGGLVPAAIVARELGIRVIESVSVASY------D---HKD-----Q---------
+-GN--IRVL-K--PIA---DSVLAANGG---------AEGSV-----LIIDDLVDTGATA
+RVVRDMLPG----AHFATVYAKPKGR--EMVDTFITEVSQDTWIYFPWDLDV--SYVPP-
+------ISGQ-AD----------
+>lcl|UniRef90_UPI00058F36D8 xanthine phosphoribosyltransferase n=1 Tax=Desulfovibrio longus RepID=UPI00058F36D8
+------------------------------------------------------------
+---MFPVSWEQLHRDCRALSWRLL----EF----G---P----------------FE--G
+IYCITRGGLVPGAILARELDVHVIDTICVSSY------T---WQQ-----Q---------
+-GR--SNVL-K--S------I------E----G----DGDGW-----LLVDDLVDTGRTA
+KLVREMLPK----AHFATVYAKPEGR--PLVDTFITEVSQDTWILFPWDAGH--QFVEP-
+------IVQS-RPER--------
+>lcl|UniRef90_M3A9E4 Xanthine-guanine phosphoribosyltransferase n=1 Tax=Magnetospirillum sp. SO-1 RepID=M3A9E4_9PROT
+----------------------MD----ID-PAFS------------------------C
+---TRSLSWEEIHAVSRQLARRLR----------D-KGP----------------FA--G
+IIAIARGGLVPAAILALELDIRQVDTVCIAGY------D---EST-----R---------
+-HD--LEVL-K--RVQ-----------G---------DGGGW-----LVVDDLVDTGRTA
+QAVRDMLPG----GHYATLYAKPSGK--PMVDTCVADVEQETWLVFPWEAIE--QV----
+-----------------------
+>lcl|UniRef90_UPI00037D7CC5 xanthine phosphoribosyltransferase n=1 Tax=Ancylobacter sp. FA202 RepID=UPI00037D7CC5
+----------------------MS----D--DRQN------------------------K
+---AFPVSWDQFHRDARALAWRLA----GA----G---P----------------FE--G
+IVCITRGGLVPAAIVARELGLRMIETVCIASY-----HD---YTK-----Q---------
+-GE--MQVL-K--PIA---EAVTAVAGE---------GGKGL-----LVIDDLVDTGKTA
+RLVRDMLPS----AHFATVYAKPLGR--PLIDTFITEVSQDTWIYFPWDMGL--SFQPP-
+------IRDG-VA----------
+>lcl|UniRef90_UPI0003FFC097 xanthine phosphoribosyltransferase n=2 Tax=Rhizobium/Agrobacterium group RepID=UPI0003FFC097
+----------------------------M--SLPD------------------------K
+---AFPVSWDQFHRDARALAWRLA----GL----N-S-E----------------FK--A
+IVCITRGGLVPAAIISRELNIRLIDTVCVASY-----HD---YAN-----Q---------
+-GE--MNLL-K--SIA---PELTA---D---------GGEGV-----LVVDDLTDTGKTA
+AEVRTMLPK----AHFACLYAKPKGV--PTIDTFITEVSQDTWIYFPWDMGF--TYQEP-
+------IAKG-HRG---------
+>lcl|UniRef90_A3K692 Xanthine phosphoribosyltransferase n=3 Tax=Rhodobacteraceae RepID=A3K692_9RHOB
+----------MTRPRPHPEESAMN----DR-LPHE------------------------K
+---GFHVSWDQLHRDARALAWRLQ----GQ----G---P------DEGA------WR--A
+VVAITRGGMAPAMIVARELDIRMVDTISVKSY------N---HQT-----Q---------
+-AE--PRVI-K--SPD---MDVI----G---------DGTGV-----LVVDDLVDTGRTL
+EVVRSHMPK----AHVATVYAKPQGR--PQVDTFITEVSQDTWIFFPWDMAL--QYVKP-
+------Y-RG-DD----------
+>lcl|UniRef90_D6VAL7 Xanthine phosphoribosyltransferase n=3 Tax=Afipia RepID=D6VAL7_9BRAD
+----------------------MN----E--ESAR------------------------K
+---PFPVSWDQFHRDARALAWRLN----GA----G---P----------------FQ--A
+LVAVTRGGLVPAAIVAREIGMRVIDTLCVASY------D---HTT-----Q---------
+-GE--MQIL-K--GLS---DAVVKLGGE---------GGKGL-----LIVDDLVDTGKTA
+RVVRRIAPK----AHIAAVYAKPMGK--PLVDTFITEVSQDTWIFFPWDTGL--SFQPP-
+------IRDG-AA----------
+>lcl|UniRef90_UPI0001D2E199 xanthine phosphoribosyltransferase n=1 Tax=Methylosinus trichosporium RepID=UPI0001D2E199
+----------------------------MT-PTDQ------------------------K
+---AFPVSWDAFHRDARALAWRLS----SI----G---G----------------FS--A
+IVAVTRGGLVPAGVVARELGIRVIDTICVASY-----HE---ENQ-----R---------
+-GD--VVVL-K--PLS---ETILA---R---------PSEEV-----LVIDDLVDTGATA
+KVVRALLPK----AHFATVYAKPQGR--PMVDTFVTEVSQDTWIFFPWDTGL--SFQAP-
+------ISAH-GA----------
+>lcl|UniRef90_A0A060QE83 Xanthine phosphoribosyltransferase n=5 Tax=Acetobacteraceae RepID=A0A060QE83_9PROT
+-------------------------------MA-T------------------------N
+---YATVTWDQLHRDARTLASALM----AR----G---E----------------FK--G
+IVAVTRGGLIPAAIIARELDCRLVESISVISY------SGESAQD-----Q---------
+-KE--PRVV-K--API---AA------G---------DGEGF-----LVIDDLVDSGETA
+KVVRDVLPK----AHFACLYAKPNGK--PHTDQYVMEVAQDTWVLFPWDTAP--LFVPP-
+------LARN-LGA---------
+>lcl|UniRef90_A0A0D6NHM6 Xanthine phosphoribosyltransferase n=1 Tax=Acetobacter orientalis 21F-2 RepID=A0A0D6NHM6_9PROT
+-------------------------------MA-V------------------------N
+---YATVTWDQLHRDARLLAESLV----PS----L---P----------------FK--G
+IVAVTRGGLIPAAIIARELNCRLVETISVVTY------D---EES-----R---------
+-GE--PQII-K--APE---AA------G---------DGEGF-----LVIDDLVDSGVTA
+KVVRERLPK----AVFACLYAKPAAK--ALTDKFVVEVPQDTWILFPWDTAP--LFVPP-
+------LASK-KKDTNN------
+>lcl|UniRef90_Q212I9 Xanthine phosphoribosyltransferase n=2 Tax=Rhodopseudomonas palustris RepID=XGPT_RHOPB
+---------------MIESVDLNA----Q--ERAG------------------------R
+---AFPVSWDQFHRDCRALTWRLN----EV----G---P----------------FA--A
+VIAITRGGLVPAAIVARELGVRVIDTVCIASY------E---HDR-----Q---------
+-GE--LQVL-K--GVS---DSTKALGGG---------TGKGL-----LIVDDLVDTGATA
+RLVREMLPD----AHFATVYAKPKGR--PLVDTFITEVSQDTWIFFPWDLAL--TFQPP-
+------MKDG-AG----------
+>lcl|UniRef90_Q163Y8 Xanthine phosphoribosyltransferase n=2 Tax=Roseobacter RepID=XGPT_ROSDO
+----------------------MSSKDQSR-LPHE------------------------K
+---GFHISWDQIHRDSRALAWRLD----GQ----G---P------DEGA------WR--A
+VVAITRGGMAPAMIVARELDIRVVDTISVMSY-HSGGGK---ADQ-----R---------
+-RD--AKVL-K--APD---ADMM----G---------DGTGI-----LIVDDLVDSGKTL
+ELVRAQYPN----AHFATVYAKPQGE--PQVNTFITGVSQDTWIFFPWDMAL--QYVEP-
+------Y-RG-TD----------

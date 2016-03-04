@@ -1,0 +1,129 @@
+IMPORTANT WARNING: Alignment column 661 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 665 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1399 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1400 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1401 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1402 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1403 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1404 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1405 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1406 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1407 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1408 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1409 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1410 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1411 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1412 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1413 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1414 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1415 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1416 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1417 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1418 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1419 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1420 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1421 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1422 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1423 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1424 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1425 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1426 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1427 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1428 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1429 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1430 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1431 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1432 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1433 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1434 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1435 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1436 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1437 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1438 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1439 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1440 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1441 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1442 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1443 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1444 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1445 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1446 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1447 contains only undetermined values which will be treated as missing data
+
+IMPORTANT WARNING
+Found 51 columns that contain only undetermined values which will be treated as missing data.
+Normally these columns should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+undetermined columns removed is printed to file phy/1AQL_A.phy.reduced
+
+Alignment has 51 completely undetermined sites that will be automatically removed from the input data
+
+
+
+This is RAxML version 8.2.4 released by Alexandros Stamatakis on October 02 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 1232 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 60.98%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 1232
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: LG
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-SSE3 -T 6 -s phy/1AQL_A.phy -n 1AQL_A.txt -m PROTCATLG -p 12345 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.079 0.056 0.042 0.053 0.013 0.041 0.072 0.057 0.022 0.062 0.099 0.065 0.023 0.042 0.044 0.061 0.053 0.012 0.034 0.069 
+
+Inference[0]: Time 723.598853 CAT-based likelihood -156543.494253, best rearrangement setting 5
+alpha[0]: 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -157554.507786 tree written to file /work/03284/bjack/enzyme_distance_data/enzymes/trees/RAxML_result.1AQL_A.txt
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -157554.507786 .... 
+
+Final GAMMA-based Score of best tree -157550.888506
+
+Program execution info written to /work/03284/bjack/enzyme_distance_data/enzymes/trees/RAxML_info.1AQL_A.txt
+Best-scoring ML tree written to: /work/03284/bjack/enzyme_distance_data/enzymes/trees/RAxML_bestTree.1AQL_A.txt
+
+Overall execution time: 1099.475397 secs or 0.305410 hours or 0.012725 days
+

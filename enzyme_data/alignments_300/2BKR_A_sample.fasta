@@ -1,0 +1,2490 @@
+>2BKR_A
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVSLLDPPS-WLNDHIIGF-AFEYF------------ANSQFHDS---SDH--V-
+--SF----------ISPEVTQFIK-CT-SN--P--AEI-AMFLE--------PLDL--PN
+K-RVVFLAINDNSN---QA-AGGSHWSLL-VY---LQDK-N-----SFFHYDSH--SRS-
+-NSVH----AKQVAEKLEAFLGRKGD------------------------KLA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQNF-
+FRQ-Q-TES----------------------L-------LQ---------------LLTP
+AYITKK--RGEWKDL---IATLAKK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_T1IXK3 Uncharacterized protein n=1 Tax=Strigamia maritima RepID=T1IXK3_STRMM
+----------------------------------------ME--NVILS------FHDCV
+-IKQSDMNLLDGPE-WLNDRLISF-FFQYL------------EKVKYGTY---EKG--V-
+--CF----------IDPEVCQCIK-LS-RG-----SCV-GVFAD--------PHDL--QK
+K-DLILLTVNDCEDE--EA-AGGTHWSLL-VF---VRHF-N-----SFYHFDSF--GGA-
+-NLEH----GRDVMNHLIPFVKCESMPS--------------------------------
+-LV---EAT--CLQQQN----------------------SFDCGIHVICNAEYI-CAKYL
+EHF-QGDVM----------------------D------------------------YVTL
+QSISGK--RKWLKKC---PDAIGSDSANDR------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_Q292E1 GA21116 n=2 Tax=pseudoobscura subgroup RepID=Q292E1_DROPS
+----------------------------------MSANSKAD--PISLS------FHDSC
+-LRMSDVQLLHGPR-WLNDQILSF-YYEYL------------THVKYKT----NDD--I-
+--VF----------IAPEVTQCMK-YM-DD-----QEL-EQLMD--------ENKA--TR
+K-PFIFFALNDNMTF---E-AGGTHWSLL-VF---SRPE-K-----TFYHFDSYG-N-N-
+-NTSN----SVELMNKVKETMDMR-S-------------------------AK-------
+-FR---PMR--CLQQAN----------------------GYDCGIHVICMTDHI-ADYLN
+RYE-VIDGL----------------------P-------PL---------------Q--V
+DTVKAK--RTELLKL---ILSLGGKD----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_M1VXW2 Related to sentrin-specific protease SENP8 (SUMO-specific protease) n=1 Tax=Claviceps purpurea (strain 20.1) RepID=M1VXW2_CLAP2
+------------MS--------------------CATLSP-E--KAYLS------YYDVL
+-LTVEDIKSLKN-D-WLTDNNIAF-WEEYL------------ERETLPR----YPQAKI-
+--IL----------LRPSMTFLLMKEP-DM-----RHI-RSALP----------DF--SS
+V-THAFLPINDNRNV--GVAEGGSHWSLL-LV---SILD-G-----IAFHYDSL--GGA-
+-NYAE----ANLAARKMSEICGRPLR----------------------------------
+---FINLDD--SPQQEN----------------------GSDCGVFVCLLMRHLLVKRLL
+SAN-AREKV------------------------------SM---------------SMAG
+KTVDSNGGRKEMMRI---IESLRKEGERRR---SRSASPFTN---------NKTPPRIE-
+----------------------------------------------------------
+>lcl|UniRef90_W4Z407 Uncharacterized protein n=1 Tax=Strongylocentrotus purpuratus RepID=W4Z407_STRPU
+-------------------MAGHSCHCLLSPFTGIDLSRDVQ--ITVTNRQNLYFLDNSL
+-LKEKTLS-----K-DQND-----------------------------------------
+-----------------------------------AEV-GMFLE--------SLNL--AF
+K-QLVFLAINDNDSD--TS-VGGSHWSLL-VC---SRRD-S-----TFRHYDSS--GSF-
+-NEHA----ARQIAMKMQPHVGLEKA------------------------HVM-------
+-FA---QEQ--CTQQEN----------------------CYDCGLFVICNAEHV-CKHHF
+QGT-PLTGA------------------------------------------------VTQ
+ASVTRK--RGELKEL---ILQLAAQDDVK-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B9I6C9 Ulp1 protease family protein n=2 Tax=Populus RepID=B9I6C9_POPTR
+--------------------------------------MDDK--EIVLS------YKDVV
+-LRVSDLNILKGPC-YLNDQIIDF-YFAYL------------SSS-YNAD---AND--I-
+--LL----------VPPSTSYWFANCQ-DQ-----QSLVNDFVE--------PLKF--SS
+K-KLILFTVNDNEDF--SAAERGTHWSLL-VY---DRSQ-N-----YFLHFDSL--PGM-
+-HRYH----ALKLYKAVKGFMGTASESSSKDGAKTLKMKAVGSAAVPF------------
+-FK---EAK--TPQQTN----------------------GFDCGLYVMAIAEVI-CLWHS
+C----ERNG----------------------ND------GD--------WLSAVEREVNA
+YLETTM--RGEVLKL---IEDLRKQ-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_H3C749 Uncharacterized protein n=1 Tax=Tetraodon nigroviridis RepID=H3C749_TETNG
+--------------------------------------MD----PVVLS------YRDSL
+-LRRSDVSLLEGPY-WLNDQVIGF-AFEYF------------SAERFRVL---GET--I-
+--IF----------ISPEVTQFIK-YA-SS--H--EEL-AVFLE--------PLGL--PS
+R-HWVFLAVNDNSN---QT-AGGSHWSLL-VY---HHHS-N-----QFSHYDSQ--NGS-
+-NSLH----ACRIASKLEPFLGG-RR------------------------KAV-------
+-FV---EEP--CPPQQN----------------------SYDCGMYVICIAEAL-CEKAG
+AEG-S-PRL----------------------P-------VQ---------------VITP
+AYITQK--RAEWCRL---IQSLAQT-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_G5A499 Ubiquitin1-specific protease n=1 Tax=Phytophthora sojae (strain P6497) RepID=G5A499_PHYSP
+-------------------------------MALGEWSARRR--RQVLN------YHDVQ
+-LYESDVALFSGRQ-WLNDNAVNF-YLQFL------------TQTVA--------SDDV-
+--LL----------MDPAVVSCLLHQCEDE-----DEF-QDLAR--------GVNL--AQ
+R-RLCLVPVTDNDLL----GGDSSHWSLL-LF---AKGE--------FRHFDSS--AGH-
+-NRHA----ARRVARSFEHLLKATGRHDGDGAADRVEEVQD-------------------
+-----------APQQQN----------------------GYDCGVYVLVLAEYF-CRR--
+------------------------------------------------------------
+HRVTEL--RLHMPKL---IAELQRTEAGRG------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_H9JHL5 Uncharacterized protein n=1 Tax=Bombyx mori RepID=H9JHL5_BOMMO
+-------------------------------------KMAKA--SVVLS------FHDIL
+-LHRSDIELLEGPH-WLNDTIISF-YFEYL------------EKVVFSK----ESD--L-
+--LF----------VSPEVTQCIK-MV-QT-----EEI-KTFLE--------PLDV--NL
+K-KFVFFALNDNNTP--DM-AGGSHWSLL-VY---SRPE-N-----CFFHLDSSQ-A-T-
+-NHDV----AWEFASHIMSYLAKGGS-------------------------IN-------
+-FV---DKE--CIQQSN----------------------GYDCGIHVIINAERL-AEYSC
+IHR-NMGSC----------------------N-------ML---------------T--K
+INPNAK--RKEIKKI---IQNLSH------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_V8P225 Sentrin-specific protease 8 (Fragment) n=5 Tax=Serpentes RepID=V8P225_OPHHA
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVSLLDPPC-WLNDHIIGF-AFEYF------------ANDQFRDF---SDQ--A-
+--CF----------VGPEVAQFIK-CT-TN--Q--EEL-AMFLE--------PLDL--LH
+K-KIVFLAINDNSN---QA-AGGTHWSLL-VY---FQDK-N-----GFAHYDSH--SRC-
+-NSAH----AKQVARNLQSFLGKRG-------------------------KVA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQEF-
+FQG-Q-QEP----------------------V-------LQ---------------LLTP
+SYITGK--REEWKKL---IARLSKK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_V3ZIT0 Uncharacterized protein (Fragment) n=1 Tax=Lottia gigantea RepID=V3ZIT0_LOTGI
+-------------------------------------MAEEDDGAIVLN------FNDSL
+-LRASDLKLLEGPH-WLNDRLIGF-CFEYF------------EREQFNHS---ADK--L-
+--SL----------ISPSVTQFIK-LA-PV-----EDL-AVLLE--------PLNL--PL
+K-QFVFLAVNDNDDT--DN-SGGTHWSLL-VY---IRSK-Q-----EFHHFDSY--NHL-
+-NEHI----AKKLAYRLQPFVHAPRG------------------------RMK-------
+-FI---EID--SPQQKN----------------------AYDCGVYVISIAEHL-CREFC
+ECINNVTLS----------------------H------------------------VVTE
+TSVSQK--RNQIKEL---IHKVAEEHAS--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0K2T6H2 Uncharacterized protein n=2 Tax=Lepeophtheirus salmonis RepID=A0A0K2T6H2_LEPSM
+---------------------------------------MGD--PVVIS------YGDAL
+-LRHSDVQLLKPQK-WLNDQIIGF-YFEYL----------------HQNHNYGSEK--I-
+--CF----------ISPEVSQFLK-MG-GS-----EEI-ALFLE--------PRDL--LN
+K-EVIALAINNAQDP--SS-PGGSHWSFL-IY---SRQS-S-----TYFHLDSL--GKG-
+-NEED----ARITAHQVHQFLKRKKMENINNFSSNSSTVTKFS-----------------
+-FV---NVP--VPRQTN----------------------GYDCGIHVLCHAEHS-LHHFI
+IYG-SPDGL----------------------Q------------------------PLEE
+SIIKKK--RKEILEL---VNNLSKTLEEVFKTRS--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_C1BN04 Sentrin-specific protease 8 n=1 Tax=Caligus rogercresseyi RepID=C1BN04_CALRO
+--------------------------------------MAHD--PVVLS------LGDSL
+-LRSSDLSLLRQPGSWLNDSLLGF-YLEYL-----------------SSRPERNDS--I-
+--LY----------LSPEVSHFLK-LTGSP-----EEV-ALFLE--------PLQS--SR
+K-EVIFLPVNNAEDP--SR-PGGTHWSSL-IY---SKQAGG-----AFFHLDSL--GKA-
+-NEGH----ARRTAERIHEFLKEKRREGEGTRILNPLSSSSSSMSPPNKHPFS-------
+-FT---NVP--VLKQSN----------------------GHDCGTHVLCHAQHS-LDHFY
+LYG-SYEGL----------------------H------------------------PLQE
+SVVKNK--RKELLSI---IEELMMMHSV--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A087ZXS7 Uncharacterized protein n=4 Tax=Apis RepID=A0A087ZXS7_APIME
+----------------------------------MAKE-LN---EIVLS------YYDCL
+-LRTSDVALLQGSH-WLNDVIIGF-YFEYL------------DNTFNKIE---KKE--L-
+--YF----------ISPELTQLLK-MT-DP-----SQY-NVFLD--------PLNI--SE
+C-KYIFFPLNNCDRK--DA-AGGSHWSLL-VF---CKQD-K-----TCYHFDSSR-G-Y-
+-NSSI----ASKFAKNVMSCLLDKDES-----------------------NKK-------
+-FV---DMD--SPQQDN----------------------GYDCGVYVLCLADVI-ARNVL
+ETG-NIIEC----------------------D-------YN---------------Y-AK
+KLVQTK--RTVLLNL---INDLKRKSNIDK------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0F8B4S3 NEDD8-specific protease 2 n=1 Tax=Ceratocystis fimbriata f. sp. platani RepID=A0A0F8B4S3_CERFI
+-------------------------------------MSP-H--QPYLS------YHDIL
+-LTYEDLKALRN-D-WLTDNNIAF-WEEYL------------EREVLPK----YPKARV-
+--IL----------LRPSMTFLMMKDP-DL-----KSV-KSALP----------DF--RH
+I-SHIFLPINDNRNV--SVAEGGSHWSLL-VV---SLLD-R-----VAFHYDSL--GRS-
+-NYCE----AKNATQIFGRLLRIPLT----------------------------------
+---FMHLDD--TPQQEN----------------------G--------------------
+------------------------------------------------------------
+-------------------KQLRKEGERRRSL-SRSSSPY-S---------SKTPPRIE-
+----------------------------------------------------------
+>lcl|UniRef90_G3JBC5 Ulp1 protease family protein n=1 Tax=Cordyceps militaris (strain CM01) RepID=G3JBC5_CORMM
+------------MPLRQRLG--L--------GE-S--RPPSD--KPYLS------YYDAS
+-LTVGDVKSLKN-D-WLTDSVINF-WQEYL------------ERETLPR----YPQARI-
+--CL----------LRPSITFLLMHTP-DL-----HHT-YSSLP----------DL--TN
+I-THVFLPINDNKDV--RDGQGGSHWSLL-LI---SIRD-G-----LAFHYDSL--LSG-
+-NCNQ----ASLATDRMAQFLNRPLQ----------------------------------
+---FLNLVD--SPKQDN----------------------TSDCGVFVCLLMRHLLVKRLL
+GAS-ATEKV------------------------------SM---------------SMGN
+KMVDSHGGRKEMLRV---IENLHKEGERRR---SRSTSPF-T---------DKTPPRVD-
+----------------------------------------------------------
+>lcl|UniRef90_E1BLI3 Uncharacterized protein (Fragment) n=4 Tax=Bovidae RepID=E1BLI3_BOVIN
+------------------------------LSSPGQYKMD----PVVLS------YMDSL
+-LQQSDVSLLDPPS-WLNDHVIGF-AFEYF------------ANSQFHDC---SDH--V-
+--CF----------ISPEVTQFIK-CT-GN--P--AEI-AMFLE--------PLDL--PN
+K-RVIFLAINDNSN---HT-AGGTHWSLL-VY---LQDK-N-----GFFHYDSY--GSS-
+-NSFH----AKQVAEKLEAFLGRKGN------------------------KLA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQNF-
+FRQ-Q-PQS----------------------L-------LQ---------------LLTP
+TYITKK--REEWKDL---IARLAKISCGNIFDF---------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0G4IQG7 Uncharacterized protein n=1 Tax=Plasmodiophora brassicae RepID=A0A0G4IQG7_PLABS
+--------------------------------------------MLPMD------YHGTT
+-LHACDVALIDAPS-WLNDNVIGF-VYEWY------------AHEKY------AKERDL-
+--EF----------VNPAVVFIIMHED-DD-----ECL-APLIE--------SVDL--AR
+R-SLVFMPINNNVNV--TAAGGGSHWSLL-VL---DRIA-Q-----QYVHFDSM--RGS-
+-NMQY----ARQVAKQIGKCSPELASWTMSVGD---------------------------
+-----------CPQQDN----------------------ANDCGVFVLEMTQQA-SDWFK
+DHR-SLNGF---------------------------------------------KAAVKP
+GMIGAR--RRAVKEL---VREIERRSSG--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_S4R5Z6 Uncharacterized protein (Fragment) n=1 Tax=Petromyzon marinus RepID=S4R5Z6_PETMA
+------------------------------WALGATTAMN----PVVLS------YNNCL
+-LRRADVALLEPPN-WFNDQVMAF-AFEYM------------ELEEFLGMP-NAEK--L-
+--CF----------IGPEVSHFIK-FS-PD-----EEI-GVVLG--------PLDL--PQ
+K-DFVFLAINDHASP--NT-SGGTHWSLL-LY---DRST-D-----TFLHYDSSQ-GSC-
+-NSTQ----ALHTARRLKLFLGRDES------------------------LNP-------
+-IF---SEKLETPQQEN----------------------AYDCGMYVLCHARIL-AKEFM
+LGR-M-GPA----------------------L-------NE---------------IITP
+TYVTQQ--RREWRQL---IDKLAKQSHIASG-----------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0J8UQB7 Ulp1 protease family protein n=1 Tax=Coccidioides immitis H538.4 RepID=A0A0J8UQB7_COCIT
+------------------MILGRFWMCIGVGSAADLMQASPD--DTYVT------YYDIS
+-LTNEDVDTLKN-D-WLTDNVIAF-WEEYL------------EREVISH----YQTTRI-
+--IL----------LRPSMSYLLYQTP-DP-----RSL-RGALP----------EF--SR
+A-SHIFLPINDCRSV--TEAEGGTHWSLL-LV---SVVD-N-----VAFHYDSL--PPG-
+-NRNE----ALRVAQKDQ------------------------------------------
+-----------CPSRSRIPG-------------------SSN------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_I1GAL0 Uncharacterized protein n=1 Tax=Amphimedon queenslandica RepID=I1GAL0_AMPQE
+--------------------------------------MDPD--KIVLS------YHDSL
+-LRLSDVSLLDPPH-WLNDRLIGF-YFEYL------------ERDHVKN----GER--V-
+--CF----------ITPDVTQFIK-LY-RG-----SEL-KMFLE--------PLSL--CE
+K-ELVILAVNDNSSS--EH-SGGSHWSTL-VF---DRES-Y-----LYFHYDSS--SPS-
+-NHTP----ARQCASSLSPFLSRGEK------------------------EIP-------
+-FL---EEA--SPHQHN----------------------SHDCGVYALLFAKYSSLSKFK
+KID-PMSVT----------------------E------------------------YATL
+ERVNRW--RSDTKKL---IFSLANDSTAD-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_R7VBF7 Uncharacterized protein n=1 Tax=Capitella teleta RepID=R7VBF7_CAPTE
+-------------------------------------MASEG--KVILS------FHDSL
+-LRESDVKTLDSGQ-WLNDQIIGF-AFQYF------------ENEVFSEY---SNQ--V-
+--AF----------LSPEVTQMIK-FI-SS-----QEA-SMLLS--------ALEL--SS
+K-QLIFFAVNDSDSA--TA-SGGSHWSTV-CF---NRTL-Q-----RFEHYDSLG-G-N-
+-NNYA----AKTIVSKIAPVVQCELEL-----------------------LSV-------
+-IL--------CNQFRFIYS-------------------GCDCGVYVITLVELI-SNKIL
+KSK-KCDVM----------------------D--------------------------ST
+EIVKTK--RKEFKDT---IFQLAKKS----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_C0H840 Sentrin-specific protease 8 n=2 Tax=Salmoninae RepID=C0H840_SALSA
+--------------------------------------MD----PVVLS------YQDSL
+-LRRSDVALLEGPH-WLNDQVIGF-AFEYF------------AAELFKGL---GEA--A-
+--IF----------ISPEVTQFIK-CA-AC--P--EDL-ALFLE--------PLGL--AS
+R-RWVFLAVNDNSI---QT-AGGSHWSLL-LF---LRDS-G-----HFAHYDSQ--SGG-
+-NSLH----ARRIATKLEPFLGS-GR------------------------KVP-------
+-FV---EEP--CPLQQN----------------------SYDCGMYVICNAEAL-CERAR
+VEG-S-PRL----------------------P-------VQ---------------TITP
+AYITQK--RLEWCRL---IQRLDRD-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_K7TZS3 Uncharacterized protein n=1 Tax=Zea mays RepID=K7TZS3_MAIZE
+---------------------------------MGSGSNSKEGEERVLS------HGDVV
+-LIRSDLAILRGPC-FINDRIIAF-YFAHL------------SAS--------LQDDDL-
+--LL----------LPPSIPYLLSNLP-DS-----AAV-AAVAE--------PLRL--AS
+R-RLVLLPVNDNPDA--SIAEGGSHWTLL-ILDNITSPSVP-----RFVHHDSIA-GAP-
+-NLPI----AARLADALRPLLSGSNSKRDTVP----------------------------
+------LIEGPTPRQTN----------------------GYDCGVYVMAIARAL-CAWWK
+SGQDQRGGD----------------------------------------WFQAVRSGVDA
+HSVEAM--RTDLLQL---ISTLIQEKANANSTPMGDTDPGSLE-----------------
+----------------------------------------------------------
+>lcl|UniRef90_C1L4N2 Putative SUMO/sentrin specific peptidase family member 8 n=2 Tax=Schistosoma japonicum RepID=C1L4N2_SCHJA
+---------------------------------------MSS--DIVLN------FYESL
+-LREDDLETLEEGS-FVNDNIITF-QLEYL------------RHTKLSH----SSN--I-
+--LL----------IDPAASQLLK-LV-DM-----ESV-GMVLD--------PLEC--KS
+K-DWVFIVINDSTSQ--NS-SGGCHWSLL-IY---SPLL-V-----CAYYLDSLG-FSP-
+-NCSQ----AVLLCNKLSTYFGISSVNVNL------------------------------
+-------PN--VIKQSN----------------------GYDCGIFCMVFIEII-CDMIL
+END-F--------------------------S-------WQ--------V--TLASDKVS
+HRVRCK--RKSLIKC---INGLRTSDAQGGR-----------------------------
+----------------------------------------------------------
+>lcl|UniRef90_E0VQE1 Sentrin-specific protease, putative n=1 Tax=Pediculus humanus subsp. corporis RepID=E0VQE1_PEDHC
+--------------------------------------MNTN--PIILN------FKDTL
+-LHQSDIDLLMGPH-WLNDNIITF-YFEYL------------EKAAYLD----EKD--L-
+--LF----------ISPEVVQCLK-AT-KG-----TEL-TIFLD--------PLAA--KQ
+K-KFVFLALNNCEIM--DK-AGGSHWSLL-VY---SKPE-E-----TFYHFDSLK-G-T-
+-NYSQ----AGKLSGKLLRYLSSDGT-------------------------GD-------
+-FI---EYE--CLQQTN----------------------SYDCGIYLLCNVDFI-INYCL
+KDN-KVNGC----------------------G-------II---------------S--E
+QCAKKK--RSDILRI---IKNLQSKGY---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_H2L8B4 Uncharacterized protein n=14 Tax=Percomorphaceae RepID=H2L8B4_ORYLA
+--------------------------------------MD----PVVLS------YQDSL
+-LRRSDVSLLEGPH-WLNDQVIGF-AFEYY------------AAERFRVL---GGA--V-
+--IF----------ISPEVTQFIK-CA-SC--P--DEL-ALFLE--------PLNL--TA
+H-SWVFLAVNDNSS---QT-AGGSHWSLL-LY---HHSS-N-----HFAHYDSQ--NGS-
+-NSLH----ARRIASKLEPFLGP-GR------------------------KAL-------
+-FM---EEP--CPPQQN----------------------SYDCGMYVICIAEAL-CESIR
+AEG-S-PRL----------------------P-------VQ---------------VLTP
+AYITQK--RAEWRRL---IQSLAQNDLCCSLTFP--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0J8BQA9 Uncharacterized protein n=1 Tax=Beta vulgaris subsp. vulgaris RepID=A0A0J8BQA9_BETVU
+---------------------------------MGRSTGDDM----ILS------YNDVV
+-LRRSDLDILSGPH-FLNDRIIEF-YLSYL------------SSR-YP-----SDN--I-
+--FL----------VPPSIAFWLQNCS-DE-----ETL-KSFVE--------PLNL--PA
+K-DLVIFPVNNNDDP--MIAEAGSHWSLL-LF---YRTA-K-----VFVHHDSF--RGL-
+-NCPF----SKKLYKAIKSFMGNLD---SD----------------VR------------
+-FL---EDQS-SPQQQN----------------------GYDCGLFVTAIASVI-CSWYA
+N-S-DRGDD----------------------GE------HI--------WFSDVKEQVTP
+GNVSKM--RSEILSL---IEGLMSAK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_V9LA53 Sentrin-specific protease 8 n=4 Tax=Callorhinchus milii RepID=V9LA53_CALMI
+--------------------------------------MD----PVILS------FQDSL
+-LRRSDFSLLNPPN-WLNDHVISF-AFEYF------------SAEEYKEL---SNS--V-
+--CF----------ISPEVTQFIK-CT-SS--Q--EEL-AIFLE--------PLTL--VR
+K-SLVFLAVNDNAM---QV-AGGTHWSLL-VY---SRSR-N-----CFSHYDSC--HSM-
+-NSKH----ARQIVEKLQPFLGTR-S------------------------EVP-------
+-FV---EES--APVQQN----------------------SYDCGMYVMCNAEAL-CQHY-
+LRG-D-ERS----------------------L-------QQ---------------VVTP
+AHITQK--RVSWKNL---IEQLAKQQAKV-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_G3U6I7 Uncharacterized protein n=1 Tax=Loxodonta africana RepID=G3U6I7_LOXAF
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVSLLDPPS-WLNDHIIGF-AFEYF------------ANSQFRDC---CDQ--V-
+--CF----------ISPEVTQFIK-CT-SN--P--AEM-AMFLE--------PLAL--PN
+K-KVVFLAINDNSN---QA-AGGTHWSLL-VY---LQDK-N-----SFSHYDSH--SRS-
+-NSAH----AKQVAQKLEAFLGRKGD------------------------RLA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQNF-
+FRQ-Q-PEA----------------------L-------LQ---------------LLTP
+AYITKK--RGEWKDL---ITRLAKKSPVFTLACS--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0L9T249 Uncharacterized protein n=1 Tax=Ophiocordyceps unilateralis RepID=A0A0L9T249_9HYPO
+------------MPFRQRVARHF--------GD-S--LTP-E--KAYLS------YYDVC
+-LTAEDVKSLKH-D-WLTDNNIAF-WEEYL------------ERETLAR----YPQAHI-
+--VL----------LRPSMTFLLMMEP-DQ-----RLV-RAALP----------DF--SK
+V-THVFLPINDNRNV--SVAEGGTHWSLL-LV---SVID-G-----LAFHYDSL--GSA-
+-NYCE----AKQATGKLAEILGQPFR----------------------------------
+---FIHLED--SPQQKN----------------------GSDCGVFVCLLMRHLLIKRLL
+SAN-AREKV------------------------------SM---------------SMGG
+KVVDSHGGRKEMLRI---VESLRKEGERRR---SSSSSPH-S---------NKTPPRIE-
+----------------------------------------------------------
+>lcl|UniRef90_U5EZA9 Putative sentrin-specific protease 8 (Fragment) n=1 Tax=Corethrella appendiculata RepID=U5EZA9_9DIPT
+-----------------------------------------N--EIALS------FHESC
+-LKSCDVELLKGPF-WLNDQIISF-YFEYL------------EKLVYRN----EKE--F-
+--LF----------VSPEVTQCIK-IV-SE-----SEV-NIFLQ--------PLNA--SQ
+K-SFFFFALNDNDQG--DR-AGGSHWSLL-VF---SRPE-R-----IFYHFDSSR-S-S-
+-NIEY----GTRLYNILRKALNCP-T-------------------------AI-------
+-LR---TGD--CLQQAN----------------------GYDCGIHVICNTEQI-TEHII
+RYG-RVEGV----------------------R-------SC---------------R--Y
+DTIKNK--RQDLLNL---ICDLGGRI----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0F8A3N2 Uncharacterized protein n=1 Tax=Hirsutella minnesotensis 3608 RepID=A0A0F8A3N2_9HYPO
+------------MPFRQRVARHF--------GE-T--LAP-E--KAYLS------YYDVL
+-LTVEDVKALKH-D-WLTDNNIAF-WEEYL------------ERETLSR----YPQAHI-
+--VL----------LRPSMTFLLMKEP-DS-----RAV-RAALP----------DF--SK
+V-THIFLPINDNRNV--GVPEGGSHWSLL-LV---SVID-G-----LAFHYDSL--GGS-
+-NYSE----ANFATRKMAEMLGRPFR----------------------------------
+---FINLED--SPQQEN----------------------GSDCGVYVCLLMRHLLVKRLL
+CAN-AREKV------------------------------SM---------------SMGG
+KMVDSHGGRKEMLRI---IESLRKEGERRR---SRSASPF-S---------NKTPPRIE-
+----------------------------------------------------------
+>lcl|UniRef90_A0A0B1SI18 Ulp1 protease family, catalytic domain protein n=1 Tax=Oesophagostomum dentatum RepID=A0A0B1SI18_OESDE
+--------------------------------MCSSSHGDKD--SKVLS------YGDVV
+-LYESDVNTLLPGV-WLNDNILSF-VCEFL------------MENSSREV---KEQVAI-
+--------------VSAASCELIRYAG-DA-----SII-REIFT--------SLNF--FD
+K-EKILFVLNDREDP---RVVGGFHWSLL-VL---DRRA-A-----HFHYYDST--RPA-
+-KTAV----AKQVVGIVSEFLDNKDIK-FTIED---------------------------
+-----------CPQQRN----------------------SFDCGMYVIEFIRHV------
+-------------------------------------------------------LKVCS
+YAVYTKNTYRIFWNCPVYVRGLLS------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A068RG74 Cysteine proteinase n=2 Tax=Lichtheimia RepID=A0A068RG74_9FUNG
+---------------------------MERFLGWATRMSSSS--KPLLH------YHDVV
+-IRQHDYDTLADHC-WLNDAILDF-HMEYL------------DRNVISS----DSKLKL-
+--LL----------LRPGMVELIVHIQ-DP-----TYL-SSAL---------PRDL--DK
+A-DAIFIPINDSRPL---AAYSGSHWSLM-VF---LRRF-N-----AFFYYDSM--GQS-
+-NGRE----AQLTRAQLTPLLGLQHSPAFIPVE---------------------------
+-----------TPQQNN----------------------SADCGVYVIAITDNL-VQRLL
+QTG-GNVPP-------------------------------------------ERLTRITK
+KDIRVKHIRKDLRQL---IRSMQQ------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B3RIN5 Putative uncharacterized protein n=1 Tax=Trichoplax adhaerens RepID=B3RIN5_TRIAD
+-------------------------------------MAANN--PCILS------YYDSI
+-IREDDLQILNGIG-WISDRIIGF-VLEYF------------ERELFASL---HDV--V-
+--AF----------VQPEISQFIKLCDATV-----LDS-EFVLD--------SLNL--SK
+K-ELIFLPVNDHNKV--TE-AGGSHWTLL-IY---IRPS-N-----CYLHMDSLC-TSS-
+-NLQS----AKITAYKLDQVLKYSSNTN--------------------------------
+-FT---EIKN-GPRQVN----------------------GYDCGMYVICEIESI-CKKYK
+SEN-DIGSI--------------------------------------TDQFGIICRSLTP
+EMIHQK--RLELSSL---IISLRLKSA---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0006B100F6 PREDICTED: sentrin-specific protease 8-like n=1 Tax=Limulus polyphemus RepID=UPI0006B100F6
+-------------------------------------MASEG--AIVLS------YGDIL
+-LRESDVNLLNDGQ-WLNDNIIAF-WLEYL------------QNEVYGDH---SES--V-
+--LF----------ISPSVGHLLK-AG-DP-----EDA-QSILE--------SMCL--SK
+K-ELIFLPINDC-TS--AEAMGGSHWSLL-VY---CSAP-W-----GFQHYDSHT-GSV-
+-NLLY----AERVACLIAPYVGKEYDPNQ---------------------IVQ-------
+-VL---EME--CTQQHN----------------------SYDCGIHVICNTEAI-CRKHF
+LND---SRH----------------------I-------SD---------------IVSS
+ETLFKA--RQDLRNL---IYSLQGKTSV--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0003C90458 PREDICTED: sentrin-specific protease 8 isoform X1 n=2 Tax=Tupaia chinensis RepID=UPI0003C90458
+-------------MCLPTRERDRDSEKLLHLSSAGQCKMD----PVVLS------YMDSL
+-LRQSDVSLLDPPS-WLNDHIIGF-AFEYF------------ANTQFHDC---SDR--V-
+--CF----------ISPEVTQFIK-CT-RS--P--AEV-AMFLE--------PLDL--PH
+K-RAVFLAINDNSN---QT-AGGTHWSLL-VY---LQDK-N-----SFFHYDSH--SRS-
+-NSVH----AKQVAEKLEAFLGRKGD------------------------KLV-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQSL-
+FRQ-Q-PDS----------------------L-------LQ---------------LLTP
+AYITKK--RGEWKDL---IARLAKN-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_W2SME8 Ulp1 protease family, catalytic domain protein n=1 Tax=Necator americanus RepID=W2SME8_NECAM
+-------------------------------MCSTSIRGEKD--SKVLS------YGDIV
+-LYQSDVNTLLPGV-WLNDNIISF-ACEFL------------LDNAPVEL---KRQVAI-
+--------------IGAASCELIRYSG-DE-----TVI-REIFT--------SLDF--FN
+K-DKILFVLNDREDP---TIVGGFHWSLL-IL---ERRA-A-----HFRYYDST--NPA-
+-KVTV----AKQLMSIVTQFLDTKDVT-FTVED---------------------------
+-----------CPQQHN----------------------SFDCGMYVIEFVRRA------
+----------------------------------------------LKPPNVDLPSQIDA
+KYIEME--RRFWLDV---ISSLATDSKHQSLII---------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI00065B910D PREDICTED: sentrin-specific protease 8-like n=1 Tax=Aplysia californica RepID=UPI00065B910D
+-------------------------------------MADED--EIVLS------FGDSL
+-LRKSDLNLLNEPN-WINDKIIAF-CFEYY------------EHEQFNHS---ADK--M-
+--AL----------ISPAVAQLMR-FA-S-------------------------------
+-----------GKEG--MK-EGMSERRLS-VV---GVGS-G-----ENSCFVSE--RLT-
+-DIFL----CRFLSL-------APRG------------------------KLK-------
+-FV---EMD--CPQQQN----------------------GYDCGMYVIAMTEHL-IRELC
+ECF-GVSLP----------------------E------------------------MVNA
+DTVQRL--RGQILSL---VEKLRQSQEHSSVAHHNLKAT---------------------
+----------------------------------------------------------
+>lcl|UniRef90_E9GMY2 Putative uncharacterized protein n=1 Tax=Daphnia pulex RepID=E9GMY2_DAPPU
+--------------------------------------MSDN--EIVLN------YHNSL
+-LRKSDVDLLRNPH-WLNDRLIGF-WFEYL------------ENSLL------DES--V-
+--CL----------VCPEVSQFIK-LG-EL-----SET-SAFVD--------PLNL--HS
+R-SLVLLPVNDSVLL--DH-PGGSHWSLL-VY---DCFA-K-----KYYHFDSLI-G-S-
+-NLNH----AKKIAYNLNL-------------------------------SNK-------
+-IV---EVR--CTQQQN----------------------SFDCGVFVCCNAENV-MKHCS
+VNK-G-ELK----------------------S-------VS---------------PLSI
+DVFKNQ--RNHMLQV---ISTLSCNC----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_V4LF13 Uncharacterized protein n=1 Tax=Eutrema salsugineum RepID=V4LF13_EUTSA
+---------------------------------MGYSSCDDK----ILS------YNDVV
+-LRRSDLDILKPPN-FLNDRVIEF-YLSYL------------STV-HT-----CPT--I-
+--SL----------IPPSIAFWISNYP-DT-----ESL-KDFMK--------PLRL--ND
+I-DLLILPVNDNLDV--ELAEGGLHWSLL-VY---YKEA-N-----SFFHHDSL--MGM-
+-NKRN----AEKLFKAVSPFV-----SNGD----------------AA------------
+-YR---ECNDTTPQQKN----------------------GYDCGVYVLAIAQVV-CQWFS
+S-G-GMKKN----------------------RD------EF--------WFTDVKETV-P
+ESVSHL--REDILRL---IKSLMSEKTASK------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0B1P4Z8 Putative ulp1 protease family protein n=1 Tax=Uncinula necator RepID=A0A0B1P4Z8_UNCNE
+------------------------------------------------------------
+------------------------------------------------------------
+------------------MAFMLMQTP-NP-----LTV-KDALP----------DF--SQ
+T-THVFLPINDARSV--TLAEGGSHWSLL-LV---SIID-G-----TAFHYDSL--MPS-
+-NYNE----ARLATNKLSILIGRNLQ----------------------------------
+---FVNLDD--SPQQEN----------------------SNDCGIYVCIQMRYLLLKRIL
+SAN-SHEKV------------------------------SM---------------SLGG
+KLVDANGGRKEILKT---IEGYRKEGGKRR---NKQDEHHSSLSFGKRKSNSGSPPRIDS
+----------------------------------------------------------
+>lcl|UniRef90_A0A086TGX3 NEDD8-specific protease-like protein n=1 Tax=Acremonium chrysogenum ATCC 11550 RepID=A0A086TGX3_ACRCH
+------------MQFRQRMARRF--------GA-T--LSP-E--KPYLS------YYDVL
+-LTLEDVKALKN-D-WLTDNNIAF-WEEYL------------EHETLSR----FPQARI-
+--IL----------LRPSMTFLLMKEP-DQ-----RQV-RAALP----------DF--SK
+I-THIFLPINDNRNV--GVAEGGSHWSLL-VV---SALD-G-----KAFHYDSL--GGA-
+-NYAE----AKLATAKMQNVLQRRLD----------------------------------
+---FENLRD--TPQQEN----------------------GSDCGVFVCIIMRHLLVKRLL
+SAN-AREKV------------------------------SM---------------SMGG
+KMVDSNGGRKEMLAI---IENLREEGERRR---S--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A7RK02 Predicted protein n=1 Tax=Nematostella vectensis RepID=A7RK02_NEMVE
+-----------------------------------MSDKEDR--RIVLN------FYESL
+-LRKSDVALLEPGQ-WLNDNLIGF-MFEYF------------EHVEFRDG---SKD--L-
+--LF----------LSPGVTQLIK-LT-RG-----VEL-MAILE--------PLNL--PK
+Y-QRVFFAVNNNEAK--MS-TGGSHWSLL-VY---CKRS-N-----IFSHYDSL--SEA-
+-NSNA----AKELANQVGLILKD-PG------------------------P-S-------
+-YE---EAL--CPQQEN----------------------GSDCGVYVIGITEHL-CKQC-
+TGE-T-TVK----------------------L-------ID---------------AVTP
+AAIARR--RQQMKEL---IVKLAKAS----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_R0LMU9 Sentrin-specific protease 8 (Fragment) n=8 Tax=Aves RepID=R0LMU9_ANAPL
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDLALLEPPN-WLNDHIIGF-AFEYF------------ASDQFQEF---SDQ--V-
+--CF----------ISPEVAQFIK-CA-LS--Q--EEI-AIFLQ--------PLDL--LH
+K-KLVFLPINDNSN---QA-AGGTHWSLL-VY---FRDK-K-----CFAHYDSH--SKC-
+-NSVH----AKQVAGKLEAFLGKKGG------------------------KVT-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNAEAL-CQGY-
+FRG-H-QES----------------------L-------LQ---------------LLTP
+SYVTQK--RADWKAL---ITKLAQK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0006C9AC10 PREDICTED: sentrin-specific protease 8 n=1 Tax=Copidosoma floridanum RepID=UPI0006C9AC10
+--------------------------------MSK---------DVVLN------YQDCI
+-LRQSDVDLLKGPC-WLNDAIIGF-YFEYL------------GKQHENV----SLK--F-
+--LF----------VCPELAQLLK-LT-DP-----HEY-PIFLD--------PIEA--KD
+K-PFVFFPINDCNSR--SS-SGGSHWSLM-VF---SKKE-R-----ACFYFDSSN-S-M-
+-NSAV----ARDFSRKVMDYLLDGGK-------------------------GQ-------
+-FI---EVD--CPQQDN----------------------GYDCGLFVLCFADVI-AEHVL
+RTG-KVDSC----------------------N-------YD---------------R-VK
+SFVHTK--RRALLAL---IEKLKGNHEN--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A059ABJ7 Uncharacterized protein n=1 Tax=Eucalyptus grandis RepID=A0A059ABJ7_EUCGR
+---------------------------------MGRSSGDEK----ILS------YKDVV
+-LRRSDLEILSGPC-FLNDRIIEF-YFSYL------------SSC-YP-----SPD--I-
+--LL----------VPPSIAFWIANCP-DV-----EGL-KDFIE--------PLDL--PG
+K-KLVIFPVNDNENV--GLADGGSHWSLL-VF---ERDA-S-----VFVHHDSS--GGM-
+-NGRY----ARQLYEVLVGFINGPN-SASD----------------AK------------
+-FI---QCSS-SPQQLN----------------------GYDCGLYVIATARAI-CCWYE
+T---VKLSN----------------------EK------DL--------WFSSVEEQVTP
+PSVTEL--RKEILQL---IKDLMTADAKC-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_U1HLF8 Uncharacterized protein n=1 Tax=Endocarpon pusillum (strain Z07020 / HMAS-L-300199) RepID=U1HLF8_ENDPU
+---------------MTFAVRTY--------PT-SISHPH-L--TEYRP-----------
+-VTKEDVDTLKY-D-WLTDNIIAF-WEEYL------------EHAFLTS----YKHANI-
+--VL----------LRPSMAMMLMQTP-DP-----RTI-KEALP----------NF--TN
+T-THIFLPINDSNNP--EIAEGGSHWSLL-LI---SAVD-G-----VAFHYDSL--PPG-
+-NQRD----AQFAARKMSVLLGKQLQ----------------------------------
+---FIPLDD--SPLQEN----------------------GSDCGVFVCLNMRHLLLKRLL
+MVR-SDEKV------------------------------SM---------------SMGG
+RRVDAREGRKEMSRI---IESFRREGERRR---S--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0006748222 PREDICTED: sentrin-specific protease 8-like isoform X1 n=2 Tax=Biomphalaria glabrata RepID=UPI0006748222
+-------------------------------------MADED--AIVLN------FGDSL
+-LRKSDFDLLTEPN-WINDKIIAF-CFEFF------------EREQFNHS---ADR--I-
+--AL----------LNPSVAELMR-FA-SV-----EDL-AVLLE--------PLHL--PS
+K-QYVFVPINDNPDP--AK-VGGSHWSLM-VY---VRSK-Q-----EFQHYDAL--KGS-
+-NQAV----AKKFVDKLQPFVQAPRG------------------------KLK-------
+-YV---EMD--CPQQQN----------------------SYDCGIYVIAMTEHL-IKEFC
+ECF-SVPIT----------------------E------------------------VVNH
+NIVQQK--RKHIECL---IQELAVADPNSDTHHLFSS-----------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0M9VV74 NEDD8-specific protease 2 n=1 Tax=Escovopsis weberi RepID=A0A0M9VV74_9HYPO
+------------MPLRQRMTRHF--------GD-TSHLSP-E--RAYLS------YYDVL
+-LTVEDIKALRN-D-WLTDNNIAF-WEEYI------------ERETLPR----YPEARI-
+--IL----------LRPSMTFLLMKEP-DM-----RLV-RAALP----------DF--SK
+V-THAFLPINDNRNV--GLAEGGSHWSLL-LV---SVLD-G-----VAFHYDSL--GGA-
+-NYAE----ANLATRKLAEVVGRRIR----------------------------------
+---FVSLDD--CPQQAN----------------------GSDCGVFVCLLMRHLLVKRLL
+AAN-AREKV------------------------------SV---------------SMAG
+KMVDSFGGRKEMMTI---IENLRKEGERRR---S--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B4LJQ1 GJ21548 n=1 Tax=Drosophila virilis RepID=B4LJQ1_DROVI
+-------------------------------------MNKAD--PISLS------FHDSC
+-LRMSDVQLLHGPR-WLNDQILSF-FYEYL------------SHVKYKN----NHD--L-
+--YF----------IAPEVTQCMK-YM-DD-----SEL-ALLLN--------KNNA--VY
+K-PFIFFALNDNGAT---E-EGGTHWSLL-VL---SRPE-Q-----TFFHFDSYG-N-S-
+-NTAT----SIKLMNKVKGMLGMR-L-------------------------AQ-------
+-FR---PMR--CLQQAN----------------------GYDCGIHVICMTDHI-AGYVT
+HFG-MIEGL----------------------P-------IL---------------H--F
+DTVKAK--RADLLKL---ILSLGGSC----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B4LJQ3 GJ20790 n=3 Tax=Drosophila RepID=B4LJQ3_DROVI
+-------------------------------------MSKAD--PISLS------FHDSC
+-LRMSDVQLLHGPR-WLNDQILSF-YYEYL------------SHVKYKN----NND--L-
+--YF----------IAPEVTQCMK-YM-DD-----SEL-EMLFD--------EHDA--VN
+K-PFIFFALNDNGTT---E-AGGTHWSLL-VL---SRPE-K-----TFFHFDSYG-N-N-
+-NTGP----SMELMTKVKELLGVR-Q-------------------------AK-------
+-FR---PMR--CLQQAN----------------------GYDCGIHVICMTDHI-ADYVN
+RYE-LIEGL----------------------P-------TL---------------H--I
+DTVKAK--RAELLKL---ILSLGGKD----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0L7QW78 Sentrin-specific protease 8 n=1 Tax=Habropoda laboriosa RepID=A0A0L7QW78_9HYME
+----------------------------------MAKDPLN---KIVLS------YYDCL
+-LRASDITLLQGSH-WLNDVIIGF-YFEYL------------DKKFNKNE---KTK--L-
+--YF----------ISPEVTQLLK-MS-DS-----SQY-GIFLD--------PVKV--SE
+C-KCILFPLNNCERK--DT-TGGSHWSLL-VY---CKQD-K-----RCYHFDSSS-G-S-
+-NNSI----ASAFAKNVMSCILDKNES-----------------------SNK-------
+-FV---KVD--CPQQDN----------------------SYDCGVYVLCLADVI-TENVI
+KNG-RVDGC----------------------D-------YS---------------Q-VK
+KLTCTK--RTQILNL---INELKHKSSTI-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0C9Q2W8 SENP8 protein (Fragment) n=4 Tax=Fopius arisanus RepID=A0A0C9Q2W8_9HYME
+-----------------------------------MMSSQQ---DIVLS------YHDVL
+-IRRSDLKTLEDHS-WLNDIIIGF-YFDHL------------EREKAQEF---TGK--I-
+--VL----------ASPELTQLLK-LM-EI-----QDY-PGILD--------SRIT--EK
+T-DFVFFPVNNCDDR--ED-PGGAHWSLL-VY---SRSE-A-----SCFHFDSST-G-F-
+-NRTI----SQQFSRKIMKFMNGGRG-------------------------KG-------
+-FV---EVR--CPQQGN----------------------SYDCGIFVL------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_F6QGW5 Uncharacterized protein n=1 Tax=Ciona intestinalis RepID=F6QGW5_CIOIN
+----------------------------------------MD--KIVLS------YHDSL
+-LRESDLRLLDTGQ-WLNDKIIGF-MFQYF------------QYEVFSKN---FEE--I-
+--SF----------LDPDLVHLVK-MM-PD-----REI-PSILE--------SLNL--EP
+K-RFIFLPINDNDDA--Q--AGGSHWSLL-IF---DAEQ-E-----CFEHFDSS--GDY-
+-NHTV----AVEVAGKFSKVLKSNKLA---------------------------------
+------RME--TPQQCN----------------------GSDCGVYVVKLTEVI-CKSKL
+DASSPWQPS-----------------------------------------------LITN
+DFIANE--RENIRRI---ILTKAGKL----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_K2RPU6 Peptidase C48 SUMO/Sentrin/Ubl1 n=1 Tax=Macrophomina phaseolina (strain MS6) RepID=K2RPU6_MACPH
+----------------------M--------CS-SHKLAP-D--DAYLS------YHDIR
+-LTKEDVDCIKA-D-WLTDNAIAF-WEEWL------------EHEHLSN----YPKANI-
+--SL----------LRPSMSFMLMQTP-DP-----LTL-KDALP----------QF--SR
+T-SHIFLPINDCRNV--MEAEGGSHWSLL-LV---SVVD-G-----VAFHYDSL--CES-
+-NDRD----ARLATQKMATLLGRSLR----------------------------------
+---FISMDD--CPQQEN----------------------GSDCGVFVCLLMRYLLLNRLL
+RAD-SKEKV------------------------------SM---------------SMAG
+KNVEASSGRKEMLKI---IEGFRKEGRRRSYVLSRLKKLQSA---------LS-------
+----------------------------------------------------------
+>lcl|UniRef90_W2HGY1 Uncharacterized protein n=2 Tax=Phytophthora parasitica RepID=W2HGY1_PHYPR
+----------------------------------------MA--RQVLN------YHDVQ
+-LYESDVALFAGRQ-WLNDNAVNF-YLQYL------------TQTVA--------SRDV-
+--LL----------MDPAVVSCLQHQCENE-----DEY-QDLAS--------GLNL--TS
+R-QLCIIPVTDNDSL----GGDSSHWSLL-LY---RDGM--------FQHFDSS--SGH-
+-NKHA----ARRVAEPFELLLQAAGRYDGDGASRHVEEVQD-------------------
+-----------VPQQQN----------------------GYDCGMYVLVLAEYF-CRRHA
+GEM----------------------------------------------ETVSLDDYATP
+KRVTEL--RSQMPNL---IERLKVRT----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_D2UYS9 Predicted protein n=1 Tax=Naegleria gruberi RepID=D2UYS9_NAEGR
+------------------------------------MSRLAK--PSWLTKDFSKTFYDSQ
+GLIEEDVSLLLGNY-WLNDNIINF-YYLFL------------ENEKFREY----------
+--CF----------VAPSVSFIISMV--DD-----DEI-KNTLH--------SLNA--KD
+K-KLVFFPVTDNTDI---SSSGGTHWSLL-VF---ESNS-G-----KFYYFDSM--GSM-
+-NKSA----AKYLASKVAPYFGVKASNLHIAK----------------------------
+-----------APQQKN----------------------GYDCGIYVLAMSEYI-AEHGL
+SDA-QIES------------------------------------------------EITP
+SKATQL--RKVILDL---IEKKSQEE----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0006EAF209 PREDICTED: sentrin-specific protease 8 n=1 Tax=Papilio machaon RepID=UPI0006EAF209
+--------------------------------------MEKS--SVILS------FHETL
+-IHQSDIELLDGPY-WLNDTIISF-YFEYL------------DRVIFKN----AKD--L-
+--LF----------VSPEVTQCIK-MV-QP-----EEI-KIFLE--------PLNI--RM
+K-QFVFFALNDNNSP--DM-AGGSHWSLL-VY---SKME-S-----CFFHLDSSS-G-S-
+-NHNV----AWDFASHLMSYLAKPGT-------------------------IS-------
+-FS---DKE--CQQQNN----------------------GYDCGIHVICNTEVL-AHWAS
+KYG-DIGSC----------------------D-------MK---------------I--K
+VNPNQK--RKEIMNI---IKSLANVK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_T5A746 Ulp1 protease family protein n=1 Tax=Ophiocordyceps sinensis (strain Co18 / CGMCC 3.14243) RepID=T5A746_OPHSC
+------------MPFRQRVARHF--------GD-A--LSP-D--KPYLS------YHDVL
+-LTVEDVKALKN-D-WLTDNNIAF-WEEYL------------ERETLAR----YPQANI-
+--VL----------LRPSMTFLLMKEP-DS-----RLV-RTALP----------DF--SK
+V-THAFLPINDNRNV--SAPEGGSHWSLL-LV---SVID-G-----LAFHYDSL--GGS-
+-NYSE----ARHATRKLAEMLGRPFR----------------------------------
+---FINLDD--SPQQGN----------------------GSDCGVYVCLLMRHLLIKRLL
+CAN-AHEKI------------------------------SM---------------SMGG
+KVVDSNGGRKEMMRI---IENLRKEGERRR---S--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0G2E6C3 Putative ulp1 protease family protein n=1 Tax=Diplodia seriata RepID=A0A0G2E6C3_9PEZI
+----------------------M--------RS-SAQLAP-D--DAILS------YYDIR
+-LTKEDIDCIKC-D-WLTDNAIAF-WEEWL------------EHEHLSA----YPKANI-
+--SL----------LRPSMSFMMIQTP-DP-----LTL-KDALP----------DF--SK
+T-THIFLPINDCRNV--MEAEGGSHWSLL-LV---SVVD-G-----VAFHYDSL--CES-
+-NDHE----ARVATQKMATLLGRSLR----------------------------------
+---FISMDD--CPQQEN----------------------GSDCGIFVCLLMRYLLLNRLL
+RAD-SKEKV------------------------------SM---------------SMAG
+KNVEASSGRKEMLKI---IDGFRKEGRRR----SRVKTDFSA---------MDTQSLIIV
+PFALL-----------------------------------------------------
+>lcl|UniRef90_A0A022R7J2 Uncharacterized protein n=1 Tax=Erythranthe guttata RepID=A0A022R7J2_ERYGU
+---------------------------------MEKQTANDK----ILS------YNDVV
+-LRRSDLAILNGPY-FLNDRIIEF-YFSYL------------PST-FPEA---SED--I-
+--LL----------LPPSITFWIKECP-DS-----ASL-KDFIE--------PLQL--PQ
+R-KLIIFPINDNDDV--TAAGGGTHWSLL-AF---DRKT-N-----LFVHHDSS--GCL-
+-NKKH----SKRVYKAVVAY------TETD----------------AK------------
+-YI---DCSS-TPRQVN----------------------GFDCGLYVTAIARAI-CKWCV
+S-E-RHDYN----------------------ME------SL--------WFSTIEEQITP
+SLVTNM--RNEILEL---VRNLMVKQENRVARK---------------------------
+----------------------------------------------------------
+>lcl|UniRef90_D0NYK5 SUMO protease, putative n=1 Tax=Phytophthora infestans (strain T30-4) RepID=D0NYK5_PHYIT
+----------------------------------------MA--RQVLN------YHDVQ
+-LYESDAALFTGHQ-WLNDNAINF-YLQYL------------TQTVA--------RRDV-
+--LL----------MDPAVVSCLLHQCEDE-----DEY-QELAI--------GLDL--TS
+K-QLCIIPVTDNDAL----GAGSSHWSLL-LY---SDGD--------FQHFDSS--SGH-
+-NHHA----ARRLAESFEVLLRAAGKRRGSGFSRRLVEVQN-------------------
+-----------APQQQN----------------------GYDCGMYVLVLAEYF-CRQHA
+------------------------------------------------------------
+----EL--RLQLPKL---IEKLKAEAVRA-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A016SE96 Uncharacterized protein n=2 Tax=Ancylostoma ceylanicum RepID=A0A016SE96_9BILA
+-------------------------------MCSTPFHGDKD--SKVLS------YGDIV
+-LYQSDVNTLLPGV-WLNDNIISF-ACEFL------------MDNASEEV---KRQVAV-
+--------------VGAASCELIRYAC-DE-----TII-REIFT--------SLNF--FD
+K-EKILFILNDREDP---TVVGGFHWSLL-VL---ERKI-G-----RFHYYDSM--RPA-
+-KTAV----AKQLVSIITPFLDTKNVT-FTIVD---------------------------
+-----------CPQQHN----------------------SFDCGMYVIEFVRRA------
+---------------------------------------------LKPTNNDPPPAIIDA
+NYIEME--RRYWLDI---ISSLASGSKHQSLIV---------------------------
+----------------------------------------------------------
+>lcl|UniRef90_V4UF01 Uncharacterized protein n=2 Tax=Citrus RepID=V4UF01_9ROSI
+---------------------------------MGKSAADDK----ILS------YNDVV
+-LRRSDLDILSGPY-FLNDRIIEF-YFSYL------------SSC-LV-----SQD--I-
+--LL----------VPPSIAFWILNCP-DA-----TYL-KEFIE--------PLKL--PE
+K-KLVIFPVNDNDDM--SLAEGGSHWSLI-VY---ERNG-N-----VFVHHDSN--HRM-
+-NKIK----ARKLFSAVVGFMGDST-SASN----------------GK------------
+-YL---DCVD-SPQQTN----------------------GYDCGVYVIAIARAI-CCWYE
+S---SEHKD----------------------AE------GM--------WFSFVKEQVTS
+AVVSQM--RKEILQL---IKGLMEKK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000651DB56 PREDICTED: sentrin-specific protease 8 n=1 Tax=Dipodomys ordii RepID=UPI000651DB56
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVLLLDPPC-WLNDHIIGF-AFEYF------------ANSQFHDC---SDH--V-
+--CF----------VSPEVTQFIK-CA-SS--T--AEI-MGFLE--------PLGL--SH
+K-RVVFLPINDNSN---QA-AGGTHWSLL-VY---LQDQ-N-----SFCHYDSH--SRS-
+-NSVH----AKQVAEKLEAFLGRKGN------------------------RPI-------
+-FV---EEK--TAAQQN----------------------SYDCGMYVVCNTEAL-CQNF-
+FRQ-Q-PET----------------------P-------LQ---------------LLTP
+SYITKK--RKEWKDL---ILRLAKN-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_R4WSK8 Uncharacterized protein n=1 Tax=Riptortus pedestris RepID=R4WSK8_9HEMI
+----------------------------------MSVTRKKG--KVVLS------YHDAL
+-ITYDDVELLEGPY-WLNDTIIGF-YLEYL------------EKEKYAD----T-N--V-
+--CF----------IRPEVTQCLK-LS-EV-----GEL-PAFLD--------PLEF--KE
+K-DLVIMPLNDCEDP--NL-PGGSHWSLL-AY---SKPE-K-----TFYHIDSSA-G-S-
+-NQQA----ARALTFKLSQYLDKNSL-------------------------CE-------
+-FK---TIN--SLQQSN----------------------SYDCGVFVLCNIDNI-VPHAL
+RYK-TLENV----------------------N-------QI---------------K--E
+FEVSKK--RHDIKSL---IKALAGF-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0L9V6X6 Uncharacterized protein n=1 Tax=Phaseolus angularis RepID=A0A0L9V6X6_PHAAN
+---------------------------------MKKSRTDEK----ILS------YNDVV
+-LRQSDLEILSGPY-YLNDRIIEF-YFSYL------------SSS-HS-----SQD--M-
+--LL----------VPPSIAFWIMQCP-VV-----DSL-GDFIE--------PLHL--LD
+K-ALVIFPINDNDDV--DRAEGGSHWSLV-AY---CRNT-N-----VFVHHDSC--RGM-
+-NAAP----AKKLYKAVAGYMGSSA-SASE----------------VS------------
+-FQ---ECTD-SPLQDN----------------------GYDCGLYVTATARTI-CNWHA
+N---HKNTH----------------------RN------DM--------WFSAVKEQVTS
+SAVASM--RGEILAL---IRDLMARH----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0005CE4E2E PREDICTED: sentrin-specific protease 8-like n=1 Tax=Ceratosolen solmsi marchali RepID=UPI0005CE4E2E
+--------------------------------MAL-QDNVD---DVFLS------YNNSL
+-IRQGDVNLLRGPY-WLNDTIIGF-YFEFL------------EDKYEAL----MPE--A-
+--LF----------VCPELTQLLK-VT-AS-----NEY-SALLD--------PIKA--KE
+K-NWIFFPLNDCSSL--ER-PGGTHWSLL-VF---SKVE-K-----SCFHYDSSR-G-L-
+-NTSI----AKDLSKKIMHYLLGNSD-------------------------GN-------
+-FI---EID--CPQQDN----------------------SYDCGLFVLYFADNI-PIHIQ
+KKL-KI-SF----------------------D-------FE---------------F-IQ
+EEISYF--RTVLLIL---VQKLKYQQL---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0B6YRL6 Uncharacterized protein n=1 Tax=Arion vulgaris RepID=A0A0B6YRL6_9EUPU
+-------------------------------------MAEED--SVILS------FGGSF
+-LRKSDLDLLTSPN-RINDRLIGF-CFEYF------------EREQFNHS---ADR--I-
+--AL----------VSPSVAQFVI-FA-SV-----EDL-LVLLE--------PLHL--PI
+K-QYIFVPVSNNFDA--QH-VGKAQWSLL-VY---VRSK-Q-----EFQHYDAH--RGT-
+-NQSW----AKKLVDKLQPFVQAPRS------------------------KLQ-------
+-FV---EMD--FPQQET----------------------ISDSGVYVIALVEHL-IKEFC
+ECF-SVSVN----------------------E------------------------VVNQ
+EIVQHK--RKQIQDL---IQELSACDINFD--HYLST-----------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A084VR21 AGAP011316-PA-like protein n=1 Tax=Anopheles sinensis RepID=A0A084VR21_ANOSI
+----------------------------------MSS-QRSD--DVALS------YHESC
+-LRSSDVELLKGPY-WLNDQIISF-YFEYL------------ENEIFEN----DAD--L-
+--LF----------VSPEVTQCIR-MV-SA-----EEV-GIFLD--------PLRA--QE
+R-SFLFFALNDNIVA--DQ-AGGSHWSLL-VF---SRPE-K-----TFYHFDSSR-T-A-
+-NSEH----ARHLVGILKRALHCP-E-------------------------AQ-------
+-LR---TGE--CLQQSN----------------------GYDCGVHVLCTVDAV-TRQIR
+KQG-KIEGV----------------------R-------SA---------------R--Y
+DVIRAK--REDILGI---IENLGGKIK---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000331915E PREDICTED: sentrin-specific protease 8-like n=1 Tax=Sorex araneus RepID=UPI000331915E
+-------------------------------------MDKDN--PVVLA------FGDSI
+-LRQDDVDLLQPGF-WLNDRLLTF-AMAYL------------EGVKFK-----GRNTNI-
+--AF----------VDPTVTQLLKMS--TP-----EDV-ATYRA--------NYNW--QM
+K-QLFLMPINDCMSV----GGGGCHWSLL-VY---RRTM-N-----KFEHYDSFSCDQR-
+-SLKS----AQCMAKNLLILLDDTVSHEIVPDIEVVP-----------------------
+-----------CAQQAN----------------------SSDCGVYVIRFTEII------
+----------------------------------------ADDFCNLVGSLSDALMSVSL
+VDITTL--RVQLIQL---VNQLKHGAEIEEDESS--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_H0Z1V3 Uncharacterized protein n=45 Tax=Neognathae RepID=H0Z1V3_TAEGU
+--------------------------------------MD----PVVLS------YVDSL
+-LRQSDVALLEPPN-WLNDCIIGF-AFEYF------------ANQQFQEF---SHR--V-
+--CF----------ISPEVAQFIK-CA-LS--Q--EEI-AIFLQ--------PLDL--LR
+K-ELLFLPINDNSS---QA-AGGTHWSLL-VY---FRDK-K-----CFAHYDSH--SKC-
+-NSVH----AKQVAGKLEAFLGKKGG------------------------KAT-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNAEAL-CHGY-
+FQG-R-MEP----------------------L-------LQ---------------LLTP
+SYITQK--RSEWKAL---ITKLAQK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A061GZJ1 Cysteine proteinases superfamily protein n=1 Tax=Theobroma cacao RepID=A0A061GZJ1_THECC
+---------------------------------MGKSAADEK----ILS------YNDVV
+-LRQSDLEILSGPY-YLNDRIIEF-YFSLL------------SSS-HP-----SQD--I-
+--LL----------LSPSIAFWIANCP-DV-----GGL-KDFLE--------PLKL--PD
+K-KLVIFPVNNNDDV--SVAEGGSHWSLL-AY---CRSA-N-----VFVHHDSN--GQM-
+-NKRH----AMRLFKSVVGFVGDSS-SACN----------------AK------------
+-YL---ECIG-TPQQVN----------------------GYDCGLYVTVTARTI-HCWHE
+S---SENKD----------------------AT------DL--------WLSAVKEQVTP
+SVVSEM--RKEILGL---IKDLMAKK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0006A6A9AD PREDICTED: LOW QUALITY PROTEIN: NEDD8-specific protease 1 n=1 Tax=Brassica oleracea var. oleracea RepID=UPI0006A6A9AD
+---------------------------------MANTWGDDK----ILS------FNDVV
+-LRRSDLDIFNGPN-FINDRVIEF-YLSYL------------STL-HT-----SPT--I-
+--SV----------IPASIAFWISNCP-DA-----ESL-KDFMK--------PLRL--LD
+I-NLVILPVNDNLNV--ELEEGGLHWILL-VY---YKET-N-----SFFHHAYF--MGA-
+-NQWN----ARQLYKAVSLFV-----SDGD----------------AA------------
+-FR---ECGD-TPQQKN----------------------GYDCGVHLLATAQVI-CKWFS
+S-G-GM-KN----------------------RD------EL--------WLSDVKETV-S
+NVVNNL--REEILGL---IRRLMSEKSVSK------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_W4GP21 Uncharacterized protein n=1 Tax=Aphanomyces astaci RepID=W4GP21_9STRA
+-----------------------------------------M--ATAVL------FHDAQ
+-LYDRDLRLFTTNA-WLNDAAIHF-YFTVV------------FHTLC------GAPGDV-
+--LL----------MDPAVVSCMMLQCDDD-----EDL-MDLAQ--------GLQL--KE
+K-SLIVLPVNDRRSF----DSQGSHWALL-VY---STAH-------GFQFYDSS--ADH-
+-NFDS----AMEVAGVLGRALGLPTDSV-VRSVP--------------------------
+-----------CPQQHN----------------------AYDCGMYVCMVAEWL-CTSHC
+SKQ-S----------------------------------------------LPLAEFVTP
+TAIQSK--RRNMPSI---VDQLK-------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_F6UNY2 Uncharacterized protein n=1 Tax=Ornithorhynchus anatinus RepID=F6UNY2_ORNAN
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDLRLLDPPN-WLNDHIIGF-AFEYF------------ASGQFVDC---SEQ--V-
+--CF----------VSPEVTQFIK-CT-SC--P--EEV-ALFLE--------PLNL--PQ
+K-QVVFLPINDNSS---QA-AGGTHWSLL-VY---EQEK-N-----GFSHYDSH--SRS-
+-NSVH----ARQVAGKLEAFLGKRGD------------------------KTV-------
+-FV---EEK--TPAQQN----------------------SYDCGMYVICNTEAL-CQRM-
+FRA-Q-PES----------------------G-------LQ---------------HLTP
+AYITQK--RAEWKDL---VARLSRK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_L8GZJ7 Ulp1 protease family, Cterminal catalytic domain containing protein n=1 Tax=Acanthamoeba castellanii str. Neff RepID=L8GZJ7_ACACA
+---------------------------------------MED--KVVVT------YGDTT
+-LYESDVALLRPGE-WLNDSVISF-WFEYL------------AKERFK-----DHQDDL-
+--LF----------IDPSAMFMINFSD-DM-----EEV-REAMA--------ALEL--EK
+R-SMILMPINDNASI---DHAGGTHWTLL-VY---TKRD-G-----KFRHYDSFSAQAT-
+-VCTA----AKRTAKVMHAVLGGAGEPLIEAVH---------------------------
+-----------TPQQGNGSVGEFLGKLPAGGMPQRI---GSNTGAAT-------------
+------------------------------------------------------------
+--------RAEMKRA---LDTIITATQQAN------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B1WB08 LOC100145737 protein n=4 Tax=Xenopus RepID=B1WB08_XENTR
+--------------------------------------ME----KVVVS------FGDAL
+-LRSSDVALLDPPH-WLNDNIIGF-TFEFL------------SSSLPPLQ---AQQ--V-
+--SF----------LSPEVSQFIK-CC-GN------EA-SDFLE--------PLDL--PS
+K-ELVLIPVNDNTG---PE-AGGTHWSLL-AY---VRRY-T-----VFLHYDSS--PGT-
+-NAPH----ARLMAKNLDVLL---GG------------------------KQN-------
+-YR---EED--APVQHN----------------------SYDCGMYVVCVAEAL-SEQH-
+LHG-H-DSM----------------------F-------LR---------------NITP
+QFVTQK--RVKWKEI---IKGLSCKS-LSHNLQV--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000623836F PREDICTED: sentrin-specific protease 8-like n=1 Tax=Linepithema humile RepID=UPI000623836F
+-----------------MPILPEYSRQL----PDGAHSTSSD--DVVLS------YHDYL
+-LRSSDVSLLKKND-WLNDIIIGF-YFEYL------------DQQYKKNG---KSQ--L-
+--LF----------IGPGVAQLLK-MQ-DF-----SQY-HIFLD--------PIDA--KS
+Y-DFLFFPLNDCDSI--E--AGGSHWSLL-IY---SRTE-E-----MCYHFDSSC-N-I-
+-NSSI----AKKFAQNIIRYFLGKQE-------------------------AR-------
+-YT---EMN--CPQQNN----------------------SYDCGLFVLCLADVI-SRYVL
+RAS-KITDC----------------------D-------CS---------------V-VT
+KMVPQK--RNDLLRL---IYDLKAKSISA-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_K1PPQ5 Sentrin-specific protease 8 n=2 Tax=Crassostrea gigas RepID=K1PPQ5_CRAGI
+--------------------------------------MDDEANDVVLN------FHDSL
+-LYKADVCLLDDQR-WLNDKLLGF-CFEYF------------EREKFNHS---ADK--L-
+--CL----------INPDVAQCIK-IL-PS-----EQV-GEFLD--------PLNL--PT
+K-QYVFLPVNDNEQC--EQ-TGGSHWSLL-VY---IRNR-Q-----EFRHYDSS--RDN-
+-NKEI----ARKLAYKLQPFVHAPMG------------------------RMK-------
+-FL---EME--GPQQSN----------------------SYDCGVFVIATAEHL-CKELC
+EGY-SIPLI----------------------E------------------------MVTQ
+KTVTEA--RRKIKDL---IYQTAKDYSGS-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A026WCN4 Sentrin-specific protease n=1 Tax=Cerapachys biroi RepID=A0A026WCN4_CERBI
+-----------------------MSNCLTSSSHDLTSSNKN---AIVLS------YHDYL
+-LRSSDVALLKSND-WLNDVLIGF-YFEYL------------NQQHKTDE---NKQ--I-
+--LF----------IGPEVAQLLKMMQ-DS-----TQF-NIFLD--------PIGA--AS
+Y-NFIFFPINDCDNY--E--AGGSHWSLL-VY---CAIE-K-----MCYHFDSSR-G-I-
+-NSCA----AEKLAQNIIKYFSGKQE-------------------------KK-------
+-YI---EKA--CPQQNN----------------------AYDCGLFVLCLADVI-SRYVL
+QTS-KIDSC----------------------N-------FN---------------E-VT
+KMVSQK--RSDLLKL---IRDLKDTFNTT-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_T1FAV3 Uncharacterized protein n=1 Tax=Helobdella robusta RepID=T1FAV3_HELRO
+------------------------------------MSKGSS--SIVLN------YHDSL
+-LRTSDVRLLNDGR-WLNDNLIGF-MLEYY------------EYDKYEKY---SKE--L-
+--LF----------INPSMVQLLKFSD--------EEFVTSLIE--------CWDW--DN
+R-KLIFIPLNNNSS---STNSGGSHWSLL-VI---NIGE-S-----KCYSFDSS--RDI-
+-NIES----SQSLLQIINKALISKG-----------------------------------
+-YKDLKFVEGQCPQQIN----------------------FSDCGVYVICIVDDI-CGRYA
+RDT-TDLKY-----------------------------------------LRDIKPDIKP
+QHAAEQ--RKHIKQL---IQQLSVKKT---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0L8I829 Uncharacterized protein n=1 Tax=Octopus bimaculoides RepID=A0A0L8I829_OCTBM
+-------------------------------------MAGET--DIVLN------YHNSL
+-LRVSDYELLDPPN-WINDKIIEF-CFEYF------------EREQYRYC---ADL--L-
+--AF----------ISPSVIQAIK-FY-PQ-----HEM-GIFLD--------PLNL--TS
+K-QYVFMAVNDNMAA--YQ-YGGSHWSLL-MY---NGLR-N-----AFYHYDSM--SPS-
+-NMSI----AEDLCQKIQTNMNADK-------------------------KAT-------
+-FK---EMD--CPQQEN----------------------GYDCGIHVIATCEHL-VRQNI
+EAY-SVPLE----------------------C------------------------SIST
+KQIRKK--RQEIKDL---ICSLKKCS----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0006B395AB PREDICTED: sentrin-specific protease 8 n=1 Tax=Austrofundulus limnaeus RepID=UPI0006B395AB
+-------------------------------------MMD----PVVLS------YQDSL
+-LRRSDVSLLEGPY-WLNDRVIGF-AFEYF------------ASERFRIL---GKS--I-
+--IF----------ISPEVTQFIK-CA-SC--P--GEL-AVFLE--------PLDL--PS
+R-RWVVLAVNDNSN---QS-AGGSHWSLL-FY---HQNS-N-----LFAHYDSR--DGS-
+-NSLH----ARRIASKLEPFLGG-WS------------------------KAL-------
+-FV---EES--CPSQQN----------------------SYDCGMYVICIAEAL-CEKVM
+LEG-S-PRL----------------------P-------VQ---------------IITP
+AYITQK--RAEWCRL---IQTLAQNNISCXVFPLAR------------------------
+----------------------------------------------------------
+>lcl|UniRef90_J3JVT9 Uncharacterized protein n=1 Tax=Dendroctonus ponderosae RepID=J3JVT9_DENPD
+------------------------------------MAMNSN--VTVLS------YNESL
+-LRKSDVDLLKGPH-WLNDTIISF-YFEYL------------DADFFKG----NDL--Y-
+--LF----------VSPEVTQCIK-LC-HQ-----SEI-AIFLE--------PLLQ--EK
+RPSFIFFALNDNEQT--EY-SGGSHWSLL-AY---SCPE-K-----MMFHYDSSH-G-S-
+-NENQ----AMDLAEKVLKFFQLPIA-------------------------GR-------
+-FE---EAP--TLQQNN----------------------GYDCGIHVLCNTEQL-ASYAG
+HYG-KLRGC----------------------P-------KV---------------T--P
+EQVQSK--RWDILSI---IEKLRATTRPGAL-----------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0003F0E37D PREDICTED: sentrin-specific protease 8-like n=1 Tax=Saccoglossus kowalevskii RepID=UPI0003F0E37D
+-----------------------------------MAETD----EIVLS------FHDSL
+-LRKSDINLLEGSR-WLNDTVIGF-AFEYF------------EQEQFRDF---NEE--V-
+--CF----------ISPDVTQFIK-LS-SGKCP--FDI-GIFLE--------PLNL--ES
+K-KLIFLAVNDNESR--ES-AGGSHWTLL-VF---DREN-E-----SFSHYDSA--GSY-
+-YSQS----VSALSTKLATYVKA-KT------------------------EVK-------
+-FV---TAD--SPQQKNISISNSSGNCGIFGAIDRLFGACYDCGLFVICSTEHL-CKQL-
+LQG-C-KIS----------------------L-------KD---------------AVTQ
+EAVSRK--RDALKTL---ILSLSNPA----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_Q54XR2 Probable sentrin-specific protease 8 n=1 Tax=Dictyostelium discoideum RepID=SENP8_DICDI
+---------------------------------------MSD--PLIVS------YNDSA
+-IYQSDINILKSNQ-WLNDSIISF-YLEWL------------KDGGEDNKNKIPNQ--V-
+--LL----------LSPSVVFCCSFVE-SE-----QEI-QLMFE-------QPLSL--KT
+K-EVIFFPLTNNRDP--NVIGGGTHWSLL-IF---IKSL-N-----KFIYYDSI--NSF-
+-NSSD----AIFIISKFKFLLSSPPPKTNLKEF---------------------------
+------LINQKTPQQQN----------------------GYDCGLYVLSIIEEL-LKLII
+KEN-ENNKGEENKISYKDLLLSEFTNELLFK-------------------------EITP
+NYIKDK--RVEILNT---ILKLKK------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_D6WYW7 Putative uncharacterized protein n=1 Tax=Tribolium castaneum RepID=D6WYW7_TRICA
+--------------------------------------MSKD--PIVLS------YDESL
+-LRKSDVELLQGPH-WLNDNIISF-YFEYL-------------KNTFKQ----APH--I-
+--LF----------VPPEVTQCVK-IT-PS-----SQI-GIFLD--------PLDA--RH
+R-RFIFFALNDNERP--QA-AGGTHWSLL-LF---SRPD-K-----TIYHYDSSR-G-M-
+-NREQ----GENFGRKIFSYFGIEGQ----------------------------------
+-FK---EER--ALQQNN----------------------GYDCGIYLICNTEHL-ARHLI
+SYN-CVEGY----------------------G-------SN---------------EDLA
+NSVGSM--RNQIYNV---IEQLKS------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B4KT90 GI18461 n=1 Tax=Drosophila mojavensis RepID=B4KT90_DROMO
+------------------------------------------------------------
+---MSDVQLLHGPR-WLNDQILSF-YYEYL------------SHVKYKD----NND--L-
+--YF----------IAPEVTQCMK-YM-DD-----SEL-EMLLD--------KNNA--AY
+K-LFIFFALNDNGAT---E-EGGSHWSLL-VM---SQPE-K-----TFFHFDSFG-N-S-
+-NTAT----SVKLMNRVKDFLGMR-L-------------------------AK-------
+-FC---PMR--CLQQAN----------------------GYDCGIHVICMTDHI-ADYVS
+RFE-MINGL----------------------P-------GL---------------H--I
+ETVKAK--RAELLKL---ILSLGGSC----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0L0H5N9 Uncharacterized protein n=1 Tax=Spizellomyces punctatus DAOM BR117 RepID=A0A0L0H5N9_SPIPN
+-------------------------------------MTTER--KPILE------WHDII
+-LYPEDVALLDDGQ-WLNDAIISF-HYEWM------------ERELF------KNDPAV-
+--LF----------MRPTMVALVSQSAEPV-----DAL-KGVLP--------P-NL--NE
+R-AFVWMPINDGS----GLKGGGSHWSLL-VW---HAGG-N-----TFYYFDSL--KGA-
+-NVEF----ARQTAERITPLLKQEGQTAPGFEIVN-------------------------
+-----------TPQQTN----------------------GYDCGIYVCSLTGYIGGHHLL
+PAV-NNPEK------------------------------LSSPEFAKQALQDPALMRIDD
+AAVAAG--RKFLKET---IFKLAENEGEAK------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_Q96LD8 Sentrin-specific protease 8 n=15 Tax=Eutheria RepID=SENP8_HUMAN
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVSLLDPPS-WLNDHIIGF-AFEYF------------ANSQFHDC---SDH--V-
+--SF----------ISPEVTQFIK-CT-SN--P--AEI-AMFLE--------PLDL--PN
+K-RVVFLAINDNSN---QA-AGGTHWSLL-VY---LQDK-N-----SFFHYDSH--SRS-
+-NSVH----AKQVAEKLEAFLGRKGD------------------------KLA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQNF-
+FRQ-Q-TES----------------------L-------LQ---------------LLTP
+AYITKK--RGEWKDL---ITTLAKK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A087SXD3 Sentrin-specific protease 8 (Fragment) n=1 Tax=Stegodyphus mimosarum RepID=A0A087SXD3_9ARAC
+-------------------------------------MSSCD--PVVLN------YENCL
+-LRQSDVQLLNPPN-WLNDNIISF-WFEYL------------ENDVYKDY---KKV--F-
+--GF----------ICPQVVQYLK-FG-LP-----EDI-KSTIE--------GLEL--NK
+K-QYVFFPVNDC-RA--QTVPGGTHWSLL-VY---NACE-N-----TFEHYDSYP-GSC-
+-NLSV----AESLAKGLAAFLRDSSQFGR---------------------PPS-------
+-IH---EMS--CTQQNN----------------------TYDCGMHVICNTDGL-CRKYL
+THD---PRP----------------------L-------SE---------------IVPL
+SVIANS--RETLKDI---IFSLKK------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_W1NP08 Uncharacterized protein n=1 Tax=Amborella trichopoda RepID=W1NP08_AMBTC
+---------------------------------MEATEGNEK----VLS------YEDVI
+-LRKSDLDILQGPY-FLNDCIIEF-YFAYL------------SSS-LP------QD--I-
+--LL----------VPPCISFWIMSCT-DK-----QGL-EPFVN--------PLKL--QS
+R-NLVIFPINDNDDV--SMAEGGSHWSLL-VY---IRKK-N-----AFLYFDSM--MGC-
+-NEWH----AVKLYRAVNVLMGG---QSVS----------------AK------------
+-FV---EGK--TLQQKN----------------------GYDCGVHTLVVAEAF-CCWYY
+G-------N----------------------NE------ED--------FDNALERQVTA
+NIVGEM--RRKILSI---ILHLIDKR----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A091E5Y7 Sentrin-specific protease 8 n=5 Tax=Bathyergidae RepID=A0A091E5Y7_FUKDA
+------MAELIHKAKKSVNSYATKEKFQELLSGPGQCKMD----PVVLS------YMDSL
+-LRQSDVSLLDPPS-WLNDHIIGF-AFEYF------------ANSQFRDC---SDF--V-
+--CF----------ISPEVTQFIK-CT-NS--P--AEI-AMFLE--------PLDL--PH
+K-RVVFLAINDNSN---QA-AGGTHWSLL-VY---LQDK-N-----SFFHYDSH--SKS-
+-NSIH----AKQVAEKLEAFLGRKGD------------------------KLV-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQNF-
+FRQ-Q-PDS----------------------L-------LQ---------------LLTP
+TYITKK--RAEWKNL---IARLAKN-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A9T5D3 Predicted protein n=1 Tax=Physcomitrella patens subsp. patens RepID=A9T5D3_PHYPA
+---------------------------------MAPARGDSK----VLN------FGDVT
+-LRRSDLQRLKQPE-ELNDQIIEF-YFEHL------------TSN-LNVD---TQSGSVS
+PLLL----------VGPSQTYWLLHCP--S-----DSL-QDSVK--------PMSL--AE
+R-EMVVFALNDNPDP--SAAEGGCHWSLV-VY---SRPQ-N-----VFEHYDSL--GGL-
+-NGAV----AVRFVNKIKLHMGKRAAQAKSRERE--------------------------
+-----------TPQQQN----------------------AYDCGVYVMKTSQLL-CNAFK
+E-------------------------------QQRAVTFAD--------IVDSLRTQLTP
+ASVDEM--RTSTVKL---ILQLAKQSPSRAAVTTS-------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0L7KVL8 Sentrin-specific protease n=1 Tax=Operophtera brumata RepID=A0A0L7KVL8_9NEOP
+---------------MSASKDKPKGEIHQSSKNCIRLRMAKA--SVVLS------FHDIL
+-LHVSDIELLNGPH-WLNDTIISF-YFEYL------------EKVVFIK----TSD--L-
+--LF----------ISPEVTQCVK-MV-QT-----EEI-KTFLE--------PLGV--NK
+K-QIVLFALNDNDTP--DM-AGGSHWSLL-VY---SKPE-N-----CFFHLDSSS-G-T-
+-NHDV----AWDFASHLIPYLSTEGS-------------------------IN-------
+-FV---DKE--CLQQSN----------------------GYDCGVHVICNAERL-GECAS
+LHK-EVGSC----------------------D-------ML---------------V--K
+IDPSNK--RKEILTI---IKNLSKLE----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_K3XBB7 Uncharacterized protein n=1 Tax=Pythium ultimum DAOM BR144 RepID=K3XBB7_PYTUL
+-------------------------------MAV----------TQVLN------YHDVQ
+-LYDSDVALFATRQ-WLNDNAINF-YLQFL------------THDALNG----GAVADL-
+--LL----------MDPAVVSCMMLQCDDD-----DEY-EDLGR--------GLTL--DS
+K-RVCFIPMNDNDQF----GGESTHWSLL-VY---RRDE-R-----TFAHYDSS--SGH-
+-NAHA----AKRIMAEFEKMLRLCGAVDGHAAKATFVDVRE-------------------
+-----------TPQQRN----------------------GYDCGMYVLVITEYL-CRKYV
+HEQ-Q----------------------------------QQRGDGGNAEPMPSMQAFVTP
+ERVTRT--RLEMPAL---VQRLRREQQAAGGHR---------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A074ZQE1 Uncharacterized protein n=2 Tax=Opisthorchiidae RepID=A0A074ZQE1_9TREM
+-----------------------------------------M--GIILD------FHDCL
+-LRDEDLVTLNEGE-WVNDNIIQF-AMEYL------------RRTLLAT----VDN--V-
+--LL----------VDPAVTQIVK-LA-DA-----RSV-AMVLD--------SLNC--KH
+I-DWIFYAINDSLST--TS-SGGTHWSLL-VM---SPTH-E-----KSYHLDSLP-SEG-
+-NYGC----ALKIADAMAEHCDRSGLRTVL------------------------------
+------QTN--VAKQRN----------------------SWDCGLYVIVFLEIL-CKNLF
+ETK-G--------------------------S-------AL--------MLDSVASESVS
+SSVLSK--RSVLKKL---IAKLSSADN---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_T1GDP9 Uncharacterized protein n=1 Tax=Megaselia scalaris RepID=T1GDP9_MEGSC
+-------------------------------MSSESQRHHPD--PYALS------FNDSL
+-LRVSDVQLLKGPH-WLNDQIISF-YFEYL------------QKCKFKT----NSD--I-
+--SF----------VSPEVTQCMK-LM-DD-----SEL-EMMFQ--------DNEF--HK
+K-SFLFFALNDNDSY---R-AGGTHWSLA-VL---SRPE-R-----AFFHFDSCN-N-Q-
+-NFSH----CQQFVKRIKDTLNCS-R-------------------------YL-------
+-VK---SVR--CLQQLN----------------------GYDCGIHVLSMAEHI-GDYVN
+RFE-CIDGF----------------------E-------GL---------------H--L
+DHVSRK--RGEILKI---IQILGGKV----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI00032A5ED3 PREDICTED: NEDD8-specific protease 1 n=1 Tax=Cicer arietinum RepID=UPI00032A5ED3
+---------------------------------MGKSEADEK----ILS------YNDVV
+-LRRSDLDILGGPY-YLNDRIIEF-YLSYL------------SSC-HP-----SQD--I-
+--LL----------VPPSIAFWIIQCP-VA-----ESF-KDFLE--------PLQL--SD
+K-TLILFPINDNDDV--NTAEGGSHWSLL-AY---YRNA-N-----QFVHHDSF--INM-
+-NAEP----AKKLYKAVLGYVGLSE-SGTE----------------AR------------
+-FL---ECTN-SPRQVN----------------------GYDCGLYVTAIARVI-CDWHV
+N---GKKTD----------------------AN------EM--------WFSAVKEQVTP
+SAVDCM--RSEILAL---IRDLMARHSGQRAPE---------------------------
+----------------------------------------------------------
+>lcl|UniRef90_Q9LSS7 NEDD8-specific protease 1 n=3 Tax=Arabidopsis RepID=RUBP1_ARATH
+---------------------------------MGNTSDDDK----ILS------YEDVV
+-LRRSDLDILNGPI-FLNDRVIEF-YLSFL------------STV-HS-----STT--I-
+--SL----------IPPSIAFWISNCP-DT-----EYL-KDFMK--------PLNL--RD
+K-DLLILPVNDNSNV--EVAEGGLHWSLL-VY---YKEA-N-----TFVHHDSY--MGV-
+-NRWS----AKQLFKAVSPFV-----SNGD----------------AS------------
+-YK---ECTD-TPQQKN----------------------GYDCGVFLLATARVI-CEWFS
+S-G-GM-KN----------------------RD------EL--------WFANVKETV-P
+DLVNHL--REEILAL---IKKLMSESVSK-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A093QZS9 Sentrin-specific protease 8 (Fragment) n=2 Tax=Pygoscelis adeliae RepID=A0A093QZS9_PYGAD
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVALLEPPN-WLNDHIIGF-AFEYF------------ANHQFQEF---SDQ--V-
+--CF----------ISPEVAQFIK-CA-LS--Q--EEI-AIFLQ--------PLDL--LH
+K-KLVFLPINDNSN---QV-AGGTHWSLL-VY---FRDK-K-----CFAHYDSH--SKC-
+-NSVH----AKQVAGKLEAFWGKRGG------------------------KAT-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNAEAL-CQGY-
+FRG-R-PEP----------------------L-------LQ---------------LLTP
+SYITQK--RAEWKAL---VTKLAQK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_H2YV88 Uncharacterized protein n=1 Tax=Ciona savignyi RepID=H2YV88_CIOSA
+--------------------------------------MKMD--EIVLS------YHDSL
+-LRKSDLSLLEAGN-WLNDKLIGF-MFEYY------------QNEIFAEN---AEK--V-
+--SF----------LDPDFVQLIK-LL-PD-----TDI-EGLIS--------PLNL--GT
+K-RLIFLPINNNPDP--E--AGGSHWSLL-VL---DQDL-N-----IFEHYDSY--GDT-
+-NYLV----AVEVASKFSSILKSQVK----------------------------------
+------KVP--TPQQCN----------------------GSDCGVYVIKIALLI-GQSKL
+RSS-PWKPD-----------------------------------------------QLTY
+DIISRE--RENMKEL---ILSKAGSS----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A078CTV6 BnaC09g35500D protein n=2 Tax=Brassica RepID=A0A078CTV6_BRANA
+---------------------MPLLKAEIAVVTLGPKLGSWA----YIC------FAFHF
+-IHQTNLFFF-----FDSDYVLQITVLQEL------------NCL-KT-----KTD--L-
+--RLEPRIDSENRVIPASIAFWISNCP-DA-----ESL-KDFMK--------PLRL--LD
+I-NLVILPVNDNLNV--ELEEGGLHWILL-VY---YKET-N-----SFFHHAYF--MGA-
+-NQWN----ARQLYKAVSLFV-----SDGD----------------AA------------
+-FR---ECGD-TPQQKN----------------------GYDCGVHLLATAQVI-CKWFS
+S-G-GM-KN----------------------RD------EL--------WLSDVKETV-S
+NVVNNL--REEILGL---IRRLMSEKSVSK------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A066V1A9 Cysteine proteinase n=1 Tax=Tilletiaria anomala UBC 951 RepID=A0A066V1A9_9BASI
+----------------------------------------MS--QTVLS------FGSSS
+-LQAADLDTLEDRE-WLNDNIIAF-FFELM------------EAQLGEKR---KDEAAL-
+--------------WPPSIVELLCSLSDGE-----ERDHEGLFP--------PLR-----
+--SCAFLPINDRYSS-STHDSIGTHWSLL-VVTDGHAPDIA-----KARHYDSL--YGH-
+-NDRA----ARRVWYKYHRLIGGSTDKGNCALDRFEEAKE--------------------
+-----------LASQVN----------------------ANDCGLYPLVFADLLLLSCSP
+QPQ-GAKTI---------------------------------------------AAKVLP
+KDVEAY--RKRFRDW---THKWLEYCIKKQESWKSWSDVKAHVGDVPRLNL---------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000258DF54 PREDICTED: sentrin-specific protease 8-like n=1 Tax=Megachile rotundata RepID=UPI000258DF54
+----------------------------------MAKSMSD---KVVLS------YYDCL
+-LRASDVALLQGTH-WLNDVIIGF-YFEYL------------DQKFNKNG---KKE--F-
+--YF----------ISPELTQLLK-MS-DP-----SQY-EIFLD--------PTNV--SE
+C-KCIIFPLNNCDRK--DA-AGGSHWSLL-VF---SKHD-K-----KCYHYDSSR-G-Y-
+-NSSV----ASQFATNVMNSVLDKDVL-----------------------NKK-------
+-FV---EAD--CPQQDN----------------------GYDCGIYVLCVTDVI-IKHVL
+QTG-KVEGC----------------------D-------CR---------------E-VK
+KLAESK--RMQLLNL---INELKCKPNSST------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_Q179X8 AAEL005475-PA n=2 Tax=Stegomyia RepID=Q179X8_AEDAE
+----------------------------------MSS--RGD--QVALS------YHESC
+-LRLSDVELLKGPF-WLNDQIISF-YFEYL------------EKMIFRD----EED--L-
+--LF----------VSPEVTQCIR-MV-SE-----EDV-GIFLE--------PLRA--SE
+R-SFIFFALNDNQIA--DQ-AGGSHWSLL-VF---SRPE-M-----VFYHFDSSH-N-S-
+-NSDI----CRQFVTALKRTLRCP-K-------------------------AQ-------
+-LR---TGD--CLQQSN----------------------GYDCGVHVLCTVDKV-TQQIR
+KAG-KIEGV----------------------K-------SA---------------R--Y
+DVIRGK--REEVLNI---IIDLGGRIN---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_Q4WGD0 Ulp1 protease family protein n=7 Tax=Aspergillaceae RepID=Q4WGD0_ASPFU
+-------MRDGGLGKLHKKMRRF--------GD-TL--NP-E--DAYLS-----------
+-LTREDMQTLKN-D-WLTDNIISF-WEEYL------------EREFLVQ----YKTSNI-
+--VL----------LRPSMSFMLLQTP-NP-----LSL-REALP----------DF--SR
+T-THVFLPINDCRNV--TEAEGGSHWSLL-LI---SIVD-G-----VAFHYDSL--PPG-
+-NYWE----ARAVTQKFGTLLNRPIR----------------------------------
+---FIHLED--SPVQEN----------------------GSDCGVFVCLSMRHLLLKRLL
+TAN-ANEKV------------------------------SM---------------SLGG
+RKVDARAGRKEIAKI---IEGFRKEGERRR---SYV----------------HIFADSLT
+NFRWLDT---------------------------------------------------
+>lcl|UniRef90_Q08CI6 Uncharacterized protein n=1 Tax=Danio rerio RepID=Q08CI6_DANRE
+--------------------------------------MD----PVVLS------YQDSL
+-LRRSDVALLNGPH-WLNDQVIGF-AFEYF------------TTECFKSL---SDK--I-
+--CF----------ISPEVAQFIK-YA-SC--H--EEL-AIFLE--------PLSL--AS
+R-RWVFLAVNDNSN---QT-AGGSHWSLL-LY---RRDT-S-----QFAHYDSQ--SGS-
+-NSLH----ARRIAAKLEAFLGA-GA------------------------KVP-------
+-FV---EEQ--CPSQQN----------------------SYDCGMYVICNAEAL-CESIK
+TEG-F-PSL----------------------P-------TP---------------IITP
+TYITHK--RTDWYSL---IQRLAKE-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_H2ZVJ6 Uncharacterized protein n=1 Tax=Latimeria chalumnae RepID=H2ZVJ6_LATCH
+--------------------------------------MD----PVILS------YNDSL
+-LRHSDVSLLDPPK-WLNDHIIGF-TFEYF------------ATDLFQDF---CSS--V-
+--CF----------IGPEVAQFIK-CA-TS--Q--EEL-AIFLE--------SLDL--PH
+K-KLVFLPVNDNLN---QV-AGGTHWSLL-VY---NRDR-G-----GFGHYDSY--SGS-
+-NTHH----ARQIVEKLEPFLGKRAV------------------------RVP-------
+-FV---EEQ--APSQQN----------------------SYDCGMYVICSTEVL-CEEY-
+LKG-Q-PRV----------------------L-------LQ---------------LLTP
+LYITQK--RAEYKRL---IEKLAKK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_Q0CPN4 Putative uncharacterized protein n=1 Tax=Aspergillus terreus (strain NIH 2624 / FGSC A1156) RepID=Q0CPN4_ASPTN
+-------------------MVLF-----------QL--NP-D--DAYLS-----------
+-LTREDMQSLKN-D-WLTDNIISF-WEEYL------------EREFLVQ----YKHSNI-
+--VL----------LRPSMSFMILQTP-NP-----HSL-REALP----------DF--SR
+T-THVFLPINDCRNV--TEAEGGTHWSLL-LI---SIVD-G-----VAFHYDSL--PPG-
+-NYWE----ARQVTMKFGALLGRPIR----------------------------------
+---YIHLED--SPVQEN----------------------GSDCGVFVCLSMRHLLLKRLL
+TAN-ANEKV------------------------------SM---------------SLGG
+RKVDARAGRKEIAKI---IEGFRKEGERRR---SYVDLLVYI---------TRVLAR---
+----------------------------------------------------------
+>lcl|UniRef90_A0A0D1YQC6 Uncharacterized protein n=1 Tax=Exophiala spinifera RepID=A0A0D1YQC6_9EURO
+----------------------M--------AP-KL--AP-E--DAYLS-----------
+-LTREDISVLKN-D-WLTDNVIAF-WEEYL------------EREYLVN----FKHSHI-
+--VL----------LRPTMSFMLMQTP-DP-----RTI-KDALP----------DL--TN
+V-SHIFLPINDNHAV--NVAEGGTHWSLL-LV---SIVD-G-----VAFHYDSM--PPG-
+-NQFE----AHHVTQKLSRLINRPLK----------------------------------
+---FIHLHD--SPLQDN----------------------SSDCGVFVCLNMRHLLLKRLL
+MVR-TDAKV------------------------------SM---------------SLGG
+RKVDATAGRKEMLRI---IDEFRKEGERRR---S--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B3MCA9 GF19818 n=3 Tax=melanogaster group RepID=B3MCA9_DROAN
+----------------------------------MSSNSKAD--PISLS------FHDSC
+-LRMSDVQLLHGPH-WLNDQILSF-YYEYL------------SHVKYKT----NGD--L-
+--HF----------IAPEVTQCMK-YM-DD-----QEL-EQLLG--------QSNA--SN
+K-PFIFFALNDNEST---E-AGGTHWSLL-VF---SRPE-K-----TFYHFDSYG-N-N-
+-NTGN----SMELMNKIKELLGVR-Q-------------------------AK-------
+-FR---PMR--CLQQAN----------------------GYDCGIHVICMTDHI-ADYLN
+RYE-VIEGL----------------------P-------SL---------------H--I
+DTVKAK--RTELLKL---ILSLGGKG----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_G4VGD3 Family C48 unassigned peptidase (C48 family) n=1 Tax=Schistosoma mansoni RepID=G4VGD3_SCHMA
+---------------------------------------MSS--DVILN------YYESL
+-LHRDDLDTLKEGC-FVNDNIITF-QLEYL------------RHTKLSH----SSN--I-
+--LL----------MDPAASQLLK-LM-DE-----ESI-RLVLD--------PLEF--KS
+K-DWIFLVINDSASR--VS-SGGCHWSLL-VY---SPHL-M-----HSFYLDSLN-SSP-
+-NFSE----AITLCNKLCTYLGISFVDIKL------------------------------
+-------PN--VLKQNN----------------------GYDCGIFCMVFIEII-CDMIL
+KGD-T--------------------------S-------WQ--------M--SLSTDMVS
+HQVMHK--RKSLLEC---IYGLSTANA---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0004CDAFA2 PREDICTED: sentrin-specific protease 8 n=1 Tax=Microplitis demolitor RepID=UPI0004CDAFA2
+------------------------------------MPRSED--KTVLS------YHDSL
+-LRTSDINLLKGPS-WLNDAIIGF-YFEYL------------EQTSEVTA---TKN--I-
+--KL----------YGPELTQLLK-MT-E-------EY-S-FLS--------P------D
+V-DYMFFPLNDCNNY--ED-VGGSHWSLL-VY---SKNE-K-----ICCHFDSSA-G-G-
+-NNSV----ARNFSNKIIKHLVADTE-------------------------TE-------
+-FK---NVP--CPQQGN----------------------SYDCGIYVLCFADII-LEHLK
+SNS-RIGDC----------------------D-------LS---------------K-IS
+SRVKNK--RNELLDL---IDKLSKQS----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_J9BH16 Ulp1 protease n=1 Tax=Wuchereria bancrofti RepID=J9BH16_WUCBA
+-------------------------------------MAKSE--RCILS------FGDTV
+-LYEADLKALENGR-WLSDPVISF-AFEYL------------QEKTLDE----TKKSKI-
+--SF----------VNAAVCQLIKLT--KA-----NEV-AELLD--------ELTL--KE
+K-EHVIFAVNDHDEP---SRSGGSHWSLL-IC---RRDLRP-----HFLVIDSAQ-GTSS
+ANQKP----TNKLIQTLARYFGLPIDTRIER-----------------------------
+-----------ATKQYN----------------------SMDCGMFVIEFTRHY------
+------------------------------------------IESLKRDQFTVDFTQLNA
+DDVKKQ--RKVWGSL---IRSLAEE-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_E2RNH6 Uncharacterized protein n=74 Tax=Eutheria RepID=E2RNH6_CANLF
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVSLLDPPS-WLNDHIIGF-AFEYF------------ANSQFHDC---SDH--V-
+--CF----------ISPEVTQFIK-CT-SN--Q--TEI-AMFLE--------PLDL--PN
+K-RVVFLAINDNSN---EA-AGGTHWSLL-VY---IQDK-N-----SFFHYDSH--SRS-
+-NSVH----AKQVAEKLEAFLGRKGD------------------------KLA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQNF-
+FRQ-Q-PES----------------------L-------LQ---------------LLTP
+TYITKK--RGEWKDL---IARLAKN-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI00022C9FDA PREDICTED: sentrin-specific protease 8-like n=1 Tax=Bombus impatiens RepID=UPI00022C9FDA
+----------------------------------MATDPSN---KVVLS------YYDYL
+-LRISDVTLLQGSY-WLNDVIIGF-YFEYL------------DETLNKNE---RKD--F-
+--YF----------ISPELTQLLK-MT-DP-----DQY-IIFLD--------PLSI--SE
+C-KCMIFPLNNCDRK--DT-AGGTHWSLL-IF---CKGD-K-----TCYHFDSAK-G-S-
+-NATI----ASKFAKNVMDCVFDKNEP-----------------------NKK-------
+-FV---EVD--SPQQNN----------------------SYDCGVYVLCLTDVI-INHIL
+KNE-RMDGC----------------------N-------YN---------------Q-VK
+KLVHAK--RAQLLGL---INDLKHKPFINQ------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI00064459A8 PREDICTED: sentrin-specific protease 8 n=1 Tax=Clupea harengus RepID=UPI00064459A8
+--------------------------------------MD----PVVLS------YQDSL
+-LRRSDVALLEGPH-WLNDQVIGF-VFEYF------------ATERFKDL---SRS--V-
+--CF----------ISPEVTQFIK-CG-SC--Q--EEL-ALFLE--------PLQL--AT
+R-RWVFLAVNDNSN---QT-AGGSHWSLL-LY---HRDN-G-----LFSHYDSQ--SGG-
+-NSLH----ARRIASKLEVFLGAKGK------------------------KVS-------
+-FT---EEA--SPRQQN----------------------SYDCGMYVICNTEAL-CDSAE
+YGG-N-PRL----------------------Q-------SH---------------TITP
+DYITRK--RAEWCGL---IQRLAKN-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A067CVY6 Uncharacterized protein n=1 Tax=Saprolegnia parasitica (strain CBS 223.65) RepID=A0A067CVY6_SAPPC
+---------------------------------------------MAIR------YHDAQ
+-LYERDLALFPRNQ-WLNDAAMHF-YLTMI------------HHEMC------GSADDV-
+--LL----------MDPAVASCMLLQCDDQ-----EDL-ADLAN--------GLDL--HA
+K-ALLLLPVNDRSSF----ASQGSHWALL-VY---RRAT-N-----AFEFYDSS--SNH-
+-NLNS----AHELARVLLLALGRDPATANIQAMA--------------------------
+-----------CAQQTN----------------------GFDCGLYACLTAEWI-SRRFV
+SHG-STPAE-------------------------------------------SLIAYVTP
+ARVRSV--RESMPSR---VAALPLDE----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0L0D1C6 Sentrin-specific protease 8 n=1 Tax=Thecamonas trahens ATCC 50062 RepID=A0A0L0D1C6_THETB
+---------------------------------MAAEKKQSG--RVGLC-----TLGGTT
+-LLQSELELLDDGA-WLNDNIISF-YFEYLVRDVVAGGDGDGDGD--------GDGLPV-
+--VF----------LPPATVFLMTAVP-DP-----SML-APSFE--------PLGL--GK
+A-KQIVIAVNDKTSL--TDHIGGSHWSLL-VY---SAED-R-----TYRHYDSA--GGC-
+-NAAA----AADIAAVVDFFVTYNADPPVSNEAS--------------------------
+-FV----ADRNTPQQRN----------------------GYDCGVYLLHFAHCI------
+--------------------------------------------------AAGEPVTARP
+DRLVAM--RLHVRSV---IDAIAAEQRE--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0005FB2524 PREDICTED: LOW QUALITY PROTEIN: sentrin-specific protease 8-like n=1 Tax=Ovis aries musimon RepID=UPI0005FB2524
+--------------------------------------MD----PVVLS------YMDSL
+-LWQSDFSLLDPPS-WLNVHATGF-AFKYF------------SSSQFHAC---SDH--V-
+--CV----------ISPKVTQFIK-CT-GS--P--AES-AMFLE--------PLDL--PS
+N-RVIFLAINEXSN---HT-AGGTHWSFL-VY---LQDK-N-----SLFHYDSY--DYS-
+-NSFH----AKQVAEKLEAFLGRKGN------------------------KLA-------
+-SM---EEK--APAQQN----------------------SYDCGMYVKYNTEAL-CQNV-
+FRQ-Q-PES----------------------L-------LQ---------------LLNP
+TYITKK--REEWEDP---IARLAKNVLLKYI-----------------------------
+----------------------------------------------------------
+>lcl|UniRef90_M3AS67 Uncharacterized protein n=1 Tax=Pseudocercospora fijiensis (strain CIRAD86) RepID=M3AS67_PSEFD
+--MSARSSGSGFHPFGGRVSRHF--------GD-S--LSP-D--DAYLS------YYDVR
+-LTREDVDSIKS-D-WLTDNAICF-WEEYL------------EREKLIH----YPNANI-
+--VL----------LRPSMSFMLQKTQ-NP-----LTI-KSALP----------DF--AK
+T-THVFLPINDARRV--DLAEGGSHWSLL-LV---SVID-G-----VAFHYDSL--GVS-
+-NYNE----AKLTAHKISQLLGKTLR----------------------------------
+---FINLDD--SPQQHN----------------------GMDCGVYVCLLMQYLLISKLL
+RAH-AQDKI------------------------------SM---------------SLRG
+KEVDARGGRKEILRV---IEARRKEGERRR---S--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0006C942E0 PREDICTED: sentrin-specific protease 8-like n=1 Tax=Trichogramma pretiosum RepID=UPI0006C942E0
+--------------------------------MSRSQS------NIVVS------YHDCI
+-LRKEDIHLLEGPH-WLNDAVIGF-YFEYL------------GQKYR------YSR--L-
+--LF----------VSPELTQLLK-LT-DS-----SEY-SVFLQ--------PLEA--TY
+K-DYLFFPLNDCSSR--LS-SGGSHWSLL-VF---SRSD-K-----TCFHFDSSK-G-M-
+-NGMV----ARAFSRDISNYLLDR-T-------------------------GQ-------
+-YV---EID--CPHQEN----------------------GYDCGLFVLCFAEVI-AECIQ
+KRY-KIEEC----------------------K-------YD---------------S-VR
+RLVSEK--RRSLLNL---INTLKITH----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_M5WJN2 Uncharacterized protein n=2 Tax=Prunus RepID=M5WJN2_PRUPE
+-------------------MVFLHLEYINIIYQMGKTNPDEK----ILS------YNDVV
+-LRRSDLDILSGPY-FLNDRIIEF-YFSYL------------SSC--------SEE--I-
+--LL----------VPPSIAFCIMNYP-VG-----QGL-TEFLE--------PLHL--PE
+K-KLVVFPINDNDDV--SEAGGGSHWSLL-AF---ERDA-N-----KFFHHDSN--RGM-
+-NSIH----AKRLYNAVVSFMSVSS-SATK----------------PV------------
+-YQ---ECNS-SPQQMN----------------------GYDCGLYVLAIARVI-CSWYG
+E----KDED----------------------GD------KM--------WFSAVQGQVTP
+YVVARM--RNEILGQ---IRDLMPIK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_C1MTM6 Ulp1 protease family protein n=1 Tax=Micromonas pusilla (strain CCMP1545) RepID=C1MTM6_MICPC
+----------------------------------------MD--DRVLD------YHDIL
+-LRVRDVALLRGPQ-WLNDQVLSF-YFAHL------------QNDG-------RSPADV-
+--AF----------VDASMSFLLGNL--SP-----TEV-SSVLA--------STKV--SS
+A-SVILALVNDECDV--KRGDGGSHWSLL-VF---RKGI-------GWSHYDSSQTGGSR
+ANKAN----ANTLAAALAPYVRSGDGDGGVVNHKPPD-----------------------
+-----------APTQVN----------------------GYDCGAYALATAEAVRDAHVE
+VTR-SHRSG----------------------------SRDSGCGDAYDERLRARLRDITP
+EYVAEF--RRGILSL---IEELAEDDLSI-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A2DXG3 Clan CE, family C48, Ulp1-like cysteine peptidase n=1 Tax=Trichomonas vaginalis RepID=A2DXG3_TRIVA
+------------------------------------------------------------
+-------------------------MMKY-------------------------------
+--KF----------VSPLVTQLFQRSS--------EENAIPLFE--------NSAF--SK
+F-DLIFFPISN------LKTDNTCHWSLL-VW---CPGMKN-----QFLHFDSL--KNR-
+-NIVP----AKNFVKKIVSCLNLKAYNFKNMK----------------------------
+-----------GPIQDN----------------------SYDCGMYLMAVMDEIATTRKI
+SES-MKT-------------------------------------------------KITP
+DYISKF--RILLTTC---IINYNTTSKGWECYRAQLSD----------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0002C35F63 PREDICTED: NEDD8-specific protease 1 n=1 Tax=Fragaria vesca subsp. vesca RepID=UPI0002C35F63
+---------------------------------MAKSNPDEK----ILS------YNDVV
+-LRRSDLDILSGPY-FLNDRIIEF-YFSHL------------SSC--------SEE--I-
+--LL----------IPPSITFWMMNCP--A-----ESL-KDFLD--------PLHL--PD
+K-KVVIFPVNDNDDV--SEAEGGSHWSLL-AF---ERSM-N-----TFYHHDSSR-GGL-
+-SKRP----AKRLYNAVKKFMSVSS-SATD----------------PV------------
+-YK---ECTD-SPHQVN----------------------GYDCGMYVLAIARII-CSWYG
+S----KDKD----------------------GH------NM--------WFSAVKEQVTP
+SAIAAM--RGEILGL---IRGLMPKSEL--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_C3YUD7 Putative uncharacterized protein n=1 Tax=Branchiostoma floridae RepID=C3YUD7_BRAFL
+----------------------------------MAALAD----DIVLS------FHDSC
+-LRKSDVKLLQPPN-WLNDKIIGF-AFEYF------------ERVQFQDF---SSD--V-
+--TF----------ISPDVTQFIK-YS-QD------DL-APFLE--------PLEL--SS
+K-KLVFLAVNDNANL--ES-AGGSHWSLL-LY---RRDV-A-----EFQHYDSAQ-GSG-
+-NSAP----AKLLVKRVQPFL---GR------------------------EYF-------
+-FY---EVD--ASHQQN----------------------SYDCGVYVISNTEHL-CRQL-
+LQG-D-SSD----------------------I-------KE---------------AVTS
+TSVKQK--RTQLQEL---ISSLGKS-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_T1L470 Uncharacterized protein n=1 Tax=Tetranychus urticae RepID=T1L470_TETUR
+-------------------------------------MASYG--ENVLS------YHDTL
+-LRQTDVGTLEPGK-WVNDNIISF-WFEYL------------EHEVYSDY---EPF--I-
+--KF----------IPPDVAQFIK-SA-AEIPSQVSDV-SSVLE--------SMNL--SK
+K-QLILIPINDSPTD--AITTSGTHWTLA-TF---TTEN-G-----TFEHYDSFA-GSV-
+-NHLH----AQAIFHVLSPILIPDRASDI---------------------ELD-------
+-FC---EVA--CTQQRN----------------------NSDCGIHLICNADAV-CKKYF
+LGD---ERP----------------------V-------SE---------------IVSI
+DVINKT--RNELKTL---ISKIRQRR----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_M4CE74 Uncharacterized protein n=2 Tax=Brassica RepID=M4CE74_BRARP
+---------------------------------MANTWGDDK----ILS------FNDVV
+-LRRSDLDILNGPN-YLNDRVIEF-YLSYL------------STL-HT-----SPT--I-
+--SL----------IPPSIAFWISNCP-DT-----ESL-KDFIK--------PLRL--LD
+S-D----ELNDNLNV--ELAEGGLHWSLL-VY---YKET-N-----SFFHHDSF--MGA-
+-NQWN----ARQLYKAVSPFV-----SDGD----------------AA------------
+-YR---ECSD-TPQQKN----------------------GYDCGVHILATAQVI-CKWFS
+S-G-GM-KN----------------------RD------EL--------WLGDVKQTV-P
+NVVNHL--RDEILGL---IRRLMSEMVVE-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_G1TXV6 Uncharacterized protein n=2 Tax=Lagomorpha RepID=G1TXV6_RABIT
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVSLLDPPS-WLNDHVIGF-AFEYF------------ANCQFRDC---SDH--V-
+--SF----------ISPEVTQFIK-CT-SD--P--AEV-ALFLE--------PLGL--PN
+K-RVVFLAINDNSN---QA-AGGTHWSLL-VY---LQDK-N-----SFLHYDSH--SRS-
+-NSVH----AKQVAEKLQAFLGRHGD------------------------SPA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNAEAL-CHGF-
+FGQ-Q-PEP----------------------L-------LQ---------------LLTP
+TYITKK--RAEWKEL---IARLAKN-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_E3QZQ4 Ulp1 protease family protein n=1 Tax=Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212) RepID=E3QZQ4_COLGM
+----------MSMPFR-KMARHF--------GD-T--LSP-Q--QPYLS------YHDIL
+-LTYEDIKALKN-D-WLTDNNIAF-WEEWL------------EREILPK----YPQARI-
+--CL----------LRPSMTFLLMKEP-DM-----RQI-RSALP----------DF--SK
+T-THIFLPINDARNV--AQAEGGSHWSLL-LV---SAID-G-----VAFHYDSL--GGA-
+-NYAE----GRLATHKMSEVLGRPLR----------------------------------
+---YLNLED--APQQEN----------------------GSDCGVFVCILMRHLLVKRLL
+SAN-AREKV------------------------------SM---------------SMAN
+KLIDSHGGRKEMLKI---IESLRKEGERRR---S--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000581582B PREDICTED: NEDD8-specific protease 1 n=1 Tax=Sesamum indicum RepID=UPI000581582B
+---------------------------------MAKAKADEK----ILS------YNDVV
+-LRRSDIDILSGPY-FLNDRIIEF-YFSYL------------TSC-YP-----SED--I-
+--LL----------IPPSIAFWIKECP-DI-----SSL-KDFVE--------PLHL--QR
+R-KLIIFPINDNADV--SMAEGGSHWSLL-AF---ERNA-N-----VFVHHDSS--GGI-
+-NNAH----AKRVYRAVISY------TASD----------------AK------------
+-YV---ECSS-SPRQDN----------------------GYDCGLYVTAIARVI-CEWYQ
+N---DRPRG----------------------TD------DL--------WFAAIKEQITP
+SHVSKM--RNDILEL---VRSLMSKQ----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0H5RD19 Uncharacterized protein (Fragment) n=1 Tax=Spongospora subterranea RepID=A0A0H5RD19_9EUKA
+----------------------------------------MG--SDTIS------YEGTT
+-LYPSDLCLIDAPA-WFNDNLIGF-VYDWF------------QTKTFA-----EPPYKF-
+--LF----------INPATAFIIMHEK-DP-----EDL-MNVVQ--------SLEL--DK
+Y-EIVFMPVNNSDNV--RRAGGGSHWSLL-VL---HNTN-N-----EFVYFDSM--GLF-
+-NRSY----AQIIVDQIINCLSRNIA----------------------------------
+------MVDGQCPQQAN----------------------SYDCGVFVIEMTDRI-ASSLR
+NDV-ELSQF---------------------------------------------ATRITP
+EDIVRR--RNYVHDI---IKQIQSSQC---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B0XF62 Sentrin-specific protease 8 n=1 Tax=Culex quinquefasciatus RepID=B0XF62_CULQU
+----------------------------------MSS-YRGD--QVALS------FHESC
+-LRLADVELLKGPF-WLNDQIISF-YFEYL------------EKQIYKD----EDD--I-
+--LF----------VSPEVTQCIR-MV-SE-----AEV-GVFLD--------PLRA--KQ
+R-AFIFFALNDNQIA--DR-AGGSHWSLL-VF---SRPE-R-----AFYHFDSSH-H-S-
+-NSDI----CRQFVGVLKRALDCP-E-------------------------AQ-------
+-LR---TGD--CLQQSN----------------------GYDCGVHVLCTVDKV-IQQVR
+KSG-RIEGV----------------------K-------SA---------------R--Y
+DVIRGK--REEILNM---IIELGGRIN---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_Q7QHR4 AGAP011316-PA n=1 Tax=Anopheles gambiae RepID=Q7QHR4_ANOGA
+----------------------------------MSSHHRHD--EVALS------YHESC
+-LRLSDVDLLKGPY-WLNDQIISF-YFEYL------------EKHIFEN----EHD--L-
+--LF----------VSPEVTQCIR-MV-AQ-----DEV-GIFLE--------PLRA--HQ
+R-TFVFFALNDNQAA--DR-AGGSHWSLL-VF---SRPE-Q-----AFYHFDSSR-N-A-
+-NAEY----ARQLVAVLKRALHCP-D-------------------------AL-------
+-LR---TGD--CLQQSN----------------------GYDCGVHVLCTVDAV-AQQIR
+KSG-RIEGV----------------------R-------SA---------------R--Y
+DVIRSK--REELLGI---ILALGGRIK---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_S8DPR3 Uncharacterized protein n=1 Tax=Genlisea aurea RepID=S8DPR3_9LAMI
+---------------------------------MAKQHSDEK----ILS------YNDVI
+-LRQSDLDILDGPH-FLNDRIIEF-YFAFL------------TSS-HP-----TDQ--I-
+--LL----------IPPAVSFWIKECP-DP-----ATL-ADFLR--------PLDL--PR
+R-KLILLPVNDNTDV--ELAEGGSHWSLL-AF---YRDA-D---PPLFVHHDSC--GGM-
+-NRSE----ARRAYRAVASH------TESG----------------AE------------
+-YV---ECPS-MPTQVN----------------------GYDCGLYVTAVAAVI-CEWYA
+G---EGAKD----------------------SE------GL--------WFSVVGETITP
+SRVSKM--RRDLLDL---VKGLIAKK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_L2FUG9 Ulp1 protease family protein n=4 Tax=Colletotrichum RepID=L2FUG9_COLGN
+------------MPFR-KMARHF--------GD-T--LSP-Q--APYLS------YHDIL
+-LTYEDIKSLKN-D-WLTDNNIAF-WEEWL------------EREILPK----YPQARI-
+--IL----------LRPSMTFLLMKEP-DM-----RQI-RSALP----------DF--SK
+V-THIFLPINDARNV--AQAEGGSHWSLL-LV---SAID-G-----VAFHYDSL--GGA-
+-NYAE----ARLATQKMSEILGRPLR----------------------------------
+---FHNLDD--SPQQEN----------------------GSDCGVFVCILMRHLLVKRLL
+SAN-AREKV------------------------------SM---------------SMAN
+KLIDSHGGRKEMLKI---IESLRKEGERRR---S--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_M0U7R7 Uncharacterized protein n=1 Tax=Musa acuminata subsp. malaccensis RepID=M0U7R7_MUSAM
+-------------------------------MAPPKNKGDEK----ILS------YLDVV
+-MRRSDLDILRGPH-YLNDRIIEF-YFAHL------------ASL-CP-----SPR--A-
+--LL----------LPPSISFWLANCH-DP-----QSL-RQFAD--------PLRL--PD
+R-DLVLFPVNSNVDV--TVAGGGSHWSLL-VY---CRET-G-----EFVHHDSC--RGA-
+-NRCH----GERLFHAVSGFVDD---GGEP----------------PR------------
+-FV---EGF--TPQQTN----------------------GYDCGLFVMAIAKVV-YDWYV
+A-R-GGCAD----------------------GE------DG--------WFAALKEEVDA
+DAVDKL--RDEVLRL---ILSLMEPK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000575EDBC PREDICTED: sentrin-specific protease 8 n=1 Tax=Esox lucius RepID=UPI000575EDBC
+--------------------------------------MD----PVVLS------YQDSL
+-LRRSDVALLEGPH-WLNDQVIGF-AFEYF------------ATELFKGL---GET--V-
+--IF----------ISPEVAQFIK-YA-SC--P--EEL-AQFLE--------PLGL--AT
+R-RWVFLAVNDNSN---QT-AGGSHWSLL-LF---CRDV-G-----RFGHYDSQ--SGG-
+-NSLH----ARLIATKLEPFLGP-GR------------------------HMP-------
+-VV---EEP--CPPQQN----------------------SYDCGMYVICNAEAL-CERAT
+LEG-S-LQL----------------------P-------VQ---------------TITP
+TYITQK--RIEWGRL---IQRLAKN-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_D3BB70 Sentrin-specific protease 8 n=1 Tax=Polysphondylium pallidum RepID=D3BB70_POLPA
+--------------------------------------MSDD--PIILS------FKDAS
+-LYKSDLSILKNRYQWLNDAIISF-YFEYL------------SDTLLKDY--------LE
+KITL----------MSASTVFMLNYVNGDDV----AEL-NSMIG--------ALDL--PS
+K-EIIFIPINNNEDP--DQIAGGSHWSLL-VY---EKVN-Q-----SFYYYDSIS-GDS-
+-NYAY----GCVIARKLYKLLTGQQYTSSKISKRN-------------------------
+-----------TPQQRN----------------------GFDCGMYLLSITENL-SQQLI
+ENYKQNNQQ---------------------------------PLKITSDIESSMYKTITP
+DYISIK--RNQIYEI---VEKLINK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0A9WI25 Sentrin-specific protease 8 n=2 Tax=Lygus hesperus RepID=A0A0A9WI25_LYGHE
+--------------------------------MSNIRMSHRN--DTVLS------FHDSI
+-LYESDVELLDGPY-WLNDSIIGF-YMEYL------------EKEIYTD----L-G--I-
+--AF----------LRPEITQCLK-LS-PP-----SEL-PLFLD--------PLNF--KD
+K-SLALMPLNDCDNP--SSVGGGSHWSLL-TY---SKND-D-----RFYHLDSSQ-G-S-
+-NSIQ----ARVLAAKVSSYLGGPAE-------------------------PS-------
+-YR---APS--SLQQSN----------------------SYDCGVFVLCNMDNV-IKHFL
+RQG-TLENL----------------------E-------HI---------------R--I
+QDVSRK--RQEVKSL---IQQLNA------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000626342A PREDICTED: sentrin-specific protease 8 n=1 Tax=Athalia rosae RepID=UPI000626342A
+--------------------------------MSKNIRNEN---KIALS------YHDSL
+-LRESDVQLLRGPH-WINDNIIGF-YFEYL------------DKKTKDSK--HSKN--L-
+--LF----------ASPELTQLLK-LT-QS-----SDW-EALLD--------PINA--KS
+S-SFIFFPLNNCDSR--ES-GGGTHWSLL-VY---SQVE-N-----KCFHFDSCQ-G-L-
+-NAAA----AKNFTQKTLDYFCTKGS-------------------------DS-------
+-YH---EIN--CPQQDN----------------------GYDCGLYVLCFTDSI-VEHTM
+QQS-KMNNC----------------------Q-------FR---------------N-VG
+VLVNDK--RKNLLEM---ISYLKKHTSDSDQ-----------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0004AA593F PREDICTED: sentrin-specific protease 8-like n=1 Tax=Diaphorina citri RepID=UPI0004AA593F
+---------------------------------------MPS--KVVLS------YHDAV
+-LHESDISILQGSD-WLNDEIIAF-YLEYL------------EKEVYH-----KKG--M-
+--LF----------VSPQVTQCLK-QV-EK-----DEL-KIFLD--------PILD--RS
+H-HHIFFALNDSDSL--DK-PGGSHWSLL-IY---DRRN-D-----EYFHADSFQ-G-T-
+-NSRE----ALKLAYNLHYYFNPSDVN-----------------------QPP-------
+-FV---KQVK-TTQQKN----------------------SYDCGLHLLANLEVA-VRAVQ
+TGA-RLDEI----------------------L-------ID---------------E---
+QLIKSK--RASILSL---IYTLQRKHGPK-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_M1B1Q4 Uncharacterized protein n=4 Tax=Solanaceae RepID=M1B1Q4_SOLTU
+---------------------------------MAKSGADEK----ILS------YNDVV
+-LRRSDLDILKGPN-YLNDRIIEF-YFSYL------------SSL-FP-----SDD--I-
+--LL----------VPPSIAFWIKECP-DP-----ESL-KDFME--------PLHL--SR
+R-KLILLPINDNSDV--CMAEGGSHWSLL-AF---DRNS-N-----VFVHHDSSS-GCM-
+-NEYH----AKQVYKVTLPY------TSSN----------------AT------------
+-YK---KCPN-TPKQVN----------------------GYDCGVYVLAIARVM-CQWYA
+S---SGTQD----------------------AD------TL--------WFSHL-EQVTP
+SAVSVM--RNDILGL---IKGLMAAPKTVA------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0003C29F75 PREDICTED: sentrin-specific protease 8 n=2 Tax=Alligator RepID=UPI0003C29F75
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVALLDPPS-WLNDHIIGF-AFEYF------------ASSQFQDF---SDQ--V-
+--CF----------IGPEVAQFIK-CT-TS--Q--EEL-AMFLE--------PLDL--SH
+K-KVVFLAINDNSS---QA-AGGTHWSLL-GY---FRDR-N-----CFAHYDSH--SKS-
+-NSVH----AKQVAGKLEAFLGKRGG------------------------KAA-------
+-FI---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQGY-
+FRG-Q-QEP----------------------V-------LQ---------------LLTP
+SYITQK--RAEWKAL---IAKLAQK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0H1B3N4 Uncharacterized protein n=1 Tax=Emmonsia parva UAMH 139 RepID=A0A0H1B3N4_9EURO
+------------------------------------------------------------
+------------------------------------------------------------
+------------------MSFMLLQTP-DP-----RTL-RDVLP----------DF--TK
+T-SHIFLPINDCRNV--NEAEGGTHWSLL-LV---SVVD-G-----VAFHYDSL--PPG-
+-NCDE----ALQATQKLSHLLNRQLR----------------------------------
+---FINLDD--SPVQEN----------------------SSDCGVFVCLHMRHLLLKRLL
+MAN-SSEKI------------------------------SM---------------SLGG
+MRVNANHGRKEIVRI---IEGFRKKGEQRRRSYVPTFTFVCSSLLLLLVTILALPVLPLL
+FFPDSDFSTRLRTEVWWRDGEMLARLSSTIAAISPPTNVHHQIKEFMLRLVWGYQRAT
+>lcl|UniRef90_C1C4H9 Sentrin-specific protease 8 n=1 Tax=Lithobates catesbeiana RepID=C1C4H9_LITCT
+------------------------------MSSFGDGRIE----QVVLS------YGDSL
+-LRSSDVTLLDAPH-WLNDNIIGF-TFEFL------------ALSLAPSR---AER--V-
+--AF----------LSPEVSQFIK-CC-GN------EA-KEFLQ--------PLEL--PN
+K-DLVLLPVNDNAG---SA-AGGTHWSLL-AY---LRRF-S-----GFLHFDSA--PGT-
+-NAPH----ANRMAKNLGMLL---GG------------------------NPH-------
+-CQ---EEK--APVQHN----------------------SYDCGMYVVCVAEAL-CEQY-
+FLG-D-NNL----------------------N-------FQ---------------NITP
+QYVTQK--RKEWKEI---IRGLSSDSKASSDF----------------------------
+----------------------------------------------------------
+>lcl|UniRef90_I1IVA9 Uncharacterized protein n=1 Tax=Brachypodium distachyon RepID=I1IVA9_BRADI
+----------------------------------------MD--ERVLS------YGDVV
+-LLRSDLAILRGPH-FLNDRIIAF-YLAHL------------SASF-------HGDGDL-
+--LL----------LPPSIPYLLSNLP-DP---------ESVAE--------PLCL--AS
+R-RLVLLPVNDNPDA--SVANGGSHWTLL-VL---DAAT-TDPQAPRFVHHDSLR-GSA-
+-NAAA----ARRLARALTAG----------------------------------------
+-GAPLRFVEAPTPTQRN----------------------GHDCGVYVLAVARAI-CGWWR
+SSR-RRENQ----------------------------------QGGGGDWFATMMEEVDA
+ESVGAM--RAELLQL---IHRLIQDKEQEEEKKSKAGVEDTCGQ----------------
+----------------------------------------------------------
+>lcl|UniRef90_R1BBA9 Uncharacterized protein n=1 Tax=Emiliania huxleyi CCMP1516 RepID=R1BBA9_EMIHU
+---------------------------------------MAA--KVVLG--------DIT
+-LQAHDVATLRPGG-WLGDMVIAY-FFERL------------AG---------SSGGGV-
+--VL----------LEPSTAFTAATLG-DA-----DVL-REMLSVAPTGGATPLADELAA
+A-NLVLIPVNDNEDP--DAAEGGGHWSLL-VF---RRHG-QEGGAARFEYYDSL--LAS-
+-NLAH----AKRVAATLAPLLLPQTAGDSAGRLPVACLP---------------------
+-----------TPQQAN----------------------GHDCGVYVIAIAAIV-AGAPS
+EAS-GQPL-------------------------------SE--------AVSAAVSALTP
+AVITAQ--RREYHAH---LTRALDGGGGQ-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_W9SIH8 NEDD8-specific protease 1 n=1 Tax=Morus notabilis RepID=W9SIH8_9ROSA
+---------------------------------MGGSNPDEK----VLS------YNDVV
+-LRRSDLDILSGPY-FLNDRIIEF-YFSYL------------SSC-YP-----SED--V-
+--LL----------VPPSISFWIMSCP-VI-----ESL-KDFVE--------PLHL--PD
+R-KLVLFPTNDNDDV--SQAEGGSHWSLL-AY---ERNS-N-----MFVHHDSH--RGM-
+-NKRH----AKQLYNAVKGFMSDTD-SVSA----------------AK------------
+-FL---ECAD-SPQQTN----------------------GCDCGLYVTAISRVI-CLWHG
+DGG-NKDKG----------------------EG------DL--------WLSAVKEQVTP
+SVVAEM--RNEILGL---IRGLMAMK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_G0SC56 Nedd8-specific protease-like protein n=1 Tax=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) RepID=G0SC56_CHATD
+------------MRFR-SMARHL--------SE-S-FSSS-S--QPYLS------YHDIL
+-LTTEDIRALKG-D-WLTDNNIAF-WEEWL------------EREVLPN----YPKARV-
+--VL----------LRPSITFLLMQTI-DI-----KGI-SSALP----------DF--RN
+V-THIFLPINDSRDR--ERADGGSHWSLL-LV---SVID-R-----VAFHYDSL--GGA-
+-NFYE----AQRCTDRLGRVLGIPLR----------------------------------
+---FHQLED--CPQQPN----------------------SSDCGVFVCILMRHLLIKRLL
+VAG-SNEKV------------------------------SM---------------SMAG
+KMIDSHGGRKEMLRI---IESLRKEGERRR---S--ASPYAK---------PNTPPRIE-
+----------------------------------------------------------
+>lcl|UniRef90_H2UYZ1 Uncharacterized protein n=1 Tax=Takifugu rubripes RepID=H2UYZ1_TAKRU
+--------------------------------------MN----PVVLS------YRDSL
+-LRSSDVSLLEGPH-WLNDQVIGF-AFEYF------------SAERFRVL---GDA--I-
+--VF----------ISPEVTQFIK-YA-SC--H--EEL-AVFLE--------PLGL--SS
+R-QWVFLPVNDNSN---QT-AGGSHWSLL-VY---HHHS-N-----RFSHYDSQ--NGS-
+-NSLH----ACRIASKLEPFLGA-GR------------------------KAV-------
+-FV---EEP--CPSQQN----------------------SYDCGMYVICIAEAL-CEKAR
+VEG-F-PCL----------------------P-------LQ---------------IITP
+AYITQK--RAEFFRL---VQSLAQTDHCCSLSYH--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B4JW50 GH22812 n=1 Tax=Drosophila grimshawi RepID=B4JW50_DROGR
+-------------------------------------MSKAD--PISLS------FHDSC
+-LRMSDVQLLHGPR-WLNDQILSF-YYEYL------------SHVKYKN----NKD--V-
+--YF----------IAPEVTQCMK-YM-DD-----SEL-ELLFE--------EHNA--NN
+K-SFIFFALNDNGNT---E-AGGTHWSLL-ML---SRPE-K-----TFFHFDSYG-N-N-
+-NTGP----SLELMNKVKELLGMR-Q-------------------------AK-------
+-FR---PMR--CMQQAN----------------------GYDCGIHVICMTDHI-ADYVN
+RYE-VIDGL----------------------P-------SL---------------H--I
+DTVKAK--RAELLKL---ILSLGGKD----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI00004F6580 PREDICTED: sentrin-specific protease 8-like n=3 Tax=Bovinae RepID=UPI00004F6580
+--------------------------------------MD----LVVLS------YTDSL
+-LQQSNVSLLDPPS-WLNIHVIGF-AFQYF------------SSSQFHDC---SDH--I-
+--CF----------ISPVVTQFIK-CT-GN--P--AEI-AMFLE--------PFNL--PN
+K-RVIYLAINDNSN---HT-AGGTHWSLL-VY---LQDK-N-----SFFHYDSY--GIS-
+-HSFH----AKQVAEKLEAFLGRKGN------------------------KLA-------
+-IV---EEK--GPPQQS----------------------SYDFGMYAICNTEAL-CQNF-
+SRP---------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A068UKV0 Uncharacterized protein n=1 Tax=Coffea canephora RepID=A0A068UKV0_COFCA
+-----------------MALMAVAVLCRSLHFDLAKGMADEK----VLS------YNDVV
+-LRQADLDILSGPH-FLNDRIIEF-YLSYL------------SSR-RA-----AED--I-
+--LF----------VPPSIAFWIKECP-DT-----ASL-EEFLK--------PLNL--PN
+R-ELVLFPINDNIDV--SFAEGGNHWSLL-AF---RRSA-K-----VFIHHDSSS-SCM-
+-NSSH----ASRLYRAIFPYISDGV----------------------T------------
+-YM---ECSN-TPKQVN----------------------GHDCGLYVIAFARAI-CNWYE
+H---TTPKD----------------------KK------RW--------WFSDL-EHITP
+SAISEL--RSEILEL---IRSLMVKH----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A067LIP9 Uncharacterized protein n=1 Tax=Jatropha curcas RepID=A0A067LIP9_JATCU
+---------------------------------MGKSIADGK----ILS------YNDVV
+-LRQSDLDILSGPY-FLNDRIIEF-YFSYL------------SST-HP-----SED--I-
+--LL----------VPPSIAFWISNCP-DT-----ENL-IGFVE--------PLKL--PE
+K-KLVIFPVNNNDDV--NLAEGGSHWSLL-AY---ERNA-N-----VFVHHDSY--SGM-
+-NKRH----ALQLYKAVVSFLDTSD-TTAH----------------AE------------
+-YI---ELTY-SPQQVN----------------------GSDCGLYVTAISRAI-CYWNE
+S---CDQKD----------------------RD------GL--------WFSIVKEQVTP
+AAVAGM--RNEILLL---IRRLMASK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0005D0A08B PREDICTED: sentrin-specific protease 8 n=1 Tax=Plutella xylostella RepID=UPI0005D0A08B
+--------------------------------------MAKA--SVVLS------FHEIL
+-LHRSDIALLEGPF-WLNDTIISF-YFEYL------------EKVLFSD----ARE--L-
+--LF----------VSPEVTQCIK-MV-PS-----EEI-KIFLE--------PLGI--GS
+K-KFMFFALNDNDSP--DM-AGGSHWSLL-VY---SRPE-S-----CFFHMDSSS-G-S-
+-NHSV----AWDFASHLITYFSRGAS-------------------------IN-------
+-FV---NKD--CLQQSN----------------------GYDCGIHVICNTERL-GDYAR
+RHG-KIGSC----------------------D-------LL---------------V--K
+INPSSK--RRDLLQI---IESLSSS-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B9T1Y6 Sentrin/sumo-specific protease, senp8, putative n=1 Tax=Ricinus communis RepID=B9T1Y6_RICCO
+---------------------------------MGKSGADEK----ILS------YNDVV
+-LRRSDLDILNGPY-FLNDRIIEF-YFSYL------------SSS-HP-----SED--I-
+--IL----------LSPSVAFWISNCL-DT-----ESL-KDFLE--------PLKL--PD
+K-KLVMFPVNNNEDV--NLAEGGSHWSLL-VY---ERSC-N-----VFVHHDSY--SGT-
+-NKRH----ALQLYKAVARYIGTSD-ATAH----------------AK------------
+-YM---DLND-SPQQVN----------------------GYDCGLYVTAIAGAI-CYWNE
+S---CDRKE----------------------RD------CL--------WFSVVKEQVTP
+AAVAAM--RTEILSL---IRSLMVSK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_S2K6A5 Uncharacterized protein n=1 Tax=Mucor circinelloides f. circinelloides (strain 1006PhL) RepID=S2K6A5_MUCC1
+---------------------------------MQKEAQEED--KLVLH------YHDVV
+-IRQADLDTLAPGQ-WLNDTMIEF-HMEFL------------ERTFV------PKDAKY-
+--LF----------LRPGMVHLITFAEGDV-----MQL-EPAL---------PPRM--DE
+Y-EAIFIPVNDGKPH---EAYSGTHWSIM-VY---VRPV-N-----SFYYYDTL--KFN-
+-NLRD----GELSSRRIQPLLKLKKPAQFIPSS---------------------------
+-----------TPQQIN----------------------GSDCGVSVISIIDYT-LHQLL
+KSR-GKKEE---------------------------------------INYNKIMVLKSK
+DLSTPKQVRDNINGM---IKRLQQRSKTSCSSSSSSSTSSSSMNK---------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000625601C PREDICTED: sentrin-specific protease 8-like n=1 Tax=Orussus abietinus RepID=UPI000625601C
+-----------------------------MKKMARCSNQRE---EVILS------YYDYL
+-IRQRDVDLLQGPR-WLNDTILGF-YFEYL------------NRTSS------SKD--I-
+--FF----------ISPELTQLLK-MT-GP-----EDY-SAFLD--------PLDI--SQ
+C-KILCFALNDCSSK--DS-VGGSHWSLL-VF---SRRE-E-----KCFHFDSSK-G-M-
+-NQRI----ARLFSKKIIRYSLDKEA-------------------------DN-------
+-YV---ESD--CPQQDN----------------------GYDCGLFVLCFADLI-S----
+KSH-SVNHL----------------------D-------YT---------------E-FK
+DSVKTK--RSKLFDL---INSLRHKELG--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A6R7R3 Predicted protein n=4 Tax=Ajellomyces capsulatus RepID=A6R7R3_AJECN
+-------MLLNKFWNSISAMSYS--------AD-SLQSSP-D--DAYLS-----------
+-LTNEDVHTLKT-D-WLTDNVIAF-WEEYL------------EREFLIN----YQSANI-
+--VL----------LRPSMSFMLLQTP-DP-----RTL-REALP----------DF--TK
+T-SHVFLPINDCRNV--NEAEGGTHWSLL-LV---SVVD-G-----VAFHYDSL--PPG-
+-NCEE----ALQATLKLSHLLNRQLC----------------------------------
+---YINLDD--SPVQEN----------------------SSDCGVFVCLHMRQLLLKRLL
+MAN-SSEKI------------------------------SM---------------SLGG
+TRVNASNGRKEIVRI---IERLRKKGERRR---S----LSVN---------TNINSDDSI
+F---------------------------------------------------------
+>lcl|UniRef90_S4PXU9 Sentrin-specific protease (Fragment) n=1 Tax=Pararge aegeria RepID=S4PXU9_9NEOP
+--------------------------------------MAKS--SVVLS------FHEIL
+-LHQSDVALLSGSH-WLNDTIISF-YFEYL------------EKVTFSE----AEE--L-
+--LF----------VSPEVTQCIK-MV-ES-----NDI-GIFLE--------PLKI--NT
+K-KFVFFALNDNSSP--DT-AGGTHWSLL-IY---SRNE-N-----SFFHLDSSS-G-N-
+-NHDV----AWDFSSHLMLFLSKQGT-------------------------IN-------
+-FV---NKQ--CQQQSN----------------------GYDCGVHVICNTEKL-AHYAS
+DHG-EINTC----------------------D-------MS---------------V--K
+VSPSVK--RKELL-----------------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A091HNL1 Sentrin-specific protease 8 n=1 Tax=Buceros rhinoceros silvestris RepID=A0A091HNL1_BUCRH
+--------------------------------------MD----PVVLS------YKDSL
+-LRQSDVALLEPPN-WLNDHIIGF-AFEYF------------ANHQFQEF---NDQ--V-
+--CF----------ISPEVAQFIK-CA-PS--Q--EEI-ATFLE--------SLDL--PC
+K-ALVFLPINDNSN---QV-AGGTHWSLL-VY---FRDK-K-----CFAHYDSH--SKC-
+-NSSH----AKQAAGKLEAFLGKRGG------------------------KAT-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNAEAL-CQGY-
+LRG-Q-PEP----------------------L-------LQ---------------HLTP
+SYITQK--RAEWKAL---VTELARK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A067RJR1 Sentrin-specific protease 8 n=1 Tax=Zootermopsis nevadensis RepID=A0A067RJR1_ZOONE
+--------------------------------------MSDD--PIILN------FHEAL
+-LHKSDIDLLSGPH-WLNDIIINF-YFEYL------------EKIAYKD----ENK--F-
+--LF----------VSPDVTQCLK-IS-PS-----DDM-FVFLD--------PLQA--KK
+R-DFIFLVLNNCEKT--DS-PGGTHWSLL-V-----------------------------
+-NFKQ----AWQLASNLFKYLSCYGK-------------------------GD-------
+-FQ---ELD--SLQQVN----------------------GYDCGIHVLCNVDLV-AAFCA
+QYN-KIKGC----------------------G-------KV---------------G--Q
+YNVATK--RAEILYL---IESLT-------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0006D501EB PREDICTED: sentrin-specific protease 8-like n=1 Tax=Halyomorpha halys RepID=UPI0006D501EB
+------------------------------------MASHKK--RVILS------YFDSL
+-IHDSDIDLLDGPH-WLNDTIIGF-YLEYL------------EKEVYVN----N-D--I-
+--CF----------IRPEITQCLK-LS-EV-----SEY-PIFLD--------PLKF--KQ
+R-SFAVLPLNDCENP--GL-PGGSHWSLV-VY---SKPE-R-----TFYHLDSSK-G-S-
+-NHNA----ARTLSYKLSLYVDRSNL-------------------------CS-------
+-FK---TLS--SLQQTN----------------------SYDCGVFVLCNIDNI-VPHIL
+RFN-KLENI----------------------N-------PI---------------R--E
+SEVSRK--RHDVKLL---INTLARMN----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000595A11D PREDICTED: sentrin-specific protease 8-like n=1 Tax=Solenopsis invicta RepID=UPI000595A11D
+-----------------MPILPASSKHI-SHDAHPINPCKND--DIVLS------YHDYL
+-LRASDVTLLERND-WLNDIIIGF-YFEYL------------NQQCKKDS---QNR--L-
+--LF----------IGPEVAQLLK-MQ-DS-----SQY-NIFLE--------PIEA--TS
+Y-DFIFFPLNDCDSS--E--AGGSHWSLL-VY---SHIE-K-----MCYHFDSSS-G-I-
+-NSFS----AKKLARKVTKYFLEKQE-------------------------KR-------
+-YI---EMN--CPQQDN----------------------NYDCGLYVLCLADVI-SRHAI
+SSS-KISDC----------------------D-------CN---------------I-VT
+EMVVKK--RTDLLKL---IYDLRNTCNNI-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0B2VAE1 Sentrin-specific protease 8 n=1 Tax=Toxocara canis RepID=A0A0B2VAE1_TOXCA
+------------------------------------MSADVD--RRVLS------YGDTL
+-LHESDLLTLKKGS-WLNDRILTF-AIEYL------------YDTLLNE----AQKQEV-
+--CI----------VQAAVCQMLKFA--DW-----QSA-MSLCE--------SLSL--PD
+K-EHLIFVMNDHSDP---SSPGGSHWSVL-LY---RSGD-S-----HFSLADSL--PNP-
+-SLTA----AQQLVKTTTKCLGLPSAELRLLK----------------------------
+-----------TAKQQN----------------------GSDCGVYAIEFVRLY-LKNLC
+NPS-AADYT-----------------------------------------------EVSA
+NEVALQ--RNCWLTI---IHNLVNEERRMACSM---------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0B7JZP9 Uncharacterized protein n=1 Tax=Bionectria ochroleuca RepID=A0A0B7JZP9_BIOOC
+------------MPFRQHLARHF--------GD-A--LAP-E--KSYLS------YYDVL
+-LTGEDIKSLKN-D-WLTDNNIAF-WEEYL------------ERETLPR----YPQARI-
+--IL----------LRPSMTFLLMREP-DM-----RQI-RSALP----------SF--SK
+V-THIFLPINDNRNV--SLAEGGSHWSLL-LV---SALD-G-----VAFHYDSL--GGA-
+-NYSE----ARLATRKMSEILGRPLR----------------------------------
+---FVNLED--CPQQEN----------------------GSDCGVFVCLLMRHLLVKRLL
+SAP-AREKV------------------------------SM---------------SMGG
+KMVDSNGGRKEMLHI---IENLRKEGVRRR---SRSASPFSS---------SKTPPRIE-
+----------------------------------------------------------
+>lcl|UniRef90_F2TZZ0 Putative uncharacterized protein n=1 Tax=Salpingoeca rosetta (strain ATCC 50818 / BSB-021) RepID=F2TZZ0_SALR5
+-----------------------------MDASSPPQTATAS--RVVVT------YEDAS
+-LFASDVALLEPGQ-WLNDAIFTF-AFEYF-------------RHGHAETRARSKSGDV-
+--VF----------VDPSSLQLLFAM--DA-----ASARVALLE--------PIGA--AQ
+A-KVLVIPVNDAVSD-ARQPNAGTHWALLAVD---TEQS-------RALYLDSMPSASM-
+-RDQV----VTPLLTRLSAALGTHKRLTLLQPP---------------------------
+-----------FPRQAN----------------------SFDCGMYALAAAEHVAVTGLN
+PEP-SFD-------------------------------------------------FLSP
+AFISEL--RQRWKAI---ITETATPDNGHS------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0D2VP32 Uncharacterized protein n=2 Tax=Capsaspora owczarzaki (strain ATCC 30864) RepID=A0A0D2VP32_CAPO3
+------------------------------------MSDSDS--PAILS------YHNTL
+-LLRSDLDLLSAGE-WLNDRLIGF-AFEYL-----EFQVLPSASSACSGQASPDLASRI-
+--LL----------VGPDVAFLLANM--DP-----DQA-AGILA--------SLDA--PS
+R-ELVLLPVNNNRNV---EAAGGSHWSLL-VV---DCSS-Q-----RLFHIDSA--EGS-
+-NMSS----AKSLARILRSVLGISAKVPVRAMP---------------------------
+-----------CPQQHNCT--------------------PFDRCVFVLLNAASKFC----
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI00067DD57B PREDICTED: sentrin-specific protease 8 n=1 Tax=Amyelois transitella RepID=UPI00067DD57B
+--------------------------------------MAKA--SVVLS------FHEIL
+-LRESDIALLDGPY-WLNDTIISF-YFEYL------------ERVRFSQ----ATD--L-
+--LF----------VSPEVTQCIK-MV-QT-----DEI-KMFLE--------PLHI--HR
+K-NFIFFALNDNDSP--DR-AGGSHWSLL-VY---SKPE-S-----CFFHLDSSS-G-T-
+-NHNV----AWEFASHLIAYFSKE-S-------------------------IN-------
+-FV---DKE--CLQQSN----------------------GYDCGVHVICNTERL-AECVQ
+AEK-HIGSC----------------------D-------ML---------------V--K
+VNPVTK--RREILTI---IGNLSASS----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_R4FLI0 Uncharacterized protein n=2 Tax=Triatominae RepID=R4FLI0_RHOPR
+-------------------------------------MSVKG--NIVLN------YYDSI
+-VYEEDVQLLEGPH-WLNDTLIGF-YMDYL------------ENEEYNN----L-D--V-
+--CF----------VRPEVTQCIK-LS-P-------DL-PIFLD--------PIHF--RR
+K-AYAVMTLNDCINP--NS-PGGSHWSLL-IF---SRDE-F-----KFYHLDSSE-G-T-
+-NKLA----AKELAAKIADYVDKNAK-------------------------CD-------
+-FE---SLK--SLQQTN----------------------SYDCGVFVLCNLENV-LNHIF
+RKK-KLSTL----------------------E-------PI---------------S--E
+IQVSKK--REDLKKL---IINLYRREYTRAQTQKAKEGKQRSMLGEDG------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0K8UQ10 Sentrin-specific protease 8 n=4 Tax=Dacinae RepID=A0A0K8UQ10_BACLA
+----------------------------------MSSYTHAD--PIALS------FNDTC
+-LRMSDVQLLQGPH-WLNDQILSF-YYEYL------------EKVKYKN----NPD--L-
+--LF----------VAPEVTQCMK-LT-DD-----DEL-ETVFN--------QLEA--PR
+K-QFIFFALNDNEST---Q-AGGTHWSLL-VF---SRPE-K-----TFFHFDSWG-N-N-
+-NSLA----SQQFVHQIKVALNCR-Q-------------------------CH-------
+-IK---PIR--CLQQAN----------------------GYDCGIHVICMTDNI-ADYVN
+RYE-CVEGV----------------------G-------PL---------------H--Q
+DIISAK--RSELLKL---IQSLGGKV----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0004E588B7 PREDICTED: NEDD8-specific protease 1 n=2 Tax=Arecaceae RepID=UPI0004E588B7
+-------------------------------MPPSRSKADDK----ILS------YGDVV
+-LRRSDLDILHGPH-YINDRLIEF-YFAHL------------S----P-----PSH--V-
+--LL----------VPPSISFWLSNCP-DP-----VSL-SEAAT--------PLKL--PQ
+R-DIILFTVNNNSDV--TSADGGTHWSLL-VY---YRAT-N-----EFVHHDSS--QGM-
+-NRWH----AETLVEAVKRFVVG---DGE-----------------AR------------
+-YV---EGF--TPQQNN----------------------GYDCGLYVMTIARVV-CDWF-
+R-E-GGAKN----------------------ER------ER--------WFSALKEEVDA
+AAVAEL--RGEVLRL---ILGLMEKK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0G2B245 Sentrin-specific protease 8 isoform X1 n=1 Tax=Scleropages formosus RepID=A0A0G2B245_9TELE
+--------------------------------------MD----PVVLS------YQDSL
+-LRRSDVALLEGPY-WLNDQVIGF-AFEYF------------TIERFKGL---SKA--A-
+--CF----------ISPEVTQFIK-CT-SS--Q--EEL-ALFLE--------PLNL--PA
+C-RWVFLAVNDNSH---QT-AGGTHWSLL-LY---RRDS-G-----CFSHYDSQ--SGS-
+-NALH----ARRIASKLESFLGA-AK------------------------KPL-------
+-FV---EEL--APAQQN----------------------SYDCGMYVICNTEAL-CDSIG
+QGV-A-PQA----------------------L-------TQ---------------IITP
+TYITQK--RAEWRGL---IQRLSRRKE---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_G3WCA0 Uncharacterized protein n=4 Tax=Metatheria RepID=G3WCA0_SARHA
+---------------------MSYYVLLAFVSSWSLCRMD----PVVLS------YMDSL
+-LRESDVSLLDPPS-WLNDHIIGF-AFEYF------------ASDQFHDC---SDQ--V-
+--CF----------ISPEVTQFIK-CT-TN--P--EEI-TLFLQ--------PLDL--PH
+K-RVIFLPINNNSN---QA-AGGTHWSLL-VY---LQDK-N-----RFSHYDSH--SRS-
+-NSVH----ARQVAGKMEAFLGKRGD------------------------KVA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQSF-
+FKG-Q-PEP----------------------R-------LQ---------------HITP
+MYITRK--RAEWKDL---ISKLAKK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_T0NKG2 SUMO/sentrin specific protease family member 8-like protein n=2 Tax=Camelus ferus RepID=T0NKG2_9CETA
+----------MHVQSFPLHSHVILSPLLKFLSSPGQYKMD----PVVLS------YMDSL
+-LRQSDVSLLDPPS-WLNDHIIGF-AFEYF------------ANSQFRDC---SDH--V-
+--CF----------ISPEVTQFIK-CT-GN--P--AEM-AMFLE--------PLDL--PH
+K-RVVFLAINDNSN---QA-AGGTHWSLL-VY---LQNK-N-----SFFHYDSH--SRS-
+-NSVH----AKQVAEKLEAFLGRKGD------------------------KLA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQNF-
+FRQ-Q-PAS----------------------L-------LQ---------------LLTP
+SYITKK--RAEWKDL---IARLAAD-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_C6TMM4 Uncharacterized protein n=2 Tax=Soja RepID=C6TMM4_SOYBN
+---------------------------------MRKSKADEK----ILS------YNDVV
+-LRRSDLHILSGPY-FLNDRIIEF-YFSYL------------SSC-HP-----SQD--I-
+--LL----------VPPSIAFWIIQCP-VA-----EAL-GDFIE--------PLHL--PD
+K-TLVIFPVNDNDDV--DRAEGGSHWSLL-AY---YRNA-N-----LFVHHDSC--RSM-
+-NAAP----AKQLYKGIAGYMGSSG-SASE----------------AS------------
+-FL---ECTN-SPMQDN----------------------GYDCGLYATAIARVI-CNWHV
+N---HKNAD----------------------TN------DL--------WFSAVKEQVSP
+SAVASM--RGEILAL---IRDLMARH----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000695D7A4 PREDICTED: sentrin-specific protease 8-like n=1 Tax=Lingula unguis RepID=UPI000695D7A4
+----------------------------------MKRMASQG--DMVLS------FHDSL
+-LRTSDVDTLVPGN-WLNDNIIAF-AFEYF------------EKVQFKLH---EKD--V-
+--SF----------ISPDVTQFIK-LN-CG-----DEL-GIFLE--------PLCL--TS
+K-KYIFLVVNDESSA--AR-AGGSHWSLL-MF---SRPE-N-----TFYHHDSC--NKS-
+-NTKS----AKVVAMSIEIFLRATR-------------------------KVQ-------
+-FK---NEE--SPQQEN----------------------TCDCGMYAICNTELL-CKKHL
+DED-EVDLI----------------------N------------------------TITP
+EYVTKK--RQEMVNL---IHKLASTSK---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_K7IXL0 Uncharacterized protein n=1 Tax=Nasonia vitripennis RepID=K7IXL0_NASVI
+--------------------------------MSKSQNKEN---DLILS------YHDCI
+-LRRDDVNLLNGPY-WLNDAVIGF-YFEYL------------GQKYIEA----SSK--L-
+--LF----------ISPELTQLLK-LT-DP-----HEY-PIFLD--------PIEA--KK
+K-EFIFFPVNDCNSR--NT-AGGSHWSLM-VF---SKTE-R-----TCFYFDSSY-G-L-
+-NTSV----ARDFSKGVMSYLLDKGT-------------------------GQ-------
+-FV---EVN--CPQQEN----------------------GYDCGLFVLCYADII-TEFVL
+KTS-NVEGC----------------------D-------CD---------------N-VN
+SLVFEK--RKSLKTL---IERLKESEH---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A099ZGH5 Sentrin-specific protease 8 (Fragment) n=2 Tax=Tinamus guttatus RepID=A0A099ZGH5_TINGU
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVALLDPPN-WLNDHIIGF-AFEYF------------ACDQFQEF---CDQ--V-
+--SF----------IGPEVAQFIK-CA-TS--Q--EEV-AAFLQ--------PLDL--VH
+K-KLLFLPINDNSN---QT-AGGTHWSLL-VY---FRDK-K-----SFAHYDSH--SKS-
+-NSAH----AKQVAKKLEAFLGRKGG------------------------KVT-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQGY-
+FRG-R-QEP----------------------L-------LQ---------------LLTP
+GYITQK--RAEWRAL---VAKLA-------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B4JW47 GH22976 n=1 Tax=Drosophila grimshawi RepID=B4JW47_DROGR
+-------------------------------------MNKKD--PISMI------FHDSC
+-LRMSDVHLLQGPF-WLSDQILSF-YYEYL------------SHVKYKN----NKD--V-
+--YF----------IAPEVTQCMK-YM-DD-----SEL-ELLFE--------KQNA--YR
+K-RFMFFALNDNESS---S-EGGTHWSLL-VL---SLPQ-Q-----TFFHFDSCG-N-S-
+-NVRA----SRRLMNKVKYGLGMQ-Q-------------------------TR-------
+-FR---AMN--CLQQAN----------------------GFDCGIHVICTTDHI-VDHLN
+RYG-FLEGL----------------------P-------TL---------------P--V
+ELVMGK--RSELLNL---ILFLGGKI----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_R7VSV7 Sentrin-specific protease 8 n=1 Tax=Columba livia RepID=R7VSV7_COLLI
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVALLEPPN-WLNDRVIGF-AFEYF------------ANHQFQEF---HEQ--V-
+--CF----------ISPEVAQFIK-CA-LS--Q--EEI-AIFLQ--------PLDL--LR
+K-NLVFLPINDNSN---QV-AGGSHWSLL-VY---FRDK-N-----CFSHYDSH--SKC-
+-NSFH----AKQVAGKLESFLGKRGG------------------------KAA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNAEAV-CQGH-
+LGE-R-PEP----------------------L-------LQ---------------LLTP
+SYITQK--RAEWKSL---IMKLAQK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_H9GHR4 Uncharacterized protein n=2 Tax=Anolis carolinensis RepID=H9GHR4_ANOCA
+--------------------------------------MD----PVVLS------YMDSL
+-LRRSDVLLLDPPC-WLNDHIIGF-AFEYF------------ASDQFQDF---ADQ--V-
+--CF----------ISPEVAQFIK-CS-TS--Q--EEL-ALFLE--------PLNL--PK
+K-KVVFLAINDNSN---QA-AGGTHWSLL-VY---FQGT-N-----SFAHYDSH--TRS-
+-NCAH----ARRVAGKLEPFLGKRG-------------------------KIA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEVL-CKEF-
+FQG-Q-QEP----------------------M-------LQ---------------LLTP
+SYVTSK--REEWKKR---IAKLSQKKNVLTSAFCI-------------------------
+----------------------------------------------------------
+>lcl|UniRef90_C1E431 Ulp1 protease family protein n=1 Tax=Micromonas sp. (strain RCC299 / NOUM17) RepID=C1E431_MICSR
+----------------------------------------ME--DKVLD------YHDTL
+-LRVRDVCLLTGPN-WLNDAILGF-YFSFL------------QKDKYA-----SLRRSV-
+--SF----------VDASVSFLVANVA-EG------DV-AEILE--------PLGL--QS
+R-QIVLFSVSNNEDV--EVPEGGSHWSLL-VFRKGERGGMD-----TFEHYDSA--GAV-
+-NERA----ASGLVAAVAPYLCNSRRHK--------------------------------
+-FT---SSPAATPRQDN----------------------GHDCGLYVLAVADAVCSAHEL
+SQS-GNVDE--------------------------------------ESTLTRKLGKITP
+GFIADF--RLELLDL---VEELSSGMDTGTATTLDTASSLEHCEYIA-------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A061QVZ8 Sentrin-specific protease 8 n=1 Tax=Tetraselmis sp. GSL018 RepID=A0A061QVZ8_9CHLO
+-------------------------------------MSRSN--EKVLS------YQDVL
+-LRRADVELLRESE-WLNDQIIAF-YLEYL------------SQERL------QGRPGV-
+--LF----------LPPTVAFLICNAL-SP-----AEL-MPMLE--------PLKI--PQ
+R-KVVLLPVNDNTSV--ERAEGGTHWSAL-VC---CPEA-A-----ACIHFDSA--AGS-
+-NRSA----AQRLCRAVGPLLGLAGAPR--------------------------------
+------LVEARMAQQRN----------------------SHDCGVYTIAVAEAIAGTPDL
+ESR-SADGVREALERFPFPEPAGM------------------------------------
+--------RRGVRDL---VARLAARQGRAPGAEEQPE-----------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0K0D9W7 Uncharacterized protein n=1 Tax=Angiostrongylus cantonensis RepID=A0A0K0D9W7_ANGCA
+-----------------------------MCSRVFQAASGKD--VKILS------FGDVV
+-LYASDLQTLLPGM-WVNDNIISF-ACDYL------------LSKASDKI---KEQVAI-
+--------------VSAASCELIRHYG-EV-----EVV-REIFD--------TLNF--FS
+K-EKVLFVLNDRTDP---TTVGGSHWSLL-VL---NRKL-S-----QFRYYDSM--KAS-
+-KEAV----ARQIVAILTPFLKSSVHHSFVAED---------------------------
+-----------CAQQCN----------------------SFDCGMYVIEFVRRE------
+--------------------------LEVGLVCFFGNLYCFNIFCGNTCSTNILATVLKP
+TMI---------------------------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_T0R3H5 Uncharacterized protein n=1 Tax=Saprolegnia diclina VS20 RepID=T0R3H5_9STRA
+---------------------------------------------MAIR------FHDAQ
+-LYERDLALFPRNQ-WLNDAAVHF-YLTMI------------HYEMC------GGADDV-
+--LL----------MDPAVASCMLLQCDDP-----EDL-ADLAN--------GLDL--HT
+K-ALVLLPVNDRSSF----ASQGTHWALL-VY---RQAT-N-----AFEFYDSS--SNH-
+-NIDS----AYELARVLLLALGQDPATATVQAMA--------------------------
+-----------CAQQTN----------------------GVDCGIYACLTAEWI-SRRFV
+SHG-ATPAE-------------------------------------------SLTGYVTP
+ARVRSV--RASMPST---VAALALDE----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_W5JVX8 Sentrin-specific protease 8 n=1 Tax=Anopheles darlingi RepID=W5JVX8_ANODA
+---------------------------------MCAQRQSED--VIALN------FHESC
+-LRLSDVELLKGPH-WLNDQIISF-YFEYL------------EKRVFES----EPD--L-
+--LF----------VSPEVTQCIR-MV-SR-----EEV-GIFLD--------PLRA--TE
+R-SFVFFALNDNQSA--DQ-AGGTHWSLL-VF---SRPE-K-----AFYHFDSSH-N-A-
+-NVDS----ARQLVAVLARPLRCP-D-------------------------AQ-------
+-IR---TGD--CLQQSN----------------------GYDCGIHVLCTVDVV-TKQIR
+KSG-QVAGV----------------------R-------SA---------------R--Y
+DVIRSK--RDLLLET---IVQLGGRIK---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0003F0AEB5 PREDICTED: sentrin-specific protease 8 n=1 Tax=Elephantulus edwardii RepID=UPI0003F0AEB5
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVCLLDPPN-WLNDHIIGF-AFEYF------------ANCQFCDH---ADK--V-
+--CF----------ISPEVTQFIK-CT-SN--L--AEI-TIFLE--------PLDL--PH
+K-KVVFLAINDNSN---RA-AGGTHWSLL-VY---LQDK-N-----SFSHYDSH--SRS-
+-NSVH----AKQVAEKLEIFLSRKGD------------------------RVA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CYSF-
+FRQ-Q-PEG----------------------L-------LQ---------------LLTP
+AYITKK--RQEWKDL---IARLAKN-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_W5LTK4 Uncharacterized protein n=1 Tax=Astyanax mexicanus RepID=W5LTK4_ASTMX
+--------------------------------------MD----PVVLS------YQDSL
+-LRRSDVSLLDGPH-WLNDQVIGF-AFEYF------------TTERFKSL---GDK--V-
+--CF----------ISPEVTQFIK-CA-SC--H--EEL-ALFLE--------PLRL--PS
+R-RWVFLAVNDNSN---QT-AGGSHWSLL-LF---QRDT-G-----HFSHYDSQ--SGG-
+-NSLH----ARRIAAKLETFLAA-GS------------------------KVP-------
+-FV---EEP--CPSQQN----------------------SYDCGMYVICNTEAL-CESVR
+VGS-C-ARL----------------------P-------AQ---------------TITP
+TYITRK--RTEWHSL---IQRLARD-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0L0GBH8 Uncharacterized protein n=1 Tax=Sphaeroforma arctica JP610 RepID=A0A0L0GBH8_9EUKA
+--------------------------------------------MKAVQ------YGDTV
+-VYVEDLKSLGKHQ-WLGDRVISF-YFEFL------------QNEVY------PEYPAI-
+--CF----------VSPVVVQLIGSLT-VP-----TEV-EQFVS--------AMCL--DE
+R-DLILLPLNNNIDY--SMAAGGSHWSLL-VF---DRRE-H-----VFTHYDSM--RHN-
+-NWKP----AVDLVNKLHPSLDRYAE----------------------------------
+------IIKATCPQQRN----------------------GSDCGMYAMVFAAEV-AQAFA
+DNR-KPDLD-----------------------------------------------CATP
+SFVDAK--RKNLYDL---IIQIGKPCDNIR------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_J9JSG9 Uncharacterized protein n=2 Tax=Acyrthosiphon pisum RepID=J9JSG9_ACYPI
+------------------------------MSSNRTSSKEKD--PVVLS------YENFL
+-LHESDVRLLVDDQ-WLNDSVIGF-YMEYL------------NTEVFKN----NPK--V-
+--YF----------ISPEIVQCIK-EC-NV-----DDI-AVFLD--------PLVK--GK
+NYSYIFFPLNDQEQL--QT-VGGTHWSLV-VY---GAQD-R-----RLFHMDSIF-D-S-
+-NEKQ----ARKLALKLKFYFKDIVDI-----------------------ITP-------
+-LA--------TRQQQN----------------------SYDCGIHLICNAENV-AQFVC
+ANL-DIREV----------------------D-------PV---------------DVVD
+--LQNK--RTNLVDL---IYKLARRKEIT-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_H0UU92 Uncharacterized protein n=2 Tax=Cavia porcellus RepID=H0UU92_CAVPO
+--------------------------------------MD----PIVLS------YMDSL
+-LRQSDVSLLDPPN-WLNDHVIGF-AFEYF------------SNSQFRDY---SDH--V-
+--CF----------ISPEVTQFIK-CI-NS--P--AEI-AMFLE--------PLEL--PH
+K-RVVFLAINDNSN---EA-AGGTHWSLL-VY---LQDK-N-----SFFHYDSH--SKS-
+-NSIH----AKQVAEKLETFLGRKGD------------------------KLV-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CENF-
+FRQ-Q-PDS----------------------L-------LQ---------------LLTP
+TYITKK--RAEWKNL---IARLAK------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0005209189 PREDICTED: NEDD8-specific protease 1 n=1 Tax=Nicotiana sylvestris RepID=UPI0005209189
+---------------------------------MAKTKADEK----ILG------YNDVV
+-LRRSDLDILNGPN-YLNDRIIEF-YFSYL------------SSS-FP-----SDD--I-
+--LL----------VPPSIAFWIKECP-DP-----ASL-KDFME--------PLHL--PR
+R-KLILLPINDNSDV--CMAEGGSHWSLL-AF---ERNS-N-----VFVHHDSSY-GFM-
+-NEYH----AKQVYKVTLPY------TASS----------------AT------------
+-YK---ECPG-TPKQVN----------------------GYDCGVYALAIARVI-CQWYA
+S---SGTLD----------------------AD------TL--------WFSHF-EQVSP
+SAVSMM--RYEILGL---VKGLTAAPKSVA------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_M4BQP6 Uncharacterized protein n=1 Tax=Hyaloperonospora arabidopsidis (strain Emoy2) RepID=M4BQP6_HYAAE
+----------------------------------------MT--KQVLK------YHDVL
+-LYESDVALFASRQ-WLNDTTINF-YLQYL------------TYTCA--------PSDT-
+--LL----------MDPAVVSCLLHQCEDE-----DEY-SDLAR--------GLEL--FS
+R-RLCIIPVTDNEAL----GEGSSHWSLL-LY---YDGS--------FRHFDSS--AGH-
+-NKHA----AGRVAKSFELLLQAAGRQDGDGASGRVEEVVD-------------------
+-----------APQQKN----------------------SFDCGVYVLMLAEFF-SRQLE
+HQT-------------------------------------------------SLSTYATQ
+DRATEL--RQEMPNL---IERLQHRETKE-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000498EAA6 PREDICTED: NEDD8-specific protease 1-like n=2 Tax=Maleae RepID=UPI000498EAA6
+---------------------------------MGKPNPDEK----ILS------YNDVV
+-LRRSDLDILSGPY-FLNDRLIEF-YFSYL------------SSC--------SEE--I-
+--LL----------IPPSIAFWMMNA--VG-----QGL-HEFLV--------PLNL--PD
+K-KLVIFPVNDNEDV--SEAGGGSHWSLL-AF---ERDS-N-----VFVHHDSN--GGM-
+-NRRH----AKKLYDAVVDFMSVSS-SATK----------------PT------------
+-YQ---ECSD-SPQQVN----------------------GYDCGLYVLAIARVI-CSWYG
+S----KDKG----------------------EQ------TL--------WFHAVREQVTP
+SVVAAM--RNEILEL---IRGLMPVK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0G4EBQ5 Uncharacterized protein n=1 Tax=Vitrella brassicaformis CCMP3155 RepID=A0A0G4EBQ5_9ALVE
+-------------------------------------MDISG--DPVLP---RVTLHNAR
+-LYDQDIRLLQEGN-LLNDSCIGF-ALEYL-----------------STIGDFKDQSDV-
+--LF----------MDPATSFWVNIED-DL-----DDL-KEGLE--------ALSL--SS
+R-RLLLVPLNDNEDR--QVANAGSHWSLLVIHNPSDGPM-------SFDYYDSM--GSG-
+-ILPV----ATKIARKLSSLLRPQDDPNSAKATVTVQK----------------------
+-----------AAQQTN----------------------ATDCGVYVLLFAEHI-ARKHL
+GQQ-ATQPA-----------------------------------------------DITP
+KHVSSK--RKELQLR---VQEMAAATSEERDRKKD-------------------------
+----------------------------------------------------------
+>lcl|UniRef90_E2A419 Sentrin-specific protease 8 (Fragment) n=2 Tax=Camponotus floridanus RepID=E2A419_CAMFO
+---------------------------------------EDN--DVVLS------YHNYV
+-VRSSDVALLEKDDTWLNDIIIGF-YFEYL------------DQQYKKDN---KRQ--L-
+--LF----------IDPGVTQLLK-MQ-AP-----LQY-NIFLD--------PIEA--IT
+Y-DFIFFPLNDCEGN--E--PGGSHWSLL-IF---SRKD-E-----MCYHYDSSN-S-I-
+-NRSV----AEKFARNVIKYFLNKRE-------------------------RR-------
+-YI---EMD--CPQQNN----------------------CYDCGLFVLCLADLI-SKYIL
+KGL-KISDC----------------------D-------YS---------------I-IT
+EMVSKK--RMELLGL---IMDLR-------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_F4PB16 Putative uncharacterized protein n=1 Tax=Batrachochytrium dendrobatidis (strain JAM81 / FGSC 10211) RepID=F4PB16_BATDJ
+-----------------------------------------M--SVILS------YGDVQ
+-VTDEDLATLLPSE-WIGDGIIQF-YYEFL------------EHTV-------CKSREI-
+--LL----------IQPAVAHLIACSV-DK-----TYI-KAALP--------P-NI--NS
+K-STIFIPINDSN----GSQNSGCHWSLM-CY---YRPT-N-----SYYYYDSM--GNA-
+-NIRS----AKQTMNSICGLIGSSSPA---------------------------------
+-FI---AIN--TPMQVN----------------------GYDCGVYVMAITELL-CNRMA
+SKH-SHVTD-----------------------------------EPESLSFWQITHCIPP
+HFISEK--RNTIRNL---IIHLAGSKPQNQQ-----------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A016Q0V8 Uncharacterized protein n=3 Tax=Fusarium sambucinum species complex RepID=A0A016Q0V8_GIBZA
+------------MPFRQRMARHF--------GD-S--LAP-E--KPYLS------YYDVL
+-LTAEDIKALKH-D-WLTDNNIAF-WEEYL------------ERETLPK----YPQARI-
+--VL----------LRPSMTFLLMKEP-DT-----RSI-QSALP----------DF--SK
+V-THVFLPINDNRNV--SVAEGGSHWSLL-LV---STLD-G-----VAFHYDSL--GGA-
+-NYSE----ANVATRKLANILGRPLR----------------------------------
+---FINLDD--CPQQEN----------------------GSDCGVFVCLLMRHLLVKRLL
+CAN-AREKV------------------------------SM---------------SMGG
+KMVDSYGGRKEMMRI---IENLRKEGERRR---SRSASPF-S---------NKTPPRIE-
+----------------------------------------------------------
+>lcl|UniRef90_UPI00063ED846 PREDICTED: sentrin-specific protease 8-like n=1 Tax=Monomorium pharaonis RepID=UPI00063ED846
+-----------------MPVLPMSSKHV-SHDVQPTNLYKN---DITLS------YHDYL
+-LRKSDVALLEKND-WLNDIIIGF-YFEYL------------NQQYRKNS---QSR--L-
+--LF----------IGPEVAQLLK-MQ-DS-----SQY-NIFLD--------PIEA--KS
+Y-DFIFFPLNDCDSN--E--AGGSHWSLL-IY---SRVE-K-----MCYHFDSSI-G-I-
+-NNFS----AKKLARKVIKYFLEKQE-------------------------KR-------
+-YI---EKD--CPQQDN----------------------SYDCGLYVLCLADVI-SKHAV
+NSF-KISDC----------------------D-------CS---------------I-IA
+EMVPRK--RIDLLKL---IYDLKNSCNNA-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A074WNV8 Cysteine proteinase n=4 Tax=Aureobasidium RepID=A0A074WNV8_9PEZI
+--MS-----SGFHPFGGRVSRRF--------GDKS--LQP-D--DAYLS------YHDIR
+-LTVEDVDCIKN-D-WLTDNAIAF-WEEYL------------EHEKLNA----YPKARI-
+--VL----------LRPSMAFMLLQTN-DP-----MSL-KSALP----------SF--EN
+T-THIFLPVNDCRDV--EHAEGGSHWSLL-LV---SVVD-G-----VAFHYDSL--CPS-
+-NMNE----AKMLSHHISQLLQKPLK----------------------------------
+---FVNLDD--SPQQEN----------------------GSDCGVFVCLLMQHLLLGRLL
+QAH-AQDKV------------------------------SM---------------SMKG
+KNVDATGGRKEMLRV---IEMFRKEGERRR---S--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_D5AEB4 Putative uncharacterized protein n=1 Tax=Picea sitchensis RepID=D5AEB4_PICSI
+---------------------------------MDSMGEDEK----VLS------YADVV
+-LRRSDLKILQGHY-YLNDRIMEF-YFCYL------------SSF-S------SPK--I-
+--LL----------VAPSVSFWILNAP-DV-----RSL-QLFVD--------PLKL--PD
+K-ELVIFPVNDNIDV--NMAGGGSHWSLL-VY---HRAR-N-----IFEHYDSH--LQC-
+-NSLY----AGKLFENIKSFMGPPASSSTL----------------TL------------
+-HF--------TPQQRN----------------------GYDCGVFVLAIVKEL-CACEG
+NIS-G----------------------------------DD--------WEAVLKSRVTT
+SAVGEM--RSQILKI---IDELSS------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_U1NHY4 Sentrin-specific protease 8 n=2 Tax=Ascaris suum RepID=U1NHY4_ASCSU
+------------------------------------MSADVD--RRVLS------YGDTV
+-LHESDLQTLKNDT-WLNDRILTF-AIEYL------------YDTMLNE----TEKQKV-
+--CI----------VQAAVCQMFKFV--DW-----KGA-MSLCE--------SLSL--AD
+K-EHVIFVMNNHSDP---TSPGGSHWSVL-FY---RSGD-L-----HFSLVDSL--SNP-
+-SLDA----AQQLLKTITKCLGLRSAELIVAD----------------------------
+-----------AAKQRN----------------------GSDCGVYAIEFVRIY-LRNLH
+DPS-AIDFT-----------------------------------------------QVSA
+KEVAIQ--RDCWLTI---IHNLVNEENVTDCAV---------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0D2QBN9 Uncharacterized protein n=1 Tax=Gossypium raimondii RepID=A0A0D2QBN9_GOSRA
+---------------------------------MGKSAADDK----ILS------YNDVV
+-LRRSDLDILSGPY-YLNDRIIEF-YFSLL------------SSS-HP-----SED--I-
+--LL----------VPPSIAFWITNCP-DV-----DGL-KDFLE--------PLKL--PD
+K-NLVIFPVNNNDDV--SLAEGGSHWSLL-AY---YRSA-N-----IFVHHDSN--QQM-
+-NKRH----AMKLFKSVVGYNGGPS-STSN----------------DK------------
+-YQ---ECID-TPQQVN----------------------GYDCGLHVTATARTI-CSWYE
+S---SENKD----------------------GT------DL--------WFSALKEQVTP
+SVVGEM--RKEILGL---IKDLMAKQ----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_E2BK41 Sentrin-specific protease 8 n=2 Tax=Harpegnathos saltator RepID=E2BK41_HARSA
+--------------------------------MTMASTKKED--QVVLS------YHDSL
+-LRLSDVNLLKGTH-WLNDAIIGF-YYEYL------------TEEYKKYG---NTQ--L-
+--LF----------MNPPLTQLLR-ME-NP-----INC-CVFLD--------SVNA--KN
+Y-NFVFFPLNNCDSL--GS-PGGTHWSLL-VY---SRID-Q-----MCYHYDSSS-SYI-
+-NTFI----ASEFTSNVIKYFLGKPK-------------------------KS-------
+-YN---EII--SPPQNN----------------------GHDCGLHVLCLTDVI-SRHIL
+RTS-KVTDC----------------------D-------FG---------------A-IP
+EMVRHK--RTQLLNL---IETLKNTKPIDNE-----------------------------
+----------------------------------------------------------
+>lcl|UniRef90_W5QJ60 Uncharacterized protein (Fragment) n=8 Tax=Laurasiatheria RepID=W5QJ60_SHEEP
+------------------------------LSSSGQYKMD----PVVLS------YMDSL
+-LRQSDVSLLDPPS-WLNDHVIGF-AFEYF------------ANSQFHDC---SDE--V-
+--CF----------ISPEVTQFIK-CT-GN--P--AEI-DVFLE--------PLDL--RN
+K-RVIFLAINDNSN---HA-AGGTHWSLL-VY---LQDK-N-----GFFHYDSY--GGS-
+-NSFH----AKQVAEKLEAFLGRKGN------------------------KLA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQNF-
+FRQ-Q-PES----------------------L-------LQ---------------LLTP
+TYITKK--REEWKDL---IARLAKN-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_G3PXW2 Uncharacterized protein n=1 Tax=Gasterosteus aculeatus RepID=G3PXW2_GASAC
+--------------------------------------MD----PVVLS------YQDSL
+-LRRSDLSLLEGPY-WLNDQVIGF-AFEYF------------ASERFRVL---GEA--A-
+--TF----------VSPEVAQFIK-CA-SC--S--NEL-ALFLE--------PLDL--AS
+R-QWVFLAVNDNSD---QS-AGGSHWSLL-VY---HRSS-N-----HFAHYDSQ--SGG-
+-NSLH----ARRVAVNLEPFLGA-GR------------------------KAP-------
+-FV---EEP--CPSQKN----------------------SYDCGMYVICIAEAL-CEKAR
+VEG-S-PRL----------------------P-------VQ---------------IVTP
+AYVTQK--RAEWCRL---IQTLAQNDLCCRPVL---------------------------
+----------------------------------------------------------
+>lcl|UniRef90_Q2RBQ7 Os11g0102700 protein n=8 Tax=Oryza RepID=Q2RBQ7_ORYSJ
+--------------------------------MAHGGGEEEE--ERVLS------HGDVV
+-LFRCDLTILRGPH-FLNDRIIAF-YLAHL------------AADH-------DADDDL-
+--LL----------LPPSIPYLLSNLP-DP-----ASV-AAVAD--------PLRL--AS
+R-RLVLLPVNDNPDV--SHAEGGSHWTLL-VL---DNS--NAVSGPRFVHHDSL--PPT-
+-NLPS----ARRLAAVLRPLLPASAIP---------------------------------
+------LIEGPTPRQTN----------------------GYDCGVFVLAVARAI-CNWWP
+TRA-RHSNS----------------------D-------SD--------WLEAVKREVNA
+DSVKAM--RTQLLQL---IHTLIQNNTTTNQHSC--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0005216A5E PREDICTED: LOW QUALITY PROTEIN: sentrin-specific protease 8 n=1 Tax=Picoides pubescens RepID=UPI0005216A5E
+------------------------------MAGTSPRMED----PVVLS------YMDSL
+-LRQSDVALLDPPN-WINDRIIGF-AFEYF------------ASKEFEAF---EHE--L-
+--CF----------ISPEVAQFIK-CA-ES--R--EEV-GEFLQ--------PLDLRPSS
+K-RLVFFPINDNSS---QL-AGGTHWSLL-VY---YRDK-E-----CFGHFDSH--GTY-
+-NAAH----ARQVAEMVEFFVSTRAG------------------------KLI-------
+-LV---EEM--VPAQRN----------------------SYDCGMYVICCAEAV-CRLH-
+YED-R-VKA----------------------P-------LP---------------LLTP
+SYITQK--RAEWKAL---IAKLAQK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0005F52E22 PREDICTED: sentrin-specific protease 8-like n=1 Tax=Vollenhovia emeryi RepID=UPI0005F52E22
+-----------------MPVLPSNSKHLSSHDAYPTRPDKN---NIVLS------YHDYL
+-LRASDVALLEKND-WLNDIIIGF-YFEYL------------NQQYK------DSR--L-
+--LF----------IGPEVAQLLK-MQ-DS-----SQY-NIFLD--------PIEA--TN
+Y-DFVFFPLNDCDSN--E--AGGSHWSLL-IY---SHTE-Q-----MCYHFDSSG-G-I-
+-NDFS----ATKLARKVTKYFLEKQE-------------------------RK-------
+-YT---EMK--CPQQNN----------------------NYDCGLYVLCLADVI-SRHAI
+RNS-KVNEC----------------------D-------CS---------------I-VT
+KMVPTK--RTDLLKL---IYELKNTYNA--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI00053A1907 PREDICTED: NEDD8-specific protease 1-like n=3 Tax=Camelina sativa RepID=UPI00053A1907
+---------------------------------MGNTSGDDK----ILS------FEDVV
+-LRRSDLDILSGSN-FLNDRVIEF-YLSYL------------SSV-HS-----SPT--I-
+--SL----------IPPSIAFWICNCP-DT-----ESL-KDFMK--------PLKC--HD
+K-NLLIFPVNDNLNV--EVAEGGLHWSLL-VY---YKDA-N-----TFVHHDSF--MGV-
+-NRFN----AKHLFEAVSPFV-----ANGD----------------AT------------
+-YR---ECSD-TPQQKN----------------------GYDCGVYLLAVARVI-CEWFC
+C-E-GM-KN----------------------RD------EL--------WFTEVKKTV-P
+DLVSHL--RAEILEL---IKTLMSQSV---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_E1JH43 Deneddylase 1, isoform C n=6 Tax=melanogaster subgroup RepID=E1JH43_DROME
+MLPHDRKILRQHTRQNQNTNRRRPRFTNNSFHTKMGSNSKAD--PISLT------FHDSC
+-LRMSDVQLLHGPH-WLNDQILSF-YYEYL------------AHMKYKT----NAD--L-
+--HF----------IAPEITQCMK-YM-GD-----QEL-KQLLD--------QSNT--TG
+K-PFIFFALNDNETT---D-AGGSHWSLL-VF---SRPE-K-----TFYHFDSYG-N-N-
+-NTGN----SLELMNKIKDLLGVR-M-------------------------AK-------
+-FR---PMR--CLQQAN----------------------GYDCGIHVICMTDHI-ADYLN
+RYE-VIDGL----------------------P-------SL---------------H--I
+DTVKAK--RTELLKL---ILSLGGKG----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_F4W773 Sentrin-specific protease 8 n=3 Tax=Myrmicinae RepID=F4W773_ACREC
+-----------------MPVLPANSKHL-SHDAHPTNPYKN---DIVLS------YHDYL
+-LRTSDVALLERND-WLNDIIIGF-YFEYL------------NQQYRKDN---KSQ--L-
+--LF----------IGPEVAQLLK-MQ-DS-----SQY-NIFLD--------PIEA--TN
+Y-DFIFFPLNDCDSN--E--AGGSHWSLL-VY---SRME-K-----MCYHFDSSS-G-I-
+-NGFS----AKKLARKVTKYFLEKQE-------------------------RK-------
+-YI---EMD--CPQQNN----------------------NYDCGLYVLCLADII-SRHAI
+KNS-KVSDC----------------------D-------CS---------------I-IP
+EMVSKK--RSNLLKL---IYDLKSTSNNA-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_T1PG56 Ulp1 protease n=2 Tax=Calyptratae RepID=T1PG56_MUSDO
+----------------------------------MSSYSHAD--PIALS------FNETC
+-LRTSDVQLLSGPY-WLNDQIISF-YYEYL------------ERVKYKN----NPD--L-
+--LF----------VPPEVTQCMK-FS-DD-----GEL-ETLLN--------QLEA--PK
+K-PFIFFVLNDNEST---D-AGGTHWSLL-VF---SRPE-K-----TFFHFDSLG-N-S-
+-NSNA----SHQFVQRIKDALNCR-N-------------------------AH-------
+-MK---PIR--CLQQAN----------------------GYDCGIHVICMTDNI-ADNVN
+RFE-CVEGV----------------------G-------PL---------------H--Q
+DTISAK--RSDLIKL---IQSLGGKI----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI00053F344D PREDICTED: LOW QUALITY PROTEIN: sentrin-specific protease 8-like n=1 Tax=Fukomys damarensis RepID=UPI00053F344D
+------------------------MMSSAGAVADELRSTR----SVVLS------YVDSL
+-LWQSDVSLLDPPS-WLNDHMIGF-AFEYF------------ANSQFRDC---SDH--V-
+--CF----------TSPEVTQFIK-CT-NC--P--AEI-AMFLE--------PLDL--PH
+R-KVVLLAINDNFN---QA-AAGTHWSLL-VY---LQDK-N-----SFFHYDSH--SKS-
+-NSIH----ESRXQRNXKLFLGRKED------------------------KLV-------
+-FV---EEK--APAQQN----------------------SYDCGIYVICNTEAL-CQNF-
+FRQ-Q-PDS----------------------L-------LQ---------------LLSP
+RYITKK--RAEWKNL---SARLAKN-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A0A0KEM9 Uncharacterized protein n=2 Tax=Cucumis RepID=A0A0A0KEM9_CUCSA
+---------------------------------MGKSEGDEK----ILS------YNDVV
+-LRKSDLEILSGPY-FLNDRIIEF-YFSYL------------STT-HP-----SNG--I-
+--LL----------SPPSIAFWMMNCP-DV-----ESL-NSFLE--------PLNL--PH
+K-KLVIFPVNDNIDV--SKPEGGNHWSLL-AF---YREA-N-----IFVHHDSN--KGM-
+-NKYA----AKRLYNAVARFMNDGSISTLN----------------PS------------
+-YV---ECVE-SPQQVN----------------------GYDCGVYVTAIARSI-CKWYE
+E---RREVE----------------------KD------GL--------WFSAVVEEISP
+SLVANM--RREILGL---IRSLMAVKEYQPATK---------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B7QJ16 Sentrin/sumo-specific protease, putative n=4 Tax=Ixodes RepID=B7QJ16_IXOSC
+-------------------------------------MASKG--GKVLS------YHDVL
+-LRESDVAFLGGPH-WINDNLIGF-WMQYL------------EKEVYKGQ---RNQ--V-
+--EF----------VTPDVVQFIK-LG-AL-----QDV-SEQLK--------SLEL--KC
+R-SLILLPVNDCTEF--EL-PGGCHWSLL-VY---EAKK-K-----IFEHYDSCK-G-S-
+-NSVH----ARRIAEALKSLLCLESA--------------------------Q-------
+-VT---EVS--CTQQNN----------------------SYDCGLHVLYNLQQV-CAQRL
+HR--G-EFT----------------------T-------DF---------------CVLS
+DRMEHN--RNALLQL---IAYLAEQN----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0006448708 hypothetical protein SAMD00019534_039210 n=1 Tax=Acytostelium subglobosum LB1 RepID=UPI0006448708
+--------------------------------------MSDD--PIVLS------FKDIT
+-LYQSDVDILRNRYKWLNDAIISF-YFEYL-----------------SDKLPIDKQTEI-
+--TF----------LNPTTVFMLSYLENSDNL---DEI-NSILG--------PLNL--PD
+K-ACIFIPINDNSDP--STVAGGSHWSIL-VF---VKNS-K-----QFYYYDSIVGQTG-
+-NSHY----AMIAARKLSMLLTGVPSKEQRINIRQ-------------------------
+-----------APKQTN----------------------GHDCGLYLLSITEFI-VKRMV
+DQH--------------------------------------QSLQFTDDIEKDMISTLTP
+QSVTGL--RQNILDL---VTNLKAKASN--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_E3TFW8 Sentrin-specific protease 8 n=1 Tax=Ictalurus punctatus RepID=E3TFW8_ICTPU
+--------------------------------------MD----PVVLS------YQDSL
+-LRRSDVSLLEGPH-WLNDQVIGF-AFEYF------------AVERFKSL---GDA--V-
+--CF----------ISPEVTQFIK-CA-SC--Q--EEL-AVFLE--------PLRL--ES
+R-RWVFLAVNDNSN---QA-AGGSHWSLL-LY---QRHS-G-----HFSHYDSQ--SGG-
+-NAKH----ARRIVAKLQAFLGA-GT------------------------EVP-------
+-FV---EEP--CPSQQN----------------------SYDCGMYVICNAKAL-CESAR
+VGG-C-ARL----------------------P-------TN---------------TITP
+PYITKK--RTEWHSL---IRRLAKD-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_J9IPZ0 Sentrin-specific protease 8 n=1 Tax=Oxytricha trifallax RepID=J9IPZ0_9SPIT
+------------------------------------------------------------
+--------------------------MQYM------------------------------
+--QL------------------------D------EDL-EDMYG--------PLGL--KK
+A-KLIFIPLNDNQDQ--QKLRGGTHWALL-VYINNEKLT-Q-----KYFLLDSS--QSK-
+-GTSGMLNMANKIKKRIQYLINPDQSQDKISKESIVVLGD--------------------
+-----------TPVQNN----------------------CYDCGMYVLCFTETI-LNHIF
+KNQ-NFQSNPQELLNFLDLIDESKKIDFS---------------------------YINK
+DFIYET--RYKIQEI---IAKLIEEKNKQ-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI00021A63D7 PREDICTED: sentrin-specific protease 8-like n=1 Tax=Bombus terrestris RepID=UPI00021A63D7
+----------------------------------MATNSSN---EVVLS------YYDCL
+-LRTSDIVLLQGSH-WLNDVIIGF-YFEYL------------DETFNKTE---RKD--F-
+--YF----------ISPELTQLLK-MT-DP-----NQY-IIFLD--------PFSI--SE
+C-KCIFFPLNNCDKK--DT-AGGTHWSLL-IF---CRGD-K-----TCYHFDSAK-G-Y-
+-NGSI----ALKFAENVMNCVLDKNET-----------------------NRR-------
+-FV---EVD--SPQQKN----------------------SYDCGIYVLCLTDII-INHFL
+KNE-ILDGC----------------------D-------FN---------------E-VI
+KFVNTK--RTELLNL---INELKRKPLINL------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A023F8M6 Putative sentrin-specific protease (Fragment) n=1 Tax=Triatoma infestans RepID=A0A023F8M6_TRIIF
+----------------------------VPKKLIKDKMSVKG--NIVLN------YYDSI
+-VYEEDLQLLEGPH-WLNDTLIGF-YMDYL------------ENEEYNN----L-D--I-
+--CF----------VRPEVTQCIK-LS-P-------DL-PIFLD--------PIEF--RR
+K-SYAVMTLNDCINP--NS-PGGSHWSLL-IF---SRNE-L-----KFYHLDSSE-G-T-
+-NKLA----AKELAAKISEYVGKNIK-------------------------CD-------
+-FE---NLK--SLQQTN----------------------SYDCGVFVLCNLDNV-LNHIF
+RKK-KLSAL----------------------E-------PI---------------S--E
+VQVSKK--REELKKL---II----------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_D7SKS5 Putative uncharacterized protein n=1 Tax=Vitis vinifera RepID=D7SKS5_VITVI
+---------------------------------MGKSWADDM----ILS------YNDVV
+-LRRSDLDILSGPH-FLNDRLIEF-YFSYL------------TSC-YP-----SPD--I-
+--SL----------VPPSIAFWIMNCP-DT-----GSL-RDFIE--------PLKL--SE
+K-KLVIFPINNNDDV--EQAEGGTHWSLL-AF---EENA-N-----VFVHHDSC--GGL-
+-NEAH----ARKLYKAVVGFMGNSN-S-SR----------------AQ------------
+-YL---ECKD-SPQQAN----------------------CYDCGLYVAATAKAI-CCWYG
+S-----GQP----------------------GE------GL--------WFSVVKEQLTS
+SVVADL--RSEMLGL---IRNLQ-------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI000673781B PREDICTED: sentrin-specific protease 8 n=1 Tax=Stomoxys calcitrans RepID=UPI000673781B
+----------------------------------MSSYSHAD--PIALS------FNETC
+-LRTSDVQLLCGPY-WLNDQIISF-YYEYL------------ERVKYKH----NAD--L-
+--LF----------IPPEVTQCMK-FS-DD-----GEL-ETLLN--------QLEA--PK
+K-PFIFFVVNDNETT---H-AGGTHWSLL-VF---SRPE-K-----TFFHFDSWG-N-N-
+-NSNC----SQQFVQRIKDALNCR-N-------------------------CH-------
+-MK---PIR--CLQQAN----------------------GYDCGIHVICMTDNI-ADYVN
+RYE-CVEGV----------------------G-------PL---------------H--Q
+DTISAK--RSDLLKL---IQSLGGKI----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_B9S3Q6 Sentrin/sumo-specific protease, senp8, putative n=1 Tax=Ricinus communis RepID=B9S3Q6_RICCO
+---------------------------------MKKKGAQGT------------------
+-LSSDDLCLLKGPH-YLSDSIIDF-YFNYL------------SSF-YSPD---DDDNGI-
+--LF----------VSPTVSFWLANCG-DD-----PDTIKAFLE--------PLNL--SS
+K-NLIFFTVNDSDRVVHSGGGGGTHWSLL-VF---CREM-N-----RFVHHDSC--HGI-
+-NYWK----AVDLYDVVKEHVKRSSESSDTPAEEVGSRSDSEFPRKIKKKKNRQYEVPEV
+IFV---EGR--TPQQTN----------------------GHDCGLYVMAIAKAI-CQWYD
+S------DE----------------------KN------DE--------WFSTIDEEVHA
+SLENSM--RREVLKL---ITDEDVFVY---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0006CF069F PREDICTED: sentrin-specific protease 8 n=1 Tax=Cimex lectularius RepID=UPI0006CF069F
+------------------------------------MSSRGE--TVVLS------YHDTI
+-IYESDVELLEGPH-WLNDTIIGF-YLEYL------------EEEVYGK----T-M--F-
+--CF----------IRPEVTQCLK-LS-PL-----SEF-PVFLD--------PLQF--KD
+K-NVAVMPLNDCENP--NT-PGGSHWSLL-VF---CKTV-R-----TFYHIDSSK-G-S-
+-NYSP----AKLLSAKLSEYLELNGD-------------------------YE-------
+-FK---TLN--SLQQTN----------------------SYDCGVFVLCNLDNV-LQHLF
+RHN-TLDTL----------------------D-------TI---------------R--E
+YQVARK--RNDIKQL---IINLARHKL---------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_G7JRH9 Ulp1 protease family, carboxy-terminal domain protein n=2 Tax=Medicago truncatula RepID=G7JRH9_MEDTR
+---------------------------------MGKSEADDK----ILS------YNDVV
+-LRRSDLGILSGPY-FLNDRIIEF-HLSYL------------SSS-HP-----SQD--I-
+--LL----------VPPSIAFWIIQCP-VV-----EAL-KDFLD--------PLHL--SD
+K-KLVLFPINNNDDV--NISEGGSHWSLL-AY---YRNA-N-----VFVHHDSC--RSM-
+-NATP----AKKLYKAVVGYMGLSE-SGSK----------------AG------------
+-YL---EWTD-SPRQAN----------------------GYDCGLYVTAIARVI-CEWYV
+N-S-SKKTD----------------------AN------DL--------WFSVVKEQVTP
+SAVACM--RSEILAL---IRDLMARNSGQHAQQ---------------------------
+----------------------------------------------------------
+>lcl|UniRef90_U6NV35 Peptidase C48 domain containing protein n=2 Tax=Haemonchus contortus RepID=U6NV35_HAECO
+---------------------------MCSSLFHESTDSEKD--AKILS------YGDVV
+-LYNSDLYTLNPGM-WLNDNIISF-ASEYL------------LSKASQEV---KEQVAI-
+--------------VSAASCELIRHSG-DM-----EIV-REVFF--------SLGF--FK
+K-EKVLFILNDRDDP---TIVGGNHWSLL-VF---DQGN-A-----RFEYYDSM--RPA-
+-KEAV----AKQLVNIIKPVLGTKEVS-FVIVD---------------------------
+-----------CPQQRN----------------------SHDCGMYVIEFVKHE------
+---------------------------------------LK-------LSTESLSLGICS
+SYIDSE--RRKWQDT---ILSLSKAQ----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_G3MMK4 Putative uncharacterized protein n=2 Tax=Amblyomma RepID=G3MMK4_9ACAR
+-------------------------------------MASHG--RILLS------YHDTL
+-LRESDVELLEEPH-WVNDNIIWF-WMQYI------------ENELFASR---CGA--F-
+--AF----------VGPDVAQLAK-LG-AA-----LNV-DQVLK--------SLDL--NQ
+K-ALILSPVNDCQDF--DV-PGGCHWSLL-VY---NQAR-K-----IFEHYDSSK-G-H-
+-NHPH----AKAIARALAPLLSLREV--------------------------R-------
+-VT---EAD--CLQQHN----------------------SFDCGLYVMYNLQQV-CAEHI
+ARA-G-DGD----------------------S-------HR---------------TLLT
+SWMRHN--RKTLKEL---ILNLSEREAK--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_A0A093VGG6 NEDD8-specific protease 2 n=1 Tax=Talaromyces marneffei PM1 RepID=A0A093VGG6_PENMA
+-----MRESGLGKLQKRMMGR-W--------SD-TLH--P-D--DAYLS------YHDVR
+-LMREDIQTLRN-D-WLTDNVISF-WEEFL------------EHEYLSK----LEHANI-
+--IL----------LRPSMSFMLLQTH-DP-----RTL-RDALP----------DF--TK
+A-THVFLPINDCRNV--TEAEGGTHWSLL-VV---SIVD-R-----IAFHYDSL--PPG-
+-NRME----AGTITMKLGVLLNCPIR----------------------------------
+---FVHLED--APQQEN----------------------SSDCG----------------
+------------------------------------------------------------
+------------RRV---FEEDHKARARLSDILEVPHALLSGYCVDLFFDCLLFPDFFP-
+----------------------------------------------------------
+>lcl|UniRef90_UPI00053C3D4F PREDICTED: NEDD8-specific protease 1 n=1 Tax=Tarenaya hassleriana RepID=UPI00053C3D4F
+---------------------------------MKMANPDEK----ILS------FNDVV
+-LRRSDLDILSGPH-FLNDRIIEF-YLSYL------------STV-HP-----SPA--I-
+--LL----------VPPSVSFWISNCP-DT-----ESL-KEFLE--------PLKL--PD
+R-NLVIFPVNDNTHV--GLAEGGTHWSSL-VF---YRGA-N-----TFFHHDSN--RGS-
+-NKQF----ARQLYKVVAPFL-----SGED----------------AM------------
+-FR---EFSAETPQQSN----------------------GYDCGIFVLAVARII-CQWFE
+T-A-GT-KN----------------------RD------EL--------WLSDVKEIV-P
+GLVTHL--REEVLVL---ITRFMAEKETR-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_W5NN54 Uncharacterized protein n=2 Tax=Lepisosteus oculatus RepID=W5NN54_LEPOC
+--------------------------------------MD----PVVLS------YQDSL
+-LRRSDVALLEGPH-WLNDQVIGF-AFEYF------------GTERFRDL---RGA--A-
+--CF----------ISPEVTQFIK-CA-SS--Q--QEL-ALFLE--------PLGL--PR
+R-RWVFLAVNDNSS---QA-AGGTHWSLL-LY---RRDR-G-----RFAHYDSH--SGG-
+-NALH----ARRIAAKLEAFLGS-AG------------------------GVP-------
+-FA---EEP--APAQQN----------------------SYDCGMYVICMAEAL-CEGAG
+PGG-P-PAP----------------------L-------AQ---------------LVTP
+AHITQK--RAEWRRL---IERLAK------------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_R0EXI7 Uncharacterized protein n=1 Tax=Capsella rubella RepID=R0EXI7_9BRAS
+---------------------------------MGDISGDDK----ILS------YDDVV
+-LRRSDLDILNGHN-FLNDRVIEF-YLSYL------------SSV-HS-----TPT--I-
+--SL----------IPPSIAFWISNCP-DA-----ESL-KDFMK--------PLKC--GD
+K-DLLIFPVNDNLNV--EEAEGGLHWSLL-VY---YKDA-N-----TFFHHDSL--MGV-
+-NKWS----AKQLFEAVSPFV-----SDGD----------------AV------------
+-YR---EYNE-TPQQKN----------------------GYDCGVYLLAIARVV-CEWFT
+S-E-GM-KK----------------------RD------EL--------WFTDVKEAV-P
+DVVNHL--REEILEL---IKRLMSESVCK-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI00052F34A2 PREDICTED: NEDD8-specific protease 1 n=1 Tax=Nelumbo nucifera RepID=UPI00052F34A2
+---------------------------------MTSFKADEK----ILS------YNDVV
+-LRKSDLDILSGPH-FLNDRIIEF-YFSYL------------ASC-YV-----SHE--I-
+--LL----------VPPSISFWAINCP-DL-----NSL-KDFVE--------PLQL--PD
+K-KLVIFVVNNNEDV--TWAEGGTHWSSL-VY---ERGA-N-----IFVHHDSV--AGS-
+-NSSH----AKRLYRAITGFMGISG-SVPD----------------VR------------
+-YV---EYTA-TPQQMN----------------------GYDCGLYVIAIAKVI-CSWYE
+S---DRSED----------------------KA------NL--------WFSALKEQVVP
+SAVAEM--RSQILKL---VRDLMAKK----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0005D2F7B8 PREDICTED: sentrin-specific protease 8-like isoform X1 n=2 Tax=Pogonomyrmex barbatus RepID=UPI0005D2F7B8
+------------MSMCTMPVLPMNSKHFESRDNHPIKPEKN---DIVLS------YHDYL
+-LRTSDTILLKRND-WLNDIIIGF-YFEYL------------NQQYKKNG---KSR--L-
+--LF----------IGPEVAQLLK-MQ-NF-----SQY-DIFLD--------PIEA--RS
+Y-DFIFFPLNDCDSN--E--AGGSHWSLL-VY---SSKE-M-----MCYHFDSSN-N-I-
+-NSFS----AKKLARKLIKYFLNKQE-------------------------IR-------
+-YF---EMD--CPQQNN----------------------NYDCGLYVLCLAEVI-SRHVI
+RDP-KMCNC----------------------D-------CS---------------I-IT
+EIVPKK--RAELLKL---IYDLKNTDDSA-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_UPI0005EEFBAB PREDICTED: sentrin-specific protease 8 n=1 Tax=Strongylocentrotus purpuratus RepID=UPI0005EEFBAB
+-------------------------------------MASTG--PTVLS------YNNCL
+-LRRSDLALLEGPR-WLNDQVIAF-AFECV----------------------------Y-
+-----------------------------------AEV-GMFLE--------SLNL--AF
+K-QLVFLAINDNDSD--TS-VGGSHWSLL-VC---SRRD-S-----TFRHYDSS--GSF-
+-NEHA----ARQIAMKMQPHVGLEKA------------------------HVM-------
+-FA---QEQ--CTQQEN----------------------CYDCGLFVICNAEHV-CKHHF
+QGT-PLTGA------------------------------------------------VTQ
+ASVTRK--RGELKEL---ILQLAAQDDVK-------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_G9NGK6 Uncharacterized protein n=1 Tax=Hypocrea atroviridis (strain ATCC 20476 / IMI 206040) RepID=G9NGK6_HYPAI
+------------MPFRQRMARHF--------GD-S--LSP-E--KPFLS------YYDVL
+-LTIEDMKSLKN-D-WLTDNNIAF-WEEYL------------EHETLPR----FPQARI-
+--IL----------LRPSMTFLLMKEP-DM-----RHV-RSALP----------DF--NK
+V-THVFLPINDNRNV--AIAEGGSHWSLL-LV---SVLD-G-----IAFHYDSL--GGA-
+-NYAE----ANLATRKLSEIVQRPIR----------------------------------
+---FVNLED--SPQQEN----------------------GSDCGVFVCLLMRHLLVKRLL
+AAN-AREKV------------------------------SM---------------SMAG
+KMVDSNGGRKEMLRI---IENLRKEGERRR---S--ASPFAS---------TKTPPRIE-
+----------------------------------------------------------
+>lcl|UniRef90_A0A024UPR2 Uncharacterized protein n=1 Tax=Aphanomyces invadans RepID=A0A024UPR2_9STRA
+--------------------------------------------MSAFR------YHDAQ
+-LYARDLSLFTSNA-WLNDAAINF-YFTVV------------YHDLC------GAPSDV-
+--LL----------MDPAVVSCMMLQCDED-----EDL-IDLTQ--------GLQL--KE
+K-SLIVLPVNDRSSF----DSQGSHWALL-VY---SSAN-------GFEFYDSS--ADH-
+-NLHS----AVEVAGVLGRALGLPTSTVYVRSVT--------------------------
+-----------CPQQRN----------------------AFDCGMYACLIAEWV-CTTYC
+KAH-L----------------------------------------------LSLDAFVTP
+QAIQSK--RRSMPSL---VDQLKMK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_M4CR35 Uncharacterized protein n=5 Tax=Eukaryota RepID=M4CR35_BRARP
+---------------------------------MGYSSDDDK----ILS------YNDVV
+-LRRSDLDILNGPN-FLNDRVIEF-YLSYL------------STV-HT-----SSA--I-
+--SL----------IPPSIAFWISNCP-DT-----ESL-KDFIK--------PLGL--RD
+S-DLLIFPVNDNTNV--ELAEGGLHWTLL-VY---YKEA-N-----SFFHHDSL--MGL-
+-NKWS----AKQLFEAVSPFV-----SDGD----------------AI------------
+-YR---ECSD-TPQQRN----------------------GYDCGVYLLAIAQVI-CQWFS
+S-G-GV-QN----------------------RD------EL--------WFTDVKETV-P
+DLANRL--REEILGL---IRRLISEKSE--------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_Q9D2Z4 Sentrin-specific protease 8 n=4 Tax=Muroidea RepID=SENP8_MOUSE
+--------------------------------------MD----PVVLS------YMDSL
+-LRQSDVSLLDPPS-WLNDHIIGF-AFEYF------------ANSQFHDC---SDH--V-
+--CF----------ISPEVTQFIK-CT-SS--P--AEI-AMFLE--------PLDL--PH
+K-RVVFLAINDNSN---QA-AGGTHWSLL-VY---LQDK-N-----SFFHYDSH--SRS-
+-NSIH----AKQVAEKLKAFLGSKGD------------------------KLV-------
+-FV---EEK--APAQEN----------------------SYDCGMYVICNTEAL-CQSL-
+FRR-Q-PES----------------------P-------LQ---------------LLTP
+TYITKK--RGEWKDL---IARLAKKNEVATEECS--------------------------
+----------------------------------------------------------
+>lcl|UniRef90_K7F0Z5 Uncharacterized protein n=3 Tax=Cryptodira RepID=K7F0Z5_PELSI
+--------------------------------------MD----PVVLS------YVDSL
+-LRQSDVSLLDPPN-WLNDHIIGF-AFEYF------------SSDQFQDF---SEQ--V-
+--CF----------VSPEVAQFIK-CA-TS--P--EEV-AVFLK--------PLRL--PH
+K-EVVFLAINDNSN---QA-AGGTHWSLL-VY---FRDK-N-----CFAHYDSQ--RKS-
+-NSAH----AKQVAGKLETFLGKRGG------------------------RVA-------
+-FV---EEK--APAQQN----------------------SYDCGMYVICNTEAL-CQGY-
+FRG-L-QES----------------------V-------LQ---------------LLTP
+SYITRR--RSEWKAL---IARLACK-----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_V7AH54 Uncharacterized protein n=1 Tax=Phaseolus vulgaris RepID=V7AH54_PHAVU
+---------------------------------MKKSLTDEK----ILS------YNDVV
+-LRQSDLDILSGPY-YLNDRIIDF-YFSYV------------SSC-HS-----SQD--I-
+--LL----------VPPSIAFWIMQCP-LV-----DSL-GDFIE--------PLHL--PD
+K-ALVVFPINDNDDV--DRAEGGSHWSLV-AY---YRKA-N-----VFVHHDSC--RSL-
+-NAAP----AKKLYKAVARYMGSSG-SASE----------------AS------------
+-FL---ECTN-SPVQDN----------------------GYDCGLYVTATARTI-SNWHA
+N---HKNAD----------------------TN------DL--------WFSAVKEQVTP
+SAVGSM--RGEILAL---IRDLMARH----------------------------------
+----------------------------------------------------------
+>lcl|UniRef90_J4WDR5 Ulp1 protease family protein n=1 Tax=Beauveria bassiana (strain ARSEF 2860) RepID=J4WDR5_BEAB2
+------------MPLRERLARFG--------DSLS---AP-D--KPYLD------YFAIR
+-LTVADVRSLKY-E-WLTDSIIGF-WQEYL------------ERETLPR----YPEARV-
+--CL----------LRPSVAIMLKSDKVDD-----TAI-AGNLP----------DP--SK
+V-THVFLPINDNDKL--GEPSGGTHWSLL-LV---SLRD-G-----RAFHYDSS--GET-
+-NRKH----ANDTTVRLARVLHRKLD----------------------------------
+---FVHLED--TPNQGQ----------------------TSDCGVYVCLLMRHLLVKRLL
+SAS-ARSKV------------------------------NM---------------SMGG
+KVVDSSGGRKEMLGI---IENLRKEAERRHRRP---------------------------
+----------------------------------------------------------

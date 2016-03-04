@@ -1,0 +1,2052 @@
+>1D6O_A
+----------------------------------------G--VQVETI----------S
+-PGD-GRT---------FPKRGQTCV--VHYTGML------ED-GK--KFDSSRDRNK-P
+FKFMLGKQEVIRGWEEGVAQMSVGQR-AKLTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPHATLVFDVELLKLE--------
+-------
+>lcl|UniRef90_A0A0B6ZD97 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Euthyneura RepID=A0A0B6ZD97_9EUPU
+-----------------------M----------------G--VEKEII----------S
+-PGD-GAT---------YPKTGQTVV--IHYIATL------VD-GQ--KIDSSRDRGS-P
+FKFRIGKGEVIKGWDEGVSKMSRGER-ARLVCSPD----------------------F--
+------------------AYGARGYPG--A-----IPQNAILIFDIELLKME--------
+-------
+>lcl|UniRef90_O42123 Peptidyl-prolyl cis-trans isomerase FKBP1A n=2 Tax=Xenopus laevis RepID=FKB1A_XENLA
+-----------------------M----------------G--VQVETI----------T
+-EGD-GRT---------FPKKGQTVV--VHYVGSL------EN-GK--KFDSSRDRNK-P
+FKFIIGRCEVIRGWEEGVAQMSVGQR-ARLTCSPD----------------------F--
+------------------AYGATGHPG--I-----IPPNATLTFDVELLRLE--------
+-------
+>lcl|UniRef90_F8PZM4 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Serpula lacrymans var. lacrymans RepID=F8PZM4_SERL3
+-----------------------M----------------G--VTIERI----------S
+-SGD-GVT---------FPKKGDKVT--IHYVGTL------LN-GQ--KFDSSRDRGS-P
+FETEIGVGKVIKGWDEGVPQLSVGEK-AILTATPD----------------------Y--
+------------------AYGARGFPP--V-----IPPESTLRFEVELLKIN--------
+-------
+>lcl|UniRef90_W7HWG0 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Drechslerella stenobrocha 248 RepID=W7HWG0_9PEZI
+-----------------------M----------------G--VEKNIL----------R
+-AGN-GTN---------FPRVGDRVG--IHYTGRL------EN-GQ--EFDSSISRGE-P
+LFTRIGVGQVIKGWDEAIVTMSLGEK-AILTISSD----------------------Y--
+------------------GYGASGFPG--L-----IPPHATLIFEVELVKIN--------
+-------
+>lcl|UniRef90_A0A0D7BN72 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Cylindrobasidium torrendii FP15055 ss-10 RepID=A0A0D7BN72_9HOMO
+-----------------------M----------------G--VSIQTL----------I
+-AGD-NQT---------YPRPGDTVH--IHYTGKL------DD-GR--TFDSSHRRGH-P
+FTVKIGTGLVISGWDEGVLKMSLGET-AILTASPD----------------------Y--
+------------------AYGSKGVPP--L-----IPPNSTLTFEMELLKVDRGKPDF--
+-------
+>lcl|UniRef90_G8Y4N3 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695) RepID=G8Y4N3_PICSO
+-------------------MSAPA----------------T--TQVEIL----------Q
+-EGD-GKT---------FPKVGDLVT--IHYTGTL------DN-NK--KFDSSRDRGK-P
+FQCTIGVGQVIVGWDIGIPKLSVGSR-AKLTIPGH----------------------E--
+------------------GYGSRGFPG--L-----IPENATLIFDVELLGIN--------
+-------
+>lcl|UniRef90_A0A0K8LJ92 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Neosartorya udagawae RepID=A0A0K8LJ92_9EURO
+-----------------------M----------------G--VTKELK----------S
+-AGN-GVD---------FPQENDLVT--IHYTGRL------AD-GR--KFDSSVDRNT-P
+FQTKIGVGRVIKGWDEGVPQMSLGEK-AVLTITPD----------------------Y--
+------------------GYGARGFPP--V-----IPPNSTLIFEVELLGINNKKA----
+-------
+>lcl|UniRef90_M5G9I4 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Dacryopinax sp. (strain DJM 731) RepID=M5G9I4_DACSP
+-----------------------M----------------G--VTIQTL----------V
+-AGD-GVT---------FPKPGESVT--LHYVGTL------TN-GK--VFDSSRDRRL-P
+FTVEIGEGRVIKGWDEGVPQLSLGQK-AILTITPD----------------------Y--
+------------------GYGDRGYPP--I-----IPPGATLFFEVELLKIE--------
+-------
+>lcl|UniRef90_Q6ZYL1 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Suberites RepID=Q6ZYL1_SUBFI
+-----------------------M----------------G--VDIEEI----------T
+-PGD-GKT---------FPKTGQSVV--VHYTGTL------TN-GK--KFDSSKDRGK-P
+FKFKIGKGQVIRGWDEGVAKMSVGQR-AKLTCSPD----------------------Y--
+------------------AYGERGHPG--V-----IPPNATLIFDVELLGLE--------
+-------
+>lcl|UniRef90_H3G8A5 Peptidyl-prolyl cis-trans isomerase n=9 Tax=Phytophthora RepID=H3G8A5_PHYRM
+-----------------------M----------------G--FQIDTI----------K
+-AGD-GVS---------FPKPGQTVS--VHYVGTL------TD-GS--KFDSSRDRGR-P
+FQFELGAGQVIRGWDEGVAKMSKGQV-AKLTLPHD----------------------Y--
+------------------AYGERGYPP--V-----IPPRATLIFEVELLSFN--------
+-------
+>lcl|UniRef90_H2Z165 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Ciona savignyi RepID=H2Z165_CIOSA
+-----------------------M----------------G--VEIETI----------K
+-PGD-GVN---------FPNRGQTVA--VHYTGTL------EN-GT--KFDSSYDRGK-P
+FTFRIGLGQVIRGWDEGVAQMSIGQK-AKLTCSPD----------------------Y--
+------------------AYGSRGHPG--V-----IPPNATLIFVVELLGID--------
+-------
+>lcl|UniRef90_Q0RKE4 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Frankia RepID=Q0RKE4_FRAAA
+-----------------------M----------------G--VTIEVL----------S
+-PGD-GKT---------FPKKGDAVT--IHYVGTL------LGSGK--KFDSSRDRGE-P
+FRTEIGVGRVIKGWDEGVPQLSLGEK-AVLTITPD----------------------Y--
+------------------GYGPRGFPP--V-----IPPNSDLVFEVELLAIN--------
+-------
+>lcl|UniRef90_A0A0D0DVT9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Paxillus rubicundulus Ve08.2h10 RepID=A0A0D0DVT9_9HOMO
+-----------------------M----------------G--VTIETI----------T
+-AGD-GVN---------FPKRGDTVT--IHYVGTL------LDGGK--KFDSSRDRGL-P
+FETKIDVGKVIRGWDEGVLQLSLGQK-ANLIATPD----------------------Y--
+------------------AYGSRGFPP--V-----IPPNATLKFEVELLKITPCNT----
+-------
+>lcl|UniRef90_UPI000494ED9B PREDICTED: 12 kDa FK506-binding protein-like n=1 Tax=Stegastes partitus RepID=UPI000494ED9B
+-----------------------M----------------G--VDVEVI----------K
+-PGD-GTS---------YPGKGQTVT--VHYVGTL------TN-GK--KFDSSRDRGD-P
+FEFKLGKGQVIRGWDEGVAQMSLGEV-AKLTCSPD----------------------Y--
+------------------AYGSKGYPP--I-----IPANSTLIFEVELLNFA--------
+-------
+>lcl|UniRef90_A0A0C2WZE1 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Amanita muscaria Koide BX008 RepID=A0A0C2WZE1_AMAMU
+-----------------------M----------------G--VTIERL----------S
+-PGD-GKT---------FPEKGDRVT--IHYVGKF------LN-GI--VFDSSRDRPE-P
+FVTQIGVNHVIKGWDEGIPQLSKGEK-ALLTITPD----------------------Y--
+------------------AYGEKGFGT--V-----IPKDCTLKFEVELLKIDPVRR----
+-------
+>lcl|UniRef90_UPI0006C9A8E2 PREDICTED: 12 kDa FK506-binding protein n=1 Tax=Trichogramma pretiosum RepID=UPI0006C9A8E2
+-----------------------M----------------G--VSVEVI----------S
+-PGD-GST---------YPKTGQTVV--VHYTGTL------TN-GK--KFDSSRDRGT-P
+FKFKIGKGEVIKGWDQGVAQMSVGER-ARLTCPPE----------------------V--
+------------------AYGPRGHPG--V-----IPPNATLIFDVELLKVE--------
+-------
+>lcl|UniRef90_Q27462 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Caenorhabditis elegans RepID=Q27462_CAEEL
+-----------------------M----------------G--VDRQIL----------V
+-EGD-NVT---------KPKNGQTVT--CHYVLTL------EN-GK--KIDSSRDRGT-P
+FKFKIGKGEVIKGWDQGVAQMSVGEK-SKLTISAD----------------------L--
+------------------GYGPRGVPP--Q-----IPANATLVFEVELLGVT--------
+-------
+>lcl|UniRef90_I1FJB5 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Amphimedon queenslandica RepID=I1FJB5_AMPQE
+-----------------------M----------------G--VDVETL----------K
+-PGD-GKT---------YPKKGQTVV--VHYVGTL------TN-GK--KFDSSRDKGR-P
+FQTKIGVGKVIRGWDEGFMQISLGEK-AKLTISPD----------------------Y--
+------------------GYGAAGAGG--V-----IPPNATLIFEVELLEIK--------
+-------
+>lcl|UniRef90_K4G6A6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Callorhinchus milii RepID=K4G6A6_CALMI
+-----------------------M----------------G--VEIETI----------T
+-PGD-GET---------FPKPGDTCV--VHYTGTL------QN-GT--KFDSSRDKGR-P
+FEFKIGKQDVIKGWDIGIAQMSVGQR-AKLTCTSD----------------------V--
+------------------AYGIKGYPN--I-----IPPNATLIFDVELLQLK--------
+-------
+>lcl|UniRef90_H9H5Z6 Peptidyl-prolyl cis-trans isomerase n=20 Tax=Gnathostomata RepID=H9H5Z6_MONDO
+-----------------------M----------------G--VEVETI----------S
+-PGD-GRT---------FPKKGQTCV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FRFKTGRQEVIKGFEEGTAQMSLGQR-AKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLRLE--------
+-------
+>lcl|UniRef90_Q6CX30 FK506-binding protein 1 n=7 Tax=Saccharomycetaceae RepID=FKBP_KLULA
+-----------------------MSETIE-G---------N--VQILRL----------S
+-PGD-STN---------FPKPGDLVT--IHYTGTL------EN-GQ--KFDSSVDRGS-P
+FQCNIGVGQVIKGWDAAIPKLSVGEK-ARLTIPGP----------------------Y--
+------------------AYGPRGFPG--L-----IPPNATLVFDVELLKIN--------
+-------
+>lcl|UniRef90_UPI00026547A5 PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A n=2 Tax=Strongylocentrotus purpuratus RepID=UPI00026547A5
+-----------------------M----------------G--VEVETI----------S
+-QGD-GVT---------RPKKGQICV--IHYVGKLT-----SS-GK--VFDQSIVRQ--P
+LKFTLGMGEVVKGMDEGIAQMSVGEK-ANLKCSPD----------------------Y--
+------------------GYGAMGYPG--V-----IPGNAELTFEVELLRIECK------
+-------
+>lcl|UniRef90_L8Y9R8 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Euteleostomi RepID=L8Y9R8_TUPCH
+-----------------------M----------------G--VEIETI----------S
+-PGD----------------------------GML------QN-GK--KFDSSRDRNK-P
+FKFRIGKQEVIKGFEEGAAQMSLGQR-AKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLNLE--------
+-------
+>lcl|UniRef90_B4EMY8 Peptidyl-prolyl cis-trans isomerase n=86 Tax=Burkholderia RepID=B4EMY8_BURCJ
+--------------MS--VITTES----------------G--LKYEDL----------T
+-EGT-GAA----------AQAGKTVS--VHYTGWL------TD-GQ--KFDSSKDRND-P
+FAFVLGGGMVIKGWDEGVQGMKVGGV-RRLTIPPQ----------------------L--
+------------------GYGPRGAGG--V-----IPPNATLVFEVELLDV---------
+-------
+>lcl|UniRef90_A0A0K8TQ17 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Tabanus bromius RepID=A0A0K8TQ17_TABBR
+-----------------------M----------------G--VEIIPI----------S
+-PGD-GST---------YPKNGQTAV--VHYVGTL------EN-GE--VFDSSRTRGK-P
+FRFVVGKGEVIRGWDEGVAALSVGQR-AKLVCSPD----------------------Y--
+------------------GYGSRGHPG--V-----IPPNATLTFDVELLKVE--------
+-------
+>lcl|UniRef90_B7GBW8 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Phaeodactylum tricornutum (strain CCAP 1055/1) RepID=B7GBW8_PHATC
+-----------------------M----------------G--ITKDVI----------S
+-AGD-GTN---------FPKAGDKLT--MHYHGTLA-----SN-GQ--KFDASRDRGR-P
+FQFTIGIGQVIRGWDEGVMQMSLGET-AMLHISSD----------------------Y--
+------------------GYGRQGAGG--V-----IPPNADLDFKVELLAINAKSQGSA-
+-------
+>lcl|UniRef90_UPI000644E54A PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Fundulus heteroclitus RepID=UPI000644E54A
+-----------------------M----------------G--VEIETI----------S
+-PGD-GRT---------FPKKGQRVV--VHYVGTL------ED-GK--VFDSSRSRGK-P
+FKFRIGHQEVIRGWEEGVAQMSVGQR-ARLTCSPD----------------------F--
+------------------AYGAKGHPG--I-----IPPNATLIFDVELISLEA-------
+-------
+>lcl|UniRef90_L5K959 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Pteropus alecto RepID=L5K959_PTEAL
+-----------------------M----------------G--VQVETI----------S
+-PRD-RLT---------FSKHGQTCV--IHYIGML------ED-GN--KLDSSWDRNK-L
+FKFMLGK-QVIRGWEERIAQMSVSQR-AKLTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPNATLIFDVELRKLE--------
+-------
+>lcl|UniRef90_UPI000442318A PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Python bivittatus RepID=UPI000442318A
+MSSASSQRLRLLLKLPPAPLPKEL----------------V--AVPVPW----------P
+-LGK-GFLF--------------------LPAGML------ED-GK--KFDSSRDRGK-P
+FKFVMGKQEVIRGWEEGVAQMSVGQR-AKMTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPNATLIFDVELIKLE--------
+-------
+>lcl|UniRef90_S9X0R5 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Schizosaccharomyces RepID=S9X0R5_SCHCR
+-----------------------M----------------G--VEKQVI----------L
+-PGD-GQN---------FPKPGDRIT--MHYTGTL------AN-GK--KFDSSVDRGT-P
+FTCNIGVGQLIRGWDEGVPQMSLGEK-AKLTITPD----------------------F--
+------------------GYGPRGFPG--L-----IPANSTLVFDVELLAINNLKA----
+-------
+>lcl|UniRef90_L7LWX7 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Chelicerata RepID=L7LWX7_9ACAR
+-----------------------M----------------G--VEVQTI----------S
+-PGD-GQT---------FPKTGQTVV--VHYTGTL------AD-GS--KFDSSRDRGK-P
+FKFRIGKGEVIRGWDEGVAQMSVGQR-AKLICSPD----------------------Y--
+------------------AYGAMGHPG--I-----IPPNAVLTFDVELLRLE--------
+-------
+>lcl|UniRef90_S8A345 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Dactylellina haptotyla (strain CBS 200.50) RepID=S8A345_DACHA
+-----------------------M----------------G--VEKEIT----------K
+-EGT-GP----------YPQKGQTVV--MHYTGLL------TD-GS--KFDSSRDRNS-P
+FETPIGVGRVIKGWDEAVPTMKVGEH-ARFTITPD----------------------Y--
+------------------GYGARGAGN--V-----IPPNATLIFDVELISIK--------
+-------
+>lcl|UniRef90_C6ZI52 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Echinococcus RepID=C6ZI52_ECHGR
+-----------------------M----------------G--VDVEVI----------K
+-PGD-GTN---------YPKKGQTVT--VHYTGTL------TS-GK--KFDSSRDRGQ-P
+FQFKLGMGQVIKGWDEGVAQMSLGER-SKLTISPD----------------------Y--
+------------------GYGSTGAAG--V-----IPPNATLVFDVELLFFE--------
+-------
+>lcl|UniRef90_M1XMM2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Sycon ciliatum RepID=M1XMM2_9METZ
+-----------------------M----------------G--VEKEVI----------K
+-PGN-GTV---------FPQRGQKVI--VHYTGTL------TN-GK--KFDSSRDRAK-P
+FDFVIGQGQVIRGWDEGVAKMSVGER-AKLTCSPD----------------------Y--
+------------------AYGDRGFSG--L-----IPPNSTLIFDVELLEIR--------
+-------
+>lcl|UniRef90_S7N7R6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Myotis brandtii RepID=S7N7R6_MYOBR
+-----------------------M----------------A--ATRWPC----------A
+-QRR-RGLA---ATLHHKAWGSQGSA--WHEGGML------ED-GK--KFDSSRDRNK-P
+FKFMLGKQEVIRGWEEGVAQMSVGQR-AKLTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPNATLVFDVELLKLE--------
+-------
+>lcl|UniRef90_A0A068X3Y6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Hymenolepis microstoma RepID=A0A068X3Y6_HYMMI
+-----------------------M----------------G--VDIEVI----------K
+-PGN-GTD---------YPQKGQTVQ--VHYTGTL------TN-GK--KFDSSRDRGQ-P
+FEFKLGRGEVIKGWDEGVAKMSLGER-SKLTISPD----------------------Y--
+------------------GYGSRGAGG--V-----IPPNATLIFDVELISFK--------
+-------
+>lcl|UniRef90_Q6PBJ8 Peptidyl-prolyl cis-trans isomerase n=10 Tax=Clupeocephala RepID=Q6PBJ8_DANRE
+-----------------------M----------------G--VEVETI----------T
+-PGD-GST---------FPKKGQTCV--VHYVGSL------TD-GR--KFDSSRDRGK-P
+FKFKIGKQEVIRGWDEGVAQMSVGQR-AKLTCTPD----------------------F--
+------------------AYGSKGHPG--V-----IPPNATLIFDVELIGLE--------
+-------
+>lcl|UniRef90_G8QMV2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Dechlorosoma suillum (strain ATCC BAA-33 / DSM 13638 / PS) RepID=G8QMV2_DECSP
+--------------MS--TTTTAS----------------G--LIIEEL----------V
+-LGD-GVE----------AKAGDIVT--VHYTGWL------TD-GQ--KFDSSKDRND-P
+FEFMLGARHVIAGWDEGVQGMKIGGS-RKLTIPPE----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVEMLACR--------
+-------
+>lcl|UniRef90_T1K9X4 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Tetranychus urticae RepID=T1K9X4_TETUR
+-----------------------M----------------G--VEVQTI----------Q
+-AGD-CTN---------YPQSGQTVV--VHYTGTL------EN-GK--KFDSSRDRGK-P
+FKFRIGKGEVIKGWDQGVARMSVGER-AKLICSPD----------------------F--
+------------------AYGSKGHPG--I-----IPPNSTLIFDVELLGLE--------
+-------
+>lcl|UniRef90_A0A024TRW9 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Saprolegniaceae RepID=A0A024TRW9_9STRA
+-MAAAAHKEKEFSALHLKAG--------------------E--IQVEVF----------V
+-AGD-GIN---------YPQKGQTVV--VHYTAYL------QD-GK--KFDSSRDRDK-P
+FKFKLGAEQVIPGLDEGIERLCMKER-AKIYIPSD----------------------K--
+------------------AYGKKGFPG--L-----VPPNTNLVFDIELITFK--------
+-------
+>lcl|UniRef90_A0A060YSV0 Peptidyl-prolyl cis-trans isomerase (Fragment) n=1 Tax=Oncorhynchus mykiss RepID=A0A060YSV0_ONCMY
+----------------------------------------HATISVTDC-----------
+-----------------QNKSSLPLI--SSSSGSL------TD-GR--KFDSSRDRDK-P
+FRFKIGKQEVIRGWEEGVVQMSVGQR-AKLTCSPD----------------------F--
+------------------AYGAKGHPG--I-----IPPNATLIFDVELLSLE--------
+-------
+>lcl|UniRef90_UPI0003C156C0 PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Pantholops hodgsonii RepID=UPI0003C156C0
+-----------------------M----------------G--AQVETI----------S
+-LRD-GRT---------FPKHGQTCV--VHYMGML------ED-GK--KFDSSRDRNK-P
+FKFVRGKQEVIRGWEEGVAQMSVGQR-AKLTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPSNATLIFDVELL-----------
+-------
+>lcl|UniRef90_UPI0004966E6E PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Cynoglossus semilaevis RepID=UPI0004966E6E
+-----------------------M----------------G--VEVETL----------R
+-PGD-GKT---------FPKRGQRVQ--VHYEGRL------TN-GK--MFDTSRSRGQ-P
+FVFKIGYGEVIRGWDEGVAKMSVGER-AKLTCSPD----------------------F--
+------------------AYGSEGCSD--V-----IPPNATLIFDVELLGCKD-------
+-------
+>lcl|UniRef90_G1XJA9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491) RepID=G1XJA9_ARTOA
+-----------------------M----------------G--VTKELI----------S
+-PGN-GTD---------YPQKGDTVF--IHYTGTL------VN-GK--KFDSSVDRGE-E
+FKTKIGTGQVIRGWDEGVPQMSLGER-AKLTITGD----------------------F--
+------------------AYGERGYPG--L-----IPPNATLIFDVQLLGIGNKRA----
+-------
+>lcl|UniRef90_K3WSB6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Pythium ultimum DAOM BR144 RepID=K3WSB6_PYTUL
+------MEEKDFATPHVRPG--------------------D--IQVEVF----------I
+-AGD-GIN---------YPKKGQTVV--VHYTGYL------QD-GR--KFDSSRDREK-P
+FKFKLGAEQVIPGLDEGVERLCMKER-AKIFIPAD----------------------K--
+------------------AYGRKGFPG--L-----VPPNSNLIFDLELLTFR--------
+-------
+>lcl|UniRef90_X8JDB3 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Rhizoctonia solani AG-3 RepID=X8JDB3_9HOMO
+-----------------------M----------------G--VVINRL----------K
+-PGD-GVH---------FPRKGDTVT--IHYVGTL------LD-GS--KFDSSHDRGA-P
+FITRIGVGKVIKGWDEGVPLLSLGEK-ALLTTTAD----------------------Y--
+------------------AYGERGFPP--N-----IPSNATLNFEVELLGIN--------
+-------
+>lcl|UniRef90_UPI0002C31DEA PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Tursiops truncatus RepID=UPI0002C31DEA
+-----------------------M----------------G--VQAETI----------S
+-PGE-GRT---------FPKRGQTCV--VRYTGMP------ED-GK--KLDSSWDRNK-P
+FKFVLGKQEVIRGWEEGAAQMSLGQR-AKLSPSPD----------------------I--
+------------------SFGESGHPC--L----------------KLLGDSLRAVNFIS
+QWGFPDT
+>lcl|UniRef90_I3JRN8 Peptidyl-prolyl cis-trans isomerase n=6 Tax=Ovalentaria RepID=I3JRN8_ORENI
+-----------------------M----------------G--VDVETL----------R
+-PGD-GKT---------FPQKGSMVS--VHYVGTL------TN-GN--KFDSSRDRGS-P
+FQFKLGAGEVIRGWDEGVARMSLGQV-AKLTCSPD----------------------Y--
+------------------AYGSRGYPP--I-----IPANSTLIFEVELLKC---------
+-------
+>lcl|UniRef90_H2MUF2 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Atherinomorphae RepID=H2MUF2_ORYLA
+-----------------------M----------------G--VDVETI----------R
+-PGD-GKT---------FPQKGRTVF--VHYVGTL------MN-GK--KFDSSRDRGE-P
+FQFKLGAGEVIRGWDDGVARMSVGQL-AKLTCSPD----------------------F--
+------------------AYGSRGYPP--I-----IPPNSTLIFEVELLKC---------
+-------
+>lcl|UniRef90_UPI000389060F PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A isoform X1 n=1 Tax=Chrysemys picta bellii RepID=UPI000389060F
+MAHQLSQPAAL-----------------------------GSRISAEAV----------K
+-RGS-GRC--------------------QLSFGML------ED-GK--KFDSSRDRNK-P
+FKFVMGKQEVIRGWEEGVAQMSVGQR-AKMIISPD----------------------Y--
+------------------AYGSTGHPG--I-----IPPNATLIFDVELMKLE--------
+-------
+>lcl|UniRef90_A0A0K8REH0 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Ixodes ricinus RepID=A0A0K8REH0_IXORI
+-----------------------M----------------G--VDVQTI----------K
+-PGD-GQT---------FPKTGQTVV--VHYTGTL------AN-GQ--QFDSSRDRGK-P
+FKFRIGKGEVIRGWGEGVAQMSVGQR-AKVICSPD----------------------Y--
+------------------AYGAVGHPG--I-----IPPNATLTFDVELITLE--------
+-------
+>lcl|UniRef90_V4BIB8 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Lottia gigantea RepID=V4BIB8_LOTGI
+-----------------------M----------------G--VTIEEL----------S
+-PGD-GRT---------FPKKGQLVV--VHYTGTL------DN-GD--VFDSSRDRGV-P
+FKFHLGKGEVIKGWEEGIAKMSVGQR-ARLTCSPD----------------------Y--
+------------------AYGNRGHPG--V-----IPPKATLRFDVELLRLE--------
+-------
+>lcl|UniRef90_I7LTR3 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Tetrahymena thermophila (strain SB210) RepID=I7LTR3_TETTS
+-----------------------MS---------------G--FNIETV----------K
+-EGD-KKN---------FPQRGDYVK--VHYTGTF------LD-GT--KFDSSRDRGK-P
+FEFTVGVQQVIKCWDEGILKLSKGQR-AILTCPYN----------------------Y--
+------------------AYGERGIPG--A-----IPPKATLKFDVELIDFK--------
+-------
+>lcl|UniRef90_U5EM76 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Culicoidea RepID=U5EM76_9DIPT
+-----------------------M----------------G--VDIIPI----------S
+-AGD-ERT---------YPKSGQTAV--VHYVGTL------DN-GK--EFDSSRSRGK-P
+FKFTVGKGEVIRGWDEGVAKMSVGQR-AKLICSPD----------------------Y--
+------------------AYGSRGHPG--V-----IPPNATLTFDVELLRVE--------
+-------
+>lcl|UniRef90_V2XPT9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Moniliophthora roreri (strain MCA 2997) RepID=V2XPT9_MONRO
+-----------------------M----------------G--VTIQCV----------K
+-PGD-KRT---------FPRAGDIVS--IHYVGTL------ED-GS--KFDSSFDRGR-P
+FQVELGSNTVIKGWEEGVLRLSKGEK-AILTIPPD----------------------L--
+------------------AYGDRGVPP--L-----IPKNATLKFEMELLEIHRPVS----
+-------
+>lcl|UniRef90_A0A078AXZ4 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Oxytrichidae RepID=A0A078AXZ4_STYLE
+-----------------------M----------------G--VQIDTL----------V
+-LGD-GQN---------FPKRGNTVI--VHYTGRL------ED-GS--KFDSSRDRNE-P
+FEFVLGAGQVIRGWEEGLALMSKGQV-VRLTCTPD----------------------Y--
+------------------AYGLQGFPP--I-----IPGNATLMFEVELIDYK--------
+-------
+>lcl|UniRef90_A1KAS9 Peptidyl-prolyl cis-trans isomerase n=11 Tax=Rhodocyclaceae RepID=A1KAS9_AZOSB
+--------------MT--QTTTAS----------------G--LIIEDL----------E
+-VGS-GDV----------AAKGQMVS--VHYTGWL------TD-GR--KFDSSKDRND-P
+FNFPLGAGHVIRGWDEGVQGMQVGGK-RKLTIPPE----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLKVL--------
+-------
+>lcl|UniRef90_J9IZ80 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Oxytricha trifallax RepID=J9IZ80_9SPIT
+-------------------------------------------MEVKTI----------Q
+-EGS-GPR----------PQKGQNVT--VHYTGRL------PN-GQ--VFDSSVQRGD-P
+FRFRLGVGQVIKCWDQGIAQLNVNQK-AQLICPPD----------------------Y--
+------------------AYGPRGIPG--S-----IPPNATLIFDVELLKFQ--------
+-------
+>lcl|UniRef90_A0A0C9XUI9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Pisolithus microcarpus 441 RepID=A0A0C9XUI9_9HOMO
+-----------------------M----------------G--VTIERI----------V
+-PGD-GKT---------FPKKGDKVR--IHYVGTL------MD-GS--KFDSSRDRGV-P
+FDTEIGVGKVIKGWDEGVLQLSLGEK-ANLIATPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLKFEVELLKIN--------
+-------
+>lcl|UniRef90_A0A0D8B7K4 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Frankiaceae RepID=A0A0D8B7K4_9ACTN
+-----------------------M------------------------------------
+-PGD-GKT---------FPKAGDTVT--VHYVGTL------LD-GK--QFDSSRDRGV-P
+FTTEIGVGKVIKGWDEGIPQLSVGEK-AVLTVTPD----------------------Y--
+------------------GYGPRGFPP--V-----IPPNSDLRFEVELLAVG--------
+-------
+>lcl|UniRef90_U5HJ10 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Microbotryum violaceum (strain p1A1 Lamole) RepID=U5HJ10_USTV1
+-----------------------M----------------G--VTVETL----------Q
+-AGD-GQN---------FPKKGDTVS--MHYVGTL------LN-GN--KFDSSRDRGQ-P
+FQTKIGVGQVIKGWDEGVPQLSLGQK-AKLTCTPD----------------------Y--
+------------------AYGSRAMGN--I-----IPANSTLIFEVELLKIN--------
+-------
+>lcl|UniRef90_UPI000373F02B peptidyl-prolyl cis-trans isomerase n=1 Tax=Thiobacillus thioparus RepID=UPI000373F02B
+----------------------MS----------------E--LIIEDI----------V
+-AGS-GDT----------ASAGQYVS--VHYTGWL------TN-GQ--KFDSSVDRND-P
+FEFKLGMGQVIPGWDQGVAGMQVGGK-RKLTIPPE----------------------L--
+------------------AYGSRGAGG--V-----IPPNATLVFEVELLGVN--------
+-------
+>lcl|UniRef90_H3G532 Peptidyl-prolyl cis-trans isomerase n=9 Tax=Phytophthora RepID=H3G532_PHYRM
+-------------------------------------------IQVEVF----------V
+-AGD-GLN---------YPKKGQTVV--IHYIGYL------QD-GK--KFDSSRDRDK-P
+FKFKIGAEQVIPGLDEGVERLCMKER-AKLFVPAD----------------------K--
+------------------AYGRKGFPG--L-----VPPNTNLIFDIELL-----------
+-------
+>lcl|UniRef90_F0Y7X3 Peptidyl-prolyl cis-trans isomerase (Fragment) n=1 Tax=Aureococcus anophagefferens RepID=F0Y7X3_AURAN
+-----------------------M----------------G--VTVETS----------S
+-PGD-GVT---------FPQKGDKMK--MHYTGTLK-----AD-GS--KFDSSRDRGK-A
+FEFTIGVGQVIKGWDEGVAKMSLGER-ATLQITAD----------------------Y--
+------------------GYGAAGHPP--V-----IPENADLVFDVEVLAIN--------
+-------
+>lcl|UniRef90_C1BW13 Peptidyl-prolyl cis-trans isomerase n=5 Tax=Clupeocephala RepID=C1BW13_ESOLU
+-----------------------M----------------G--VEIVTI----------T
+-PGD-GQT---------FPKKGQTCV--VHYVGSL------TD-GT--KFDSSRDRGK-P
+FKFKIGKQEVIRGWEEGVGQMSVGQR-ATLTCTPD----------------------F--
+------------------AYGSKGHPG--I-----IPPNATLIFDVELMGLE--------
+-------
+>lcl|UniRef90_C1BUG9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Lepeophtheirus salmonis RepID=C1BUG9_LEPSM
+-----------------------M----------------T--VEIETM----------S
+-EGD-NST---------FPKNGQKVS--CHYVLTL------KN-GK--VVDSSRDRGR-P
+FQFTIGKNEVIKGWENGLARMSVGQR-AKLTIQPE----------------------M--
+------------------GYGAQGIPG--C-----IPPNSVLIFDVELLRVD--------
+-------
+>lcl|UniRef90_A0A067NF07 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Pleurotus ostreatus PC15 RepID=A0A067NF07_PLEOS
+-----------------------M----------------G--VTVERI----------T
+-PGD-GQT---------FPKTGDTVY--IHYVGTL------TN-GK--KFDSSRDRGS-P
+FKTLIGVGKVIKGWDEGVPQLSVGEK-AILTCSAD----------------------Y--
+------------------AYGSRGFPP--V-----IPPDSVLQFEVELLKIEPASPA---
+-------
+>lcl|UniRef90_G1L0E6 Peptidyl-prolyl cis-trans isomerase (Fragment) n=5 Tax=Boreoeutheria RepID=G1L0E6_AILME
+------------------------------------------------------------
+------------LMLQLPFF-----------TGML------ED-GK--KFDSSRDRNK-P
+FKFMLGKQEVIRGWEEGVAQMSVGQR-AKLTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPNATLVFDVELLKLE--------
+-------
+>lcl|UniRef90_P0C1J3 FK506-binding protein 1 n=1 Tax=Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880) RepID=FKBP1_RHIO9
+-----------------------M----------------G--VTVETI----------Q
+-PGD-GKN---------FPKKGDTVT--MHYTGTL------QN-GS--VFDSSVRRNE-P
+FVTQIGVGRVIKGWDEGVLQLSLGQK-ANLICTPD----------------------Y--
+------------------AYGPRGFPP--V-----IPPNATLNFEVELLKIN--------
+-------
+>lcl|UniRef90_H2M2M1 Peptidyl-prolyl cis-trans isomerase n=18 Tax=Euteleostomi RepID=H2M2M1_ORYLA
+-----------------------M----------------G--VVVETI----------S
+-PGDAGRT---------FPKKGQTCV--VHYIGML------QN-GK--KFDSSRDRNK-P
+FKFKIGRMEVIKGWEEGVAQMSLGQR-AKITCTPD----------------------M--
+------------------AYGATGHPG--V-----IPPNATLVFDVELLKLE--------
+-------
+>lcl|UniRef90_G1L7S1 Peptidyl-prolyl cis-trans isomerase (Fragment) n=3 Tax=Laurasiatheria RepID=G1L7S1_AILME
+-------------------------------------------LPSCLL----------A
+-----GRT---------FPKKGQTCV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FKFRIGKQEVIKGFEEGAAQMSLGQR-AKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLNLE--------
+-------
+>lcl|UniRef90_L9KRP7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Tupaia chinensis RepID=L9KRP7_TUPCH
+-----------------------M----------------R--VQIETI----------S
+-PED-WCT---------FLKHGQTCM--VYYTRML------ED-GK--KSDSSQGRNK-P
+FKFMLPKQEVIQGGEEGVTQVTMGLR-VKLTISPD----------------------Y--
+------------------AYGAIGHLG--I-----IPPHATLIFNV--------------
+-------
+>lcl|UniRef90_A2I4A2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Maconellicoccus hirsutus RepID=A2I4A2_MACHI
+-----------------------M----------------G--VQVETI----------S
+-PGD-GST---------YPKHGQTVV--VHYTGTL------VD-GK--KFDSSRDRGT-P
+FKFKLGKGEVIKGWDEGVAQLCVGQR-ARLICSPD----------------------Y--
+------------------AYGSRGHPG--I-----IPPNSTLIFDVELLKVES-------
+-------
+>lcl|UniRef90_D7FTI7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Ectocarpus siliculosus RepID=D7FTI7_ECTSI
+-------------------MARRA-------------------VSVEIF----------A
+-AGD-GIN---------YPQKGQTVT--VHYTGYL------ED-GT--QFDSSRNRGK-P
+FKFKLGSEQVVPGLDDGVSQLSIGER-AKVTIPAA----------------------S--
+------------------AYGARGFPG--L-----VPPHSALVFDLELITFN--------
+-------
+>lcl|UniRef90_M4BZY2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Hyaloperonospora arabidopsidis (strain Emoy2) RepID=M4BZY2_HYAAE
+-----------------------M----------------S--LEIESI----------N
+-PGD-GVS---------FPQQGQTVS--VHYVGTL------TN-GV--KFDSSRDRGR-P
+FQFKLGAGQVIRGWDEGVAKMSTGQI-AKLTLSHE----------------------Y--
+------------------AYGESGYPP--V-----IPPKATLIFEVELLSFS--------
+-------
+>lcl|UniRef90_UPI000455F664 peptidyl-prolyl cis-trans isomerase n=1 Tax=Coniophora puteana (strain RWD-64-598) RepID=UPI000455F664
+-----------------------M----------------G--VEIERI----------T
+-PGD-GQT---------YPKTGDTVT--IHYVGTL------LD-GT--KFDSSRDRNK-P
+FETEIGVGRVIKGWDEGVPQLSLGEK-AVLTASPD----------------------F--
+------------------AYGPRGFPP--V-----IPPNSTLKFEVELLRINPRH-----
+-------
+>lcl|UniRef90_W4X351 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Formicidae RepID=W4X351_ATTCE
+-----------------------M----------------G--VDVEVL----------S
+-PGD-GQT---------YPKTGQTVV--VHYTGTL------DN-GK--KFDSSRDRGI-P
+FKFKIGKGEVIKGWDQGVAQMCVGQR-AKLTCSPD----------------------F--
+------------------AYGSRGHPG--I-----YPLMQDDIKYRLNIHTK--------
+-------
+>lcl|UniRef90_D8QK87 Peptidyl-prolyl cis-trans isomerase (Fragment) n=1 Tax=Schizophyllum commune (strain H4-8 / FGSC 9210) RepID=D8QK87_SCHCM
+-----------------------Q----------------G--VIIENY----------E
+-PGD-GKT---------FPKKGDFVT--IHYTGTL------SN-GS--KFDSSRDRGQ-P
+FVTQIGVGKVIKGWDEGIVQLSLGQK-ARLVCTPD----------------------Y--
+------------------AYGARGVPP--I-----IPPNAVLFFDVELLKIRKAG-----
+-------
+>lcl|UniRef90_Q6CF41 FK506-binding protein 1 n=1 Tax=Yarrowia lipolytica (strain CLIB 122 / E 150) RepID=FKBP_YARLI
+-----------------------M----------------G--VTVKQL----------Q
+-PGD-GKT---------YPKKGDAVT--IHYVGTL------EN-GQ--KFDSSRDRGE-P
+FKTTIGVGDVIRGWDEGVPKLSLGER-SVLTISGD----------------------Y--
+------------------GYGERGFPG--L-----IPPNATLVFDVELLGIN--------
+-------
+>lcl|UniRef90_A0A0B7AD60 Peptidyl-prolyl cis-trans isomerase (Fragment) n=1 Tax=Arion vulgaris RepID=A0A0B7AD60_9EUPU
+--------RLTEKVAEYFLAIISM----------------G--VEVETI----------K
+-PGD-GKT---------YAKKGDTVV--IHYTGTL------TD-GN--KFDSSRDRGK-P
+FETVIGVGQVIRGWDEGVPKLSVGEQ-AKLTISPD----------------------Y--
+------------------AYGAKGAAG--V-----IPPNATLIFDVELLSIKKS------
+-------
+>lcl|UniRef90_A0A091NR75 Peptidyl-prolyl cis-trans isomerase (Fragment) n=4 Tax=Neognathae RepID=A0A091NR75_APAVI
+------------------------------------------------------------
+-----GRT---------FPKKGQTCV--VHYTGRL------QN-GK--KFDSSRDRNK-P
+FRFKIGRQEVIKGFEEGVTQMSLGQR-AKLTCTPE----------------------M--
+------------------AYGATGHPG--V-----IPPNATLLFDVELLRLE--------
+-------
+>lcl|UniRef90_Q1HR83 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Stegomyia RepID=Q1HR83_AEDAE
+-----------------------M----------------G--VQVVTL----------A
+-AGD-EAT---------YPKAGQVAV--VHYTGTL------AD-GK--VFDSSRTRGK-P
+FRFTVGRGEVIRGWDEGVAQMSVGQR-AKLVCSPD----------------------Y--
+------------------AYGSRGHPG--V-----IPPNATLTFDVELLRVE--------
+-------
+>lcl|UniRef90_T1PKX7 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Muscinae RepID=T1PKX7_MUSDO
+-----------------------M----------------G--VQIVPI----------S
+-PGD-GST---------FPKNGHTVS--VHYTGTL------EN-GT--KFDSSRDRNK-P
+FKFTIGRGEVIRGWDEGVAQLSLGQR-AKLICSPD----------------------Y--
+------------------AYGSRGHPG--V-----IPPNATLHFDVELLKIE--------
+-------
+>lcl|UniRef90_C1DBA7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Laribacter hongkongensis (strain HLHK9) RepID=C1DBA7_LARHH
+--------------MS--SMTTAS----------------G--LVIEEL----------S
+-VGQ-GAE----------AVKGQEVT--VHYTGWL------TD-GR--KFDSSVDRAQ-P
+FSFPLGAGRVIKGWDEGVAGMKEGGK-RKLTIPAA----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLRVG--------
+-------
+>lcl|UniRef90_A0A0E3YTT6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Verrucomicrobia bacterium IMCC26134 RepID=A0A0E3YTT6_9BACT
+----------------------MA----------------T--LQIETL----------V
+-SGT-GPA----------PRKGQLVT--VHYTGWL------VT-GE--KFDSSVDRDE-P
+FSFVLGARQVIGGWDQGVAKMVVGDK-VRLTLPPE----------------------L--
+------------------GYGADGYPG--A-----IPPNATLVFEVELLSVG--------
+-------
+>lcl|UniRef90_G3PY06 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Gasterosteus aculeatus RepID=G3PY06_GASAC
+-----------------------M----------------G--VEVETI----------R
+-PGD-GKS---------YPKKGQKVS--VHYVGTL------TN-GN--KFDSSRDRGQ-A
+FKFKLGHEQVIRAWDEGVAKMSIGEV-ARLTCSPD----------------------Y--
+------------------AYGPAGHPP--V-----IPGNSTLIFEVELLGFS--------
+-------
+>lcl|UniRef90_Q1HPH9 Peptidyl-prolyl cis-trans isomerase n=9 Tax=Obtectomera RepID=Q1HPH9_BOMMO
+-----------------------M----------------G--VDVETI----------S
+-PGN-GST---------YPKPGQTVV--VHYTGTL------QN-GK--KFDSSRDRGQ-P
+FKFTLGKGDVIKGWDQGLAKMSVGER-AKLTCSPD----------------------F--
+------------------AYGSRGHPG--V-----IPPNATLIFDVELLRVE--------
+-------
+>lcl|UniRef90_B3S1U6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Trichoplax adhaerens RepID=B3S1U6_TRIAD
+-----------------------M----------------SGEFRIETI----------E
+-PGD-GVT---------FPKKGQTAV--VHYTGTL------TN-GK--KFDSSRDRNK-P
+FKFRVGTGSVIRGWDEGVAKMSVGQR-AKLICPPE----------------------Y--
+------------------AYGSQGVRVYLL----TIPPNATLNFDVQLISLE--------
+-------
+>lcl|UniRef90_R4FPA8 Peptidyl-prolyl cis-trans isomerase n=4 Tax=Cimicomorpha RepID=R4FPA8_RHOPR
+-----------------------M----------------G--VTVETV----------S
+-PGD-GQT---------YPKTGQTVV--VHYTGTL------EN-GM--KFDSSRDRGV-P
+FKFRLGKGEVIKGWDQGVSQMCVGQR-AKLTCSPD----------------------F--
+------------------AYGSRGHPG--I-----IPPNSTLIFDVELLKVEP-------
+-------
+>lcl|UniRef90_L7UIB9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Myxococcus stipitatus (strain DSM 14675 / JCM 12634 / Mx s8) RepID=L7UIB9_MYXSD
+-----------------------M----------------S--LKIEDS----------K
+-VGT-GDE----------AKAGQTVS--VHYVGTL------TD-GK--KFDSSRDRGQ-P
+FSFKLGAGQVIQGWDQGVAGMKVGGV-RKLTIPPD----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLGVR--------
+-------
+>lcl|UniRef90_C7TYC0 Peptidyl-prolyl cis-trans isomerase n=4 Tax=Schistosoma japonicum RepID=C7TYC0_SCHJA
+-----------------------M----------------G--VEVVSY----------K
+-HGD-GKR---------FPKKGQKVV--VHYTGTF------TD-GK--KFDSSRDRNQ-P
+FEFVIGMNKVIKGWDEGIAQMSVGER-AYLTCTHD----------------------Y--
+------------------AYGAKGVSG--T-----IPPFATLKFDVELINIL--------
+-------
+>lcl|UniRef90_A0A0N4V5Q6 Uncharacterized protein n=1 Tax=Enterobius vermicularis RepID=A0A0N4V5Q6_ENTVE
+-----------------------M----------------P--VSIETI----------K
+-EGD-GVT---------HPKSGQKVQ--CHYVLTL------ED-GK--EIDSSRSRGK-P
+FEFKIGKGEVIKGWDEGVARMSVGQR-AKLTITPD----------------------L--
+------------------GYGSRGVPG--A-----IPANATLIFDVELLAVK--------
+-------
+>lcl|UniRef90_A0A0L6WKT5 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Termitomyces sp. J132 RepID=A0A0L6WKT5_9AGAR
+-----------------------M----------------G--VTIDTI----------Q
+-PGD-GVT---------FPKKGDKVL--IHYVGKL------EN-GT--TFDSSRDRGS-P
+FETEIGVGKVIKGWDEGVPQLSVGQK-AVLTATPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLKFEVELLKIN--------
+-------
+>lcl|UniRef90_D8TQV4 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Volvox carteri RepID=D8TQV4_VOLCA
+-----------------------M----------------G--VDIEVI----------T
+-KGD-GVT---------RPQRGQKVI--VHYTGTL------VD-GK--KFDSSRDRGA-P
+FDFTLGKGEVIPGWDVGVAQMTKGER-VKLTISPD----------------------M--
+------------------AYGPRGIPG--V-----IPPSATLIFDVELLDIK--------
+-------
+>lcl|UniRef90_A0A0C3Q8H1 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Tulasnella calospora MUT 4182 RepID=A0A0C3Q8H1_9HOMO
+-----------------------M----------------G--VDIQTI----------S
+-AGD-GVN---------FPKAGNTVE--IHYVGTL------TD-GK--KFDSSRDRGK-P
+FVTQIGVGRVIKGWDEGVVQLSLGQK-AILTCTPD----------------------Y--
+------------------AYGDRGFPP--L-----IRPDSTLVFEVELLKIIQ-------
+-------
+>lcl|UniRef90_UPI0003F4905C FK506-binding protein 1A n=1 Tax=Tremella mesenterica (strain ATCC 24925 / CBS 8224 / DSM 1558 / NBRC 9311 / NRRL Y-6157 / RJB 2259-6) RepID=UPI0003F4905C
+-----------------------M----------------G--VEIKVI----------T
+-PGD-GVN---------FPKPGDTVK--IHYTGTL------QD-GS--KFDSSKDRNE-P
+FVTQIGVGRVIKGWDEGVVKLSVGTK-ALLICSPD----------------------Y--
+------------------AYGPRGFPP--V-----IPANATLNFEVELLAIN--------
+-------
+>lcl|UniRef90_A0A068S4J6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Lichtheimia corymbifera JMRC:FSU:9682 RepID=A0A068S4J6_9FUNG
+-----------------------M----------------G--VTVETI----------S
+-AGD-GKN---------FPKKGDKVT--IHYTGTL------TN-GN--KFDSSRDRGQ-P
+FQCTIGVGQVIRGWDEGVTQLSVGQR-AKLTCTPD----------------------Y--
+------------------AYGPRGFPP--I-----IPPNSTLVFDVELIKIN--------
+-------
+>lcl|UniRef90_A0A0C3Q8H9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Tulasnella calospora MUT 4182 RepID=A0A0C3Q8H9_9HOMO
+-----------------------M----------------G--VTIERL----------Q
+-PGD-GVT---------FPKKGDTVT--IHYIGTL------LD-GK--KFDSSRDGDE-P
+FETEIGVGDVIRGWDEGVPKLSLGEK-AILTCTHD----------------------Y--
+------------------AYGARGSPP--D-----IPPNATLKFEVELLAINGKTR----
+-------
+>lcl|UniRef90_G3TRX1 Peptidyl-prolyl cis-trans isomerase (Fragment) n=5 Tax=Eutheria RepID=G3TRX1_LOXAF
+----------------------------------------------LPC----------S
+-PDQ-GRLLPASGTLQLPFF-----------TGML------ED-GK--KFDSSRDRNK-P
+FKFMLGKQEVIRGWEEGVAQMSVGQR-AKLTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPNATLVFDVELLKLE--------
+-------
+>lcl|UniRef90_A8HUK0 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Chlamydomonas reinhardtii RepID=A8HUK0_CHLRE
+-----------------------M----------------G--VDVATT----------R
+-PGD-GVS---------FPKTGQTVF--VHYTGTL------TD-GK--KFDSSRDRGE-P
+FSFRLGMGEVIKGWDEGVAQMSKGQR-ATLTISHD----------------------F--
+------------------AYGPRGIPG--V-----IPPSATLVFDVELLDYK--------
+-------
+>lcl|UniRef90_UPI0003C25E1F PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1B isoform X1 n=3 Tax=Sauria RepID=UPI0003C25E1F
+-----------------------M----------------S------------------S
+-AGD---------------------------AGML------QN-GK--KFDSSRDRNK-P
+FRFKIGRQEVIKGFEEGVAQMSLGQR-AKLTCTPE----------------------M--
+------------------AYGTTGHPG--V-----IPPNATLIFDVELLRLE--------
+-------
+>lcl|UniRef90_UPI0006B391D3 PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Austrofundulus limnaeus RepID=UPI0006B391D3
+-----------------------M----------------G--VHVETI----------R
+-PGD-GRT---------FPKKGSTVA--VHYVGTL------TN-GQ--KFDSSRDRGK-P
+FKFKLGEGEVIRAWDEGVAQMSLGQM-AKLTCSPD----------------------Y--
+------------------AYGASGYPP--I-----IPANATLIFEVELLQC---------
+-------
+>lcl|UniRef90_Q6BX45 FK506-binding protein 1 n=2 Tax=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / JCM 1990 / NBRC 0083 / IGC 2968) RepID=FKBP_DEBHA
+-------------------MSAPA----------------T--TQVEIL----------Q
+-EGD-GKT---------FPKPGDLVT--IHYTGTL------EN-GK--KFDSSRDRGK-P
+FQCTIGVGQVIVGWDTGIPKLSVGSR-AKLSIPGH----------------------E--
+------------------AYGDRGFPG--L-----IPPNATLLFDVELLNVN--------
+-------
+>lcl|UniRef90_P20081 FK506-binding protein 1 n=125 Tax=Saccharomycetaceae RepID=FKBP_YEAST
+-----------------------MSEVIE-G---------N--VKIDRI----------S
+-PGD-GAT---------FPKTGDLVT--IHYTGTL------EN-GQ--KFDSSVDRGS-P
+FQCNIGVGQVIKGWDVGIPKLSVGEK-ARLTIPGP----------------------Y--
+------------------AYGPRGFPG--L-----IPPNSTLVFDVELLKVN--------
+-------
+>lcl|UniRef90_S6BHA2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=endosymbiont of unidentified scaly snail isolate Monju RepID=S6BHA2_9GAMM
+--------------MS--EKISDS----------------G--LKYEDL----------V
+-EGE-GAV----------AEPGQRVS--VHYTGWL------ED-GT--KFDSSVDRNG-P
+FRFALGRGMVIRGWDEGVAGMKVGGR-RRLVIPPH----------------------L--
+------------------GYGPQGAGG--V-----IPPNATLVFEVELLDIL--------
+-------
+>lcl|UniRef90_G2QAN6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Myceliophthora thermophila (strain ATCC 42464 / BCRC 31852 / DSM 1799) RepID=G2QAN6_MYCTT
+-----------------------MPVPQLD----------G--LQIEVL----------K
+-EGS-GEQ---------ETARGNTID--VHYTGTL------TD-GK--KFDSSRDRGE-P
+LRFTVGQGQVIKGWDEGLLGMKVGEQ-RKLTIAPE----------------------L--
+------------------AYGSRGVGG--V-----IPPNATLIFETELVKIN--------
+-------
+>lcl|UniRef90_H2B0Y9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276) RepID=H2B0Y9_KAZAF
+-----------------------MSEVIE-G---------N--VKIDRL----------S
+-PGD-GAN---------FPKVGDLVT--IHYTGTL------EN-GQ--KFDSSLDRGS-P
+FQCTIGVGHVIKGWDAAIPKLSVGEK-ARITIPGA----------------------Y--
+------------------AYGERGFPG--L-----IPPMATLIFDVELLKIN--------
+-------
+>lcl|UniRef90_D8PA41 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Nitrospira defluvii RepID=D8PA41_9BACT
+-------MAQSEQPASTPEITTVS----------------G--LTYTDV----------A
+-VGT-GRE----------AASGNLVT--VHYTGWL------TN-GK--KFDSSVDRSE-P
+FSFPLGAGRVIKGWDEGVAGMKVGGK-RKLTIPSQ----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFDVELLEVR--------
+-------
+>lcl|UniRef90_W1QKI3 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Ogataea parapolymorpha (strain DL-1 / ATCC 26012 / NRRL Y-7560) RepID=W1QKI3_OGAPD
+----------------------MS----------------E--LKIQTI----------A
+-PGD-GKT---------YPQPGDLVT--VHYTGTL------EN-GK--KFDSSRDRNK-P
+FQFRIGQGMVIAGWEQGFSKLSLGEK-AILTIPGP----------------------L--
+------------------AYGSRGFPG--L-----IPPNATLIFDVELLKIN--------
+-------
+>lcl|UniRef90_A0A067MZH4 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Botryobasidium botryosum FD-172 SS1 RepID=A0A067MZH4_9HOMO
+-----------------------M----------------G--VTVEKI----------S
+-PGD-GKT---------FPEPGDTVH--IHYVGTL------LD-GT--KFDSSRDRRA-P
+FVVQIGKEKVIKGWDEGVPQLSVGEK-AILTCTPD----------------------Y--
+------------------AYGSRGFPP--V-----IPPNSTLKFEVELLKVERK------
+-------
+>lcl|UniRef90_Q1JUQ5 Peptidyl-prolyl cis-trans isomerase n=9 Tax=Eutheria RepID=Q1JUQ5_HUMAN
+-----------------------M----------------G--VQVETI----------S
+-PGD----------------------------GML------ED-GK--KFDSSRDRNK-P
+FKFMLGKQEVIRGWEEGVAQMSVGQR-AKLTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPHATLVFDVELLKLE--------
+-------
+>lcl|UniRef90_K1QXK0 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Crassostrea gigas RepID=K1QXK0_CRAGI
+-----------------------M----------------G--VEKQVL----------A
+-QGD-GKT---------FPEKGQTVV--VHYTGTL------TD-GK--KFDSSKDRGK-P
+FEFKIGMSQVIKGWDEGVMTMSVGEK-AILTCSPD----------------------Y--
+------------------AYGPSGVGGSEA-----LP-----------------------
+-------
+>lcl|UniRef90_K5UPX5 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Phanerochaete carnosa (strain HHB-10118-sp) RepID=K5UPX5_PHACS
+-----------------------M----------------G--VNVDVI----------T
+-PGD-GKT---------FPKVGDRVS--IHYVGTL------LD-GT--KFDSSRDRGS-P
+FQTEIGVGKVIRGWDEGVLKLSVGTK-AILTATPD----------------------F--
+------------------AYGQRGFPP--I-----IPPNSTLKFEVELLGIL--------
+-------
+>lcl|UniRef90_UPI0004407F65 peptidyl-prolyl cis-trans isomerase n=1 Tax=Fomitiporia mediterranea (strain MF3/22) RepID=UPI0004407F65
+-----------------------M----------------G--VTIETI----------A
+-PGD-GKN---------FPKKGDTVT--IHYIGTL------ED-GT--KFDSSVDRQK-P
+FQTEIGIGKVIKGWDEGVPQLSLQQK-AILTCTPD----------------------Y--
+------------------AYGSRGFPP--I-----IPPNSTLKFEVQLLSIN--------
+-------
+>lcl|UniRef90_I0Z5B6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Coccomyxa subellipsoidea C-169 RepID=I0Z5B6_9CHLO
+-----------------------M----------------G--VDIDTI----------K
+-QGD-GSK----------PSKGQTVT--VHYTGTL------TN-GK--KFDSSRDRNS-P
+FSFRLGAGEVIKGWDEGVAQLSKGER-AKLTISPD----------------------Y--
+------------------GYGARGAAG--V-----IPPNATLIFDVELLSFQ--------
+-------
+>lcl|UniRef90_A0A060WZU7 Peptidyl-prolyl cis-trans isomerase n=17 Tax=Neopterygii RepID=A0A060WZU7_ONCMY
+-----------------------M----------------G--VEIETI----------T
+-PGD-GRT---------FPKKGQTCV--VHYVGSL------TD-GR--KFDSSRDSDK-P
+FRFKIGKQEVIRGWDEGVVQMSVGQR-ARLTCSPD----------------------F--
+------------------AYGAKGHPG--I-----IPPNATLLFDVELLSIE--------
+-------
+>lcl|UniRef90_UPI0005EFBF41 PREDICTED: FK506-binding protein 1, partial n=1 Tax=Strongylocentrotus purpuratus RepID=UPI0005EFBF41
+-------------------------------------------CILFIF----------T
+-----GKT---------FPQKGQTVS--VHYTGTL------TN-GE--KFDSSKDRGK-P
+FEFKIGAGQVIKAWDEGVAQMSVGTT-AILTCSPD----------------------Y--
+------------------AYGARGYPP--V-----IPPNSTLIFEVELLQLR--------
+-------
+>lcl|UniRef90_UPI0005B899FF PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1B isoform X1 n=1 Tax=Pteropus vampyrus RepID=UPI0005B899FF
+-----------------------M----------------G--VEIETI----------S
+-PGD-GRT---------FPKKGQTCV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FKFRIGKQEVIKGFEEGAAQLS-----NAMPVPDDCCDESGFKHSVKSYDTSFRIVLL--
+------------------AFSTLLWPL--I-----SKPNELLLSPT--------------
+-------
+>lcl|UniRef90_C4WS29 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Acyrthosiphon pisum RepID=C4WS29_ACYPI
+-----------------------M----------------S--DNRTALLLIRSFCVCFT
+-----GAT---------FPKRGQTVT--VHYTGTL------TD-GK--KFDSSRDRNK-P
+FKFKIGKGEVIKGWDEGVAQMSIGSR-AKLTCTPD----------------------Y--
+------------------AYGALGHPG--V-----IPPNATLIFDVELIKCE--------
+-------
+>lcl|UniRef90_C4WS28 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Acyrthosiphon pisum RepID=C4WS28_ACYPI
+-----------------------M----------------G--VDVTFL----------A
+-EGD-GAT---------FPKRGQTVT--VHYTGTL------TD-GK--KFDSSRDRNK-P
+FKFKIGKGEVIKGWDEGVAQMSIGSR-AKLTCTPD----------------------Y--
+------------------AYGALGHPG--V-----IPPNATLIFDVELIKCE--------
+-------
+>lcl|UniRef90_UPI0000F2C21A PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like isoform X1 n=1 Tax=Monodelphis domestica RepID=UPI0000F2C21A
+-----------------------M----------------G--VKVETI----------Y
+-PGD-RRT---------YPKRGQTCV--VHYTGIF------ED-GE--KFDSSRDRNK-P
+FKFVMGKQEVIRGWEEGVAQMSLGQR-AKMTISPD----------------------Y--
+------------------AYGPTGHPG--T-----IPPNATLIFDVELIKLE--------
+-------
+>lcl|UniRef90_A0A0J0XL82 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Trichosporon oleaginosus RepID=A0A0J0XL82_9TREE
+-----------------------M----------------G--VDIQRL----------G
+-GGD-GKT---------FPKPGDKVT--IHYVGTL------TD-GT--QFDSSRDRGQ-P
+FQCVIGVGQVIKGWDEGVPQLSVGEK-AILTATPD----------------------Y--
+------------------AYGARGYPP--I-----IPASATLKFEVELLKIN--------
+-------
+>lcl|UniRef90_A0A0N5AUR2 Uncharacterized protein n=1 Tax=Syphacia muris RepID=A0A0N5AUR2_9BILA
+-----------------------M----------------P--VQIETI----------K
+-EGD-GVT---------HPKTGQQVQ--CHYVLTL------QN-GK--EVDSSRSRGK-P
+FEFKIGKGEVIKGWDEGVARMTVGQR-AKLTISPD----------------------L--
+------------------GYGSRGIPG--A-----IPGGATLIFDVELLGVK--------
+-------
+>lcl|UniRef90_F0YGH0 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Aureococcus anophagefferens RepID=F0YGH0_AURAN
+-----------------------M----------------P--TVVTTI----------S
+-PGD-GAT---------FPKAGDALT--MHYTGTLA-----AD-GS--KFDSSVDRGT-P
+FSFTIGVGQVIRGWDEGVMKMSLGEK-ATLAIPSE----------------------D--
+------------------GYGPRGAGG--V-----IPPDADLVFEVELLKIN--------
+-------
+>lcl|UniRef90_K9ZXK3 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Deinococcus peraridilitoris (strain DSM 19664 / LMG 22246 / CIP 109416 / KR-200) RepID=K9ZXK3_DEIPD
+------------------MTDSTG----------------E--LQVEKL----------Q
+-EGQ-GAQ----------AQKGQMAS--VHYTGWL------TD-GT--KFDSSVDRGT-P
+FEFPLGQGHVIQGWDEGVSQMRVGDK-VRLTIPPH----------------------L--
+------------------GYGARGAGG--V-----IPANATLIFEVELLGLR--------
+-------
+>lcl|UniRef90_UPI0004F423AC PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1B isoform X1 n=1 Tax=Pongo abelii RepID=UPI0004F423AC
+-------------------------------------------MPFEGW-----------
+--GD-GSAFLWVLR---EPRAGLIPVGCSLSAGML------QN-GK--KFDSSRDRNK-P
+FKFRIGKQEVIKGFEEGAAQMSLGQR-AKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLNLE--------
+-------
+>lcl|UniRef90_W6MUZ6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Kuraishia capsulata CBS 1993 RepID=W6MUZ6_9ASCO
+-----------------------MSE-----------------LKIEKI----------A
+-PGD-GKT---------FPTVGSLVT--IHYEGTL------EN-GK--KFDSSRDRGK-P
+FQTYIGVGQVIKGWDQGIPTLSLGEK-AKLTIPGP----------------------L--
+------------------AYGPRGFPG--L-----IPPNATLIFEVELLGIDN-------
+-------
+>lcl|UniRef90_A0A060T856 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Blastobotrys adeninivorans RepID=A0A060T856_BLAAD
+-----------------------M----------------G--VTKKVL----------S
+-EGD-KVN---------YPKPGDQVS--IHYTGTL------ED-GS--KFDSSRDRGR-E
+FQTQIGVGQVIRGWDEGVPSMSLGER-AQLTITGD----------------------Y--
+------------------AYGARGFPG--L-----IPPNATLIFDVELRGINGKKVD---
+-------
+>lcl|UniRef90_UPI0004F0AC01 PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like isoform X1 n=2 Tax=Platyrrhini RepID=UPI0004F0AC01
+-----------------------M----------------G--VQVETI----------S
+-PGD-GCT---------FPKCSQTCV--VHYTRML------ED-GK--KFDSSWDTNK-P
+FKFMLGKQEVMRGWEEGVAQMSVGQR-AKLTVSPD----------------------Y--
+------------------AYGATGHPG--I-----IPPCATLIFDVELLKLE--------
+-------
+>lcl|UniRef90_J3JUE3 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Dendroctonus ponderosae RepID=J3JUE3_DENPD
+-----------------------M----------------G--VKIQTL----------A
+-QGD-GST---------FPKSGQTVV--VHYTGTL------TD-GS--KFDSSRDRGL-P
+FKFVIGKGEVIKGWDEGVAQMSVGQR-AVLTCSPD----------------------Y--
+------------------GYGQRGHPG--V-----IPPNATLVFDVELLEIK--------
+-------
+>lcl|UniRef90_A1CU54 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1) RepID=A1CU54_ASPCL
+-----------------------M----------------G--VTKEIK----------A
+-AGN-GAD---------FPKKGDFVT--IHYTGTL------AN-GD--KFDSSVDRGS-P
+FQCQIGTGRVIKGWDEGVPQMSLGEK-AVLTITPD----------------------Y--
+------------------GYGASGFPP--V-----IPGNSTLIFEVQLLGINNKRA----
+-------
+>lcl|UniRef90_A0A0D1NRD2 Peptidyl-prolyl cis-trans isomerase n=17 Tax=Bradyrhizobiaceae RepID=A0A0D1NRD2_BRAEL
+-------------------MTTAS----------------G--LQIIDS----------K
+-VGT-GAS----------PKTGQTCV--MHYTGWLYENG--QK-GK--KFDSSVDRNE-P
+FEFPIGQGRVIKGWDEGVATMKVGGK-RTLIIPPD----------------------L--
+------------------GYGARGAGG--V-----IPPNATLMFDVELLGVK--------
+-------
+>lcl|UniRef90_B5AXP6 Peptidyl-prolyl cis-trans isomerase (Fragment) n=1 Tax=Eisenia fetida RepID=B5AXP6_EISFE
+----------------------------------------G--VDIEEI----------T
+-LGD-GTP---------FPKTRQTVV--VHSTGTL------TN-GK--RFDSSRDRGK-P
+FKFKIGKGHVIRCWDEGLAKMSVRQR-AKLTCSSD----------------------Y--
+------------------SYGEKGHPG--V-----IPPDATLIFDVELLGLE--------
+-------
+>lcl|UniRef90_UPI000444A304 peptidyl-prolyl cis-trans isomerase n=1 Tax=Stereum hirsutum (strain FP-91666) RepID=UPI000444A304
+-----------------------M----------------G--VSIETL----------S
+-AGD-GTN---------FPQRGDKVK--IHYVGTL------ID-GK--KFDSSRDRGD-P
+FVTEIGVGKVIKGWDEGVPQLSLGQK-AVLTVSSD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLKFEVELLQIN--------
+-------
+>lcl|UniRef90_M7B8G3 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Chelonia mydas RepID=M7B8G3_CHEMY
+-----------------------MELCRKYMIDL---------TKTSVI----------T
+-PSPQHLT---------SSLVGTEII-CVVLAGML------QN-GK--KFDSSRDRNK-P
+FRFKIGRQEVIKGFEEGAAQMSLGQR-AKLTCTPD----------------------M--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLRLE--------
+-------
+>lcl|UniRef90_E3KQ21 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL) RepID=E3KQ21_PUCGT
+-----------------------MGAPSS-----------NSQVQVETI----------K
+-PGD-GKN---------FPVAGDKVK--IHYVGTLES----KD-GK--KFDSSRDRGR-P
+FECQIGVGQVIKAWDQGVIQLSIGQE-AYFKCPPE----------------------I--
+------------------TYGAAGCNG--V-----IPPNATLYFKVELLEFGTSFPRLMA
+SRQ----
+>lcl|UniRef90_T1HS86 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Rhodnius prolixus RepID=T1HS86_RHOPR
+-----------------------M----------------G--VTVETV----------S
+-PGD-GQT---------YPKTGQTVV--VHYTGTL------EN-GM--KFDSSRDRGV-P
+FKFRLGKGEVIKGWDQGVSQMCVGQR-AKLTCSPD----------------------F--
+------------------AYGSRGHPG--I-----YPLLQGFTFLNFIYCLV--------
+-------
+>lcl|UniRef90_A0A0C9QYZ9 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Amblyomma RepID=A0A0C9QYZ9_AMBAM
+-----------------------M----------------G--VEVQTI----------S
+-PGD-GQT---------FPKAGQTVV--VHYTGTL------AD-GS--KFDSSRDRGK-P
+FKFRIGKGEVIRGWDEGVAQMSVGQR-AKLVCSPD----------------------Y--
+------------------AYGSMGHPG--I-----IPPNAVLTFDVELLRLE--------
+-------
+>lcl|UniRef90_A0A0F8WCH6 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Aspergillus RepID=A0A0F8WCH6_9EURO
+-----------------------M----------------G--VTKELI----------S
+-PGN-GTD---------FPAKGDFVT--MHYTGKL------TN-GD--KFDSSVDRGT-P
+FQTQIGTGRVIKGWDEGVPQMTLGEK-AVLTITPD----------------------Y--
+------------------GYGARGFPP--V-----IPENATLIFEVQLLGINNKRA----
+-------
+>lcl|UniRef90_W5Q8R5 Peptidyl-prolyl cis-trans isomerase (Fragment) n=6 Tax=Eutheria RepID=W5Q8R5_SHEEP
+-----------------------Q----------------P--GESKVV----------E
+-PKE-RRT---------FPKKGQTCV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FKFRIGKQEVIKGFEEGAAQMSLGQR-AKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLNLE--------
+-------
+>lcl|UniRef90_B9X9L1 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Pedosphaera parvula (strain Ellin514) RepID=B9X9L1_PEDPL
+--------------------MPSP----------------A--LKIESL----------N
+-KGT-GPA----------PKKGETVM--VHYTGWL------TD-GT--KFDSSVDRND-P
+FGFVLGAGQVIRGWDEGVATMRVGDK-SRLTIPSD----------------------M--
+------------------AYGAHGYPG--V-----IPPNATLIFEVELLSIG--------
+-------
+>lcl|UniRef90_Q5P2F8 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Rhodocyclaceae RepID=Q5P2F8_AROAE
+--------------MS--QTTTAS----------------G--LIIEDM----------E
+-VGN-GAT----------AEKGKSVS--VHYTGWL------TD-GR--KFDSSKDRND-P
+FEFPLGAGHVIRGWDEGVQGMQEGGR-RKLTIPPE----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLKVR--------
+-------
+>lcl|UniRef90_A0A0C3IRT2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Pisolithus tinctorius Marx 270 RepID=A0A0C3IRT2_PISTI
+-----------------------M----------------G--VTIERI----------T
+-PGD-GKT---------FPKKGDKVK--IHYVGTL------LN-GN--VFDSSRDRGL-P
+FETDIGVGKVIKGWDEGVPQLSLGEK-AFLIATPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNATLKFEVELLKIN--------
+-------
+>lcl|UniRef90_V5UJS0 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Pandoraea RepID=V5UJS0_9BURK
+--------------MS--TITISS----------------G--LEYDDL----------Q
+-VGE-GAE----------AVAGKTVS--VHYTGWL------TD-GT--KFDSSKDRNQ-P
+FDFVLGGGMVIRGWDEGVQGMKVGGK-RKLVIPPQ----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLDV---------
+-------
+>lcl|UniRef90_F6XCF5 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Monodelphis domestica RepID=F6XCF5_MONDO
+-----------------------M----------------G--VQVETI----------F
+-PGK-GLT---------FPKHGQT-------TGIF------ED-GK--KFDFSPDRKK-P
+FKFVMGKQVVIRGWEEGVVQMSVSQT-AKMTISPD----------------------Y--
+------------------AYGSTRHLG--A-----IPPNVTLIFDVELLKLE--------
+-------
+>lcl|UniRef90_UPI00044149DB peptidyl-prolyl cis-trans isomerase n=1 Tax=Auricularia delicata (strain TFB10046) RepID=UPI00044149DB
+-----------------------M----------------G--VTVETI----------S
+-PGD-GTN---------FPKKGDTVV--IHYDGKL------LD-GS--KFDSSRDRGK-P
+FVVEIGVGRVIKGWDEGVPQLSVGEK-AMLTCTPD----------------------Y--
+------------------AYGDRGFPP--V-----IPPNSTLKFEVELLSIRK-------
+-------
+>lcl|UniRef90_A0A0C3PJB1 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Phlebiopsis gigantea 11061_1 CR5-6 RepID=A0A0C3PJB1_PHLGI
+-----------------------M----------------G--VGIEVI----------Q
+-PGD-GKN---------FPKKGDRVS--IHYVGTL------PD-GT--KFDSSRDRGS-P
+FETQIGIGKVIKGWDEGVPQLSLGTK-AILTASPD----------------------Y--
+------------------AYGSRGFPP--I-----IPPNSTLQFEVELLAIN--------
+-------
+>lcl|UniRef90_A0A0C3AAP8 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Scleroderma citrinum Foug A RepID=A0A0C3AAP8_9HOMO
+-----------------------M----------------G--VTIDTI----------I
+-LGD-GKS---------FPKKGDRVT--IHYVGTL------LD-GK--KFDSSRDRNE-P
+FITEIGIGKVIKGWDEGVPQLSLGQK-AILTATPD----------------------YVS
+TILPERGFVVYGEHFALQAYGSRGFPP--V-----IPPNATLKFEVELLKIN--------
+-------
+>lcl|UniRef90_P68106 Peptidyl-prolyl cis-trans isomerase FKBP1B n=12 Tax=Eutheria RepID=FKB1B_HUMAN
+-----------------------M----------------G--VEIETI----------S
+-PGD-GRT---------FPKKGQTCV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FKFRIGKQEVIKGFEEGAAQMSLGQR-AKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLNLE--------
+-------
+>lcl|UniRef90_UPI0005520B65 PREDICTED: FK506-binding protein 1-like n=1 Tax=Notothenia coriiceps RepID=UPI0005520B65
+-----------------------M----------------G--VEVETL----------R
+-PGD-GRT---------FPQKGQTVF--VHYVGTL------TN-GN--KFDSSRDRGQ-P
+FKFKIGQGQVIRAWDEGVAQMSVGQM-ARLTCSSD----------------------Y--
+------------------AYGARGFPP--V-----IPGNSTLIFEVELLSIS--------
+-------
+>lcl|UniRef90_A0A0M7QVK7 FKBP-type peptidyl-prolyl cis-trans isomerase n=1 Tax=Streptomyces venezuelae RepID=A0A0M7QVK7_STRVZ
+-----------------------M----------------G--VTRDVI----------E
+-AGD-GQN---------FPKPGDVVT--MHYTGTL------ED-GT--KFDSSRDRGE-P
+FVSQIGVGRLIKGWDEGVPQMSVGER-AKLTITSD----------------------Y--
+------------------GYGDRGVPG--V-----IPPGATLVFDVELIKIG--------
+-------
+>lcl|UniRef90_UPI000553A19E PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Notothenia coriiceps RepID=UPI000553A19E
+-----------------------M----------------A--TCCEPFFLTVSVSISFS
+-------------------------------AGSL------TD-GR--KFDSSRDRDK-P
+FRFKVGKQEVIRGWEEGVVQMSVGQR-AKLTCTPD----------------------F--
+------------------AYGNKGHPG--I-----IPPNATLIFDVELLGLE--------
+-------
+>lcl|UniRef90_K3WDT7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Pythium ultimum DAOM BR144 RepID=K3WDT7_PYTUL
+-----------------------M----------------G--FEIDTI----------K
+-AGD-GTN---------FPKAGNTVK--VHYVGTL------TN-GS--KFDSSRDRGR-P
+FEFKLGAGQVIRGWDEGVAKMSLGQI-AKLTLPHE----------------------Y--
+------------------AYGEHGYPP--I-----IPPKATLIFEVELLGFN--------
+-------
+>lcl|UniRef90_A0A0C9XRA0 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Laccaria amethystina LaAM-08-1 RepID=A0A0C9XRA0_9AGAR
+-----------------------M----------------G--VTIETL----------T
+-PGD-GKT---------YPKKGDKVT--IHYIGTL------QD-GS--VFDSSRDRGI-P
+FETEIGVGKVIKGWDEGVPQLSLGQK-AVLVASPD----------------------Y--
+------------------AYGGRGFPP--V-----IPPNSVLRFEVELLKISK-------
+-------
+>lcl|UniRef90_A0A0B6XYS2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Arion vulgaris RepID=A0A0B6XYS2_9EUPU
+-----------------------M----------------G--VEIETI----------T
+-PGD-GKT---------YAKKGDTVV--VHYTGTL------AN-GK--KFDSSRDRSK-P
+FEAVIGVGKVIKGWDEGFTKISVGER-AILTITPD----------------------F--
+------------------GYGAKGAGG--V-----IPPNATLTFDVELLSVKRK------
+-------
+>lcl|UniRef90_A0A0J9XIN6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Geotrichum candidum RepID=A0A0J9XIN6_GEOCN
+-----------------------M----------------G--VTIKSL----------S
+-PGD-GKT---------YPKVGDTVS--IHYVGTL------EN-GQ--KFDSSRDRGT-P
+FQTPIGVGRVIKGWDEGVPQLSVGEK-AVLTITGD----------------------Y--
+------------------AYGPRGYPG--L-----IPPNATLIFEVELLGIN--------
+-------
+>lcl|UniRef90_A0A0D7B4L4 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Cylindrobasidium torrendii FP15055 ss-10 RepID=A0A0D7B4L4_9HOMO
+-----------------------MVERETQAEMDR-----G--VTIENR----------S
+-GGD-GKT---------FPKKGDKVT--IHYVGTL------LD-GT--QFDSSRDRND-P
+FVTEIGVGKVIKGWDEGVPQLSVGER-ATLVATPD----------------------Y--
+------------------AYGSRGFPP--V-----IPANSTLKFDVELISIN--------
+-------
+>lcl|UniRef90_UPI0003EA88D3 PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1B-like n=1 Tax=Lepisosteus oculatus RepID=UPI0003EA88D3
+-----------------------M----------------D--VMEVLI----------K
+-----GRT---------FPKKGQTCV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FKFKIGRQEVIRGWEEGVAQMSLGQR-AKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLKLE--------
+-------
+>lcl|UniRef90_UPI00042CA8B5 PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Bubalus bubalis RepID=UPI00042CA8B5
+-----------------------M----------------G--VQVETI----------S
+-PVD-GRT---------FPKRSQTCV--VRYTGML------DD-GK--KLDSSRDRNK-P
+FRFVLGKQEVIRGWEEGVAQMSVGQK-AKLTISAD----------------------Y--
+------------------AYGATGHPG--I-----IPPNTTLIFDVELLKLE--------
+-------
+>lcl|UniRef90_K7GFZ0 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Pelodiscus sinensis RepID=K7GFZ0_PELSI
+-----------------------M----------------G--VEIETI----------S
+-PGD-GRT---------FPKKGQTCV--VHYTGAL------KS-XX--XXXXXRDRNK-P
+FRFKIGRQEVIKGFEEGAAQMSLGQR-AKLTCTPD----------------------M--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLRLE--------
+-------
+>lcl|UniRef90_I3KJ91 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Oreochromis niloticus RepID=I3KJ91_ORENI
+--------------PEEGYSGAKM----------------G--VEIQTI----------T
+-PGD-GRT---------FPKKGQRVV--VHYVGTL------AD-GK--VFDSSRSRGK-P
+FKFKIGHQEVIRGWEEGVAQMSVGQR-AKLICSPD----------------------Y--
+------------------AYGSKGHPG--I-----IPPNATLTFDVELIGLE--------
+-------
+>lcl|UniRef90_K5VRA0 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Agaricus bisporus RepID=K5VRA0_AGABU
+-----------------------M----------------G--VQVFST----------H
+-PGD-GRT---------FPRAGNCVK--INYTGTL------LD-GK--KFDSSHDRGNGP
+FLTQIGVGKVIRGWDEGICKLSKGEK-ALLIVTPD----------------------Y--
+------------------GYGSRGFPP--F-----IPPNATLRFEVELIDVL--------
+-------
+>lcl|UniRef90_G0XNX7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Gadus morhua RepID=G0XNX7_GADMO
+-----------------------M----------------G--VEIETT----------K
+-PGD-GQT---------FPKKGQTAV--VHYVGKL------TN-GT--TFDSSRNRDS-P
+FKFRIGCGEVIRGWDEGVAQMSVGQQ-ARLTCTPD----------------------F--
+------------------AYGSKGHPG--V-----IPPNATLIFDVELLRLD--------
+-------
+>lcl|UniRef90_A0CYA1 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Paramecium tetraurelia RepID=A0CYA1_PARTE
+-----------------------MQ---------------G--FKVETI----------T
+-PGD-GKS---------FPQKGQKVH--VHYVGTL------LD-GS--VFDSSRNRGK-P
+FIFTLGAGQVIKGWDEGVAKLSIGEK-AIITCPPD----------------------Y--
+------------------AYGAQGYPP--V-----IPKNATLKFEVELLNFA--------
+-------
+>lcl|UniRef90_D1FPM6 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Cimex lectularius RepID=D1FPM6_CIMLE
+-----------------------M----------------G--VTVNTI----------I
+-GGD-GQT---------YPKTGQTVV--VHYTGTL------EN-GQ--KFDSSRDRGV-P
+FKFRLGRNEVIKGWDEGVAQMCVGQR-AKLICSPD----------------------F--
+------------------AYGSRGHPG--I-----IPPDSTLIFDMELLKVEP-------
+-------
+>lcl|UniRef90_A0A0B2VG52 Peptidyl-prolyl cis-trans isomerase n=5 Tax=Ascaridoidea RepID=A0A0B2VG52_TOXCA
+-----------------------M----------------P--VDIETL----------K
+-PGD-GKT---------FPKNGQKVS--CHYVLTL------QD-GK--EVDSSRTRGK-P
+FEFKIGKGEVIKGWDEGVAKMSVGQR-AKLTISPD----------------------M--
+------------------GYGSRGVPG--A-----IPGNATLIFDVELLGVK--------
+-------
+>lcl|UniRef90_Q6KBA8 FK506-binding protein 1A n=2 Tax=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) RepID=FKB1A_EMENI
+-----------------------M----------------G--VEVQRI----------S
+-PGD-GKN---------FPKPGDTVS--IHYTGTL------AD-GS--KFDSSRDRPG-T
+FVTQIGVGRVIKGWDEGVLQLSVGEK-AKLICTPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNATLTFEVELLKIN--------
+-------
+>lcl|UniRef90_A0A077X4A3 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Lichtheimia ramosa RepID=A0A077X4A3_9FUNG
+-----------------------M----------------G--VTVETI----------T
+-AGD-GKN---------FPKAGDRVT--IHYTGTL------ES-GK--KFDSSRDRNE-P
+FACKIGVGQVIRGWDEGVPQLSVGQR-AKLTCTPD----------------------Y--
+------------------AYGPRGFPP--I-----IPPNSTLIFDVELIKIN--------
+-------
+>lcl|UniRef90_Q7ZA53 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Schizophyllum commune RepID=Q7ZA53_SCHCO
+-----------------------M----------------G--VTVEVI----------Q
+-PGD-GKT---------FPQKGQTVS--IHYVGTL------QD-GT--KFDSSRDRGT-P
+FETAIGVGRVIKGWDEGVPQLSVGTT-ARLICTPD----------------------Y--
+------------------AYGSRGFPP--V-----IPPNATLTFEVELLSLQ--------
+-------
+>lcl|UniRef90_D6PVP9 Peptidyl-prolyl cis-trans isomerase (Fragment) n=1 Tax=Epinephelus coioides RepID=D6PVP9_EPICO
+---------------------------------------------ARGI----------K
+-PGD-GRS---------FPKAGHVVT--VHYVGTL------TD-GS--KFDSSRDRGK-P
+FQFNIGKGEVIRAWDEGVAKMSVGQR-ARLTCTPD----------------------F--
+------------------AYGARGYPP--V-----IPPNATLIFDVELLSC---------
+-------
+>lcl|UniRef90_M7NLY2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Pneumocystis murina (strain B123) RepID=M7NLY2_PNEMU
+-----------------------M----------------G--VIKKTI----------R
+-EGN-KKD---------YPTKGDRVS--IHYTGTL------EN-GK--KIDSSYDKGK-P
+FSTIIGTGQVIRGWDEAILQMSIGEV-AELTITGD----------------------Y--
+------------------AYGQVGYPG--I-----IPPNATLIFEIKLLEINGKS-----
+-------
+>lcl|UniRef90_A0A0F7K3A0 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Sedimenticola RepID=A0A0F7K3A0_9GAMM
+--------------MA--EKMTDS----------------G--LKYDDL----------I
+-EGE-GAD----------ATAGQRVV--VHYTGWL------TD-GR--KFDSSLDRND-P
+FSFVLGAGRVIRGWDEGVQGMKVGGK-RKLTIPPQ----------------------L--
+------------------GYGATGAGG--V-----IPPNATLVFEVELLEIG--------
+-------
+>lcl|UniRef90_L1JCE2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Guillardia theta CCMP2712 RepID=L1JCE2_GUITH
+-----------------------M----------------G--VEVQTI----------T
+-PGD-GKN---------FPKKGQRLE--MHYTGKLA-----SN-GE--EFDSSFKRNK-P
+FQFVIGVGQVIRGWDEGVMKMSVGEK-AKLIISSD----------------------Y--
+------------------GYGSQGAGG--V-----IPPNADLIFEVELLRIIG-------
+-------
+>lcl|UniRef90_A0A067SCY7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Galerina marginata CBS 339.88 RepID=A0A067SCY7_9AGAR
+-----------------------M----------------G--VKIDTI----------T
+-PGD-GVN---------FPKKGDRVS--IHYVGTF------TD-GK--KFDSSRDRGA-P
+LTTEIGTGKVIKGWDEGVPQLSLGQK-AKLTITPD----------------------Y--
+------------------AYGSGGYPP--I-----IPPNSTLYFEVELVKIN--------
+-------
+>lcl|UniRef90_A0A0L0VQB3 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Puccinia striiformis f. sp. tritici PST-78 RepID=A0A0L0VQB3_9BASI
+-----------------------MS---------------SQQVEIETI----------K
+-PGD-GKN---------FPVAGDKVK--IHYVGTLES----KD-GN--KFDSSRDRGR-P
+FECTIGVGQVIKAWDQGVVQLSIGQE-AYFKCAPE----------------------I--
+------------------AYGSAGCNG--V-----IPPNSTLFFKVELLEITRKNS----
+-------
+>lcl|UniRef90_Q8I6M8 Peptidyl-prolyl cis-trans isomerase n=5 Tax=Giardia intestinalis RepID=Q8I6M8_GIAIC
+-----------------------M----------------SAQLEKKVL----------T
+-PGD-GVT---------KPQAGKKVT--VHYDGRF------PD-GK--QFDSSRSRGK-P
+FQFTLGAGEVIKGWDQGVATMTLGEK-ALFTIPYQ----------------------L--
+------------------AYGERGYPP--V-----IPPKATLVFEVELLAV---------
+-------
+>lcl|UniRef90_G8JUG7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582) RepID=G8JUG7_ERECY
+-----------------------MSEVIE-G---------G--VVIERL----------T
+-PGD-GKS---------FPKAGDLVT--IHYTGTL------EN-GT--KFDSSVDRGH-P
+FQCNVGVGHVIKGWDAAIPKLSVGEK-ARLRIPGP----------------------Y--
+------------------AYGSRGFPG--L-----IPPDATLIFDVELLKIN--------
+-------
+>lcl|UniRef90_D5GM30 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Tuber melanosporum (strain Mel28) RepID=D5GM30_TUBMM
+-----------------------M----------------G--VTKTVI----------K
+-QGD-GIT---------FPKAGDTVT--IHYVGTL------QD-SS--KFDSSRDRND-P
+FVTKIGIGRVIKGWDEAVPRMSLGER-ATLTITPD----------------------Y--
+------------------GYGANGFPP--V-----IPANATLIFDVELLKIN--------
+-------
+>lcl|UniRef90_G1Q6P0 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Myotis lucifugus RepID=G1Q6P0_MYOLU
+-----------------------M----------------G--KEIETI----------S
+-LGD-GGT---------FPKKNQMCA--VHYTGML------QN-RK--KFD-SRDRNK-P
+FKFRIGNQEVTKGFEESAAQMSWGQR-VKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDMELLNLE--------
+-------
+>lcl|UniRef90_A0A0L0P190 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Candida auris RepID=A0A0L0P190_9ASCO
+--------------------MAPS----------------T--TEVEII----------L
+-EGD-GKV---------FPKVGDTVT--IHYTGTL------EN-GK--KFDSSRDRGK-P
+FQCTIGVGHVIKGWDIGIPKLSVGSQ-AKLTIPGH----------------------E--
+------------------AYGSRGFPG--L-----IPPDATLIFDVELLGVN--------
+-------
+>lcl|UniRef90_K5XQC8 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Agaricus bisporus RepID=K5XQC8_AGABU
+-----------------------M----------------G--VNIETI----------K
+-PGN-GVN---------FPKPGDVVK--IHYVGTL------KD-GT--KFDSSRDRDE-P
+FETQIGVGKVIKGWDEGVPKLSLNQV-AKFTISPD----------------------Y--
+------------------GYGEKGYPP--I-----IPKNSTLIFEVELLKIN--------
+-------
+>lcl|UniRef90_A0FLQ3 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Obtectomera RepID=A0FLQ3_BOMMO
+-----------------------M----------------G--VTVETI----------S
+-PGD-GST---------YPKSGQTVV--VHYTGTL------TN-GK--KFDSSRDRGK-P
+FKFRIGKSEVIRGWDEGVAQMSVGER-AKLTCSPD----------------------Y--
+------------------AYGQQGHPG--V-----IPPNSTLIFDVELLRLE--------
+-------
+>lcl|UniRef90_F4NUT7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Batrachochytrium dendrobatidis (strain JAM81 / FGSC 10211) RepID=F4NUT7_BATDJ
+-----------MLRRAFHSTSKIM----------------G--VTKEVI----------K
+-TGD-GVH---------FPKVGDTVT--MHYTGTF------TD-GK--KFDSSVDRGQ-P
+FVTKIGVGQVIKGWDEGVPQMSVGEK-AKLIITYD----------------------Y--
+------------------AYGERGHPG--G-----IPPKSDLIFEVELIKIN--------
+-------
+>lcl|UniRef90_A0A0F5K1K2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Burkholderia andropogonis RepID=A0A0F5K1K2_9BURK
+--------------MSNNKTTTES----------------G--LQYEDL----------I
+-VGE-GAE----------AKAGQNVS--VHYTGWL------TD-GQ--KFDSSKDRNA-P
+FQFSLGAGMVIPGWDEGVRGMKVGGT-RKLTIPAA----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLAV---------
+-------
+>lcl|UniRef90_A0A0C9Q4S6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Fopius arisanus RepID=A0A0C9Q4S6_9HYME
+-----------------------M----------------G--VDVEVI----------S
+-PGD-GCT---------FPKTGQTVV--VHYTGKI------KN-GK--QFDSSRDHGK-P
+FQFKIGKGDVIKGWDQGVAQMSVGEH-ARLTCSPD----------------------F--
+------------------AYGSRGHPG--V-----IPPNATLVFDVELIKVQS-------
+-------
+>lcl|UniRef90_Q9Z2I2 Peptidyl-prolyl cis-trans isomerase FKBP1B n=6 Tax=Amniota RepID=FKB1B_MOUSE
+-----------------------M----------------G--VEIETI----------S
+-PGD-GRT---------FPKKGQICV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FKFRIGKQEVIKGFEEGTAQMSLGQR-AKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLSLE--------
+-------
+>lcl|UniRef90_I2JXE0 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Brettanomyces bruxellensis AWRI1499 RepID=I2JXE0_DEKBR
+-----------------------M----------------ASELKIEVV----------S
+-PGD-GKT---------FPKAGDLLT--VHYTGTL------EN-GK--KFDSSKDRNK-P
+FQFRIGQGMVIAGWDQGFAKLSLGEK-ARLTIPGA----------------------L--
+------------------AYGDRGFPG--L-----IPPNATLIFDVELLQIN--------
+-------
+>lcl|UniRef90_Q0B417 Peptidyl-prolyl cis-trans isomerase n=20 Tax=Bacteria RepID=Q0B417_BURCM
+--------------MS--VTTTAS----------------G--LKIEEL----------T
+-EGT-GAE----------AQAGQTVS--VHYTGWL------TD-GQ--KFDSSKDRND-P
+FAFVLGGGMVIKGWDEGVQGMKVGGV-RRLTIPPQ----------------------L--
+------------------AYGPRGAGG--V-----IPPNATLVFEVELLDV---------
+-------
+>lcl|UniRef90_H2SFL7 Peptidyl-prolyl cis-trans isomerase (Fragment) n=6 Tax=Clupeocephala RepID=H2SFL7_TAKRU
+-------------------RSTNM----------------G--VEVQTI----------S
+-PGD-GRT---------FPKKGQTCV--VHYIGTL------QN-GK--KFDSSRDRNK-P
+FKFTIGRNEVIKGWEEGFAQMSLGQR-AKITCTAD----------------------M--
+------------------AYGATGHPG--V-----IPPHATLIFDVELIKLE--------
+-------
+>lcl|UniRef90_P48375 12 kDa FK506-binding protein n=20 Tax=Schizophora RepID=FKB12_DROME
+-----------------------M----------------G--VQVVPI----------A
+-PGD-GST---------YPKNGQKVT--VHYTGTL------DD-GT--KFDSSRDRNK-P
+FKFTIGKGEVIRGWDEGVAQLSVGQR-AKLICSPD----------------------Y--
+------------------AYGSRGHPG--V-----IPPNSTLTFDVELLKVE--------
+-------
+>lcl|UniRef90_A0A060X010 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Oncorhynchus mykiss RepID=A0A060X010_ONCMY
+-----------------------M----------------G--VEIETI----------S
+-PGD-GEF---------FCYILAVCV--IPLPGML------QN-GK--KFDSSRDRNK-P
+FKFKIGRQEVIKGWEEGIAQMSVGQR-AKITCTPD----------------------M--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLKLE--------
+-------
+>lcl|UniRef90_UPI0006CE6853 peptidylprolyl isomerase n=1 Tax=Rhodocyclaceae bacterium Paddy-1 RepID=UPI0006CE6853
+--------------------MSET----------------G--LIIDEL----------T
+-LGT-GAT----------AKAGNMVV--VHYTGWL------TD-GT--KFDSSKDRNE-P
+FQFPLGQRYVISGWDEGVQGMKVGGV-RKLTIPPE----------------------M--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLAVA--------
+-------
+>lcl|UniRef90_UPI00039C99E9 peptidylprolyl isomerase n=1 Tax=Methyloversatilis thermotolerans RepID=UPI00039C99E9
+--------------MS--SITTES----------------G--LIIEDT----------T
+-PGT-GNE----------AAAGQVVS--VHYTGWL------TD-GR--KFDSSKDRNQ-P
+FSFQLGAGQVIRGWDEGVAGMKEGGV-RKLTIPPQ----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLSAG--------
+-------
+>lcl|UniRef90_B0DXN5 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Laccaria bicolor (strain S238N-H82 / ATCC MYA-4686) RepID=B0DXN5_LACBS
+-----------------------M----------------V--VTIQTL----------S
+-PGD-GKT---------YPKKGDKVT--IHYIGTL------ED-GS--VFDSSRERGI-P
+FETEIGVGKVIKGWDEGVPQLSLGQK-AILTASPD----------------------F--
+------------------AYGPRGFPP--V-----IPPNSILKFEVELLKISK-------
+-------
+>lcl|UniRef90_Q8MTB4 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Schistosoma RepID=Q8MTB4_SCHMA
+-----------------------M----------------G--VTVDTY----------K
+-PGD-GKR---------IPKKGQRVV--VHYTGTL------MD-GK--KFDSSRDRNK-P
+FEFVIGTGKVIRGWDEGVIQMSVGER-AYLTCTPD----------------------Y--
+------------------AYGSKGVDK--V-----IPPNATLKFDVELIDIL--------
+-------
+>lcl|UniRef90_P0CP95 FK506-binding protein 1 n=13 Tax=Filobasidiella/Cryptococcus neoformans species complex RepID=FKBP_CRYNB
+-----------------------M----------------G--VTVENI----------S
+-AGD-GKT---------FPQPGDSVT--IHYVGTL------LD-GS--KFDSSRDRGT-P
+FVCRIGQGQVIRGWDEGVPQLSIGQK-ANLICTPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLKFEVELLKIN--------
+-------
+>lcl|UniRef90_G1T0U7 Peptidyl-prolyl cis-trans isomerase (Fragment) n=5 Tax=Boreoeutheria RepID=G1T0U7_RABIT
+-----------------------------------------------AV----------S
+-PGD-GRT---------FPKKGQTCV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FKFRIGKQEVIKGFEEGAAQMSLGQR-AKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLNLE--------
+-------
+>lcl|UniRef90_E4XJI9 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Oikopleura dioica RepID=E4XJI9_OIKDI
+-----------------------M----------------G--VTVETI----------T
+PAPD-AND---------KPAIGSPVI--VHYTGTL------EN-GN--VFDSSRDRGQ-P
+FVFALGVGQVIKAWDEGVAQMAKGQR-AKLTCSPD----------------------Y--
+------------------AYGARGYPP--V-----IPPNSTLIFDVELIDFQTRV-----
+-------
+>lcl|UniRef90_UPI000644FAAC PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Fundulus heteroclitus RepID=UPI000644FAAC
+-----------------------M----------------G--VEVETI----------R
+-PGD-GKT---------FPQRGKTVS--VHYVGTL------TN-GK--KFDSSRDRGE-P
+FMFKLGAGEVIRGWDEGVAQMSLGQL-AKLTCSPD----------------------Y--
+------------------AYGSKGYPP--I-----IPANSTLIFEVELLKC---------
+-------
+>lcl|UniRef90_B7Q018 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Ixodes scapularis RepID=B7Q018_IXOSC
+-----------------------M----------------G--VEVQTI----------K
+-PGD-GQT---------FPKTGQTVV--VHYTGTL------AN-GQ--QFDSSRDRGK-P
+FKFRIGKGEVIRGWDEGVAQAS-GSS-PKVICSPD----------------------Y--
+------------------AYGAVGHPG--I-----YPFEHSPRRPLHGLRLRPCCQVVCV
+-------
+>lcl|UniRef90_A0A0C5IZD9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Rhodocyclaceae bacterium PG1-Ca6 RepID=A0A0C5IZD9_9RHOO
+--------------MN--QTTTAS----------------G--LKIEDV----------I
+-EGS-GEQ----------ACAGQTVT--VHYTGWL------TD-GR--KFDSSKDRNE-P
+FEFLLGGRRVIAGWDEGVVGMKIGGT-RTLTIPAD----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLGLS--------
+-------
+>lcl|UniRef90_T1FMT2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Helobdella robusta RepID=T1FMT2_HELRO
+-----------------------M----------------G--VDVQTI----------T
+-AGD-GKT---------FPQKGQTVI--VHYTGTL------VD-GK--KFDSSRDRGR-P
+FEFQIGVGQVIRGWDEGVAKMSVGQV-AKLTCTPD----------------------Y--
+------------------AYGSSGAGG--V-----IPPNSTLIFDVELIGVK--------
+-------
+>lcl|UniRef90_H0ZSI4 Peptidyl-prolyl cis-trans isomerase n=5 Tax=Neognathae RepID=H0ZSI4_TAEGU
+-----------------------M----------------G--VEIETI----------S
+-PGD-GRT---------FPKKGQTCV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FRFKIGRQEVIKGFEEGVTQMSLGQR-AKLTCTPE----------------------M--
+------------------AYGATGHPG--V-----IPPNATLLFDVELLRLE--------
+-------
+>lcl|UniRef90_UPI0006449CB6 PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Fundulus heteroclitus RepID=UPI0006449CB6
+-----------------------M----------------G--VEIETI----------K
+-PGD-GRT---------FPKKGQTCV--VHYVGTL------TD-GT--KFDSSRDRDK-P
+FRFKIGRQEVIRGWDEGVAQMSVGQR-AKLTCSPD----------------------Y--
+------------------AYGSKGHPG--I-----IPPNTTLIFDVELIYLE--------
+-------
+>lcl|UniRef90_V6LN28 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Spironucleus salmonicida RepID=V6LN28_9EUKA
+-----------------------MLLLLAE-------------LQIETI----------H
+-EGD-NTH---------FPKKGDKIT--VHYTGTL------LD-GT--QFDSSVDRNQ-P
+FDFTVGVGQVIKGWDEGLLKMSIGQK-TKLIIPSN----------------------M--
+------------------AYGSRGAGS--I-----IPPNADLVFYVELLKINGKAQDEL-
+-------
+>lcl|UniRef90_Q0PXV5 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Diaphorina citri RepID=Q0PXV5_DIACI
+-----------------------M----------------G--VDVETL----------S
+-PGD-GQT---------YPKPGQVVV--VHYTGTL------TD-GT--KFDSSRDRGV-P
+FKFRLGKGDVIKGWDHGIAQLCVGQT-AKLTCSPD----------------------F--
+------------------AYGSRGHPG--I-----IPPNATLIFDVELLRVEP-------
+-------
+>lcl|UniRef90_R7ST94 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Dichomitus squalens (strain LYAD-421) RepID=R7ST94_DICSQ
+-----------------------M----------------G--VTVQII----------S
+-PGD-EKT---------YPRKGDRVT--IHYVGTL------LD-GQ--KFDSSRDRGT-P
+FETEIGVGKVIKGWDEGVPQLSLGAK-AVLTATPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLQFEVELLKIN--------
+-------
+>lcl|UniRef90_A0A024G706 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Albugo candida RepID=A0A024G706_9STRA
+----------------MDGGKRFR----------------E--VQVEVY----------V
+-AGD-GVN---------YPQKGQTVA--IHYTGYL------ED-GQ--KYDSTRDREK-P
+LRFKLGEEQVIPGLEEGVERLCMNER-AKIYIPSY----------------------K--
+------------------AYGSKGFPG--L-----IPPDSNLIFDVELVGFR--------
+-------
+>lcl|UniRef90_S9VWW5 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Trypanosomatidae RepID=S9VWW5_9TRYP
+--------------------MPAD----------------A--VLMDKI----------I
+-EGD-GKT---------IPRTGSVVT--LDYIGFL------ED-GS--KFDSTLERGK-P
+FVFRVGCGEVIKGWDEGIVQMSKGER-SKLTVPPS----------------------L--
+------------------AYGSIGFPG--L-----IPPDSTIVFEVTLLDVQ--------
+-------
+>lcl|UniRef90_F6SVS4 Peptidyl-prolyl cis-trans isomerase (Fragment) n=5 Tax=Aves RepID=F6SVS4_CHICK
+------------------------------------------------------------
+-----------------------CCV--HQNAGML------QN-GK--KFDSSRDRNK-P
+FRFKIGRQEVIKGFEEGVTQMSLGQR-AKLTCTPE----------------------M--
+------------------AYGATGHPG--V-----IPPNATLLFDVELLRLE--------
+-------
+>lcl|UniRef90_UPI00064503B6 hypothetical protein SAMD00019534_064090, partial n=1 Tax=Acytostelium subglobosum LB1 RepID=UPI00064503B6
+-----------------------M----------------G--VDIETK----------V
+-QGN-GKK----------PGKGQTVS--VHYVGTL------TN-GT--EFDSSRKRGK-P
+FEFVLGRGQVIKGWDEGVAQMTQGEK-SILTISPD----------------------F--
+------------------GYGASGIGG--V-----IPGNATLIFEVELLSFR--------
+-------
+>lcl|UniRef90_E9HIY4 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Daphnia pulex RepID=E9HIY4_DAPPU
+-----------------------M----------------G--VQVETI----------S
+-PGD-GST---------FPKTGQTVV--VHYTGTL------QD-GS--KFDSSRDRGS-P
+FKFRIGKGEVIKGWDQGVAQMSVGQR-ARLICSPD----------------------Y--
+------------------AYGSRGHPG--I-----IPPNATLIFDVELLRVEP-------
+-------
+>lcl|UniRef90_P62942 Peptidyl-prolyl cis-trans isomerase FKBP1A n=22 Tax=Euarchontoglires RepID=FKB1A_HUMAN
+-----------------------M----------------G--VQVETI----------S
+-PGD-GRT---------FPKRGQTCV--VHYTGML------ED-GK--KFDSSRDRNK-P
+FKFMLGKQEVIRGWEEGVAQMSVGQR-AKLTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPHATLVFDVELLKLE--------
+-------
+>lcl|UniRef90_B5G2R4 Peptidyl-prolyl cis-trans isomerase n=6 Tax=Sauria RepID=B5G2R4_TAEGU
+-----------------------M----------------G--VHVETI----------A
+-PGD-GRT---------FPKRGQTCV--VHYTGML------ED-GK--KFDSSRDRNK-P
+FKFVMGKQEVIRGWEKGVAQMSVGQR-AKMTISPD----------------------Y--
+------------------AYGSTGHPG--I-----IPPNATLIFDVELMKLE--------
+-------
+>lcl|UniRef90_B5G2R5 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Neognathae RepID=B5G2R5_TAEGU
+-----------------------M----------------G--VHVETI----------A
+-PGD-GRT---------FPKRGQTCV--VHYTGML------ED-GK--KFDSSRDRNK-P
+FKFVMGKQEVIRGWEEGVAQMSVGQR-AKMTISPD----------------------Y--
+------------------AYGSTGHPG--I-----IPPNATLIFDVELMKLE--------
+-------
+>lcl|UniRef90_M5GGG8 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Dacryopinax sp. (strain DJM 731) RepID=M5GGG8_DACSP
+-----------------------M----------------G--VTIETL----------S
+-SGD-GVN---------FPKKGGNVT--IHYVGTL------LD-GS--KFDSSRDRGK-P
+FVTQIGVGKVIKGWDEGVPQLSIGQK-AVLTATPD----------------------Y--
+------------------AYGSRGFPP--V-----IPANATLKFEVELLKIN--------
+-------
+>lcl|UniRef90_UPI0003C423AE PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1B n=2 Tax=Archelosauria RepID=UPI0003C423AE
+-----------------------M----------------G--VEIETI----------S
+-PGD-GRT---------FPKKGQTCV--VHYTGMV------EN-GP--SFDTSRDRNK-P
+FRFKIGRQEVIKGFEEGAAQMSLGQR-AKLTCTPD----------------------M--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLRLE--------
+-------
+>lcl|UniRef90_R4J1H1 Peptidyl-prolyl cis-trans isomerase (Fragment) n=1 Tax=Crassostrea virginica RepID=R4J1H1_CRAVI
+-----------TGACTISEKHQRM----------------G--VTVQQI----------T
+-PGN-GQT---------YPKKGQVVA--VHYTGTL------EN-GQ--KFDSSRDRGQ-P
+FKFRIGHQEVIKGWDEGVAKMSIGER-AILTCSPD----------------------Y--
+------------------GYGAIGYPG--V-----IPPNAK-------------------
+-------
+>lcl|UniRef90_A0A0D2NZN8 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Hypholoma sublateritium FD-334 SS-4 RepID=A0A0D2NZN8_9AGAR
+-----------------------M----------------G--VTVQTI----------V
+-PGD-GVT---------FPKKGDRVT--IHYVGTL------MD-GR--KFDSSRDRGT-P
+FQTEIGTGKVIKGWDEGVLQLSLGQK-ALLTATPD----------------------F--
+------------------AYGGRGFPP--T-----IPPNSTLKFEVELIKIN--------
+-------
+>lcl|UniRef90_UPI0003944722 PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1B isoform X2 n=1 Tax=Oreochromis niloticus RepID=UPI0003944722
+-----------------------M----------------G--VEVETI----------S
+-PGD----------------------------GML------QN-GK--KFDSSRDRNK-P
+FKFKIGHNEVIKGWEEGVAQMSLGQR-AKITCTPD----------------------M--
+------------------AYGTTGHPG--V-----IPPNATLIFDVELLKLE--------
+-------
+>lcl|UniRef90_G5C383 Peptidyl-prolyl cis-trans isomerase (Fragment) n=3 Tax=Boreoeutheria RepID=G5C383_HETGA
+------------------------------------------------------------
+-----GRT---------FPKKGQTCV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FKFRIGKQEVIKGFEEGAAQVGLGQR-AKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLNLE--------
+-------
+>lcl|UniRef90_U3N5X4 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Mucor RepID=U3N5X4_MUCCI
+-----------------------M----------------G--VTVERI----------A
+-PGD-GKN---------FPKKGDKVT--IHYVGTL------EN-GD--KFDSSRDRGS-P
+FQCTIGVGQVIKGWDEGVTQLSVGEK-ARLICTHD----------------------Y--
+------------------AYGERGYPG--L-----IPPKATLNFEVELIKIN--------
+-------
+>lcl|UniRef90_A0A0F5BV72 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Pristionchus pacificus RepID=A0A0F5BV72_PRIPA
+----MLPRCLGRLPRVFTIQSRNM----------------P--VDITTI----------K
+-EGD-GSN---------FPKTGNQVE--CHYILTL------EN-GK--KIDSSRDRGS-T
+FKFKLGKGEVIKGWDQGVAQMSKGQR-VTMKISPD----------------------L--
+------------------GYGAGGIPG--T-----IPENATLVFDVELINFK--------
+-------
+>lcl|UniRef90_W4G290 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Aphanomyces RepID=W4G290_9STRA
+-----------------------M----------------G--VQVNTT----------E
+-AGN-GER----------PKQGQTCV--MHYTGKL------ED-GT--VFDSSYKKNR-P
+FQFPLGVGRVIQGWDEGVAQMSKGEK-AVLTITGD----------------------Y--
+------------------GYGARGVPG--V-----IPPNATLIFEVHLEDFN--------
+-------
+>lcl|UniRef90_H2Z293 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Ciona savignyi RepID=H2Z293_CIOSA
+-----------------------M----------------G--VTVETI----------T
+-AGD-GTN---------FPKSGQTVC--VHYTGTL------TN-GK--KFDSSRDRGK-A
+FEFVIGKAQVIRGWDEGVMQMSVGQR-ATLTCTPD----------------------Y--
+------------------AYGANGIGG--V-----IPPNATLVFDVELLKLK--------
+-------
+>lcl|UniRef90_E4WYV9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Oikopleura dioica RepID=E4WYV9_OIKDI
+-----------------------M----------------G--VQVDTM----------K
+-EGN-GQ----------IPPAGSKVQ--VHYTGTL------TD-GS--KFDSSRDRGK-P
+FEFVLGQGQVIKGWDEGVAQMSIGQR-AKLTCSPD----------------------Y--
+------------------AYGSRGFPG--L-----IPANSTLVFDVELLGFK--------
+-------
+>lcl|UniRef90_UPI0005D0668A PREDICTED: 12 kDa FK506-binding protein-like n=1 Tax=Plutella xylostella RepID=UPI0005D0668A
+-----------------------M----------------G--VEVETI----------N
+-PGD-EST---------YPKAGQTVV--VHYTGTL------TN-GT--KFDSSRDRNK-P
+FKFKIGKGEVIKGWDEGVAKMSVGER-AKLICSPD----------------------Y--
+------------------AYGKQGHPG--L-----IPPNAILIFDVELLRLE--------
+-------
+>lcl|UniRef90_R7V3T4 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Capitella teleta RepID=R7V3T4_CAPTE
+-----------------------M----------------G--VELETI----------Q
+-PGD-GCT---------YPKDGQIVE--IHYTGTL------SN-GK--KFDSSRDRGA-A
+FKFTIGKDQVIKGWDEGIKKMSIGQR-VKLTCSPD----------------------Y--
+------------------AYGKRGFPG--V-----IPPDSTLYFDVELIGLH--------
+-------
+>lcl|UniRef90_W7HVP9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Drechslerella stenobrocha 248 RepID=W7HVP9_9PEZI
+-----------------------M----------------G--VQRDVI----------T
+-KGD-ETT---------FPKPGQTVV--MHYTGTL------TD-GS--KFDSSHDRGK-P
+FETQIGVGRVIKGWDEAVPQMSLGEK-AKLTITPD----------------------Y--
+------------------GYGARGAGN--V-----IPGNATLIFEVELLGIKG-------
+-------
+>lcl|UniRef90_Q7PVA5 Peptidyl-prolyl cis-trans isomerase n=4 Tax=Anopheles RepID=Q7PVA5_ANOGA
+-----------------------M----------------G--VQIVPI----------A
+-NGD-QTT---------FPKPGQTAV--VHYTGTL------DD-GT--VFDSSRTRGK-P
+FKFSVGKGEVIRGWDEGVAQMSVGQR-AKLVCSPD----------------------Y--
+------------------AYGSRGHPG--V-----IPPNARLTFDVELLRVE--------
+-------
+>lcl|UniRef90_D2DSH8 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Scylla paramamosain RepID=D2DSH8_SCYPA
+-----------------------M----------------G--VEIFTT----------S
+-PGN-GHT---------WPKTGQQVV--VHYTGTL------ND-GS--KFDSSRDRGK-P
+FKFRIGLGEVIRGWDECVAQMSVGHK-ARLVCSPD----------------------Y--
+------------------AYGEKGFPG--V-----IPPNATLTFDVQLLAVEAS------
+-------
+>lcl|UniRef90_Q4SZQ5 Peptidyl-prolyl cis-trans isomerase (Fragment) n=2 Tax=Tetraodon nigroviridis RepID=Q4SZQ5_TETNG
+-----------------------M----------------G--VEVETI----------V
+-PGD-GQT---------FPKKGQRVV--VHYVGTL------MN-GQ--MFDSSRDRGK-P
+FKFKIGHGEVIRGWEEGVAQMSVGQR-AKLICSPD----------------------F--
+------------------AYGSKGHPG--I-----IPPNATLIFDVELLGLEV-------
+-------
+>lcl|UniRef90_A0A067C9C7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Saprolegnia parasitica (strain CBS 223.65) RepID=A0A067C9C7_SAPPC
+----MGHREKEYSALDLKAG--------------------E--VQVEVF----------V
+-AGD-GVN---------YPRKGQTVV--VHYTAYL------QD-GK--KFDSSRDRDK-P
+FKFKLGAEQVIPGLDEGIERLCMKER-AKIYIPAD----------------------K--
+------------------AYGKRGFPG--LYPFLYLPPNTNLVFDIELVTFK--------
+-------
+>lcl|UniRef90_D2V1V7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Naegleria gruberi RepID=D2V1V7_NAEGR
+-----------------------M----------------G--VTLEII----------V
+-KGD-GKN---------VPKPGQTVS--VHYTGFIASDNGSDE-GV--EFDSSRKRGK-P
+FKFKLGVGEVIKGWDEGVGQMSLGER-AKVRMTPD----------------------V--
+------------------AYGSTGFPG--L-----FKGDKTIIFDVELLDFY--------
+-------
+>lcl|UniRef90_UPI000558A3E7 PREDICTED: 12 kDa FK506-binding protein-like, partial n=1 Tax=Notothenia coriiceps RepID=UPI000558A3E7
+------------------------------------------------------------
+-------------------------F--FLLSGTL------AD-GK--VFDSSRSRGK-P
+FKFKIGHQEVIRGWEEGVAQMSVGQR-AKLICSPD----------------------F--
+------------------AYGSQGHPG--I-----IPANATLTFDVELIGLEA-------
+-------
+>lcl|UniRef90_D1LX14 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Saccoglossus kowalevskii RepID=D1LX14_SACKO
+-----------------------M----------------G--VEVETI----------N
+-PGD-GMT---------KPKTGQTVV--VHYTGTL------TN-GN--EFDSSRKRGK-P
+FKFKIGQGQVIRGWDEGVAQMSVGER-AKLTCSPD----------------------Y--
+------------------AYGSRGHPG--V-----IPPNATLIFDVELIGLE--------
+-------
+>lcl|UniRef90_H2S3V5 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Takifugu rubripes RepID=H2S3V5_TAKRU
+-----------------------M----------------G--VQVDTI----------T
+-PGD-GQT---------FPKKGQQVA--VHYVGTL------VD-GT--TFDSSRDRGR-P
+FRFKIGRGEVIRGWEEGVAQMSVGER-AKLTCSPD----------------------Y--
+------------------AYGAKGHPG--V-----IPPNATLIFDVELLSLEA-------
+-------
+>lcl|UniRef90_B8NZK7 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Agaricomycetes RepID=B8NZK7_POSPM
+-----------------------M----------------G--VTVEVI----------R
+-PGD-GTN---------FPRKGDKVT--IHYVGTL------LD-GR--KFDSSRDRGQ-P
+FETEIGVGKVIKGWDEGVPQLSLGEK-AVLTATPD----------------------F--
+------------------AYGARGFPP--V-----IPPNSTLKFEVELLKIN--------
+-------
+>lcl|UniRef90_C5AJA2 Peptidyl-prolyl cis-trans isomerase n=5 Tax=Burkholderia RepID=C5AJA2_BURGB
+--------------MT--VVTTDS----------------G--LKYEEL----------T
+-EGT-GAE----------AKAGQSVT--VHYTGWL------TD-GQ--KFDSSKDRND-P
+FVFVLGGGMVIKGWDEGVQGMKVGGT-RRLTIPAS----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLAV---------
+-------
+>lcl|UniRef90_G2IZD1 Peptidyl-prolyl cis-trans isomerase n=8 Tax=Chromobacteriaceae RepID=G2IZD1_PSEUL
+---------------------MAS----------------E--LIIEEL----------Q
+-LGD-GAE----------ATVGQEVT--VHYTGWL------TD-GT--KFDSSKDRFQ-P
+FSFPLGAGYVIKGWDQGVAGMKVGGK-RKLTIPAE----------------------L--
+------------------GYGARGAGG--V-----IPPNATLIFEVELLQVG--------
+-------
+>lcl|UniRef90_UPI00045616B0 hypothetical protein PFL1_00869 n=1 Tax=Anthracocystis flocculosa PF-1 RepID=UPI00045616B0
+-----------------------M----------------G--VEVQRI----------A
+-PGD-GKT---------FPKPGDRVT--IHYVGTL------LDGGS--EFDSSRKPGRGP
+FQTQIGVGQVIKGWDEGVPQLSVGEK-AKLICTPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLVFEVELLKVN--------
+-------
+>lcl|UniRef90_S6ACU2 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Sulfuricella RepID=S6ACU2_9PROT
+--------------MA--EITTPS----------------G--LIYDDL----------G
+-EGE-GEA----------AQAGQRVS--VHYTGWL------TD-GT--KFDSSKDRND-P
+FDFPLGAGHVIRGWDEGVQGMKVGGA-RKLTIPPE----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLKIL--------
+-------
+>lcl|UniRef90_UPI00054C68F5 PREDICTED: FK506-binding protein 1-like n=1 Tax=Larimichthys crocea RepID=UPI00054C68F5
+-----------------------M----------------G--VTVETI----------R
+-PGD-GKT---------FPQKGSKVT--VHYVGTL------TN-GA--QFDSSRKRGK-P
+FEFNIGQSQVIRAWDEGVAQMSVGQL-ARLTCSPD----------------------Y--
+------------------AYGERGFPP--L-----IPANSTLIFEVELLRC---------
+-------
+>lcl|UniRef90_M3D1B4 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Sphaerulina musiva (strain SO2202) RepID=M3D1B4_SPHMS
+-----------------------M----------------G--VTKDVI----------K
+-EGD-GTT---------IAKSGDDIV--MEYTGTL------ED-GK--QFDSSRGRA--P
+FAVKIGTGRVIRGWEEGIPGMSLGER-AKLTITGD----------------------Y--
+------------------AYGKQGYPG--L-----IPPNATLIFDVELVAVNGKKA----
+-------
+>lcl|UniRef90_A0A0L0SYD3 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Allomyces macrogynus ATCC 38327 RepID=A0A0L0SYD3_ALLMA
+-----------------------M----------------G--VTKETI----------K
+-AGD-GVN---------FPKKGDRCT--MHYVGTL------ID-GK--KFDSSRDRGS-P
+FVTEIGVGRVIRGWDEGVPQMSLGEV-AKLTIDGS----------------------Y--
+------------------AYGPRGVPG--L-----IPPNATLIFEVELLKIN--------
+-------
+>lcl|UniRef90_A0A067Q0U9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Jaapia argillacea MUCL 33604 RepID=A0A067Q0U9_9HOMO
+-----------------------M----------------G--VSVETI----------S
+-PGD-GKN---------FPRKGDTVT--IHYVGTL------MD-GQ--KFDSSRDRND-P
+FVTQIGVGKVIKGWDEGVPQLSVGQK-AVLTATPD----------------------Y--
+------------------AYGSRGFPP--V-----IPPNSTLKFEVELLKIN--------
+-------
+>lcl|UniRef90_UPI0006C9C7AA PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1B n=1 Tax=Copidosoma floridanum RepID=UPI0006C9C7AA
+-----------------------M----------------G--VIVQTL----------S
+-PGD-GET---------YPKTGQTVV--VHYIGTL------TN-GK--KFDSSRDRQK-V
+FKFKIGKNEVIKGWDEGVAQMSVGER-AKLTCTPD----------------------V--
+------------------AYGARGHPG--V-----IPPNATLIFDVELLKVEP-------
+-------
+>lcl|UniRef90_R9TEV8 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Acartia pacifica RepID=R9TEV8_ACAPC
+-----------------------M----------------G--VDIETL----------K
+-PGN-GST---------FPRAGQTVS--CHYVLTL------TN-SK--KIDSSRDRGQ-P
+FKFKIGKGEVIAGWDEGVAKMSVGQR-AKLTISAD----------------------M--
+------------------GYGAQGVPG--M-----IPPNSTLLFDVELLGVN--------
+-------
+>lcl|UniRef90_A0A059LL15 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Helicosporidium sp. ATCC 50920 RepID=A0A059LL15_9CHLO
+-----------------------M----------------G--VEIEIL----------K
+-PGN-GT----------MPKSGDKVT--VHYTGTL------TN-GS--KFDSSRDRNS-P
+FVFTLGKGEVIRGWDEGVAKMSLNER-SKLTITPD----------------------Y--
+------------------GYGARGAGG--V-----IPPNATLIFDVELLKIN--------
+-------
+>lcl|UniRef90_C1BP17 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Caligus rogercresseyi RepID=C1BP17_CALRO
+-----------------------M----------------S--VEIETM----------S
+-EGD-KST---------FPKDGQKVS--CHYVLTL------QN-GK--KVDSSRDRGR-P
+FQFTMGKNEVIKGWENGLARMSVGQR-AKVTIQPD----------------------M--
+------------------GYGSHGVPG--C-----IPPNSVLTFDIELLRVD--------
+-------
+>lcl|UniRef90_W0VNX3 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Zygosaccharomyces RepID=W0VNX3_ZYGBA
+-----------------------MSELVD-G---------N--VRIARV----------S
+-PGD-GVT---------YPKTGDLVT--IHYTGTL------EN-GQ--KFDSSVDRGS-P
+FQCNIGVGQVIKGWDVGIPKLSVGEK-ARLTIPGS----------------------Y--
+------------------AYGPRGFPG--L-----IPPNATLIFDVELLKVN--------
+-------
+>lcl|UniRef90_A0A073ALS4 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Mixia osmundae (strain CBS 9802 / IAM 14324 / JCM 22182 / KY 12970) RepID=A0A073ALS4_MIXOS
+-----------------------M----------------G--VTVERI----------S
+-PGD-GKS---------YPKAGXNVS--MHYVGTLQ-----SN-GN--KFDSSRDRGT-P
+FQTKIGVGQVIKGWDEGVPQLSLGEK-AKLICTPD----------------------Y--
+------------------AYGARGYPP--V-----IPANSTLIFEVELLKIN--------
+-------
+>lcl|UniRef90_A0A075ATF8 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Rozella allomycis CSF55 RepID=A0A075ATF8_9FUNG
+-----------------------M----------------G--VQKETT----------K
+-AGD-GKN---------FPKKDD---------GYF------EN-GQ--KFDSSRDRNK-P
+FKTTIGVGQVIRGWDEGVPQMSLGEC-AKLKISYD----------------------Y--
+------------------GYGERGYPG--V-----IPPKSNLIFDVELLQIN--------
+-------
+>lcl|UniRef90_A0A067SCU7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Galerina marginata CBS 339.88 RepID=A0A067SCU7_9AGAR
+-----------------------M----------------G--VQVETI----------V
+-PGD-GVT---------YPKKGDKVT--IHYVGTL------ID-GK--KFDSSRDRGS-P
+FQTEIGTGKVIRGWDEGVLQLSLGQK-AILTATPD----------------------Y--
+------------------AYGPRGFPP--A-----IPPNSTLKFEVELIKIN--------
+-------
+>lcl|UniRef90_M2QZK6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Ceriporiopsis subvermispora (strain B) RepID=M2QZK6_CERS8
+-----------------------M----------------G--VTVDVI----------T
+-PGD-GVN---------FPRKGDRVT--IHYVGTL------LD-GT--KFDSSRDRGH-P
+FETEIGVGKVIRGWDEGVLQLSVGEK-AVLTATPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLKFEVQLLKIN--------
+-------
+>lcl|UniRef90_A0A0N4U744 Uncharacterized protein n=1 Tax=Dracunculus medinensis RepID=A0A0N4U744_DRAME
+-----------------------M----------------P--VEIETL----------K
+-AGD-EAT---------FPKKGQKVI--CHYVLTL------QN-GK--EIDSSRARGK-P
+FEFNIGQGQVIKGWDEGVAKMSVGQR-AKLTISPD----------------------M--
+------------------GYGSRGVPG--T-----IPPNSTLIFDVELLGLK--------
+-------
+>lcl|UniRef90_Q3SGY8 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Thiobacillus denitrificans RepID=Q3SGY8_THIDA
+----------------------MS----------------E--LVIEDL----------V
+-VGN-GDT----------ATPGQFVS--VHYTGWL------TN-GQ--KFDSSVDRGD-P
+FEFKLGAGQVIAGWDQGVAGMQIGGK-RKLTIPPN----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLGVN--------
+-------
+>lcl|UniRef90_S9UYM6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Angomonas deanei RepID=S9UYM6_9TRYP
+--------------------MPQD----------------A--VLMDKI----------I
+-EGD-GKT---------IPKAGSVVT--IDYVGFL------ED-GT--KFDSTIERGK-P
+FVFRVGCGEVIKGWDEGLIQMSKGER-SKLTMPPS----------------------L--
+------------------AYGDLGFPG--L-----IPPNKTIVFEVTLLNVE--------
+-------
+>lcl|UniRef90_V9KWA6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Callorhinchus milii RepID=V9KWA6_CALMI
+-----------------------M----------------G--VQVETI----------A
+-PGD-GRT---------FPKKQQRCV--VHYVGTL------LD-GS--QFDSSRDRGK-P
+FAFVMGRREVIRGWEEGVSQMSVGQR-AKLTCTPE----------------------Y--
+------------------AYGSKGYPG--V-----IPPNATLIFDIELLRLE--------
+-------
+>lcl|UniRef90_A0A0K0DCM2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Angiostrongylus cantonensis RepID=A0A0K0DCM2_ANGCA
+-----------------------M----------------G--IDIEVI----------K
+-AGD-GKT---------FPKNGQTVT--CHYVLTL------EN-GK--QVDSSRDRGS-P
+FKFKIGKGEVIKGWDQGVAQMSVGQR-AKLTISPD----------------------L--
+------------------GYGSSGVSG--A-----IPPNSTLIFDIELISVN--------
+-------
+>lcl|UniRef90_UPI0006D4EBEA PREDICTED: 12 kDa FK506-binding protein n=1 Tax=Halyomorpha halys RepID=UPI0006D4EBEA
+-----------------------M----------------G--VEVEQV----------I
+-PGD-GST---------FPKVGQTVV--VHYTGTL------EN-GV--KFDSSRDRGV-P
+FKFRLGKGEVIKGWDQGVAQMCVGER-ARLVCSPD----------------------F--
+------------------AYGSRGHPG--I-----IPPNATLIFDVELLKVEP-------
+-------
+>lcl|UniRef90_B6RB55 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Haliotis discus discus RepID=B6RB55_HALDI
+-----------------------M----------------G--VEKEVL----------T
+-PGD-GQN---------FPVNGNKVT--MHYTGTL------VN-GK--KFDSSRDRGK-P
+FECKIGVGQVIKGWDEGVVTMSLGER-ARLTISPD----------------------Y--
+------------------GYGAAGAAG--V-----IPPNATLIFDVELLKIN--------
+-------
+>lcl|UniRef90_P97534 Peptidyl-prolyl cis-trans isomerase FKBP1B n=7 Tax=Boreoeutheria RepID=FKB1B_RAT
+-----------------------M----------------G--VEIETI----------S
+-PGD-GRT---------FPKKGQICV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FKFRIGKQEVIKGFEEGAAQMSLGQR-AKLTCTPD----------------------V--
+------------------AYGATGHPG--V-----IPPNATLIFDVELLNLE--------
+-------
+>lcl|UniRef90_A0A0J9Y5N6 Peptidyl-prolyl cis-trans isomerase n=8 Tax=Spirurida RepID=A0A0J9Y5N6_BRUMA
+-----------------------M----------------P--VKIDTN----------K
+-EGD-GQT---------FPKTGQTVT--CHYVLTL------EN-GE--EVDSSRSRGK-P
+FKFKIGAGEVIKGWDEGVAKMSVGQR-AKLTVSSD----------------------L--
+------------------GYGSRGIPG--A-----IPPNSTLIFDVELLGVE--------
+-------
+>lcl|UniRef90_A7SY88 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Nematostella vectensis RepID=A7SY88_NEMVE
+-----------------------M----------------G--VDVKTV----------Q
+-PGD-GKS---------FPKAGQTVS--VHYTGTL------TD-GK--KFDSSRDRGK-P
+FQFKLGAGQVIKGWDEGVAQMSLGQK-ATLTCTPD----------------------Y--
+------------------AYGPKGYPG--V-----YPF---------LLCLNE-------
+-------
+>lcl|UniRef90_A0A061R893 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Tetraselmis sp. GSL018 RepID=A0A061R893_9CHLO
+-----------------------M----------------G--VTVETI----------Q
+-PGD-GVN---------FPKRGQTVV--VHYTGTL------AD-GS--KFDSSRDRGQ-P
+FKFTIGVGQVIKAWDEGVSEMSIGQR-AKLSCTPD----------------------Y--
+------------------GYGARGFPP--V-----IPPNSALNFDVELLAIQ--------
+-------
+>lcl|UniRef90_O42993 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Schizosaccharomyces pombe (strain 972 / ATCC 24843) RepID=FKBP_SCHPO
+-----------------------M----------------G--VEKQVI----------S
+-SGN-GQD---------FPKPGDRIT--MHYTGTL------TN-GK--KFDSSVDRGS-P
+FVCTIGVGQLIRGWDEGVPKMSLGEK-AKLTITPD----------------------Y--
+------------------GYGPRGFPG--L-----IPPNSTLLFDVELLAINDKKA----
+-------
+>lcl|UniRef90_C1EB77 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Micromonas sp. (strain RCC299 / NOUM17) RepID=C1EB77_MICSR
+-----------------------M----------------G--VDIETL----------K
+-PGD-GVT---------FPKPGQVVT--AHYTGTL------TN-GS--KFDSSKDRGQ-P
+FQFTIGVGQVIKGWDEGMARMSVGQV-AKLTCTPD----------------------Y--
+------------------AYGERGFPP--V-----IPPASTLIFEVELLGVK--------
+-------
+>lcl|UniRef90_C1MV44 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Micromonas pusilla (strain CCMP1545) RepID=C1MV44_MICPC
+-----------------------M----------------G--VEIATT----------T
+-HGD-GVT---------FPKTGQTVT--AHYVGALP-----QT-RRDPEFDSSRKRGR-P
+FQFTIGVGQVIRGWDEGMMQMSVGEK-ATLTCTPD----------------------Y--
+------------------GYGPNGMPP--V-----IPPNSTLVFDVELISVQ--------
+-------
+>lcl|UniRef90_E9AVX5 Peptidyl-prolyl cis-trans isomerase n=5 Tax=Leishmaniinae RepID=E9AVX5_LEIMU
+--------------------MPSD----------------A--VVMDKI----------I
+-EGD-GKT---------IPRSGSVVT--LDYIGYL------ED-GS--KFDSTLERGK-P
+FVFRVGCGEVIKGWDAGIIQMSKGER-SKLTMPPT----------------------L--
+------------------AYGGTGFPG--L-----IPPNATIVFEVTLLDVA--------
+-------
+>lcl|UniRef90_B0DZY8 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Laccaria RepID=B0DZY8_LACBS
+-----------------------M----------------G--VTVESI----------S
+-PGD-GKT---------FPKKGDKVQ--IHYIGTL------LD-GS--VFDSSRDRGS-P
+FETEIGVGKVIRGWDEGVPQLSLGQK-AILTATPD----------------------Y--
+------------------AYGSRGFPP--V-----IPPNSPLKFEVELLKIN--------
+-------
+>lcl|UniRef90_A0A0D7AJK2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Fistulina hepatica ATCC 64428 RepID=A0A0D7AJK2_9AGAR
+-----------------------M----------------G--VTVETL----------S
+-PGD-GVS---------FPRKGDTVQ--MHYVGTLK-----AD-GS--KFDSSRDRNK-P
+FVTQIGVGKVIRGWDEGVPQLSLGQK-AILTCTPD----------------------Y--
+------------------AYGAGGYPP--V-----IPPNSTLCFEVELLKIN--------
+-------
+>lcl|UniRef90_UPI000418CA26 peptidylprolyl isomerase n=1 Tax=Stappia stellulata RepID=UPI000418CA26
+---MKRLLTALSALFLTFAPASAA----------------D--LQVTDV----------T
+-VGS-GAE----------AVAGSTVK--VHYTGWL------MD-GT--KFDSSRDRGE-P
+FSFPLGAGRVIRGWDEGVAGMKVGGR-RELVIPPE----------------------M--
+------------------GYGARGAGG--V-----IPPNATLKFDVELLDVSK-------
+-------
+>lcl|UniRef90_UPI0006FC41FA UPI0006FC41FA related cluster n=1 Tax=unknown RepID=UPI0006FC41FA
+-----------------------M----------------G--VTREVI----------K
+-AGD-GKN---------FPKPGDTVT--MHYTGTL------EN-GQ--KFDSSRDRNE-P
+FVCQIGIGQLIQGWDEGVPEMSLGER-ATLTITSD----------------------F--
+------------------GYGDRGVPG--A-----IPPKATLIFDVELIKIG--------
+-------
+>lcl|UniRef90_A8WXD3 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Caenorhabditis RepID=A8WXD3_CAEBR
+-----------------------M----------------G--VDRQIL----------I
+-EGD-NVT---------KPKAGQTVT--CHYVLTL------EG-GK--KVDSSRDRGQ-P
+FKFKIGKGEVIKGWDQGVAQMSVGEK-SKLTISPD----------------------L--
+------------------GYGARGVPP--Q-----IPGNSTLIFEVELLGVN--------
+-------
+>lcl|UniRef90_K7J5Z5 Peptidyl-prolyl cis-trans isomerase n=24 Tax=Hymenoptera RepID=K7J5Z5_NASVI
+-----------------------M----------------G--VNVEVL----------S
+-PGD-GQT---------YPKTGQTVV--VHYTGTL------AN-GK--KFDSSRDRGV-P
+FKFKIGKGEVIKGWDQGVAQMCVGER-ARLTCPPE----------------------V--
+------------------AYGPRGHPG--V-----IPPNATLIFDVELLKVE--------
+-------
+>lcl|UniRef90_Q9U2Q8 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Caenorhabditis RepID=Q9U2Q8_CAEEL
+-----------------------M----------------G--VDRQIL----------V
+-EGD-NVT---------KPKNGQTVT--CHYVLTL------EN-GK--KIDSSRDRGT-P
+FKFKIGKGEVIKGWDQGVAQMSVGEK-SKLTISAD----------------------L--
+------------------GYGPRGVPP--Q-----IPANATLVFEVELLGVN--------
+-------
+>lcl|UniRef90_W5QB61 Peptidyl-prolyl cis-trans isomerase n=4 Tax=Boreoeutheria RepID=W5QB61_SHEEP
+----------------------------------------------ARL----------S
+-VSS-GRT---------FPKRGQTCV--VHYTGML------ED-GK--KFDSSRDRNK-P
+FKFVLGKQEVIRGWEEGVAQMSVGQR-AKLTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPNATLIFDVELLKLE--------
+-------
+>lcl|UniRef90_A0A0F4X508 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Hanseniaspora uvarum DSM 2768 RepID=A0A0F4X508_HANUV
+-----------------------MSEVIENG---------N--VKIERL----------A
+-PGD-GKT---------FPQVGQKVS--IHYTGTL------ED-GK--KFDSSYDRNA-P
+FSCVIGVGQVIKGWDTGIPKLSVGEK-AKLTITGD----------------------Y--
+------------------AYGPRGFPG--V-----IPPNATLVFEVHLLGVN--------
+-------
+>lcl|UniRef90_G1XCJ9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491) RepID=G1XCJ9_ARTOA
+-----------------------M----------------G--VTKVTT----------T
+-EGT-GAQ----------PQPGQTVI--MHYTGKL------TD-GT--KFDSSVDRGS-P
+FETAIGVGRVIKGWDEAVPTMRVGEK-ATLTITPD----------------------Y--
+------------------GYGARGAGR--V-----IPPNATLIFDVELLGIK--------
+-------
+>lcl|UniRef90_A0A0A1NDH2 Peptidyl-prolyl cis-trans isomerase n=4 Tax=Rhizopus microsporus RepID=A0A0A1NDH2_9FUNG
+-----------------------M----------------G--VTIETI----------Q
+-EGD-KVN---------FPKAGDTVT--MHYVGTL------LN-GN--KFDSSRDRNQ-P
+FVTKIGVGRVIKGWDEGVPQLSLGQK-AKLICTPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLVFEVELLKIN--------
+-------
+>lcl|UniRef90_A0A0D0BCR1 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Suillus luteus UH-Slu-Lm8-n1 RepID=A0A0D0BCR1_9HOMO
+-----------------------M----------------G--VSIETI----------I
+-PGD-GKT---------FPKRGDTVT--IHYVGTL------DN-GT--VFDSSRDRKD-P
+FVTQIGVGKVIKGWDEGVPQLSLGQK-AYLTATSD----------------------F--
+------------------AYGSRGFPP--V-----IPPHSTLKFEVELLKIN--------
+-------
+>lcl|UniRef90_A8LDU5 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Frankia sp. (strain EAN1pec) RepID=A8LDU5_FRASN
+-----------------------M----------------G--VSIETL----------S
+-QGD-GKT---------FPKKGDRVT--IHYVGTL------RD-GR--QFDSSRDRGA-P
+FVTEIGVGRVIKGWDEGVPQLSLGEK-AVLTITPD----------------------Y--
+------------------GYGPGGFPP--V-----IPPNSDLFFEVELLAIN--------
+-------
+>lcl|UniRef90_A0A0B7NMV8 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Parasitella parasitica RepID=A0A0B7NMV8_9FUNG
+-----------------------M----------------G--VTIQRI----------A
+-RGD-GEH---------VPKKGDEIT--IHYVGTL------ED-GT--VFDSSRNRRE-P
+FKCKIGVKQVIQGWEEGIPQLSLGEK-AILTCTPD----------------------Y--
+------------------AYGARGFPP--I-----IPPNATLKFEVELLAIE--------
+-------
+>lcl|UniRef90_R7TM78 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Capitella teleta RepID=R7TM78_CAPTE
+-----------------------M----------------G--VTKETK----------K
+-PGN-GQC----------PQRGQTVG--VHYVGTL------TN-GQ--KFDSSRDRNK-I
+FEFGLGMGQVIRGWDEGVAQMSIGEV-AVLTCTPD----------------------Y--
+------------------AYGPQGYPP--V-----IPPNSTLLFEVELIHIK--------
+-------
+>lcl|UniRef90_UPI000298AABD PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Takifugu rubripes RepID=UPI000298AABD
+-----------------------M----------------G--VHIETL----------R
+-PGD-GMN---------FPARGALVT--VHYVGTL------TN-GE--KFDSSRDRER-P
+FQFKIGHGKVIRGWDEGVAQMSIGQI-ARLTCSPD----------------------Y--
+------------------AYGHEGYPP--I-----IPANATLIFEVELINC---------
+-------
+>lcl|UniRef90_P26883 Peptidyl-prolyl cis-trans isomerase FKBP1A n=31 Tax=Amniota RepID=FKB1A_MOUSE
+-----------------------M----------------G--VQVETI----------S
+-PGD-GRT---------FPKRGQTCV--VHYTGML------ED-GK--KFDSSRDRNK-P
+FKFTLGKQEVIRGWEEGVAQMSVGQR-AKLIISSD----------------------Y--
+------------------AYGATGHPG--I-----IPPHATLVFDVELLKLE--------
+-------
+>lcl|UniRef90_A0A0D2VVF4 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Capsaspora owczarzaki (strain ATCC 30864) RepID=A0A0D2VVF4_CAPO3
+-----------------------M----------------G--VEVTTI----------T
+-PGD-GVR---------KPQKGQTVS--VHYTGTL------TN-GN--KFDSSRDRNK-P
+FTFKIGQGEVIKGWDEGVAQMSIGQR-ATLTCSPD----------------------Y--
+------------------AYGARGYPP--I-----IPANSVLIFDVELLDIK--------
+-------
+>lcl|UniRef90_U3JG13 Peptidyl-prolyl cis-trans isomerase n=27 Tax=Neognathae RepID=U3JG13_FICAL
+------------------------------------------------------------
+-----GRT---------FPKKGQTCV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FRFKIGRQEVIKGFEEGVTQMSLGQR-AKLTCTPE----------------------M--
+------------------AYGATGHPG--V-----IPPNATLLFDVELLRLE--------
+-------
+>lcl|UniRef90_V5GZ02 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Cucujiformia RepID=V5GZ02_ANOGL
+-----------------------M----------------G--VQVETI----------S
+-PGD-GQT---------FPKTGQTVV--VHYTGTL------EN-GQ--KFDSSRDRGA-P
+FKFHIGRGEVIKGWDEGVAQLSVGQR-AKLTCSPD----------------------Y--
+------------------AYGSRGHPG--I-----IPPNATLIFDVELLEIE--------
+-------
+>lcl|UniRef90_Q23BX8 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Tetrahymena thermophila RepID=Q23BX8_TETTS
+----------------------MS----------------E--LQVVTK----------K
+-PGD-GKT---------YPKKGQTVT--VHYVGTF------TD-GR--KFDSSRDRKE-P
+FQFNIGSGQVIKGWDEGVARMSLGEV-AVITCPYQ----------------------Y--
+------------------AYGEKGYPG--V-----IPPKATLVFEVELLGMQ--------
+-------
+>lcl|UniRef90_UPI00058CC9D5 PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A isoform X1 n=2 Tax=Harpegnathos saltator RepID=UPI00058CC9D5
+-----------------------M----------------G--VDVEVL----------R
+-QGD-GQT---------FPKTGQMVV--VHYTGTL------VD-GK--QFDSSRDRGV-P
+FKFRIGRGLVIKGWDEGIAQMCVGER-ARLICSPD----------------------F--
+------------------AYGSTGHPG--I-----IPPNAVLIFDVELLKVEP-------
+-------
+>lcl|UniRef90_A0A091Q6X2 Peptidyl-prolyl cis-trans isomerase (Fragment) n=3 Tax=Neognathae RepID=A0A091Q6X2_LEPDC
+------------------------------------------------------------
+-----GRT---------FPKKGQTCV--VHYTDSC------NS-----SFYKNRDRNK-P
+FRFKIGRQEVIKGFEEGVTQMSLGQR-AKLTCTPE----------------------M--
+------------------AYGATGHPG--V-----IPPNATLLFDVELLRLE--------
+-------
+>lcl|UniRef90_K5X257 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Agaricus bisporus RepID=K5X257_AGABU
+-----------------------M----------------G--VEVTSI----------T
+-PGD-GRT---------FPKKGDKVK--MHYVGTL------KS-GK--KFDSSRDRNK-P
+FETKIGVGDVIKGWDEGVPQLSLGQK-AKLTISSD----------------------Y--
+------------------GYGSRGAGGG-A-----IPPNADLVFEVELLAINGVEAPKK-
+-------
+>lcl|UniRef90_F0YHE6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Aureococcus anophagefferens RepID=F0YHE6_AURAN
+-------------------MSKKK----------------D--IAVEIF----------A
+-AGD-GVN---------YPRKGQTVT--VHYSGYL------PS-GD--MFDSSRDRGK-P
+FKFKLGGEQVIPGLDAGVSQLSIGER-AKIVIPPD----------------------M--
+------------------AYGDRGFPG--L-----IPRNSALIFDLELITFN--------
+-------
+>lcl|UniRef90_S7Q4Z9 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Agaricomycetes incertae sedis RepID=S7Q4Z9_GLOTA
+-----------------------M----------------G--VTVESI----------T
+-PGD-GKH---------FPQRGDRVK--IHYVGTL------LD-GK--KFDSSRDRGS-P
+FETEIGVGKVIKGWDEGVPQLSLGEK-AILTCTPD----------------------F--
+------------------AYGARGFPP--V-----IPPNSTLKFEVELLSIN--------
+-------
+>lcl|UniRef90_UPI0004417A37 hypothetical protein PUNSTDRAFT_66164 n=1 Tax=Punctularia strigosozonata (strain HHB-11173) RepID=UPI0004417A37
+-----------------------MVSPLDRARQRGLSHAQG--VTIERI----------S
+-PGD-GVN---------YPRKGDLVT--IHYVGTL------RD-GT--KFDSSRDRGS-P
+FETEIGVGKVIKGWDEGVPQLSLGEK-AVLTATPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLQFEVELLSINKN------
+-------
+>lcl|UniRef90_F8AWY1 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Frankia RepID=F8AWY1_FRADG
+-----------------------M----------------G--VSVETL----------S
+-PGD-GKT---------FPRKGDTVK--IHYVGTL------LD-GT--KFDSSRDRGS-P
+FVTQIGVGKVIKGWDEGVPQLSLGQK-AVLTVTPD----------------------L--
+------------------AYGSHGFPP--V-----IPPNSTLRFEVELLGIKA-------
+-------
+>lcl|UniRef90_Q2VTP6 Peptidyl-prolyl cis-trans isomerase n=5 Tax=Boreoeutheria RepID=Q2VTP6_PIG
+-----------------------M----------------G--VQVETI----------S
+-PGD-GRT---------FPKRGQTCV--VHYTGML------ED-GK--KFDSSRDRNK-P
+FKFVLGKQEVIRGWEEGVAQMSVGQR-AKLTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPNATLVFDVELLKLE--------
+-------
+>lcl|UniRef90_UPI0004F06415 PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1B isoform X1 n=2 Tax=Primates RepID=UPI0004F06415
+-----------------------M----------------G--VEIETI----------S
+-PGD-GRT---------FPKKGQTCV--VHYTGML------QN-GK--KFDSSRDRNK-P
+FKFRIGKQEVIKGFEEGAAQVGSALRTTQARCPWE----------------------R--
+-----------------------------V-----ERKEGSKWLEILAVFLC--------
+-------
+>lcl|UniRef90_Q8I7D8 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Ciona intestinalis RepID=Q8I7D8_CIOIN
+-----------------------M----------------G--IDKKVI----------K
+-EGN-GTS---------FPKANQTVK--XHYTGTL------ES-GK--KFDSSRDRNK-P
+FTFKIGCGQVIRGWDEGVIQMSVGER-ATLTCSPD----------------------Y--
+------------------AYGSKGIGG--V-----IPT----------------------
+-------
+>lcl|UniRef90_A0A0A8BXM4 Peptidyl-prolyl cis-trans isomerase n=9 Tax=Pandoraea RepID=A0A0A8BXM4_9BURK
+--------------MS--IITTDS----------------G--LQYDDL----------Q
+-VGD-GAE----------ATAGKTVT--VHYTGWL------TD-GQ--KFDSSKDRND-P
+FAFVLGGGMVIRGWDEGVAGMKVGGK-RKLVIPPE----------------------L--
+------------------GYGARGAGG--V-----IPPNATLVFEVELLNV---------
+-------
+>lcl|UniRef90_A9GWP0 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Sorangium cellulosum RepID=A9GWP0_SORC5
+---------------------MQA----------------E--LGIEDL----------K
+-EGT-GAE----------AKHGQLVT--VHYVGTL------TN-GD--KFDSSRDRGQ-G
+FSFKLGAGQVIKGWDQGVAGMKIGGL-RKLTIPPE----------------------L--
+------------------GYGARGFPP--V-----IPPNSTLVFEVELLAVK--------
+-------
+>lcl|UniRef90_A0A024U2L2 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Aphanomyces RepID=A0A024U2L2_9STRA
+-----------------------MAPSP------------AETLELATV----------K
+-PGD-GTN---------FPKDGDTVR--VHYIGKL------DD-GT--LFDSSRERGR-T
+FEFKVGAGQVIRGWDEGIKKMSKGQI-ARLELPPS----------------------F--
+------------------GYGEHGYPP--I-----IPPHATLYYEIELLTFCS-------
+-------
+>lcl|UniRef90_E4X772 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Oikopleura dioica RepID=E4X772_OIKDI
+-----------------------M----------------V--VRVETI----------S
+-AGD-GAT---------FPPIGSYVS--VHYTGML------VD-GK--VFDSSRKREE-P
+FKFQLGLGKVIRGWDEGVSQMSLGER-AKLICSSD----------------------Y--
+------------------AYGDHGYPG--V-----IPKNATLVFDIKLLDIEMKF-----
+-------
+>lcl|UniRef90_I2FPM6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Ustilago hordei (strain Uh4875-4) RepID=I2FPM6_USTH4
+-----------------------M-------------------VQIEKI----------S
+-PGN-GKD---------FPKAGDTVT--MHYTGTLA-----AN-GK--KFDSSRDRGS-P
+FETQIGVGHVIQGWDQGVPQLSLGER-AKLIIPAN----------------------E--
+------------------GYGSDGAAG--I-----IPPNADLVFDVELLAINGKRA----
+-------
+>lcl|UniRef90_UPI000704764D UPI000704764D related cluster n=1 Tax=unknown RepID=UPI000704764D
+-------------------------------------------MPTARM----------R
+KPRR----------------------------GML------ED-GK--KFDSSRDRNK-P
+FKFMLGKQEVIRGWEEGVAQMSVGQR-AKLIISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPHATLIFDVELLKLE--------
+-------
+>lcl|UniRef90_A0A0H2RYP7 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Schizopora paradoxa RepID=A0A0H2RYP7_9HOMO
+-----------------------M----------------G--VTIEST----------K
+-SGD-GVH---------FPKKGDTVT--IHYTGTL------LD-GT--VFDSSVDRKE-P
+FTTKIGVGKVIKGWDEAVPQLSLGQK-AILTATPD----------------------Y--
+------------------AYGARGFPP--I-----IPANATLRFEVELLHIN--------
+-------
+>lcl|UniRef90_A0A0C3K7D4 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Tulasnella calospora MUT 4182 RepID=A0A0C3K7D4_9HOMO
+-----------------------M----------------G--VTVERL----------E
+-PGD-GTN---------FPKAGDTVT--MHYTGTLA-----ID-GK--KFDSSRDRNK-P
+FVTQIGVGRVIKGWDEGVPQLSLGEK-ARLLITAD----------------------F--
+------------------GYGARGAPG--A-----IPPNGDLIFEVELIKIN--------
+-------
+>lcl|UniRef90_A0A067CW59 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Saprolegnia RepID=A0A067CW59_SAPPC
+-----------------------M----------------G--VHVQTT----------E
+-AGN-GAK----------PSRGQTCI--MHYTGKL------ED-GT--VFDSSYKKGR-P
+FQFTLGVGQVIRGWDEGVAQMSKGEK-AVLTISSD----------------------F--
+------------------GYGARGVPG--I-----IPGGATLLFEVHLEDFQ--------
+-------
+>lcl|UniRef90_Q75UL2 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Malassezia RepID=Q75UL2_9BASI
+-----------------------M----------------G--VTVESI----------S
+-NGD-GKT---------FPKAGDTVD--MHYVGTLQ-----SN-GN--KFDSSRDRGQ-P
+FRTRIGVGQVIRGWDEGVPQLSLGQK-ARLICTPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLVFEVELLAINGKQ-----
+-------
+>lcl|UniRef90_A0A0J9X3F8 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Geotrichum candidum RepID=A0A0J9X3F8_GEOCN
+-----------------------M----------------G--VTIDRI----------S
+-PGD-GKT---------FPAKGDVVS--IHYVGTL------ES-GE--KFDSSRDRNQ-P
+FQVPIGVGHVIRGWDEGVPQLSVGEK-AKLTITGD----------------------Y--
+------------------AYGERGYPG--V-----IPPNATLIFEVELLDVKK-------
+-------
+>lcl|UniRef90_U6PUR6 Peptidyl-prolyl cis-trans isomerase n=7 Tax=Strongylida RepID=U6PUR6_HAECO
+-----------------------M---------------------RKVY----------A
+-----GAT---------FPKTGQTVT--CHYVLTL------QN-GK--KVDSSRDRGS-P
+FKFKIGKGEVIKGWDQGVAQMSVGQR-AKLTISPD----------------------L--
+------------------GYGSGGVPG--A-----IPPNSTLIFDVELISAN--------
+-------
+>lcl|UniRef90_A0A086CIR1 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Candidatus Atelocyanobacterium thalassa isolate SIO64986 RepID=A0A086CIR1_ATETH
+-------------MNLEKTITTTS----------------G--LKYVDI----------Q
+-EGS-GVY----------PKTGQFVS--VHYIGTL------EN-GK--KFDSSYDRNQ-P
+FSFKIGIGQVIKGWEEGVSSMKVGGQ-RKLIIPPA----------------------L--
+------------------GYGSRGAGS--V-----IPPNAVLVFDIELLDIE--------
+-------
+>lcl|UniRef90_A0A059VVD6 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Streptomyces RepID=A0A059VVD6_STRA9
+-----------------------M----------------G--VTREVI----------K
+-AGD-GKN---------FPKAGDSIT--MHYTGTL------EN-GQ--KFDSSRDRNE-P
+FVCDIGVGQLIQGWDEGVPQMSLGER-AKLVITAD----------------------Y--
+------------------GYGPRGVPG--V-----IPPNATLVFDVELLAIN--------
+-------
+>lcl|UniRef90_P18203 Peptidyl-prolyl cis-trans isomerase FKBP1A n=5 Tax=Bovidae RepID=FKB1A_BOVIN
+-----------------------M----------------G--VQVETI----------S
+-PGD-GRT---------FPKRGQTCV--VHYTGML------ED-GK--KFDSSRDRNK-P
+FKFVLGKQEVIRGWEEGVAQMSVGQR-AKLTISPD----------------------Y--
+------------------AYGATGHPG--I-----IPPNATLIFDVELLKLE--------
+-------
+>lcl|UniRef90_A0A0C3FY95 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Piloderma croceum F 1598 RepID=A0A0C3FY95_9HOMO
+-----------------------M----------------G--VTIQTL----------S
+-PGD-GKT---------FPKKGDRVV--IHYVGTL------QN-GT--KFDSSRDRGD-P
+FETEIGVGKVIKGWDEGVPQLSKGQK-AILTATPD----------------------Y--
+------------------AYGIRGFPP--F-----IPANSTLNFEMELLEIKGPEPKAPE
+PK-----
+>lcl|UniRef90_V2X5C6 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Moniliophthora roreri (strain MCA 2997) RepID=V2X5C6_MONRO
+-----------------------M----------------G--VTVETI----------T
+-PGD-CKT---------FPQPGDKVS--IHYVGTL------LD-GK--KFDSSRDRGA-P
+FETEIGVGKVIKGWDEGVPKLSLGEK-AILTASPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLRFEVELLKIN--------
+-------
+>lcl|UniRef90_A0A0L0D5P4 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Thecamonas trahens ATCC 50062 RepID=A0A0L0D5P4_THETB
+-----------------------M----------------G--VTKETT----------K
+-AGD-GET---------FPKTGDTVV--MHYVGTLK-----AD-GS--QFDSSRDRGK-P
+FTFVVGIGACIRGFDEGVMQMSLGER-AVLTMTSD----------------------Y--
+------------------GYGASGAGQ--A-----IPPNADLVFDVELLKVNEAGSGASA
+GGSCVLL
+>lcl|UniRef90_A3LPE9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545) RepID=A3LPE9_PICST
+-------------------MSAPA----------------T--TQIEVL----------Q
+-EGD-GKT---------FPKIGDLVT--IHYTGTL------EN-GK--KFDSSRDRGK-P
+FQCTIGVGQVIKGWDTGIPKLSLGSR-SKLTIPGH----------------------E--
+------------------AYGPRGFPG--L-----IPPNATLIFDVELIGIN--------
+-------
+>lcl|UniRef90_B6K626 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Schizosaccharomyces japonicus (strain yFS275 / FY16936) RepID=B6K626_SCHJY
+-----------------------M----------------G--VEKQII----------S
+-PGD-NKN---------FPKPGDRVT--MHYTGTL------VN-GK--KFDSSVDRGS-P
+FQCTIGVGQLIRGWDEGVPTMSLGEK-AKLTITPD----------------------F--
+------------------GYGPRGFPG--L-----IPPNSTLLFDVELLGINNLKA----
+-------
+>lcl|UniRef90_K7DZD5 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Monodelphis domestica RepID=K7DZD5_MONDO
+-----------------------M----------------G--VKVETI----------Y
+-PGD-RRT---------YPKRGQTCV--VHYTGIF------ED-GE--KFDSSRDRNK-P
+FKFVMGKQEVIRGWEEGVAQMSLGQR-AKMTISPD----------------------Y--
+------------------AYGPTGHP------------------EPDFLNWTEGRI----
+-------
+>lcl|UniRef90_UPI0003C91CEA PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Tupaia chinensis RepID=UPI0003C91CEA
+-----------------------M----------------G--GQVENI----------S
+-PGD-WQT---------FPKGGQNCV--VHDTRML------ED-GK--KCDSSQDRNK-P
+FKIMLGKQEVIRGWEEGVAQMSVGQT-AKLTTSPD----------------------Y--
+------------------AYDATGHPG--I-----IPPLATLIFHVELLQLE--------
+-------
+>lcl|UniRef90_UPI0005C37E59 PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Crassostrea gigas RepID=UPI0005C37E59
+-----------------------M----------------G--VTVQQV----------T
+-PGN-GQT---------YPKKGQVVV--VHYTGTL------EN-GQ--KFDSSRDRGQ-P
+FKFRMGHQEVIKGWDEGVAKMSIGER-AILTCSPD----------------------Y--
+------------------GYGAIGYPG--V-----IPPNAKLIFDVELLKLE--------
+-------
+>lcl|UniRef90_UPI00065BE4C6 PREDICTED: FK506-binding protein 1-like n=1 Tax=Aplysia californica RepID=UPI00065BE4C6
+-----------------------M----------------G--VTVETI----------Q
+-AGD-GVN---------FAKAGDTVV--VHYTGTL------QN-GQ--KFDSSRDRGK-P
+FQTKIGVGQVIRGWDEGFTQLSKGQR-AKLTITPD----------------------Y--
+------------------GYGASGAAG--V-----IPPNATLIFDVELLDIIRK------
+-------
+>lcl|UniRef90_A0A099P0R9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Pichia kudriavzevii RepID=A0A099P0R9_PICKU
+-----------------------MSTAPS-----------E--LQIEVI----------S
+-PGD-GVN---------FPKPGDLLT--VHYTGTL------TN-GK--KFDSSVDRNK-P
+FQFRIGQGMVIQGWDQGFAKLSLGEK-ARLTVPPL----------------------M--
+------------------AYGNRGFPG--L-----IPPMSTLIFDVELLKIN--------
+-------
+>lcl|UniRef90_A0A067R5B2 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Zootermopsis nevadensis RepID=A0A067R5B2_ZOONE
+-----------------------M----------------G--VEVEVV----------S
+-PGD-GQT---------YPKYGQTVV--VHYTGTL------QN-GM--KFDSSRDRGV-P
+FKFRIGKGEVIKGWDVGVCQMCVGQR-ARLVCTSD----------------------F--
+------------------AYGPRGHPG--I-----YPFSIDFFLNCFG------------
+-------
+>lcl|UniRef90_UPI000698789D PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like n=1 Tax=Lingula unguis RepID=UPI000698789D
+-----------------------M----------------G--VTKKII----------K
+-DGD-GTT---------YPKPGQTVA--VHYIGTL------EN-GT--KFDSSRDRGK-V
+FKFKIGAGQVIRGWDEGVTEMSLGEK-AKLTCSPD----------------------Y--
+------------------AYGAKGYPG--V-----IPPNATLIFEVELLSLE--------
+-------
+>lcl|UniRef90_UPI0004CCA061 PREDICTED: 12 kDa FK506-binding protein isoform X1 n=2 Tax=Microplitis demolitor RepID=UPI0004CCA061
+-----------------------M----------------G--VNVEVI----------S
+-PGD-GQT---------YPKTGQVVV--VHYTGTF------TN-GQ--KFDSSRDHGM-P
+FKFKIGKGEVIKGWDQGVAQMSVGER-ARLTCSPD----------------------F--
+------------------AYGSQGHPG--I-----IPPNATLIFDVELIKVQP-------
+-------
+>lcl|UniRef90_UPI0006B0E0AE PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP1A-like isoform X1 n=2 Tax=Limulus polyphemus RepID=UPI0006B0E0AE
+-----------------------M----------------G--VEIETI----------R
+-PGD-GQT---------YPKTGQTVV--VHYTGTL------SN-GH--KFDSSRDRGQ-P
+FKFKIGKGEVIKGWDHGVSQMSVGQR-AKLVCSPD----------------------F--
+------------------GYGDIGHPG--I-----IPPNATLIFDVELLRLE--------
+-------
+>lcl|UniRef90_Q4WLV6 FK506-binding protein 1A n=5 Tax=Aspergillaceae RepID=FKB1A_ASPFU
+-----------------------M----------------G--VTKELK----------S
+-PGN-GVD---------FPKKGDFVT--IHYTGRL------TD-GS--KFDSSVDRNE-P
+FQTQIGTGRVIKGWDEGVPQMSLGEK-AVLTITPD----------------------Y--
+------------------GYGARGFPP--V-----IPGNSTLIFEVELLGINNKRA----
+-------
+>lcl|UniRef90_A0A077ZAC5 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Trichuris RepID=A0A077ZAC5_TRITR
+-----------------------M----------------G--VQREVI----------S
+-EGD-GHT---------FPRKGQLVE--VHYTGTL------EN-GK--KFDSSRDRGK-P
+FTFTIGHGEVIRGWDDGVAMMSLGER-AILKCSSD----------------------F--
+------------------AYGAKGIPG--V-----IPPNATLVFDVELIKIK--------
+-------
+>lcl|UniRef90_A0A060SN54 Peptidyl-prolyl cis-trans isomerase n=2 Tax=Trametes RepID=A0A060SN54_PYCCI
+-----------------------M----------------G--VTVDVI----------T
+-PGD-GKT---------FPRKGDRVK--IHYVGTL------LD-GK--KFDSSRDRGQ-P
+FETEIGVGKVIKGWDEGVPQLSLGEK-AILTATPD----------------------Y--
+------------------AYGARGFPP--V-----IPPNSTLRFEVELLEIIR-------
+-------
+>lcl|UniRef90_UPI0005D0A4DB PREDICTED: 12 kDa FK506-binding protein-like n=1 Tax=Plutella xylostella RepID=UPI0005D0A4DB
+-----------------------M----------------G--VDVEII----------T
+-PGN-GST---------YPKPGQTVV--VHYTGTL------EN-GK--KFDSSRDRGQ-P
+FKFTLGKGDVIKGWDQGLAKMSVGER-SKLTCSPD----------------------Y--
+------------------AYGARGHPG--V-----IPPNSTLIFDVELLRVE--------
+-------
+>lcl|UniRef90_A0A067NJA5 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Pleurotus ostreatus PC15 RepID=A0A067NJA5_PLEOS
+-----------------------M----------------G--VIIETL----------S
+-PGD-GVH---------FPQKGDKVT--IHYVGTL------LD-GK--KFDSSRDRGM-A
+FETEIGTGKVIKGWDEGVQQLSVGQK-AILTCTPD----------------------F--
+------------------AYGSRGFPP--G-----IPPNSTLRFEVELLRIN--------
+-------
+>lcl|UniRef90_H2MI28 Peptidyl-prolyl cis-trans isomerase n=12 Tax=Percomorphaceae RepID=H2MI28_ORYLA
+---------------RKKHRENIM----------------G--VEIETL----------T
+-PGD-GRT---------FPKKGQRVV--VHYVGTL------AD-GK--VFDSSRSRGK-P
+FKFKIGHQEVIRGWEEGVAQMSVGQR-AKLICSPD----------------------Y--
+------------------AYGSKGHPG--V-----IPPNATLTFDVELLGLEA-------
+-------
+>lcl|UniRef90_Q554J3 FK506-binding protein 1 n=1 Tax=Dictyostelium discoideum RepID=FKBP1_DICDI
+-----------------------M----------------G--VEITII----------K
+-EGK-GNI----------PPVGSNVT--VHHAGTL------TN-GT--VFDSSRKRGQ-P
+FNFKLGAGQVIKGWDEGVAKMKVGET-SKLTISPD----------------------F--
+------------------GYGARGAGG--V-----IPPNATLVFEVELITFK--------
+-------
+>lcl|UniRef90_Q2NKS8 Peptidyl-prolyl cis-trans isomerase n=3 Tax=Bovidae RepID=Q2NKS8_BOVIN
+-----------------------M----------------G--VQVETI----------S
+-PGD-GRT---------FPKHGQTCV--VHYTGTL------ED-GK--KFDSSRDRNK-P
+FKFVLGKKQVIRGWEEGIAQMSIGQR-AKLTVSPD----------------------Y--
+------------------AYGSRGHPG--I-----IPPNATLIFDVELLKLE--------
+-------
+>lcl|UniRef90_UPI0004022575 peptidylprolyl isomerase n=1 Tax=Derxia gummosa RepID=UPI0004022575
+-----------------------M----------------G--VEIEVV----------T
+-EGD-GKT---------FPAKGQTVI--VHYTGTL------LD-GT--KFDSSRDRNQ-P
+FQFVIGMGSVIRGWDEGVAKLSVGTR-AKLTCSPD----------------------Y--
+------------------AYGSRGFPG--V-----IPPNSTLVFDVELLGVR--------
+-------
+>lcl|UniRef90_V4CSB9 Peptidyl-prolyl cis-trans isomerase n=1 Tax=Lottia gigantea RepID=V4CSB9_LOTGI
+-----------------------M----------------S-KFQKTVI----------Q
+-EGD-GAT---------YAQKGQTVK--VHYTGTF------PD-GK--KFDSSRDRGK-P
+FTFKLGEGEVIKGWDEGVAKMTVGER-AKFVCPPD----------------------Y--
+------------------AYGKAGAGG--V-----IPPNATLHFDVEFLGIA--------
+-------
+>lcl|UniRef90_Q1HQ55 Peptidyl-prolyl cis-trans isomerase n=9 Tax=Neoptera RepID=Q1HQ55_BOMMO
+-----------------------M----------------G--VTVETI----------S
+-PGD-EST---------YPKSGQTVV--VHYTGTL------TN-GK--KFDSSRDRGK-P
+FKFRIGKSEVIRGWDEGVAKMSVGER-AKLTCSPD----------------------Y--
+------------------AYGQQGHPG--V-----IPPNSTLIFDVELLRLE--------
+-------

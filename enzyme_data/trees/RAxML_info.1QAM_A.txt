@@ -1,0 +1,68 @@
+
+
+This is RAxML version 8.2.4 released by Alexandros Stamatakis on October 02 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 397 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 37.32%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 397
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: LG
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-SSE3 -T 6 -s phy/1QAM_A.phy -n 1QAM_A.txt -m PROTCATLG -p 12345 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.079 0.056 0.042 0.053 0.013 0.041 0.072 0.057 0.022 0.062 0.099 0.065 0.023 0.042 0.044 0.061 0.053 0.012 0.034 0.069 
+
+Inference[0]: Time 110.113493 CAT-based likelihood -38853.364672, best rearrangement setting 10
+alpha[0]: 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -39076.625232 tree written to file /work/03284/bjack/enzyme_distance_data/enzymes/trees/RAxML_result.1QAM_A.txt
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -39076.625232 .... 
+
+Final GAMMA-based Score of best tree -39075.650733
+
+Program execution info written to /work/03284/bjack/enzyme_distance_data/enzymes/trees/RAxML_info.1QAM_A.txt
+Best-scoring ML tree written to: /work/03284/bjack/enzyme_distance_data/enzymes/trees/RAxML_bestTree.1QAM_A.txt
+
+Overall execution time: 152.771748 secs or 0.042437 hours or 0.001768 days
+

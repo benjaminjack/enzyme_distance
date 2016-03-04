@@ -1,0 +1,896 @@
+>1STD_A
+---------------------------DEITFS---------------------DYLGLM
+TCVYEWADSYDSK-------DWDRLRKVIAP-TLR---------IDYRSFL--DKL--WE
+AMPAEEFVGMVSSKQVLGDPTLRTQHFI-GG-TRWEK-VSEDE-----VIGYHQLRVPHQ
+RY-KD---TTMKE-----VTMKGHAHSANLHWYKK-I---------DG-VWKFAGLKPDI
+RWG----EF----DFDRIFEDGRETFG---------------------------------
+-
+>lcl|UniRef90_A0A0L9SNK5 Uncharacterized protein n=1 Tax=Ophiocordyceps unilateralis RepID=A0A0L9SNK5_9HYPO
+-----------------------------MSAS---------------------LTLSLL
+ADTHEKKLSLSFEGEIPRWQDWSRLRSIIAP-SLL---------VDYTKIG--KPR--WE
+AMSADDFISMVSSDDFLGDPCVKTQHLL-GA-TRWER-ISETQ-----VIGHHQLRAAHQ
+VY-TA---PDLKT-----VKLKGHSHATNEHYYIK-V---------DG-VWKFAGLKPDV
+RWN----EH----NFEQVFKGSFKSNSHE-------------------------------
+-
+>lcl|UniRef90_W9CSY5 Scytalone dehydratase n=1 Tax=Sclerotinia borealis F-4157 RepID=W9CSY5_9HELO
+-------------------------MAKQPSFEGQL------------------DVSGCQ
+AALYEWAESYDTK-------DWERLSKIVAP-VLR---------IDYRSFL--NML--WE
+AMPAEQFIAMASDQKVLGNKRLKTQHFV-GA-TKWVQ-TSENE-----ITGYHQMRVAHQ
+RY-KD---DELKE-----VEIKGHAHGKGTMWYRK-V---------GG-VWKFAGIEPDI
+RWG----EY----DHDKIFEAHE-------------------------------------
+-
+>lcl|UniRef90_F7W0Z3 Scytalone dehydratase n=7 Tax=Sordariaceae RepID=F7W0Z3_SORMK
+-------------------MANAANPKTRITFE---------------------EYLGCT
+EACFEWADSYDSK-------DFDRLRKCIAP-TLR---------VDYRSFL--NKL--WE
+AMPAEEFIQMVSDKKVIGNPLLRTQHFM-SGISKWEK-VSDTE-----IIGYHQLRVPHQ
+VY-TD---KSCTK-----VAVTGHAHSHNTHYYKK-V---------DG-VWKFAGLNPDI
+RWT----EG----DFDKVFADGREELG-----EIN-------------------------
+-
+>lcl|UniRef90_A0A074VAU3 Uncharacterized protein n=1 Tax=Aureobasidium melanogenum CBS 110374 RepID=A0A074VAU3_9PEZI
+-------------------------MSSVIQYE-----------------------HEFR
+RLSWLWAYCYDNK-------DWKQLESICSP-QFK---------MYYGELD--PSL-GDK
+IVSVQDFVAAMSAQTSLGDSRLKTQHFL-GS-VMFEQ-EDDDS-----VVGNWQIQGLHR
+RNLAD---GTVAS---------WNVHLCIRHYYRCDG---------EG-VWKLDGLKPSI
+PLFMDGVPT----NVLGEFE----------------------------------------
+-
+>lcl|UniRef90_A0A0C1E585 Scytalone dehydratase n=1 Tax=Aspergillus ustus RepID=A0A0C1E585_9EURO
+---------------MAETEIGTIAAYKPPSYE---------------------AVAGCQ
+HVLFEWAESYDSK-------DWARLAKCIAP-TLH---------VNYTTVMSPDSY--WP
+YMPAPDFIALVSSPRFLGNPRIKTQHLI-GA-SKFTQ-T---------------------
+EY-AD---DDLAE-----VIGKEHAHGKATMQFKR-V---------DG-VWKFAGLEPDI
+RWA----EH----ELEEIFKEEELK-----------------------------------
+-
+>lcl|UniRef90_A0A074YCT8 Uncharacterized protein n=1 Tax=Aureobasidium subglaciale EXF-2481 RepID=A0A074YCT8_9PEZI
+-------------------------MSSISQYE-----------------------SELR
+QLSWLWAYCYDTK-------DWEKLHTICSS-EFK---------MFYGELD--PHL-GDK
+TVPVEDFIAEMSAKTALGDARLKTQHFL-GA-VMFEQGEEEGT-----ATGTWQVQGLHR
+RFKDD---GEVVR---------WNAYNYVQHFYRKDG---------QG-QWKLDGLKPSR
+PLFMDGKPG----DVIGDF-----------------------------------------
+-
+>lcl|UniRef90_A0A066XFN7 Putative scytalone dehydratase n=1 Tax=Colletotrichum sublineola RepID=A0A066XFN7_COLSU
+----------------------MASPAGNISFE---------------------DFLGLE
+TAVFEWADSYDSK-------DWDRLRKCIAP-ELR---------IDYRSFL--GKI--WE
+AMPAEEFITMISDKAVLGNPLVKTQHFI-GG-TRYER-VSDTE-----VIGHHQLRVPHQ
+KY-TD---ASRKQ-----VAVKGHAHSYNKHWYRK-V---------NG-VWKFAGLAPEI
+RWS----EY----DFEAVFAEGRDFVN-----DEKTDVKVVEKELETAIAH---------
+-
+>lcl|UniRef90_A0A0L9SJJ3 Uncharacterized protein n=1 Tax=Ophiocordyceps unilateralis RepID=A0A0L9SJJ3_9HYPO
+--------------MASSTAAGSGPNAGQLSFE---------------------DYLELT
+GLLFEWGDSYDSK-------DWDRLRGIIAP-TLY---------VDYSQIG--KGV--WE
+EMPADEFMAMVSDDGFLGDPCVKTQHLL-GA-TRWER-VSDTE-----VIGNHQLRAAHQ
+VY-EE---PELIN-----VKVKGHGHATNKHFYKK-V---------DG-VWKFAGLAPLV
+RWN----EH----DFEKVFKGSYLEEEDEEKDKKRD------------------------
+-
+>lcl|UniRef90_A0A0F7TJH3 Putative Conidial pigment biosynthesis scytalone dehydratase Arp1 n=1 Tax=Penicillium brasilianum RepID=A0A0F7TJH3_9EURO
+--------------MSPAVK-LNKEPNLDISFQ---------------------DYLILS
+KL------------------DWDRLRSIIAP-TLT---------VDYTKIG--LRR--WD
+DMAAEDYMAMITHPGFLGDPTIKTQHLL-GQ-TWWEK-ISDTE-----VIGHHQLRAAHQ
+VY-TT---DSLEE-----VKLRGHSHATNEHYYRK-V---------DG-VWKFAGLKPDV
+RWN----EL----RFDEVFRGLD-------------------------------------
+-
+>lcl|UniRef90_A0A0F4YIR1 Scytalone dehydratase n=1 Tax=Rasamsonia emersonii CBS 393.64 RepID=A0A0F4YIR1_TALEM
+-------------------------MAKDPTFE---------------------EVTACQ
+RALFEWADSYDTK-------DWERLKKCVAP-TLR---------IDYRSFL--DKL--WE
+AMPSDEFIMMASDPRFLGNPLLKTQHFI-GL-STWQK-VSDDE-----IVGTHQLRVPHQ
+KY-TD---SSMRE-----VAVKGHAHGTATMWYKR-V---------EH-EWKFAG-----
+NST----SHPIHITVDLLH-----------------------------------------
+-
+>lcl|UniRef90_M2R7G3 Uncharacterized protein n=6 Tax=Bipolaris RepID=M2R7G3_COCSN
+---------------------MPHKTEVRPAPA---------------------DIIECQ
+AAAFEWAESYDSK-------DWDRLSRCLAP-ELY---------IDYRTVM--GMI--WE
+KMPAAEFLGMASSPRFLGNARIKTQHFM-GQ-TKWIQ-KEPGY-----IIGHHQMRVAHQ
+KY-ED---DALTQ-----VLYKGHAHGNATLHYRQ-V---------DG-EWKFAGLEPGI
+RWS----EG----DYGKIFEQ---------------------------------------
+-
+>lcl|UniRef90_R7YH94 Scytalone dehydratase n=1 Tax=Coniosporium apollinis (strain CBS 100218) RepID=R7YH94_CONA1
+---------------------MGSVGQQSITFE---------------------EWLACS
+AVLYDWADNYDNK-------NWDGLRDILAP-KLL---------VDYAKVN--NAK--FV
+DLPAEKYIEMMSDPLFLGDPLIVSQHLI-GA-TKWEK-ISDEE-----VVSHHQSRAAHQ
+RW-AD---EQRSV-----VAVKGHGHGVVTTFYKK-L---------DG-VWKWAGIRTKV
+IWN----EY----DFEHVFVGKAGKDV---------------------------------
+-
+>lcl|UniRef90_R8BIJ1 Putative scytalone dehydratase protein n=1 Tax=Togninia minima (strain UCR-PA7) RepID=R8BIJ1_TOGMI
+--------------------MGSLPVTEQITFQ---------------------DYLGLT
+AAAFEWADSYDSK-------DWKRLEKCIAP-TLR---------IDYRSFL--DKI--WE
+AMPAEEFIAMISDKSVLGNPLLKTQHFI-GG-TRWEK-VSDTE-----VIGHHQLRVPHQ
+VY-TD---ATMTE-----VRVKGHAYSYNKHWYRK-V---------DG-EWKFAGLCPDI
+RWF----ED----QFDQVFADGRDAFG-----DEKKEA----------------------
+-
+>lcl|UniRef90_R8BTG3 Putative conidial pigment biosynthesis scytalone dehydratase arp1 protein n=1 Tax=Togninia minima (strain UCR-PA7) RepID=R8BTG3_TOGMI
+-------------------------MAAEISEK---------------------PELTL-
+------------K-------DWDRLRGIAAP-ELL---------VDYSHVS--GKK--WE
+AMKADDYVSMMSDSGFLGDPLLQTQHLL-GM-SRWEK-VNDDY-----IIGRHQLRAAHL
+RY-TD---ESRTA-----EEMRGHSHATNEHYYRK-V---------DG-EWKFAGLKPFV
+RWN----EY----NFEHVFKGFEAPQRR--------------------------------
+-
+>lcl|UniRef90_A0A093W0G4 Scytalone dehydratase n=2 Tax=Penicillium marneffei RepID=A0A093W0G4_PENMA
+-------------------------MNKQPTSE---------------------DIFGCQ
+AALYEWAESYDSK-------DWDRLANCVAP-VLR---------VDYRAFL--NQL--WE
+AMPAAEFVSMVSSPHFLGNQRLKTQHFVGGA-SKWVQ-LNDSE-----IAGYHQMRVAHQ
+KY-AD---DALTE-----VALKGHGHGKATIWYRK-V---------DG-VWKFAGLEPGD
+RWG----EF----DYDKIFHPE--------------------------------------
+-
+>lcl|UniRef90_L2FBC5 Conidial pigment biosynthesis scytalone dehydratase arp1 n=1 Tax=Colletotrichum gloeosporioides (strain Nara gc5) RepID=L2FBC5_COLGN
+-------------------------MAATLPYH---------------------DYVALS
+GLVLDWVDSYDSKACVTLLHDWNRLKTILAP-KLT---------VDYSSIG--GPK--HE
+EMAAEDFVAVISGPEMFGDVSLGTQHLI-GA-SKWER-IDEDK-----VIGHYQMRSTTV
+RL-TG---ANSGE-----EKVEADRRVVLMQSYVK-A---------DG-KWKLAGLKPMG
+R-----------------------------------------------------------
+-
+>lcl|UniRef90_G2QDQ7 Uncharacterized protein n=1 Tax=Myceliophthora thermophila (strain ATCC 42464 / BCRC 31852 / DSM 1799) RepID=G2QDQ7_MYCTT
+-------------------------------MA---------------------DIIGCQ
+AAIFEWAESFDSK-------DWDRLSKAIAP-TLY---------VDYRAVM--GQL--WE
+SMPAEQFVGMASNEKFLGNRRIKTQHFI-GA-GKWVR-TGEGQ-----ITGYHQMRVAHQ
+KY-ED---DELTK-----VRYAGHAHGKATVQYRK-V---------DG-VWKFAGLTPDI
+RWT----EH----DYDKIFQDD--------------------------------------
+-
+>lcl|UniRef90_L2G428 Scytalone dehydratase n=1 Tax=Colletotrichum gloeosporioides (strain Nara gc5) RepID=L2G428_COLGN
+------------------------------------------------------------
+------------------------------------------------------------
+-MPAEEFIAMISDKSVLGNPLLKTQHFI-GG-TRWEK-VSDTE-----VIGHHQLRVPHQ
+KY-TD---ASRKT-----VAVKGHAHSYNMHWYKK-V---------NG-VWKFAGLNPEI
+RWS----EY----DFEAVFADGRDSFGE----DEKSDVKVVEKELKSAVAH---------
+-
+>lcl|UniRef90_H6C7U9 Scytalone dehydratase n=3 Tax=Herpotrichiellaceae RepID=H6C7U9_EXODN
+---------------------MA-SKDKLVSYE---------------------DYQGCL
+TAYFEWAEAYDSK-------DWDRLRRIVAP-TVR---------IDYRSFL--NKL--WP
+AMPAEEYIAMVSDPKVLGDKRLMTQHFC-GA-SKWEK-VSDDE-----IIGYHQLRVPHQ
+KY-TD---ETRTK-----VLVKGHAHSSNTHWYRK-I---------DG-VWKFAGLNPDI
+RWS----EY----DFDKVFAEGRDELG-----ENEKAEEA-DKIAKEAQGIPAE------
+-
+>lcl|UniRef90_A0A0B7JQA6 Uncharacterized protein n=1 Tax=Bionectria ochroleuca RepID=A0A0B7JQA6_BIOOC
+---------------------MACPKPKASTLL---------------------YAKGCE
+EALFEWAESYDTK-------DWGRLANCIAP-TLR---------IDYRSVM--SKI--WE
+EMPANDFVQLASNPHFLGNPLIKTQHFIGGA-KLWIK-NSSTS-----ITSCQQMRVAHQ
+KY-ED---ESLTR-----VAFKGHAHGISCILYTK-V---------DN-VWKLAGIEPRI
+RWG----EY----DVDKIFH----------------------------------------
+-
+>lcl|UniRef90_A0A0D6R2I1 Uncharacterized protein n=1 Tax=Araucaria cunninghamii RepID=A0A0D6R2I1_ARACU
+---------------------MALAADKMISFE---------------------DYQGCL
+TAYFEWADSYDSK-------DWERLRKIVAP-TLR---------IDYRSFL--NKL--WE
+AMPADEFVAMASDPHVLGDKTLKTQHFC-GA-SKFEK-VSDDE-----IIGYHQLRVPHQ
+RY-TD---ETLSQ-----VTMKGHAHSTNTHWYKK-V---------DG-AWKFAGLCPDI
+RWF----EY----DFDKIFASGADKFG-----DEGDAKKT----AEQASGIPSK------
+-
+>lcl|UniRef90_E3QNQ4 Scytalone dehydratase n=1 Tax=Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212) RepID=E3QNQ4_COLGM
+----------------------MASPAGNISFD---------------------DFLGLE
+TAIFEWADSYDSK-------DWERLRKCIAP-ELR---------VDYRSFL--DKI--WE
+AMPAEEFIAMISDNSVLGNPLLKTQHFI-GG-TRYER-VSDTE-----VIGHHQLRVPHQ
+KY-TD---ASRKQ-----VAVKGHAHSYNKHWYRK-V---------DG-VWKFAGLAPEI
+RWS----EY----DFDAVFADGRDSFGAD---DAKTDVKVVEKELKTAVSH---------
+-
+>lcl|UniRef90_W9WD20 Scytalone dehydratase n=2 Tax=Cladophialophora RepID=W9WD20_9EURO
+---------------------MA-SKDKLISWE---------------------DYQGCL
+RAYWEWAESYDSK-------DWERLRKIVAP-TVR---------IDYRSFL--NKL--WE
+AMPADAFIEMISDKKVLGDPRLMTQHFC-GA-STWER-VSDTE-----IIGYHQLRVPHQ
+KY-AD---ETRSK-----VLVKGHAHSSNQHWYKK-I---------DG-EWKFAGLNPTI
+RWG----EY----DFDKVFEEGREELG-----DNEKEQIA-GDVAKQAEGVPTK------
+-
+>lcl|UniRef90_Q6XR11 Syctalone dehydratase I n=1 Tax=Endoconidiophora resinifera RepID=Q6XR11_9PEZI
+---------MVAGSSDSTQVTASTVNPKTISFE---------------------DYCGLN
+TALYEWADSYDSK-------DWDRLRRTIAP-TLR---------IDYRSFL--DKL--WE
+AMPAEDFIKMISDPNVLGDPLLKTQHFV-GA-SRWER-VSDDE-----VVGWHQLRVPHQ
+RY-TD---ATKTT-----VKVKGHAHSANKHWYKK-V---------DG-VWKFAGLYPEI
+RWS----EY----DFDKVFASGREEFG-----DEDIDV----------------------
+-
+>lcl|UniRef90_A0A0B4H7Y5 Conidial pigment biosynthesis scytalone dehydratase Arp1 n=8 Tax=Metarhizium RepID=A0A0B4H7Y5_9HYPO
+-------------------------MPAKVTPE---------------------DALDLS
+AIAFDWADSFDTKSANG--QDWNRLRHILAP-ILD---------VDYSFLS--GPR--DE
+SMTAEDFIAFASGENMLGSSLIDTQHLI-GA-SKYNW-ISETV-----VQGAHQVRAAHQ
+KY-TD---STKAT-----VEARGHGHALVYIKYSK-V---------GG-EWKLCGIKPTL
+YWS----EY----NIAKIWGHGG-------------------------------------
+-
+>lcl|UniRef90_A0A072PG50 Uncharacterized protein n=1 Tax=Exophiala aquamarina CBS 119918 RepID=A0A072PG50_9EURO
+---------------MAHTPHRPVGDSFRPTDE-----------------------RDWR
+RLSWNWALSYDTK-------DWQLLNDICTP-TLR---------VFYQQLD--ARR-SNQ
+IMSKEDYVAQYSSKTSLGDDGLETQHLL-GA-AAFDE-VESDL-----VVGNWQIQATHR
+RILPD---GGSGW---------WTGHSYVKHYYQK-V---------ED-TWMFAGVEPHT
+IVLRNGKRE----NVFSSFL----------------------------------------
+-
+>lcl|UniRef90_A0A074WSD5 Scytalone dehydratase n=3 Tax=Aureobasidium RepID=A0A074WSD5_9PEZI
+-------------------------MTNYPSHE---------------------EMLGCM
+AACFNWADSYDTK-------DWKRLETVIAP-ELI---------IDYRSFL--DKI--WE
+AMPAEEFVKMASDPNVLGDPLLKTQHFI-GG-TRWEK-VSDTE-----IIGWHQLRVPHQ
+KY-TD---ESRST-----VAVKGHAHSTNKHWYKK-V---------DG-EWKFAGLSPDI
+RWF----EY----DFDKVFASGRDSFG-----EAKQAAGIPEKA----------------
+-
+>lcl|UniRef90_A0A0F7ZT16 Putative scytalone dehydratase n=1 Tax=Hirsutella minnesotensis 3608 RepID=A0A0F7ZT16_9HYPO
+----------------------MGSIPKNISFE---------------------DYLELS
+ALVFEWADSYDAK-------DWSRLRNIIAP-TLY---------VDYSKIG--KGV--WN
+DMSDEEFMTMVTDEGFLGDPCVKTQHLI-GA-TRWER-ISDTE-----VIGNHQLRAAHQ
+VY-TA---PDLKT-----VKLKGHGHATNRHFYKK-V---------DG-VWKFAGLAPLV
+RWN----EH----DFEKVFKGSYKD-----------------------------------
+-
+>lcl|UniRef90_A0A093XMX1 Scytalone dehydratase n=3 Tax=Penicillium marneffei RepID=A0A093XMX1_PENMA
+-------------------------MTNQPSFE---------------------DVLGCQ
+MALFEWAESYDTK-------DWNRLAKCVAP-TVR---------IDYRAFL--NKL--WE
+AMSADDFVKIASDPHVLGNPKVKTQHFI-GA-QKWTK-VSDNE-----MICKHQMRVAHQ
+KY-KD---DKFTE-----ATLKGHGYGACTTTFHK-I---------DG-IWKWAGLTPDI
+RWH----EY----DLDRIFHEGEEKFGEK---E---------------------------
+-
+>lcl|UniRef90_T5A3I4 Scytalone dehydratase n=1 Tax=Ophiocordyceps sinensis (strain Co18 / CGMCC 3.14243) RepID=T5A3I4_OPHSC
+-----------------------MAKSTSVSFE---------------------DYLELT
+ALLFNWGDSYDAK-------DWDRLRGIIAP-TLY---------VDYSTIG--KGV--WE
+AMSADDFMAMVTDLGFLGDPCVKTQHLL-GA-ARWER-VSDTE-----VIGHHQLRAAHQ
+VY-TD---PSLKT-----VKLQGHSHATNKHFYKK-V---------NN-VWKFAGLAPLV
+RWN----EH----DFEKVFKGSYTK-----------------------------------
+-
+>lcl|UniRef90_A0A0G2EPB8 Putative scytalone dehydratase n=1 Tax=Diplodia seriata RepID=A0A0G2EPB8_9PEZI
+------------------------MAAGNISFE---------------------------
+-------GTVSNS-------DWERLRKCIAP-TLR---------IDYRSFL--DKL--WE
+AMPADEFVAMISSQAVLGDPLLKTQHFI-GG-SKWEK-ISDDE-----VIGVHQLRVPHQ
+RY-TD---ETRTT-----VAVKGHAHSTNTHWYKK-V---------NG-VWKFAGLNPEI
+RWG----EY----DFDKVFASGRDEFGEA---ETKAAEGIPPAKAAVAAAS---------
+-
+>lcl|UniRef90_F0XGI1 Scytalone dehydratase n=1 Tax=Grosmannia clavigera (strain kw1407 / UAMH 11150) RepID=F0XGI1_GROCL
+------------------------MITDRVT-----------------------DVISCQ
+AALFEWAESFDTK-------DWGRLSEAIAP-TLH---------VDYTDVM--GKS--WK
+ALPAADFVQMASNTHFLGNVRIKTQHLI-GA-EKWIS-TGADT-----ITGYHQMRVAHQ
+KY-KD---DGLTE-----VLRQGHAHGNATVRYRK-V---------DG-VWKFAGLTPDI
+RWS----ES----EYQKNFDEE--------------------------------------
+-
+>lcl|UniRef90_B8N630 Conidial pigment biosynthesis scytalone dehydratase Arp1 n=3 Tax=Aspergillus RepID=B8N630_ASPFN
+--------------------------MSDPSIP-----------------------LACQ
+NLLHDWANCLDTK-------SWDRMPTIFAP-RID---------VDYSAVG--TLK--AT
+AVESSVFIDHYSSPAQLGNPDIQSHHFI-GA-CKWAR-ELETH-----VRVVFQIMAVHR
+RAPKDGGAAVLAT-----------GHGVNTMDFKQ-V---------EG-EWKIAAIKVGV
+LFM----EG----DFEGIFTP---------------------------------------
+-
+>lcl|UniRef90_A0A0F7VJX6 Uncharacterized protein n=1 Tax=Penicillium brasilianum RepID=A0A0F7VJX6_9EURO
+--------------------------MESIQLQ---------------------DYLAIN
+NIAFEWADSIDKK-------EWTRFLDILTP-TLM---------VDYSIIG--QKC--IP
+EMRAEEYLAMVSSPTLVGDPLICTQHLL-GA-AKYEK-VSDFE-----IVAVHQIRAAHQ
+RY-KD---TARTT-----AAYQGHNYGSVKHWYKK-T---------DG-VWKLAGVQPES
+YWL----EH----DFDKIFAQSSEES----------------------------------
+-
+>lcl|UniRef90_A0A084G740 Scytalone dehydratase n=1 Tax=Scedosporium apiospermum RepID=A0A084G740_9PEZI
+----MATLLNSTYTELTEKAGETTLTIPAITMD---------------------DYLGLN
+AALYEWADSYDSK-------DWNRLRKCIAP-TLR---------IDYRSFL--DKL--WE
+AMPAEEFITMISSPTVLGDATLKTQHFV-GA-SRWER-VSADE-----VVGYHQLRVPHQ
+RY-DRDPAEEGAR-----VTVKGHAHSANKHWYRR-V---------DG-VWKFAGLCPDI
+RWF----EH----DFDRIFADGRDNFG-----ENGN------------------------
+-
+>lcl|UniRef90_B2AXT1 Podospora anserina S mat+ genomic DNA chromosome 7, supercontig 1 n=1 Tax=Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383) RepID=B2AXT1_PODAN
+---------------------MAQQKKQQITFE---------------------DYLGVT
+EAAFEWADSYDSK-------DWDRLRRCIAP-TLR---------IDYRSFL--DKI--WE
+AMPAEEFISMISDKSVLGNPLLRTQHFI-GGASKWEK-VSDDE-----IIGYHQLRVPHQ
+VY-TD---SSLSK-----VEVKGHAHSHNTHYYKK-V---------NG-VWKFAGLNPNI
+RWF----EY----DFDKVFASGRDNFG-----EH--------------------------
+-
+>lcl|UniRef90_G9N8C4 Uncharacterized protein n=1 Tax=Hypocrea virens (strain Gv29-8 / FGSC 10586) RepID=G9N8C4_HYPVG
+-------------------------MSTDIPLS---------------------DYLSIR
+NVAFEWAESYDTK-------DWGRLRECLAP-SVR---------LDFRSLR--GVL--HE
+NLTPEEYSTILIG--VIGDKRLKTQHFL-GG-AQWEL-LSDGS-----VRVAHQIRVAHQ
+RY-AD---ETLAE-----VTNKGHAHGVTTHWYKK-I---------DG-VWKLEGVAPRL
+EFS----EY----DLFGTLAPPKDD-----------------------------------
+-
+>lcl|UniRef90_A0A0N1HT24 Putative scytalone dehydratase n=1 Tax=Phialophora attae RepID=A0A0N1HT24_9EURO
+---------------------MALRPSGRVDPA---------------------DAFEVQ
+ALTFEWAMSYDTK-------DWNRLKAILAP-KLN---------IDYTDVD--GTT--FD
+NIPPEKWIEHCSNPRFLGGNRMSTQHFI-GA-AKYVQ-LTPNE-----IQADYQIRAAHV
+RW-MD---DARTV-----EGPKGHGHGLMRQNYIK-I---------DG-AWRLAGWRPIV
+LWN----EH----DFGEVVRFGLEQPVEK---L---------------------------
+-
+>lcl|UniRef90_F8R4X8 Scytalone dehydratase n=6 Tax=Pleosporaceae RepID=F8R4X8_ALTAL
+---------------------MFEKNELKPTFE---------------------DVMGCQ
+SACYEWADSYDSK-------DWDRLRKCIAP-TLR---------IDYRSFL--DKI--WE
+AMPADEFVAMASDPAVLGNPLLKTQHFI-GG-TRWEK-TSEDE-----IIGYHQLRVPHQ
+RY-TD---ETRTK-----VAVKGHAHSFNMHWYKK-I---------DG-EWKFAGLNPDI
+RWF----EY----DFDKVFAEGREQLG-----EANAAAGIPEKLTGHAL-----------
+-
+>lcl|UniRef90_U1GV36 Scytalone dehydratase n=1 Tax=Endocarpon pusillum (strain Z07020 / HMAS-L-300199) RepID=U1GV36_ENDPU
+-------------------------MATQPTFE---------------------DVLGCQ
+AALYEWAESYDNK-------DWDRLSKCIAP-TLR---------IDYRAFL--NKL--WE
+DMPADAFVGMASDPKVIGNPRLRTQHLV-GT-SKWVK-TSETE-----ITGYHQMRVAHQ
+KY-AD---DKMTE-----VVAKAHAHGKGTMWYRK-V---------DG-VWKFAGIEPDI
+RWS----EH----DHDKIFEEGEEKFGEG---N---------------------------
+-
+>lcl|UniRef90_A0A016PGN3 Uncharacterized protein n=4 Tax=Fusarium sambucinum species complex RepID=A0A016PGN3_GIBZA
+------------------------MTTSRVDPA---------------------DALQLA
+AITFDWGDSLDTK-------DWARLEAILAP-ELV---------VDYAEVT--GQS--WD
+AMPAKDFIAMVSAPTFVGDPLVDSQHFI-GG-SKYEV-VSTDR-----VVGKHQLRAAHQ
+RY-TG---ADKTT-----VEAKGHCHALMQHTYVK-I---------DG-EWKLAGLKPKV
+YWT----EF----DFDKIFKSSS-------------------------------------
+-
+>lcl|UniRef90_X5HZZ9 Putative scytalone dehydrase n=1 Tax=Rosellinia necatrix RepID=X5HZZ9_ROSNE
+------------------MAASKEAQGGGISFD---------------------DYLGLM
+ACLVEWADSYDTK-------DWDRLRKCIAP-NLR---------IDYRSFL--DKI--WE
+AMPADEYIAMISNPAVLGDPLLMTQHFV-GG-TKWEK-VSDDE-----IIGVHQLRVPHQ
+RY-TD---ASRSQ-----VAVKGHAHSTNTHWYKK-I---------DG-VWKFAGLNPEI
+RWT----EY----DFDRVFASGRDTFGAVD--DAAKASGIPTAA----------------
+-
+>lcl|UniRef90_V5I5S5 Conidial pigment biosynthesis scytalone dehydratase Arp1 n=1 Tax=Byssochlamys spectabilis (strain No. 5 / NBRC 109023) RepID=V5I5S5_BYSSN
+--------------------------MYQIKYE---------------------DYIAIT
+AIVFEWADSYDNK-------DWDRLREVLAP-TMM---------IDYTIVG--HDC--FP
+DMPADEFVGMMSSPKFLGDPLVRTQHLM-GA-AKYEQ-LSETE-----IIGHHQIRAAHQ
+RY-TS---NHRLV-----VEERGHGHSYVKHWYKK-I---------DG-CWKLAGVCPRV
+YWN----EH----NFDKIFPHLSAAH----------------------------------
+-
+>lcl|UniRef90_M7TBH9 Putative scytalone dehydratase protein n=1 Tax=Eutypa lata (strain UCR-EL1) RepID=M7TBH9_EUTLA
+-------------------------MADQPNFE---------------------DVLGCQ
+EALYEWAESYDTK-------DWDRLSKCIAS-TLR---------IDYRHFL--NKL--WE
+AMPADAFVEMASDPKVLGNKRLKTQHLVGGA-AKWHQ-SSETE-----ITGNHQMRVAHQ
+KY-KD---DALTE-----VDIKGHGHGKATIWYRK-E---------NG-VWKFAGIEPSI
+RWS----EY----DHNKIFAEGHDQFGEE---QEL-------------------------
+-
+>lcl|UniRef90_J5JFS0 Conidial pigment biosynthesis scytalone dehydratase Arp1 n=1 Tax=Beauveria bassiana (strain ARSEF 2860) RepID=J5JFS0_BEAB2
+-------------MTSSSADNRAGGSSSAISFQ---------------------------
+ALLFQWGDSYDAK-------DWSRLRSIIAP-TLY---------VDYSKIG--KGV--WE
+TMPADDFIAMVSDGDFLGDPCVKTQHLL-GA-SRWER-ISETE-----IVGHHQLRAAHQ
+VY-TE---PDLKT-----VKLQGHSHATNKHYYTR-V---------DG-VWKFSGLAPLV
+RWN----EH----DFEKVFKGSFKD-----------------------------------
+-
+>lcl|UniRef90_A0A0D2CY64 Uncharacterized protein n=1 Tax=Exophiala oligosperma RepID=A0A0D2CY64_9EURO
+----------------------MATIQSDITLG---------------------DYVAWE
+EITFDWARAFDTK-------DWNLLLSILAP-KFS---------LDYTEVY--GFK--DD
+NMTPEAYVAMCNSTDMLGDRGVKTQHLL-VA-SKVRK-LSSTK-----ATAWRQIRAGHV
+KFDID---TAQET-------AKAHGQGMLQFFYEK-V---------DESQWKLCGLKAYS
+DFF----EG----NIRSVFPTFPEVDMKF-------------------------------
+-
+>lcl|UniRef90_Q00455 Scytalone dehydratase n=1 Tax=Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422) RepID=SCYD_COLOR
+----------------------MASPAGNITFE---------------------DYLGLN
+AALFEWADSYDSK-------DWDRLRKCIAP-ELR---------IDYRSFL--DKI--WE
+AMPAEEFIAMISDKSVLGNPLLKTQHFI-GG-SRWEK-VSDTE-----VIGHHQLRVPHQ
+KY-TD---ASRTE-----VAVKGHAHSYNMHWYRK-V---------NG-VWKFAGLNPEI
+RWS----EY----DFDAVFADGRDSYGTE---DQKTDVKVVEKEIKFAAAH---------
+-
+>lcl|UniRef90_M2LVK9 Uncharacterized protein n=1 Tax=Baudoinia compniacensis (strain UAMH 10762) RepID=M2LVK9_BAUCO
+-----------------------------------------------------------M
+AIYHDWAHSYDTK-------NWDQLATVIAP-TLR---------IDYRSFL--NKL--WE
+AMPAEEYLAMASDPRVLGDPLLMTQHFC-GA-TKWEK-TGEDE-----ITGYHQLRVPHQ
+KY-TD---KSRTK-----VAVKGHAHSYNTHWYKR-I---------DG-VWKFAGLNPDI
+LWS----EY----DFDKVFEAGRHDMGDK---SDQQAMGVPPEEMKNELK----------
+-
+>lcl|UniRef90_W9WAF3 Scytalone dehydratase n=2 Tax=Cladophialophora RepID=W9WAF3_9EURO
+---------------------MGSLGYKSASAE---------------------EVIACQ
+AAIFEWAESFDTK-------DWNKLAEIVAP-TLY---------VDYRAVM--GML--WE
+SMPAAQFIDMASNAKFLGNPRIKTQHFI-GA-GRWIK-TGEDE-----ITGYHQMRVAHQ
+KY-KD---DELSE-----VLYKGHAHGKATVQYRR-I---------GG-VWKFAGLEPNI
+RWA----EH----DYDKIFHED--------------------------------------
+-
+>lcl|UniRef90_B6QHV3 Putative uncharacterized protein n=2 Tax=Penicillium marneffei RepID=B6QHV3_PENMQ
+----------------------MSSEKLALSFQ---------------------DYIQLQ
+TCTFEWGDSYDAK-------DWARLRKIISP-TLK---------IDYRIVM--DERWYWP
+EMEADDFIAMVSSEGFLGDPCIKTQHLL-GG-HWYEP-ISETE-----VIGHHQLRAAHS
+RY-TD---ASLRE-----VAKRGHGHATNELFYRR-I---------DG-VWKFAGIRPFV
+RWN----EW----DFEQIFRGLEFSEQNEKGTGKPIFKALPRRT----------------
+-
+>lcl|UniRef90_G3JB87 Scytalone dehydratase n=1 Tax=Cordyceps militaris (strain CM01) RepID=G3JB87_CORMM
+-------------------------MNDNISFQGMNATHPIHCGYTHEYMA---DYLTIT
+NLASAWSTSYDMK-------NWPLLRTCLAP-SSR---------LDFRSLQ--GAL--HE
+NLSPDEYVAILEK--TIGDARLKTQHLM-GA-TTWTY-LVSGS-----VEVIHQLRVAHQ
+RY-TD---ETLGT-----VANKGHAHGYVVHKYSK-F---------HG-EWKIEEVQPKL
+EWT----EY----DLYGTLSPPETA-----------------------------------
+-
+>lcl|UniRef90_F9X1Y5 Uncharacterized protein n=1 Tax=Zymoseptoria tritici (strain CBS 115943 / IPO323) RepID=F9X1Y5_ZYMTI
+---------------------------MIPRYE---------------------DMLEMQ
+ALSFDWARSYDTK-------DWGLLASTLTS-ELQ---------IDFSEVT--GSK--WE
+AMSRDEFIAMISDRTLLGNELISTHHLL-GA-SKYEM-RSETS-----AIGLHQIRAAHQ
+RY-TD---LDDNT-----VVAKGHGHGLIQHQYLKTL---------KG--WRISGIRPTV
+YWN----EH----DFDRIFVRSAANHD---------------------------------
+-
+>lcl|UniRef90_R0IW18 Uncharacterized protein n=1 Tax=Setosphaeria turcica (strain 28A) RepID=R0IW18_SETT2
+----------------------MSSKEVRPAPA---------------------DVLECQ
+AAAFEWAESYDSK-------DWDRLSKCLAP-ELY---------IDYRTVM--GMI--WE
+KMPVAEFIGMASSPKFLGNARIKTQHFM-GQ-TKWVQ-KEPGY-----ILGYHQMRVAHQ
+KY-KD---ETLTE-----VLYKGHAHGKATLHYRL-V---------DG-EWKFAGLEPGI
+RWA----EG----DYGQIFEDN--------------------------------------
+-
+>lcl|UniRef90_B8MCP8 Scytalone dehydratase, putative n=1 Tax=Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006) RepID=B8MCP8_TALSN
+---------------------MANAAYKPPAYE---------------------DVVGCQ
+VVLFEWAESYDSK-------NWDRLGKCIAP-TLH---------IDYRSVM--GQE--WK
+SMPAEDFLAMASSPKFLGNARIKTQHLI-GA-SQWVQ-TGEDT-----ITGYHQMRVAHQ
+KY-SD---DALTV-----VLYKGHAHGGATTKYRR-V---------NG-VWKFAGLEPNI
+RWR----EH----DVDKIFHED--------------------------------------
+-
+>lcl|UniRef90_O14434 Probable scytalone dehydratase n=10 Tax=Aspergillaceae RepID=SCYD_ASPFU
+--------------------MVEKKPNLTLEFH---------------------DYLALK
+KVLFDWADSYDAK-------DWDRLRSIIAP-TLT---------VDYRQIG--LRK--WD
+DMPAEDYMAMISDMDFLGDPTVKTQHLL-GE-SWWEK-ISDTE-----VIGHHQLRAAHQ
+VY-TD---STLQT-----VKLKGHGHATNEHYYRK-V---------DG-VWKFAGLKPTV
+RWN----EY----QFEDVFRAAKPSV----------------------------------
+-
+>lcl|UniRef90_G2Q1S6 Uncharacterized protein n=2 Tax=Myceliophthora thermophila (strain ATCC 42464 / BCRC 31852 / DSM 1799) RepID=G2Q1S6_MYCTT
+---------------------MTSKKEKQITFE---------------------EYLGVT
+EAAFEWADSYDTK-------DWDRLRKCIAP-TLR---------VDYRSFL--GKV--WE
+AMPAEEFIAMISDKSVLGNPLLRTQHFI-GGASKWER-VSDTE-----IIGHHQLRVPHQ
+VY-TD---ASLRN-----VEVKGHAHSHNTHYYRK-V---------NG-VWKFAGLEPEI
+RWF----EY----NFDKVFASGRDSYG-----EHK-------------------------
+-
+>lcl|UniRef90_S7ZLH8 Uncharacterized protein n=1 Tax=Penicillium oxalicum (strain 114-2 / CGMCC 5302) RepID=S7ZLH8_PENO1
+--------------MSPAVK-INQEPNLDISFQ---------------------DYLILS
+KLVFDWADCYDHK-------DWDRLRTIIAP-TLT---------VDYTKIG--LKR--WD
+NMAAEDYMAMIAHPGFLGDPTVKTQHLL-GQ-TWWEK-ISDTE-----VIGHHQLRAAHQ
+VY-TN---DGLKE-----VKLRGHGHAYNEHYYRK-V---------DG-VWKFAGLKPEV
+VFN----EK----RFEDVFKGLD-------------------------------------
+-
+>lcl|UniRef90_A0A0D2YAJ4 Scytalone dehydratase n=16 Tax=Fusarium RepID=A0A0D2YAJ4_FUSO4
+---------------------MGAMVTSRVDPA---------------------DALQVA
+AITFDWGDSLDAK-------DWDRLASIVAP-ELV---------VDYTVVT--GEK--WD
+AMPAKDFVAMVSDPGFVGDALVDSQHFI-GA-SKYEV-LSDGR-----IVGTHQLRAAHQ
+RY-TG---PDKKT-----VEAKGHCHAVMQHTYAK-V---------DG-EWKLAGLKPTM
+YWN----EH----DFSKIFKGSQ-------------------------------------
+-
+>lcl|UniRef90_M2TCF5 Uncharacterized protein n=2 Tax=Bipolaris RepID=M2TCF5_COCSN
+--------------------------MSPPTYE---------------------EILNCQ
+TVLFEWAESYDSK-------DWKRLRACLAP-TLA---------VDYSAFI--DKK--WD
+ALPADEFVGMVSSTHFLGNPLIRTQHLI-GL-GTWDK-TSADT-----IVAHLQLRVAHQ
+KY-TD---ETLGD-----VRLTANDHGTGVLTLKC-I---------QG-EWRFAGLIPRS
+RWS----AG----DVAKVFGP---------------------------------------
+-
+>lcl|UniRef90_K2RMH7 Short-chain dehydrogenase/reductase SDR n=1 Tax=Macrophomina phaseolina (strain MS6) RepID=K2RMH7_MACPH
+-------------------------MADAPSYE---------------------DVAGCS
+AALFEWAESYDTK-------HEFNLSQ-----------------VDYRSFL--DKI--WE
+EMPADQFIAMASDPKFLGNPLLKTQHFI-GA-SRWQQ-VSETE-----ITGRHQVRVPHQ
+KY-TD---QSRKM-----VAVKGHSHGGATMWYKK-V---------EG-VWKFAGLCPDI
+RWF----EY----DYDQVFADTKVHFNET---DGVHDTQTH-------------------
+-
+>lcl|UniRef90_A0A0B8N3Z1 Uncharacterized protein n=1 Tax=Talaromyces cellulolyticus RepID=A0A0B8N3Z1_9EURO
+------------------MAEFEIYIPANLSFQ---------------------DYIAII
+QTARVWADGYDKK-------DLARLSATLAP-EVI---------VDYTSVV---PAWGEK
+RYTCHEFATEWLSPEHLGNKALATQHLL-GQ-PYIKS-VSEAE-----IVVQWQQLASHG
+RW-EDESSVSGQSGKKRMIVETSDGRSWMEHKFVR-I---------EG-RWKIARITPEL
+RYD----TG----DFMRIRRPEGAA-----------------------------------
+-
+>lcl|UniRef90_R7YZ81 Scytalone dehydratase n=1 Tax=Coniosporium apollinis (strain CBS 100218) RepID=R7YZ81_CONA1
+-------------------------MAGNITFD---------------------DYLGLT
+AACFEWADSYDSK-------DWDRLRKCIAP-ELR---------IDYRSFL--DKI--WE
+AMPADDFLAMISSKAVLGDKTLKTQHFI-GG-TKWEK-VNDTE-----AIGWHQLRVPHQ
+KY-KD---ESMKE-----VLVKGHAHSTNQHWYKK-V---------DG-VWKFAGLCPDI
+RWF----EY----DFDKVFASGREAFG-----EDAQAEQAEGVGAQAEGIPPSNEEIEVK
+A
+>lcl|UniRef90_L2FJV6 Scytalone dehydratase n=2 Tax=Colletotrichum gloeosporioides RepID=L2FJV6_COLGN
+---------------------MASVSTGIINFE---------------------DYLGVS
+AALFEWAESYDTK-------DWDRLRKCVTP-ELR---------IDYRDVL--GKL--WE
+SMPAADYVAMISSPAVLGNPLLRTQHFV-GA-TKWEK-ISDTE-----ILGHHQLRVPHI
+KL-SD---ASPPV-----EEKKGHAHSYNQHWYRK-I---------DG-VWKFAGLRPEV
+RFG----EY----DMKGIFESGRQSVASE-------------------------------
+-
+>lcl|UniRef90_G9NTZ5 Uncharacterized protein n=1 Tax=Hypocrea atroviridis (strain ATCC 20476 / IMI 206040) RepID=G9NTZ5_HYPAI
+-------------------------MSTDISLQ---------------------DYLAIR
+NVAFEWAESYDTK-------DWDRLQKCLAS-SIR---------LDFRSLQ--GAL--HE
+NLSPEEYSAILIG--MIGDKRLKTQHLL-GG-SQWER-LSDGT-----VRVAYQIRVAHQ
+RY-VD---ESLQK-----VANKGHGHGVTTHWYRK-I---------DE-AWKLEGVAPRL
+EWD----EY----DIFGTLAPPQDEAIYE---V---------------------------
+-
+>lcl|UniRef90_A0A0C3HAB2 Uncharacterized protein (Fragment) n=1 Tax=Oidiodendron maius Zn RepID=A0A0C3HAB2_9PEZI
+------------------------------------------------------EWRDCT
+ELTFEWADSYDTK-------NWSRLASILAP-TVR---------VNYASVN--NYR--ND
+ALPADDFVEMMSSPGFLGNPNVDTQHHM-GA-CRFRR-VGPDE-----IEGKWQIRAAHQ
+RY-RD---EGVRA-----VLLTGHSHATITLVYKM-V---------DG-VWKWAGIETDI
+RWN----EN----GFDKMFTGFEAGEAA--------------------------------
+-
+>lcl|UniRef90_A0A0A1UXA2 SnoaL-like domain protein n=1 Tax=Metarhizium robertsii RepID=A0A0A1UXA2_9HYPO
+---------MNQSLTPSAGTDSKTGGTNKHS-P---------------------DYLDLS
+TL------------------DWARLRAILAP-ALY---------VDYTKIG--KEK--WD
+AMSADDFMAMVSNDDFLGDPCVKTQHLI-GA-TYWER-VSESK-----VIGHHQLRAAHQ
+VY-TS---PDLKT-----VKLRGHSHATNEHYYVK-S---------SG-VWKFAGLKPEV
+RWN----EY----KFEEVFKGSYTQSEKHS------------------------------
+-
+>lcl|UniRef90_W9XWF3 Scytalone dehydratase n=6 Tax=Herpotrichiellaceae RepID=W9XWF3_9EURO
+---------------------MA-SKDKLISWE---------------------DYQGCL
+NAYWEWAESYDSK-------DWARLRKIVAP-TVR---------IDYRSFL--NKL--WE
+AMPADDFIAMISDPKVLGDPRLMTQHFC-GA-SKWEK-VSDTE-----IIGYHQLRVPHQ
+KY-TD---ATRTK-----VLVKGHAHSSNMHWYKK-V---------DG-EWKFAGLNPNI
+RWG----EY----DFDKVFEEGREELG-----DKEKEKIA-DEVAKAAEGIPSK------
+-
+>lcl|UniRef90_A0A0A1TCB9 Uncharacterized protein n=1 Tax=Torrubiella hemipterigena RepID=A0A0A1TCB9_9HYPO
+-------------------------MGTSPTFE---------------------EYLAVN
+GVLHEWADCYDSK-------DWQRLTKCIAP-TLR---------VDYRETI--NQI--WE
+AMPADEFIAMISRPNLLGNPLLKTQHLI-GA-SRWEK-ISDDE-----IVGYHQIRAAHQ
+RY-AD---ETKKT-----VAAKGHAHSANTHWYRK-V---------DG-EWKFAGLSIRV
+LFT----EH----DFHALFQVGAKELADE---A---------------------------
+-
+>lcl|UniRef90_A0A0B8N4W6 Scytalone dehydratase n=1 Tax=Talaromyces cellulolyticus RepID=A0A0B8N4W6_9EURO
+-------------------------MSEQPTPD---------------------EVFSCL
+AALFEWAESYDTK-------DWERLRQCLAP-ILR---------VDYRQVM--GKI--WE
+EMLADEFIPLASSPHFLGDELLRTQHFIGGA-SSWNK-VSDKE-----IQGHHQVRVAHQ
+RY-TD---SSMKE-----VAIQGHAHGGATMWYKK-V---------EG-KWKFAGLCPNI
+RWG----EF----NYDEIFAPR--------------------------------------
+-
+>lcl|UniRef90_A0A0D1Y491 Scytalone dehydratase n=1 Tax=Exophiala mesophila RepID=A0A0D1Y491_9EURO
+---------------------MA-DKSKLISFE---------------------DYQGVL
+TAYFEWAESYDSK-------DWARLRKIVAP-TVR---------IDYRSFL--NKL--WE
+AMPADDFIAMISDKKVLGDPRLMTQHFC-GG-SKFEK-VSDDE-----IIGYHQLRVPHQ
+KY-TD---ETRTQ-----VMVKGHAHSSNQHWYKK-I---------DG-EWKFAGLNPDI
+RWS----EY----DFDKVFADGREELG-----DNEKSEVA-DKVAKQAEGIPAQ------
+-
+>lcl|UniRef90_A0A094BTD4 Uncharacterized protein n=1 Tax=Pseudogymnoascus pannorum VKM F-4246 RepID=A0A094BTD4_9PEZI
+----------------MRRKVDICKLPTKNNTQ----------------------HLALS
+ALLFHWADSYDSK-------DWARLSRILAP-VLL---------IDYTQVS--GES--YP
+SMAAESFVAMMSSPGFLGDPLLKTQHLL-GA-CEWEK-VNDEF-----VVARQQLRAGHL
+RF-ED---ETHKV-----EKQRGHSHATNEFYFKR-VWIKDVEGEQGGWEWRWAGLKPVV
+RWN----EY----DFETIFGGFECPTV---------------------------------
+-
+>lcl|UniRef90_A0A0F9XPC8 Scytalone dehydratase n=1 Tax=Trichoderma harzianum RepID=A0A0F9XPC8_TRIHA
+-------------------------MSVDISIS---------------------DYLSIR
+NVAFEWAESYDTK-------DWGRLKECLAP-SVR---------LDFRSLR--GAY--HE
+NLNPEEYSKILIG--MIGDKRLKTQHFL-GA-GQWEL-QKDGL-----VRVAWQIRAAHQ
+RY-AD---ETLAE-----VINHGHGHGLTTHWYQK-I---------DG-VWKLEGVAPSL
+NFA----EY----DFFGTLAPPEAAN----------------------------------
+-
+>lcl|UniRef90_W3XEE6 Scytalone dehydratase n=1 Tax=Pestalotiopsis fici W106-1 RepID=W3XEE6_9PEZI
+------------------------MVNGNITFD---------------------DYLGLQ
+QCLVEWADSYDSK-------DWSRLRKCIAP-TLR---------IDYRSFL--DKL--WE
+AMPAEEFIAMISDKAVLGDPLLMTQHFI-GG-TKWEK-ISDTE-----VVGVHQLRVPHQ
+RY-TD---ETRST-----VAVKGHAHSTNTHWYRK-V---------NG-EWKFAGLCPEI
+RWG----EF----DFDKVFASGREAFGTEDTAAEGISAKHQQQQHGRVTVSAV-------
+-
+>lcl|UniRef90_A0A072PU69 Scytalone dehydratase n=1 Tax=Exophiala aquamarina CBS 119918 RepID=A0A072PU69_9EURO
+---------------------MLWKL----------------------------EYQGVL
+NAYFEWAESYDSK-------DWERLRKIVAP-TVR---------IDYRSFL--NKL--WE
+AMPADDFIKMISDPKVLGDPRLMTQHFC-GA-SKYEK-VSDDE-----IIGYHQLRVPHQ
+KY-TD---ATRTK-----ILVKGHAHSSNQHWYKK-V---------DG-EWKFAGLNPDI
+RWG----EY----DFDKVFAEGRDELG-----DEAEAA---DKVAKQAEGIPPA------
+-
+>lcl|UniRef90_V9CZX4 Uncharacterized protein n=2 Tax=Herpotrichiellaceae RepID=V9CZX4_9EURO
+---------------MGSISSMPPIGKERITFE---------------------EWLDCS
+GVLYDWADCYDNK-------NWYGLMDIIAP-KLT---------IDYDKVN--NAK--FT
+DLPSEKYIEMMADPLFLGDELISSQHLI-GA-TKWEK-VSDEE-----IVSHHQSRAAHQ
+RF-ED---VRRKD-----VAVKGHGHGTVTTFYKK-V---------DG-RWKWAGIKTKV
+IWN----EF----DFEHVFRGVAGKE----------------------------------
+-
+>lcl|UniRef90_W6PZB4 Probable scytalone dehydratase n=2 Tax=Penicillium RepID=W6PZB4_PENRO
+--------------MSPAVKNITAEPNLDISFQ---------------------DYLILS
+KLVFDWADSYDAK-------DWDRLRSIIAP-TLT---------VDYTKIG--LRR--WD
+NMSADEYMAMITHPGFLGDKTIKTQHLL-GQ-TWWEK-ISDTE-----VIGHHQLRAAHQ
+VY-ET---EELET-----VKLRGHSHATNEHYYLK-I---------DG-IWKFAGLKPNV
+RFD----EL----RFDEVFKGLD-------------------------------------
+-
+>lcl|UniRef90_A0A074W8I4 Uncharacterized protein (Fragment) n=1 Tax=Aureobasidium namibiae CBS 147.97 RepID=A0A074W8I4_9PEZI
+---------------------------------------------------------DFR
+RLSWLWAYCYDQK-------DFVKLESICSSVDFK---------MYYGDLD--PRLGGDK
+IVPVQDYVAEMSSQTALGDSHLKTQHFL-GS-VMFEQ-EDEDT-----VVGNWQVQGLHQ
+RTLAD---GTVAL---------WNAYNYVKHYYRRDA---------EG-IWKLDGLKPSR
+PLFMDGRPQ----DVIGHF-----------------------------------------
+-
+>lcl|UniRef90_C5FVE2 Scytalone dehydratase n=1 Tax=Arthroderma otae (strain ATCC MYA-4605 / CBS 113480) RepID=C5FVE2_ARTOC
+-------------------------MTNNLSFEGVPPIHVKY------------KVTGCQ
+RALFEWADSYDTK-------DWERLKKVAAP-TLRLFDSEPMEQIDYRSFL--DKI--WE
+NMPRDEFILMASDPHFLGNPLLKTQHFV-GL-GTWEK-VGEDM-----IVGSHQLRVAHQ
+RY-TD---DGFKE-----VAVKGHAHGTATIWYTR-A---------EG-EWKFAGVCPKI
+NWT----EF----DYDKVFVKLNETA----------------------------------
+-
+>lcl|UniRef90_A0A0F4ZB11 Uncharacterized protein n=1 Tax=Thielaviopsis punctulata RepID=A0A0F4ZB11_9PEZI
+---------------MASSTRAPALPPVGITFEEVL------------------DYCELN
+AVLYEWADSYDSK-------DWDRLRKVIAP-TLR---------IDYRSFL--NKL--WE
+AMPADDFVTMISDPHVLGDPLLRTQHFI-GA-TRWQR-VSDNE-----VIGWHQLRVPHQ
+RY-AD---ATRTQ-----VTVKGHAHSANQHWYRK-V---------NG-QWKFAGLAPDI
+RWG----EY----DFDKVFTSGSDKFG-----DE--------------------------
+-
+>lcl|UniRef90_W7MX18 Uncharacterized protein n=1 Tax=Gibberella moniliformis (strain M3125 / FGSC 7600) RepID=W7MX18_GIBM7
+-------------------MPFEIYIPENLTFQ---------------------DYIAVI
+QTARVWADGYDKK-------NEEFLLAALAP-DVS---------VDYRMIV---PAWGIK
+HYKAGEFAKLWLSEEHLGLKPLVTQHLL-AQ-PYFKK-VTADE-----IIVEWQQLASHG
+RL-QDPGDGARDATTER-ISETSDGRSHMENRFVR-I---------DG-LWKIATIKPST
+LYH----TG----DFMRIRRPAGEP-----------------------------------
+-
+>lcl|UniRef90_G3YFE4 Uncharacterized protein (Fragment) n=1 Tax=Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7) RepID=G3YFE4_ASPNA
+-----------------------------LTFR---------------------DYIAIC
+QCARTFADGYDRK-------DKTRLRAALAP-TVI---------VDYNKVL---PQVTRE
+TYEADDFVEKWLNPTNLGNKALATQHLL-GA-PYFKF-ASEEK-----IVVQWQQLASHG
+RW-VEGQDKTRPVLCK--IDETSDGRSWMQQTYVK-V---------DG-QWRIQVLEPEV
+LYH----TG----DFQKI------------------------------------------
+-
+>lcl|UniRef90_A0A017SPE0 Conidial pigment biosynthesis scytalone dehydratase Arp1 n=1 Tax=Aspergillus ruber CBS 135680 RepID=A0A017SPE0_9EURO
+------------------------MAKAQVEFH---------------------DFLALQ
+KVAFDWADSYDSK-------DWDRLRGIVAP-NLT---------VDYTEIG--LRK--WD
+PMPAEEYLQMVSSPDFLGDPTIRTQHLL-GA-TVWEK-ISDDF-----VIGHHQLRAAHL
+VY-TD---PGLSE-----VKLKGHSHATNEHYYRK-V---------DG-VWKFAGLKPTV
+RFN----ED----RFDDVFKATQ-------------------------------------
+-
+>lcl|UniRef90_A0A0K8LK14 Scytalone dehydratase n=1 Tax=Neosartorya udagawae RepID=A0A0K8LK14_9EURO
+---------------------MAKADYKTPAYQ---------------------DVAGCQ
+FALFEWAESYDNK-------DWARLAKCIAP-TLH---------IDYRSVM--GQE--WE
+SMPADDFVALASSPKFLGNARIKTQHFI-GA-SKWVQ-TGEDT-----VTGYHQMRVAHQ
+KY-SD---DALTE-----VLYKGHAHGKATTQFRR-V---------DG-DWKFAGLEPEI
+RWD----EH----DLEKIFADN--------------------------------------
+-
+>lcl|UniRef90_G2RA47 Uncharacterized protein n=1 Tax=Thielavia terrestris (strain ATCC 38088 / NRRL 8126) RepID=G2RA47_THITE
+---------------------MAAQKQ-QITFE---------------------EYLGVT
+EAAFEWADSYDSK-------DWERLRRCIAP-TLR---------IDYRSFL--NKL--WE
+AMPAEEFIAMISDKSVLGNPLLRTQHFV-GGASKWEK-VSDTE-----IIGYHQLRVPHL
+VY-TD---ESLKN-----VAVKGHAHGFNTHYYRK-V---------DG-VWKFAGLSPTI
+RWF----EY----DFDKVFASGRDNFG-----ESQ-------------------------
+-
+>lcl|UniRef90_A0A0C4EDU9 Uncharacterized protein n=1 Tax=Magnaporthiopsis poae (strain ATCC 64411 / 73-15) RepID=A0A0C4EDU9_MAGP6
+----------MPDSSLLPATNMDATDQTMISAE---------------------DQAGLS
+AAVFEWAESYDTK-------DWDRLRKAIAP-ILR---------VDYRAII--GRL--WE
+AMPAEEFIILISSRALLGDPLLVTQHLV-AA-TRWEL-ISPTD-----AVGYHQIYAPHL
+KY-ED---ESKTK-----VLLRGYAHGTNKHWYKK-I---------DG-VWKFAGLEPEV
+RWL----EY----DFDKIFVFARDLFGGG---GQRMAAKE--------------------
+-
+>lcl|UniRef90_S3D5F7 NTF2-like protein n=1 Tax=Glarea lozoyensis (strain ATCC 20868 / MF5171) RepID=S3D5F7_GLAL2
+------------------------MSSNNITPQ---------------------EYLELS
+AIAFEWADSYDSK-------DWTRLEAILAP-TLR---------VDYSDIG--KQC--WP
+SMTSADFLAMVMDVNFLGDPCVKTQHLL-GA-AKWIK-KSEDQ-----VVGHLQIRAAHQ
+VY-TT---ADCRE-----VKLRGHSHATNELYFSK-V---------DG-VWKFAGLKPRV
+HWN----EH----AFEHVFKGSYTDTVAASL-----------------------------
+-
+>lcl|UniRef90_E5A2D4 Similar to conidial pigment biosynthesis scytalone dehydratase Arp1 n=1 Tax=Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8) RepID=E5A2D4_LEPMJ
+----------------------MAGQEMKPTFD---------------------DIMGCQ
+AAVYEWADSYDSK-------DWERLSKCIAP-TLR---------IDYRSFL--DKI--WE
+AMPAADFIAMASDPNVLGNPLLKTQHFI-GG-TRWEK-TGDDE-----ITGYHQLRVPHQ
+RY-TD---ATRTQ-----VAVKGHAHSANTHWYRR-V---------DG-VWKFAGLSPDI
+RWF----EY----DFDKVFAEGRDAFG-----EAKAASGIPAEVGGGGEKGE--------
+-
+>lcl|UniRef90_W2S6X0 Scytalone dehydratase n=1 Tax=Cyphellophora europaea CBS 101466 RepID=W2S6X0_9EURO
+---------------------MALTKDKMISFE---------------------DYQGVL
+TAYFEWADSYDSK-------DWDRLRKIIAP-TVR---------IDYRSFL--NKL--WE
+AMPAEDFIAMISDPKVLGDKKLKTQHFC-GG-SKFEK-VSDTE-----IMGWHQLRVPHQ
+KY-TD---DTLST-----VKVKGHAHSTNTHWYKK-V---------DG-VWKFAGLSPDI
+RWF----EY----DFDQVFAEGRDELG----------EKEQEDLAKQAEGVPAK------
+-
+>lcl|UniRef90_A0A0L1J8C1 Conidial pigment biosynthesis scytalone dehydratase Arp1 n=1 Tax=Aspergillus nomius NRRL 13137 RepID=A0A0L1J8C1_ASPNO
+--------------------------MSDPTIP-----------------------LACQ
+NLLHDWANLLDTK-------SWARMPAIFAP-TID---------VDYSSLG--QIK--AT
+AVQPSFYIDHYASPNQLGNPEVQSHHFI-GA-CKWTR-ESESH-----VRVVFQIMAVHR
+RT-PQHGDAVLAT-----------GHGVNTMDFAQ-V---------DG-EWKIAGIKVTL
+LWF----EG----DFNGIFEV---------------------------------------
+-
+>lcl|UniRef90_B2VZ83 Scytalone dehydratase n=2 Tax=Pyrenophora RepID=B2VZ83_PYRTR
+--------------------MSTFATEKRPAPE---------------------DIIGCQ
+AAAFEWTESYDTK-------DWTRLAGCVAP-TLY---------LDYTSVL--NKK--WE
+SLPAPEFIALASSPHFLGNALIKTQHFM-GQ-TRWIL-HSDEE-----IRGHHQMRVAHQ
+RF-KD---DEMNE-----VACVGHAHGAAIVHYKK-V---------EG-VWKFAGLEPDI
+RWS----EG----EYARIFAHE--------------------------------------
+-
+>lcl|UniRef90_R1EJZ1 Putative scytalone dehydratase protein n=2 Tax=Botryosphaeriaceae RepID=R1EJZ1_BOTPV
+------------------------MAAGNITFE------------------------GM-
+--------------------DWDRLRKCIAP-TLR---------IDYRSFL--DKL--WE
+AMPAEEFVAMISSPAVLGDPLLKTQHFI-GG-SKWEK-ISDDE-----VIGVHQLRVPHQ
+RY-TD---ETRTT-----VAVKGHAHSTNTHWYKK-V---------NG-VWKFAGLNPEI
+RWG----EY----DFDKVFASGRDEFGEA---ETKAVEGIPERAEAPAVAAAS-------
+-
+>lcl|UniRef90_S8BGN4 Uncharacterized protein n=1 Tax=Penicillium oxalicum (strain 114-2 / CGMCC 5302) RepID=S8BGN4_PENO1
+-------------------------MPKTPTFE---------------------EITGCQ
+RALFEWADSYDTK-------DWGRLRKIVAP-TLR---------IDYRSFL--DKI--WE
+AMPSDEFILMASDPRFLGNPLLKTQHLV-GL-STWEK-TAEKE-----MVGHHQLRVAHQ
+RY-TS---DTFAE-----VAVKGHAHGTATMWYTC-V---------EG-EWRFAGVCPKI
+NWT----EF----NYDQVFAEGKEHFGEK---EENGHVEQ--------------------
+-
+>lcl|UniRef90_A0A0F7ZZN7 Uncharacterized protein n=1 Tax=Hirsutella minnesotensis 3608 RepID=A0A0F7ZZN7_9HYPO
+-------------------------MATDIAMS---------------------DYLEIR
+NLAFEWAESYDNK-------DWDRLRRCLAP-SIC---------LDFRSLR--GEL--HD
+NLNPDEYAAILSSSKLLGDQELKTQHLL-GG-AKWTQ-LSDGT-----VQVAHQLRVAHQ
+RY-TD---KSLTT-----VANKGHGHGVVTHSYKK-V---------DG-AWKIAAVVPQL
+AWS----EY----DLFGTLNPEKH------------------------------------
+-
+>lcl|UniRef90_Q0CFH2 Putative uncharacterized protein n=1 Tax=Aspergillus terreus (strain NIH 2624 / FGSC A1156) RepID=Q0CFH2_ASPTN
+-------------------------MDPSVGSE---------------------LAYILK
+EVTFEWADSYDAK-------DWNRLRKILAP-TLR---------VDYSEVT--GES--LK
+VVSRDEFVGIVSSENFVGDPLVDTQHLV-GA-SRFTR-ASEDE-----VQGFHQIRAAHQ
+RY-TS---PDKTQ-----VEAKGHGHALIRHDYKK-I---------DG-KWLLAGLKPTV
+RWN----EY----DFEKIFKGH--------------------------------------
+-
+>lcl|UniRef90_A5ABD4 Aspergillus niger contig An08c0230, genomic contig n=2 Tax=Aspergillus RepID=A5ABD4_ASPNC
+-------------------MTFEIYIPSSLTFQ---------------------DYIAIC
+QCARTFADGYDRK-------DKTRLRAALAP-TVI---------VDYNKVL---PHVTRE
+TYEADDFVEKWLNPTNLGNKALATQHLL-GA-PYFKF-ASEEK-----IVVQWQQLASHG
+RW-VEGQDKTRPVLCK--IDETSDGRSWMQQTYVK-V---------DG-QWRIQVLEPEV
+LYH----TG----DFQKIRRPDEKDA----------------------------------
+-
+>lcl|UniRef90_UPI0001586595 hypothetical protein BC1G_14488 n=1 Tax=Botryotinia fuckeliana (strain B05.10) RepID=UPI0001586595
+MSSSPTSSSPSQPWLTELQPLLRCDETQQIPLQ---------------------FALVVS
+DPSKNWRKSEEVS-------DWKRLESIIAP-ELL---------VDYTTIG--KGC--WE
+SMPASQFMAMVTDDDFLGDPCVKTQHLL-GA-TRWEK-ISDDY-----VIGHHQLRAGHQ
+VY-KA---ADLKE-----IKLKGHSHATNEHYYKK-V---------NG-VWKFAGLKPLV
+RWNEGDGEN----DFLKVFKGSYKQ-----------------------------------
+-
+>lcl|UniRef90_Q7Z8L5 Scytalone dehydratase n=21 Tax=Pleosporaceae RepID=Q7Z8L5_COCMI
+---------------------MFEKKELQPTFE---------------------EVMGCQ
+SACYEWADSYDSK-------DWERLRKCVAP-TLK---------IDYRSFL--DKI--WE
+AMPADEFVAMASDPAVLGNPLLKTQHFI-GG-TRWEK-TAEDE-----ITGYHQLRVPHQ
+RY-TD---ESRAT-----VAVKGHAHSFNTHWYKK-I---------DG-EWKFAGLNPDI
+RWY----EY----DFDKVFAEGREQLG-----EAKAAAGIPETAPGQAV-----------
+-
+>lcl|UniRef90_C0NWA9 Scytalone dehydratase n=4 Tax=Ajellomycetaceae RepID=C0NWA9_AJECG
+-------------------------MATDISLA---------------------DYLEIR
+NAAFEWSESYDLK-------DWERLQKILAP-SVR---------LDFRSLK--GEL--HE
+NLSPKEYAAILSSRPLLGDRTLKTQHLL-GG-AKVEC-QSDGI-----VKVQHQIRVAHQ
+RY-KD---NTFTE-----VLNKGHGIGVTTHWYRK-I---------DG-VWKIEGVAPRL
+DWS----EY----DLFGTLAPPKES-----------------------------------
+-
+>lcl|UniRef90_J3NIQ5 Scytalone dehydratase n=1 Tax=Gaeumannomyces graminis var. tritici (strain R3-111a-1) RepID=J3NIQ5_GAGT3
+--------------------MGAQAACGNITFE---------------------DYLGLT
+TAVYEWADSYDSK-------DWDRLRKCIAP-TLR---------IDYRSFL--DKI--WE
+AMPAEEFIAMISDKAVLGNPLLRTQHFI-GG-TRWEK-VSDTE-----VIGYHQLRVPHQ
+KY-TD---ATLKE-----VQVKGHAHSANTHWYRK-V---------DG-VWKFAGLKPDI
+RWS----EY----DFDQVFADGRDAFG-----DEAKA-----------------------
+-
+>lcl|UniRef90_B6H9F0 Pc16g10760 protein n=1 Tax=Penicillium chrysogenum (strain ATCC 28089 / DSM 1075 / Wisconsin 54-1255) RepID=B6H9F0_PENCW
+-------------------------MSKTPTFE---------------------ETAGCQ
+KALFEWADSYDTK-------DWERLREAVAP-TLR---------IDYSSFL--NKI--WE
+AMPRDEFILMASNPHFLGNPLLKTQHFV-GL-STWEK-VSEDQ-----IVGHHQLRVAHQ
+RY-TD---DGFKE-----VAVKGHAHGTATMWYAK-A---------EG-EWKFAGVGPKV
+NWT----EY----DYDKVFADGKEHFGEN---GENGENGENVH-----------------
+-
+>lcl|UniRef90_W3XJS5 Uncharacterized protein n=1 Tax=Pestalotiopsis fici W106-1 RepID=W3XJS5_9PEZI
+-------------------------MNNNLEFA---------------------DYIALR
+NLAFDWAESYDTK-------NWELLKQCLAP-STS---------LDFRLLQ--GNL--YE
+NLSPDDFAGIIAK--MIGDKRLKTQHFI-GA-TKVEC-LDDGS-----VKVEHQIRVAHQ
+RHESE---DAASP-----VSNKGHGHGVTTHWYKR-F---------GE-YWKITGALSNL
+YWS----ED----DLFGTLALED-------------------------------------
+-
+>lcl|UniRef90_A0A0F9XHD5 Scytalone dehydratase n=1 Tax=Trichoderma harzianum RepID=A0A0F9XHD5_TRIHA
+-----------------------MANPNQPSPE---------------------DVIACQ
+AAIFEWAESYDTK-------DWDRFLRNASP-TLY---------IDYRAFM--DTF--WE
+AIPAEEFISKVKEPGFMGNQRVKSSHLV-GA-SRWEQ-KSPDY-----IVGTHQMRVMHQ
+RY-HD---DALTK-----VQRQGHSSGIALVHYKK-I---------DG-VWKWAGLEPRI
+RFK----EY----EFDKIFYTDD-------------------------------------
+-
+>lcl|UniRef90_R0IKC0 Uncharacterized protein n=1 Tax=Setosphaeria turcica (strain 28A) RepID=R0IKC0_SETT2
+-----------------------MQTYMKPSYE---------------------EWLDCS
+ELAFEWARSYDEK-------DWERLSKTLAP-TVT---------VNYSGVN--NST--AD
+KMPAGDFVAMMKNPLFLGDGNIDSQHFL-GV-SKWRK-TSETE-----IVSQHQSRAAHM
+RW--N---EGRET-----LAAKGHGHGLVTMFYKK-I---------NG-EWKWGGISTKV
+DLN----EH----EFERVFVGSAGKFDKDGNTIEVET-----------------------
+-
+>lcl|UniRef90_Q2H741 Putative uncharacterized protein n=2 Tax=Sordariales RepID=Q2H741_CHAGB
+---------------------MASEKKLQITFE---------------------DYLGVT
+EAAFEWADSYDSK-------DWDRLRKCIAP-TLR---------VDYRSFL--NKL--WE
+AMPAEEFIAMISDKSVLGNPLLRTQHFI-GGASKWEK-LSDTE-----IIGYHQLRVPHQ
+VY-TD---ASLQN-----VEVKGHAHGFNTHYYNK-V---------GG-VWKFAGLSPTI
+RWS----EY----DFDKVFASGRDNFG-----ESK-------------------------
+-
+>lcl|UniRef90_A1CVM3 Scytalone dehydratase, putative n=1 Tax=Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL 181) RepID=A1CVM3_NEOFI
+--------------------MTKAVPPKTPAYEGAPNPDPLIRDMKLEGSSQISDAVGCQ
+IALFEWAESYDTK-------DWGRLAKCIAP-TLR---------IDYRNVI--GKL--WE
+AMPADEFLAMASSEKFLGNARIKTQHFV-GA-GKLVQ-THEDR-----ITGHHQMRVAHQ
+KY-SD---DALTE-----VLYTGHGHGKATVQFCL-V---------DG-VWKFAGLEPEI
+RWA----EH----DLEKIFE----------------------------------------
+-
+>lcl|UniRef90_P56221 Scytalone dehydratase n=3 Tax=Magnaporthe oryzae RepID=SCYD_MAGO7
+-------------------MGSQVQKSDEITFS---------------------DYLGLM
+TCVYEWADSYDSK-------DWDRLRKVIAP-TLR---------IDYRSFL--DKL--WE
+AMPAEEFVGMVSSKQVLGDPTLRTQHFI-GG-TRWEK-VSEDE-----VIGYHQLRVPHQ
+RY-KD---TTMKE-----VTMKGHAHSANLHWYKK-I---------DG-VWKFAGLKPDI
+RWG----EF----DFDRIFEDGRETFG-----DK--------------------------
+-
+>lcl|UniRef90_G3JFQ7 Conidial pigment biosynthesis scytalone dehydratase Arp1 n=1 Tax=Cordyceps militaris (strain CM01) RepID=G3JFQ7_CORMM
+-------------MTFSSAVTRAASSSSAISFQ---------------------DYLEVS
+ALLFDWGDSYDAK-------DWPRLRRIIAP-TLY---------VDYSKIG--KDI--WE
+AMSADDFVAMVSDDDFLGDPCVKTQHLL-GA-TRWER-ISATE-----IIGHHQLRAAHQ
+VY-TA---PDLKT-----VKLHGHSHATNKHYYTK-V---------DG-VWKFAGLAPLV
+RWN----EH----DFEKVFKGSFIA-----------------------------------
+-
+>lcl|UniRef90_A0A0A2JDQ2 Scytalone dehydratase n=1 Tax=Penicillium expansum RepID=A0A0A2JDQ2_PENEN
+---------------------MTKAAYQPPAYE---------------------AIAGCQ
+LALFEWAESYDSK-------DWDRLAKCIAP-TLH---------INYSSVM--GQE--WE
+SMPADDFVALASSANFLGNARIKTQHLI-GA-SKWVQ-TGEDT-----VTGYHQMRVAHQ
+KY-GD---DALSE-----VLVKGHAHGKATIQYRR-V---------EG-EWKFAGLEPDI
+RWK----EH----DVDGIFHE---------------------------------------
+-
+>lcl|UniRef90_E9ET41 Glutamyl-tRNA(Gln) amidotransferase n=5 Tax=Metarhizium RepID=E9ET41_METRA
+---------MNQSLTPSAGTDSKTGSSKAISFQ---------------------DYLDLS
+TL------------------DWARLRAILAP-ALY---------VDYTKIG--KEK--WD
+AMSADDFMAMVSNDDFLGDPCVKTQHLI-GA-TYWER-VSESK-----VIGHHQLRAAHQ
+VY-TS---PDLKT-----VKLRGHSHATNEHYYVK-S---------SG-VWKFAGLKPEV
+RWN----EY----KFEEVFKGSYTQSEKHS------------------------------
+-
+>lcl|UniRef90_A0A074Y674 Uncharacterized protein n=1 Tax=Aureobasidium subglaciale EXF-2481 RepID=A0A074Y674_9PEZI
+-----MLIICRNAWLHGRLLQLGRQLRHQSEHA---------------------QRFGEL
+GT--EEADNH-MQ-------DWKRLETVIAP-ELI---------IDYRSFL--DKI--WE
+AMPADEFVKMASDPNVLGDPLLKTQHFI-GG-TRWEK-ISDTE-----IIGWHQLRVPHQ
+KY-TD---ESRST-----VAVKGHAHSTNKHWYKK-V---------DG-EWKFAGLSPDI
+RWF----EY----DFDKVFASGRDSFG-----EAKQAAGIPEKA----------------
+-
+>lcl|UniRef90_U1GG55 Scytalone dehydratase n=1 Tax=Endocarpon pusillum (strain Z07020 / HMAS-L-300199) RepID=U1GG55_ENDPU
+-------------------------MDSNITLE---------------------DFLGLN
+AAYFEWADSYDAK-------DWERLSKIIAP-ELR---------IDYTSFL--NKC--WP
+AMPASDFVAMVSSPTVLGDPTLKTQHFC-GG-SKWEM-VSPTE-----VIGFHQLRVPHQ
+KY-TD---ETLTT-----VAVKGHAHSTNKHWYKK-I---------DG-VWKFAGLSPEI
+RWF----EY----DFDKIFASGRENFGAT---EDIMEKEKIDVTVEASMGIPAAA-----
+-
+>lcl|UniRef90_A0A010RVR9 Scytalone dehydratase (Fragment) n=1 Tax=Colletotrichum fioriniae PJ7 RepID=A0A010RVR9_9PEZI
+-------------------------------TL---------------------DYLGLN
+ACLYEWADSYDTK-------DWDRLRKCIAP-TLR---------IDY-PFL--NKI--WE
+AMPAEDYVAMMSSKPMLGSPLLKTQHLV-GA-SRWEK-ISETE-----VVGHHQLRVPHQ
+KY-TD---ETFKH-----VAVKGHAHSSNKHWYRK-V---------DG-VWKFAGLSPKM
+LLT----EY----DFAAVAAEGRDSLLAGAVKDI--------------------------
+-
+>lcl|UniRef90_A1C887 Conidial pigment biosynthesis scytalone dehydratase Arp1 n=1 Tax=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1) RepID=A1C887_ASPCL
+--------------------MVEKKPNLNIDFQ---------------------DFLALQ
+KVVFDWADSYDAK-------DWDRLRSIISP-TLT---------VDYTQIG--LRK--WS
+DMPAEDYLKMVTDIDFLGDPTIKTQHLL-GA-TWWEK-ISDTE-----VIGHHQLRAAHQ
+VY-TD---TDMKT-----VKLKGHSHATNEHYYRK-I---------DG-VWKFAGLKPTV
+RWN----EY----QFDDVFRAAINPTSVV-------------------------------
+-
+>lcl|UniRef90_F9WZP9 Scytalone dehydratase (Fragment) n=1 Tax=Zymoseptoria tritici (strain CBS 115943 / IPO323) RepID=F9WZP9_ZYMTI
+------------------------------------------------------ELQGCM
+AAVYEWADSYDSK-------DWTRLSKCIAP-TLR---------IDYRSFL--NKI--WE
+AMPAADFITMASDPHVLGDPSLKTQHFI-GG-TKWEK-VSDDD-----IIGYHQLRVPHQ
+KY-TD---ASCTV-----VAVKGHAHSFNTHWYKR-V---------EG-VWKFAGLNPEI
+RWT----EY----NFEEVFASGREKL----------------------------------
+-
+>lcl|UniRef90_I7ADN3 Scytalone dehydratase (Fragment) n=1 Tax=Daldinia eschscholtzii RepID=I7ADN3_9PEZI
+------------------------MAAGNISFE---------------------DYLGLQ
+ACLVEWADSYDTK-------DWNRLRQCIAP-TLR---------IDYRSFL--DKL--WE
+AMPAEEFITMVSSPAVLGDPLLKTQHFI-GG-TKWEK-VSDTE-----VIGTHQLRVPHQ
+RY-TD---LTRSQ-----VAVKGHAHSTNVHWYRK-V---------DG-VWKFAGLNPDI
+RWS----EY----DFDKVFAGGREEFGDA---IAAKAEGIPVQAQGLAAKV---------
+-
+>lcl|UniRef90_N1QJK8 Scytalone dehydratase n=1 Tax=Sphaerulina musiva (strain SO2202) RepID=N1QJK8_SPHMS
+----------------------MSDCSSLTELA---------------------DVMGCQ
+AALFEWADSYDAK-------DWARLRECVAP-SLM---------VDYRAFL--NKK--WD
+DMPADEFVQMASDSHFLGNKTIKTQHFH-GG-SRYEQ-ESDDK-----IIGHHQMRVAHQ
+KY-AD---ESLQT-----VVAKGHGHGTATIWYKK-V---------DG-VWKFAGLIPNT
+RWT----EY----DFHKIFGGHHDADAESGGESSGTASPA--------------------
+-
+>lcl|UniRef90_A0A0N1P280 Scytalone dehydratase n=1 Tax=Phialophora attae RepID=A0A0N1P280_9EURO
+---------------------MA-AKDKMISFE---------------------DYQGVL
+TAYFEWADSYDSK-------DWERLRKIVAP-TLR---------IDYRSFL--NKI--WE
+AMPAEDFIAMASDPKVLGDKKLKTQHFC-GA-SKFEK-VSDTE-----IKGWHQLRVPHQ
+KY-KD---ETLSE-----VVVKGHAHSTNEHWYKK-V---------DG-VWKFAGLNPDI
+RWF----EY----DFDQVFAEGRESSD-----ITGDSKKDQEKLAQQAAGVPTDAKK---
+-
+>lcl|UniRef90_J4KLE6 Conidial pigment biosynthesis scytalone dehydratase Arp1 n=2 Tax=Beauveria bassiana RepID=J4KLE6_BEAB2
+--------------------MASDLLQAEPSLR---------------------------
+------------R-------DWDLLASICAD-EMW---------ICYDKLN---MGISSQ
+KMPKEDFIAMLSSSHLLGNPKVSTQHFL-GN-ALFEA-VQAKESEINVVCGEWQIMASHQ
+RVLPD---SEMKC---------WLSQGYLKHFYQR-----------VGAEWKLYGIEPSI
+VLM----------NAQGVIEDIFVLQ----------------------------------
+-
+>lcl|UniRef90_A0A0G2HWM0 Putative scytalone dehydratase n=1 Tax=Diaporthe ampelina RepID=A0A0G2HWM0_9PEZI
+-------------------------MTTRPKFE---------------------DVLGCQ
+EALYEWVESYDTK-------DWKRLSKCIAG-TLR---------IDYRAFL--GKM--WE
+AMPAEEYIQMASDPKVLGNQRLKTQHLV-GV-AKWVQ-TGENE-----ITGYNQMRVAHQ
+KY-TD---ETMTE-----VAVKGHGHGKATIWYQR-V---------DG-VWKFAGIEPDI
+RWS----EY----NHDKIFEEGEDKFNEK-------------------------------
+-
+>lcl|UniRef90_A0A094AS97 Uncharacterized protein n=1 Tax=Pseudogymnoascus pannorum VKM F-3775 RepID=A0A094AS97_9PEZI
+------------------------MTLQEVSFE---------------------EYLAVS
+TLTFEWADSYDTK-------DWNRLARSLAP-QLE---------VDYTPVS--GMK--WA
+AISSSDFIKMCSSLKFLGSKCFISQHNI-GA-SKYTK-VSSSK-----IVGTHQLRAAHT
+LY-GD---TSKAT-----VIIKGDFHGVVRLTYSKSE---------DG-IWKFAGLSPTV
+YGV----EHSSIDELMGTIAARVESGELV---D---------------------------
+-
+>lcl|UniRef90_A0A010QV22 Scytalone dehydratase n=2 Tax=Colletotrichum RepID=A0A010QV22_9PEZI
+----------------------MASPAGNISFE---------------------DYLGLS
+GCIFEWADSYDSK-------DWDRLRKCIAP-ELR---------IDYRSFL--DKI--WE
+AMPAEEFIAMISDKSVLGNPLLKTQHFI-GG-TRWEK-VSETE-----VIGHHQLRVPHQ
+KY-TD---ASRKE-----VAVKGHAHSYNKHWYKK-V---------DG-VWKFAGLAPEI
+RWS----EY----DFEAVFADGRDSFGAEETTDEKNNVSVVEKELKVAAAV---------
+-
+>lcl|UniRef90_M1W851 Probable scytalone dehydratase n=1 Tax=Claviceps purpurea (strain 20.1) RepID=M1W851_CLAP2
+-------------------------MSKTPSYE---------------------DATACQ
+AALFEWAESYDLK-------DWNRLSKCIAP-TLQ---------IDYRAVF--GQF--WE
+AMPADEFVGMISSPGFLGNPLIKTQHFV-GM-TRWTQ-TSEDS-----VTGRHQMRVAHQ
+KY-AD---AQMKE-----VVLKGHGHGGATTWFRK-V---------DG-DWKFAGIEPEI
+RWA----EF----DLDKIFAE---------------------------------------
+-
+>lcl|UniRef90_A0A086SU29 Scytalone dehydratase-like protein n=1 Tax=Acremonium chrysogenum ATCC 11550 RepID=A0A086SU29_ACRCH
+-------------------------MSTDISLS---------------------DYLEIR
+NIAFEWAESYDSK-------DWDRLKNILAP-KSR---------LDLRSLM--GEL--HE
+DITPDEYAAILLGPRLLGPKRLKSQHLF-GG-AKWEQ-QRDGP-----ITVTHQIHVLYQ
+LY-TD---ESLSE-----VANKGHAHGTVQHGYRK-I---------DG-AWKLDIVVPKL
+NWF----EH----DLFGTLSPTGDEKKSG-------------------------------
+-
+>lcl|UniRef90_G0SFK5 Scytalone dehydratase-like protein n=1 Tax=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) RepID=G0SFK5_CHATD
+---------------------MSSEKK-QISFE---------------------EYLGCT
+EAAFEWADSYDSK-------DWDRLRKCIAP-TLR---------IDYRSFL--NKL--WE
+AMPAEEFIQMISSPTVLGNPLLRTQHFI-GGASKWEK-VSDTE-----IIGYHQLRVPHQ
+VY-TD---SSLSQ-----VKVKGHAHSHNTHYYRK-V---------DG-VWKFAGLCPDI
+RWF----EY----DFDKVFESGRESFG-----EKN-------------------------
+-
+>lcl|UniRef90_A0A0D2IDP0 Rhinocladiella mackenziei CBS 650.93 unplaced genomic scaffold supercont1.7, whole genome shotgun sequence n=4 Tax=Herpotrichiellaceae RepID=A0A0D2IDP0_9EURO
+---------------------MA-STDKLISWE---------------------DYQGCL
+TAYFEWAESYDSK-------DWARLRKIVAP-TVR---------IDYRSFL--NKL--WE
+AMPADDFIAMISDPKVLGDPLLMTQHFC-GA-SKWEK-VSDTE-----IIGHHQLRVPHQ
+RY-AD---ATRTK-----ILVKGHAHSYNMHWYKK-V---------DG-VWKFAGLNPDI
+RWG----EY----DFDKVFADGREELG-----EKEEA----EKLAKEAQGIPPA------
+-
+>lcl|UniRef90_W9YIX4 Scytalone dehydratase n=1 Tax=Capronia epimyces CBS 606.96 RepID=W9YIX4_9EURO
+----------------------MAKTQTQTQPP---------------------NVVGCQ
+GALFEWADSYDSK-------DWQRLRQCLAP-TLK---------VDYRTVL--NKL--WE
+EMPADELVALASNPHFLGDKTLRTQHFI-GG-SRWVQ-ESPDK-----MVGHHQLRVAHQ
+RY-TD---ESLKT-----VALKGHAHGTATIAYSK-V---------DG-EWKFAGLTPNI
+RWF----EY----DYDRMFQPPPQNGGTG---ATENGTH---------------------
+-
+>lcl|UniRef90_A0A0A2LDT3 Scytalone dehydratase n=7 Tax=Penicillium RepID=A0A0A2LDT3_PENIT
+--------------MSPAVKNNTAEPNLDISFQ---------------------DYLILS
+KLVFDWADSYDAK-------DWDRLRSIIAP-TLR---------VDYTEVG--LKK--WE
+NMAADDYMAMITHPGFLGDKKIKTQHLL-GQ-TWWEK-ISDTE-----VIGHHQLRAAHQ
+VY-ET---EELKT-----VKLRGHGHATNEHYYRK-V---------HG-VWKFAGLKPTV
+RWN----EL----RFDEVFKGLD-------------------------------------
+-

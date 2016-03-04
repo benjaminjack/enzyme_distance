@@ -1,0 +1,1 @@
+(lcl|UniRef90_W1G5S8,((lcl|UniRef90_A0A0B8PIM0,(lcl|UniRef90_UPI0005789181,lcl|UniRef90_Q0PQH6)),lcl|UniRef90_A0A060QMM6),1MOQ_A);

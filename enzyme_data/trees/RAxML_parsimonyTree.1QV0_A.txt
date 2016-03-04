@@ -1,0 +1,1 @@
+(lcl|UniRef90_Q27709,(((lcl|UniRef90_Q08121,lcl|UniRef90_J9PGG4),(lcl|UniRef90_P39047,(lcl|UniRef90_D3TI86,(lcl|UniRef90_Q6XDT9,(lcl|UniRef90_Q8WQY7,(lcl|UniRef90_P07164,lcl|UniRef90_P02592)))))),lcl|UniRef90_Q8T6Z0),1QV0_A);

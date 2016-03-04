@@ -1,0 +1,106 @@
+IMPORTANT WARNING: Alignment column 558 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 885 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 886 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 887 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 888 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 889 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 890 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 891 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 892 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 893 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 894 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 895 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 896 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 897 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 898 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 899 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 900 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 901 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 902 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 903 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 904 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 905 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 906 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 907 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 908 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 909 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 910 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 911 contains only undetermined values which will be treated as missing data
+
+IMPORTANT WARNING
+Found 28 columns that contain only undetermined values which will be treated as missing data.
+Normally these columns should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+undetermined columns removed is printed to file phy/1KXP_A.phy.reduced
+
+Alignment has 28 completely undetermined sites that will be automatically removed from the input data
+
+
+
+This is RAxML version 8.2.4 released by Alexandros Stamatakis on October 02 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 888 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 68.41%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 888
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: LG
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-SSE3 -T 6 -s phy/1KXP_A.phy -n 1KXP_A.txt -m PROTCATLG -p 12345 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.079 0.056 0.042 0.053 0.013 0.041 0.072 0.057 0.022 0.062 0.099 0.065 0.023 0.042 0.044 0.061 0.053 0.012 0.034 0.069 
+
+Inference[0]: Time 1577.900786 CAT-based likelihood -65850.984569, best rearrangement setting 15
+alpha[0]: 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -66787.102677 tree written to file /work/03284/bjack/enzyme_distance_data/nonenzymes/trees/RAxML_result.1KXP_A.txt
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -66787.102677 .... 
+
+Final GAMMA-based Score of best tree -66784.460125
+
+Program execution info written to /work/03284/bjack/enzyme_distance_data/nonenzymes/trees/RAxML_info.1KXP_A.txt
+Best-scoring ML tree written to: /work/03284/bjack/enzyme_distance_data/nonenzymes/trees/RAxML_bestTree.1KXP_A.txt
+
+Overall execution time: 1846.385906 secs or 0.512885 hours or 0.021370 days
+

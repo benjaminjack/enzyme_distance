@@ -1,0 +1,2380 @@
+>2NLR_A
+------------------------------------------------------------
+-DTTICEPFGTTTI-Q-GRYVVQNNRWGSTAP-----QCV---TA--T-DTGFRVTQA--
+---DGSAPTNGAPKS--Y---PSVFNGCHYTN------CSPGTDLPVRLDTVS-------
+--AAPSSISY--GFVD---G--A-VYNASYDIWLDPTA--RT-DGVN--QTEIMIWFNRV
+GPIQPI-GS-----------PV----------GT-ASVGGRTWEVWSGG----N---G--
+-S-NDVLSFV---APSA-ISGWS-FDVMDFVR------ATV-ARGLAENDWY--LTSVQA
+---------GFEPWQN-GA-GLAVNSFSSTVET---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A093YD84 Uncharacterized protein n=4 Tax=Pseudogymnoascus pannorum RepID=A0A093YD84_9PEZI
+------------------MKLI-AALAPALVAASAI--------------PTKTIAER--
+-ATEICGQWDTVQT-GT--YTLYQDLWGID-AATSGSQCSTFDSLNGD-TIAWSTSWS--
+---W-QG-GNYNVKS--F---ANVVV-------------TQSTG--YQVSAIK-------
+--SIPSKWDY--TYTG-TG----MVADVAYDIFSSSTA--GGNSDGS-SDYEIMIWLAAI
+GGAGPI-SA--T-----GS-VI----------DT-PTIAGKQWNLYYGL----N---G--
+-N-MKVYSFV---APSQ-VNSFS-GDLKEFYT------YLVASQGYS-ASQY--ITSIGA
+---------GTEPFIG-TDAVMKTSGYSVVVNV---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q0C8U0 Endoglucanase I n=1 Tax=Aspergillus terreus (strain NIH 2624 / FGSC A1156) RepID=Q0C8U0_ASPTN
+------------------MKTI-SILS------LAAAVA---------------------
+-AQELCEQYGTHTS-GQ--YTINNNMWGKD--SGSGSQCTYFDGVSGD-GVAWHTTWN--
+---W-SG-GENSVKS--Y---PNSGV-------------Q-LEK--KFVSDIS-------
+--SIPTTAKW--SYDN-TD----IRADVAYDLFTAADI---NHVTYS-GDYELMIWLGRY
+GDVAPI-GS-----------QV----------GT-ADVGGTTWQVWNGM----N---G--
+-D-MNVYSFV---APS-PVTSFN-TDIKDFFT------HLTDSYSFPASSQY--LINLQF
+---------GTEPFTG-SQSTLTVSQWSASVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004CAF2F3 hypothetical protein n=1 Tax=Streptomyces sp. NRRL WC-3795 RepID=UPI0004CAF2F3
+--------MAPRTRPR-SR-----ALTALLPPALALTATLGLASAPAQ---------AA-
+-VWNTCDQWGN-TT-L-NGYTLYNNIWGSGAG----SQCVW--ANSGT-DWGV-------
+---WADHPNTGGIKS--Y---P-----------------NAKKVINKPIASLG-------
+--SLRSSYDV--TVP---SS--G-AYNTSYDIW-----------DTD-HDYEIMLWVNHH
+GAVGPL-GS-----------PQ----------GS-VTLGGHSWNVYKGD----N---G--
+-A-NEVFSFL---RTSD-SNTGT-VDILPILK------WIKDTKGWM-GNET--IGDVQF
+---------GYEITSS-AG-GLDFRTHSLTVSGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_E3QV89 Glycosyl hydrolase family 12 n=2 Tax=Colletotrichum RepID=E3QV89_COLGM
+------------------MKLS-AILAALPALALASPTP--------------TVEKR--
+-ATTFCDQWGSAVT-GT--YTVYNNLWGAS--SGTGSQCTTLSGLSGG-NLQWSTTWS--
+---W-SG-GPYSVKS--Y---ANAVV-------------N-VSK--KALSAIN-------
+--SIPSTWNW--SYSG-NG----LVANVAYDLFTSSTA------SGS-AQYEIMIWLGAL
+GGAGPI-SA--T-----GS-PV----------AR-PTVAGRAWNLYKGT----N---G--
+-Q-MTVFSFV---APSN-VQSFS-GDLEAFVT------YLVGSQGLP-ASQI--LQSIGA
+---------GTEPFVG-SNAKFTTTAYSASLS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_M7SX53 Putative glycoside hydrolase family 12 protein n=1 Tax=Eutypa lata (strain UCR-EL1) RepID=M7SX53_EUTLA
+------------------MKTT-RSTILL-LTTTGLALAS------PSPSPSRTVEKR--
+-ATTFCDQWGSLET-AG--YIVYNNLWGQD-SADSGEQCTTVEDASG--ALAWSTAWT--
+---W-AG-GDYNVKS--Y---ANAVR-------------Q-ADA--KALSEVA-------
+--SIPSSWSW--SYTG-TS----IVANVAYDLFTSSSA------TGD-AEYEVMIWLGAL
+GGAGPI-SS--T-----GS-TI----------AT-PAVAGATWDLYYGL----N---G--
+-Q-MEVYSFVTQDAGAT-SASFS-GDVADFVA------YLADGQGFPRDSQF--LLSAGA
+---------GTEPFVG-TGATFTTTAYSLEIN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000619C68B glycoside hydrolase n=1 Tax=Paenibacillus wulumuqiensis RepID=UPI000619C68B
+---------------MLHLFTK-KITLVRLLLTVLMLSLVLAPLTASA---------GTT
+S-----EPYAKTNF-ANNKYYLFNNVWGQDSV-KGWWQSTY--LNHDR-DLGW--VW---
+---NWPSNT-STVKG--Y---PSLVSGWHWTEGY-----TPGSGFPTRLYENK-------
+--NINTNVSY--SIQA---N--G-TYNAAYDVWIHDTG--RATWNST-PTDEIMIWLNNT
+H-AGPI-GD-----------YV----------ET-VYLNGSSWNLYKGWLNAGE---G--
+KG-WNVFSYV---RTSN-TSSAS-LNIKNFTD------HLVYTKYWMANTKY--VSSVEF
+---------GTEIFGG-EG-QINISNWNVNVQ----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q0CRC9 Probable xyloglucan-specific endo-beta-1,4-glucanase A n=1 Tax=Aspergillus terreus (strain NIH 2624 / FGSC A1156) RepID=XGEA_ASPTN
+------------------MKLS-------VLSLASLASAAA---LNAKVLTGKSLTRR--
+--ADFCDQWGQVTT-GN--FILYNNLWGQG-NADSGSQCTGLDSSSGNDSIAWHTSWS--
+---W-SG-GAGQVKS--Y---ANAAY-------------V-FTP--KQLSALG-------
+--SIPTSWSW--KYTG-SD----IIANVAYDLFTSSTA------DGD-NEYEIMIWLAAL
+GGAGPI-SS--T-----GS-PV----------AS-PTVAGHSWDLYSGM----N---G--
+-Q-MQVYSFV---ASSQ-TESFS-ADLQEFIM------YLQSNQGLP-TSQY--LVDVQA
+---------GTEPFSG-SDATLTTSAYSVSVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0M9ZJ82 Uncharacterized protein n=1 Tax=Streptomyces sp. NRRL WC-3618 RepID=A0A0M9ZJ82_9ACTN
+--------MVTNA--I-RK-----ISTAILAPAMALGATVGLASAPAS---------AA-
+-VWNSCDQWSS-TN-L-DGYKLYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------NSTKTINKTIDSLG-------
+--WLTSNYNV--SVP---SS--G-AYNTSYDIW-----------DDN-HQYEIMLWVNYH
+GAVGPI-GS-----------SQ----------GN-VSLGGHSWNVYKGT----N---G--
+-S-NQVFSFL---RTSN-SNSGT-VDVKPILS------WIAHTKGWMPGNEI--IGDVQF
+---------GYEVTSS-SG-GLNFTTNNLTVSGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_W7S6P9 Sugar hydrolase n=2 Tax=Kutzneria sp. 744 RepID=W7S6P9_9PSEU
+-------MSPGRKGNSMRK-----TLRYILPTVAAL-ATVVLTATSAQ---------AA-
+-TWSSSDKWGS-WS-N-GGYTITNDVWGSGAG----PQSIW--ANSYS-NWGV-------
+---SSNQPNTGGVKS--Y---P-----------------HSGRTIGRQLSSLG-------
+--SVTSSFNV--SVP---GA--G-AYETAYDIW-----------ANN-NAYEIMLWMNKT
+GAVGPI-GS-----------LQ----------TT-VSVGGHTWDVYKGS----N---G--
+-S-NAVFSFL---RHGN-TNAGS-VDVKAVLN------WIK-SKGWF-GDVT--LGDVQF
+---------GFEITST-GT-ARSFTSNSFSVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_M5P0K1 Uncharacterized protein n=2 Tax=Bacillus sonorensis RepID=M5P0K1_9BACI
+-------------MNRHHSIRS-F--LLAGFTCVMLFALPL---TALG---------ASS
+S-----TPSDKMYI-KNNKYYIFNNVWGADQV-SGWWQSIY--HNSDS-DLGW--VW---
+---NWPSST-SSVKA--Y---PSIVSGWHWTEGY-----TPGSGFPTRLSEQK-------
+--NIMANVSY--SISA---S--G-TYNAAYDIWLHKTN--KASWDSA-PTDEIMIWLNNT
+N-AGPL-GS-----------YV----------QT-VSIGGHKWKVHKGYVDAGN---G--
+KG-WNVYSFV---RTSN-TQSAS-LNIRHFTN------YLSNQKKWLDKSKY--VSSVEF
+---------GTEVFGG-TG-QINISNWDVNVR----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A1CRJ0 Probable xyloglucan-specific endo-beta-1,4-glucanase A n=1 Tax=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1) RepID=XGEA_ASPCL
+------------------MKFNLALALSLTVATAEAA-----------------------
+--TELCKQWDSIIE-GN--FIVYNNLWGQGNADDGGHQCTTVKSISGD-TVVWSTEWA--
+---W-SG-GPGQVKS--Y---ANAAL-------------Q-FTP--TTLSSVS-------
+--SIDSTWKWRDSYTG-SD----IVANVAYDMFLSSSA------TGS-EEYEIMVWLAAL
+GGAGPI-SS--T-----GS-PI----------AT-PTINGVQWDLYLGP----N---G--
+-A-MQVYSFV---APSS-TENFA-GDMKGFID------YLTSEQGLS-KDLY--LLDVQA
+---------GTEPFSG-SDAVLTVSEYSVNLA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A093ZWG4 Uncharacterized protein n=1 Tax=Pseudogymnoascus pannorum VKM F-4281 (FW-2241) RepID=A0A093ZWG4_9PEZI
+------------------MKLL-ALVAPALVAATAIPASAP--------APSKTIKER--
+-ATEICGQWDSIET-GT--YTLYQGLWGID-SATSGSQCSTYESLTGD-TIAWSTNWT--
+---W-QG-GEYNVKS--Y---ANIVL-------------TQDTG--HQVSAIK-------
+--SIPSKWAY--TYTG-TG----VVANVAYDVFSSATA--EGNSDGS-SDYEIMIWLATI
+GGAGPI-SD--T-----GA-SI----------AS-VTIAGQDWDVWYGL----N---G--
+-S-MKVFSFV---APTQ-VDNFD-GDLKEFYT------YLVENQDFS-DTQY--ITSIGA
+---------GTEPFVG-TDAVMVTSGYSIALNV---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0F7CQ58 Secreted sugar hydrolase n=3 Tax=Streptomyces RepID=A0A0F7CQ58_9ACTN
+------------------MQHARRARTLVLAPLVAFLTFFGYGASTAQ---------AAA
+-VWESCDQWGN-WT-APDGYIVYNNIWGSGGG----SQCIA--ADSSS-SWTV-------
+---TANHPNTGGIKS--Y---P-----------------NAKRIVNRPLDQLN-------
+--SLNSTFNV--TVP---QA--G-AYNTAYDIW-----------DQN-YDHEIMLWTNWY
+GPVGPL-GS-----------YQ----------SR-VSLGGHTWDIYRGS----N---G--
+-H-NNVYSFL---RTGN-TSSGT-VDILPILR------WIA-DQGWISHNEV--IGDVQF
+---------GYEITSS-SG-GLTFRTNQFGVSHS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0B5DRT9 Uncharacterized protein n=1 Tax=Streptomyces nodosus RepID=A0A0B5DRT9_9ACTN
+--------MAPHL--L-GR-----LTTALIAPALALGATVGLASAPAQ---------AA-
+-VWNSCDQWGN-TT-L-NGYTLYNNIWGSGTG----SQCIW--ANSGT-NWGV-------
+---RADHPDTGGIKS--Y---P-----------------NAKKVINKSITSLS-------
+--SLTSKYNV--TVP---SR--G-AYNTSYDIW-----------DTG-YRYEVMLWVNKT
+GAVGPL-GT-----------AQ----------GS-VTLGGSSWNVYKGN----N---G--
+-S-NDVFSFI---RSAN-SSSGS-VDVLPILK------WIKDTKGWF-GNVT--IGDVQF
+---------GYEITSS-SG-GLDFTTDSLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q82K33 Putative sugar hydrolase, secreted n=1 Tax=Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680) RepID=Q82K33_STRAW
+--------MAPRT--L-SK-----VTKALIAPALALGATIGLASAPAQ---------AA-
+-VWSSCDQWGN-TT-L-NGYTLYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---NANHPNTGGIKS--Y---P-----------------NAKKVINKSITSLG-------
+--SLSSSYNV--TVP---SS--G-AYNTSYDIW-----------DTA-YKYEVMLWVNYN
+GAVGAL-GT-----------SQ----------GN-LTLGGHTWTVYKGN----N---G--
+-S-NDVFSFL---RTSD-SSSGT-VNVLPILK------WIKDTKGWF-GNVT--IGDVQF
+---------GFEITSS-SG-GLDFTTNSLSVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_B6H7Y5 Pc16g08690 protein n=4 Tax=Penicillium RepID=B6H7Y5_PENCW
+------------------MKSF-APMTLLSLALAAMGDAAS--------------VRR--
+-AAEICEQYGTTKA-GD--FTVFNNLWNLD-KDPNAKQCTGVDSSNGN-TIAWHTKYS--
+---W-GGEAKNEVKS--F---ANAGL-------------N-FTP--KVLSTVS-------
+--SIKSAWEW--SYSS-TD----IVADVAYDLFLSSTP------DGS-EEYEIMVWLAAL
+GGAGPI-SS--T-----GK-TI----------AT-VNISGSEWDVWVGP----N---G--
+-Q-MTVYSFV---AKST-MNKYD-GDLLDFFK------YLIKDQGLD-SSKY--LKTVQA
+---------GTEPFIG--TADFTVPSYSVSVV----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q30BZ2 Cell 12A endoglucanase n=8 Tax=Phytophthora RepID=Q30BZ2_PHYSO
+------------------MK-G-FFAGVVAAATLAVASA---------------------
+--GDYCGQWDWAKS-TN--YIVYNNLWNKN-AAASGSQCTGVDKISGS-TIAWHTSYT--
+---WTGG-AATEVKS--Y---SNAAL-------------V-FSK--KQIKNIK-------
+--SIPTKMKY--SYSH-SSG--TFVADVSYDLFTSSTA------SGS-NEYEIMIWLAAY
+GGAGPI-SS--T-----GK-AI----------AT-VTIGSNSFKLYKGP----N---G--
+-S-TTVFSFV---ATKT-ITNFS-ADLQKFLS------YLTKNQGLP-SSQY--LITLEA
+---------GTEPFVG-TNAKMTVSSFSAAVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0005A69A39 hypothetical protein n=1 Tax=Streptacidiphilus carbonis RepID=UPI0005A69A39
+----------------MRTTLR--SRRTILGLFASAAAAVGLAAAPAH---------AA-
+-TWSSSAQWGT-WS-N-GGYTLYNDIWGSGAG----PQTIW--ANSYS-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------NASRYIGKQLSALS-------
+--SVKSSFNV--SVP---SS--G-AYETTYDIW-----------DSN-NADEIMLWMNKT
+GAVGPL-GT-----------SQ----------GT-ASVGGSTWTVYKGS----N---G--
+-A-NAVFSFV---RTSN-TSSST-VDILAVMN------WIENSKHWI-GDVT--LGNVQF
+---------GYEITSS-SG-GLNFNTNSFSVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A099D5E2 Uncharacterized protein n=1 Tax=Actinopolyspora erythraea RepID=A0A099D5E2_9ACTN
+-----------------------MRSSRLVIVCVAVLATLGLTATTAN---------AA-
+-VWGSAENFAT-WS-E-GGYTVRDNVWGSGVG----PQTVW--ANSHA-DWGV-------
+---WADHPDTGGVKS--Y---P-----------------HSARAIDSPVSALE-------
+--SLNSEFDV--TVP---DA--G-SYATAYDIW-----------VDD-HDYEIMLWLNQH
+GAVGPL-GP-----------RV----------AT-VDVGGHPWEVHRGS----N---G--
+-H-NEVFSFV---RQED-TTTGT-VDIKSVMS------WIV-RQDWFSADAT--VGEVQF
+---------GFEITSS-SG-GMDFVSNEYSVAVN--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_F3Z4U8 Putative endo-1,4-beta-glucanase n=6 Tax=Streptomyces RepID=F3Z4U8_9ACTN
+-----MYVTTPRSRPAGKARAV-AAALVLAAGPLTAVAAA------NG---------PAV
+ADAQVCEQFGSVST-P-GGYIVQNNAWGTTAP-----QCV---DQ--S-GDGFTLSRA--
+---DGSVPTNGAPKS--Y---PSIYAGCHYTN------CSPGTVLPKKVNAIG-------
+--SAPSRIAY--RYTD---G--A-VYDAAYDIWLDPEP--KT-DGVN--RTEIMIWLNRV
+GPVQPI-GS-----------KT----------GS-TTIAGQNWDVWKGS----N---G--
+-S-NDVVSYV---APGA-LAGLD-FDVKDFVN------GAI-AEGLATPEWY--LTSVQA
+---------GFEPWEN-GA-GLAVTDFSLSVG----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_P22669 Endoglucanase-1 n=4 Tax=Fungi RepID=GUN_ASPAC
+------------------MKAF-HLLAAL----AGAAVA------------------Q--
+-QAQLCDQYATYTG-GV--YTINNNLWGKD--AGSGSQCTTVNSASSA-GTSWSTKWN--
+---W-SG-GENSVKS--Y---ANSGL-------------T-FNK--KLVSQIS-------
+--QIPTTARW--SYDN-TG----IRADVAYDLFTAADI---NHVTWS-GDYELMIWLARY
+GGVQPI-GS-----------QI----------AT-ATVDGQTWELWYGA----N---G--
+-S-QKTYSFV---APT-PITSFQ-GDVNDFFK------YLTQNHGFPASSQY--LITLQF
+---------GTEPFTG-GPATLSVSNWSASVQ----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0G4P3A7 Glycoside hydrolase, family 12 n=1 Tax=Penicillium camembertii RepID=A0A0G4P3A7_PENCA
+------------------MKSF-APITILSLALAAVSNATV-------VSPHGALSKR--
+--ADFCDQYGTVEK-GS--YKVYNNAWGQQ-YDQAGKQCTGVDSLNGN-TISWHTSWS--
+---W-GG-SKTQVKS--Y---PSVGL-------------N-FTA--KQLSAVR-------
+--SIKSNWKW--SYSN-TD----VVADVAYDMFLSSTA------DGS-EEYEIMVWLAAL
+GNAGPI-ST--T-----GS-PI----------GS-VTIGGIPFKVWKGP----N---G--
+-Q-MTVYSFV---AEST-VNSFS-GDMLEYFT------YLIKDQGLS-SSLY--LIDVQA
+---------GTEPFTG--KADMKTSAFSIEVV----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0N0SY52 Uncharacterized protein n=1 Tax=Streptomyces sp. MMG1121 RepID=A0A0N0SY52_9ACTN
+--------MATRT--L-NR-----VATALIAPALALGATVALAAAPAS---------AA-
+-VWSSCDQWGN-TT-L-NGYTLYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---NANHPNTGGIKS--Y---P-----------------NAKKVINKSISSLA-------
+--SLTSGYNV--AVP---SS--G-AYNTSYDIW-----------DTG-YKYEIMLWVNKT
+GAVGPL-GT-----------SQ----------GS-LTLGGSTWTVYKGN----N---G--
+-S-NDVFSFV---RGSN-SGSGT-VDILPILK------WIKDTKGWF-GDVT--IGDLQF
+---------GFEITSS-AG-GLDFTVNSESVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_G4NAZ1 Endoglucanase cel12A n=3 Tax=Magnaporthe oryzae RepID=CE12A_MAGO7
+------------------MKTS-AALLFL----VSLASAAPMTPSPAAEAAAVLEGRQ--
+-IQTLCDQYGYWSG-NG--YYVNNNMWGKD-SG-SGSQCTYIDSSSAN-HVSWRSTWQ--
+---W-SG-GQNNVKS--Y---PYSGR-------------TIQRG--RTIASIN-------
+--SMPSVVQW--NYNN-GN----IRANVAYDLFTSTDP---NRDNTH-GDYELMVWLGRY
+GDVQPI-GS-----------QI----------GN-ANVGGRNWQLWSGL----N---N--
+-G-MRVYSFV---TTQGAITYFN-ADIKQFFT------YLQQSQGFPASQQY--LTTFQF
+---------GTEPFTG-GQTTFQVNSFGANVQ----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0L6X2H7 Putative xyloglucan-specific endo-beta-1,4-glucanase A n=1 Tax=Termitomyces sp. J132 RepID=A0A0L6X2H7_9AGAR
+------------------------------------------------------------
+----------------------------MS--SGVGSQSSTLNSASGN-SVAWSTTWT--
+---W-AN-NPNNVKN------PNVIS-------------NSAKG--KQ---IQ-------
+--SAPTSWNW--SYQS-QSS--GIRADVSYDIWFGTAAS-GEPAPLA-SSYEIMIWLSGL
+GGIQPV-----------GSQIA----------SG-ISIAGHTWNLWKGP----N---S--
+-N-WQVISFV---SASGDITSFS-ADLKEFFN------YLVANQGVA-GTQY--VQAIQA
+---------GTEPFTG--SATLVTNSYSVSLQ----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_G2NTA4 Glycoside hydrolase family 12 n=5 Tax=Streptomyces RepID=G2NTA4_STRVO
+---------------MRRT-----ARTLFLTPLIALLALIGFAAAPAQ---------AA-
+-TWSSSDQWGT-WS-N-GGYTLYNNIWGSGAG----AQTIW--ANSFS-DWGV-------
+---WADHPNTGGIKS--Y---P-----------------NAKKVVGKKISAIS-------
+--SLTSTYNV--TVP---SS--G-AYNTSYDIW-----------DSN-YDYEIMLWVNKT
+GPVGPL-GT-----------AQ----------GD-VSLGGHTWSVYKGS----N---G--
+-A-NEVFSFI---RTSN-STSGS-VDIKPIVN------WIKNTKGWF-GDVT--IGDVQF
+---------GYEITSS-AG-GLDFRTNGFGVSAS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q30BZ6 Cell 12A endoglucanase n=2 Tax=Phytophthora sojae RepID=Q30BZ6_PHYSO
+------------------MKLS-VAIAFAAAAVAAPPAVA--------------------
+--KEFCDLWGSAQT-DD--YTVYNNLWGAH-DDPKGGQCTELDSVDGS-NIAWHTSFN--
+---W-NG-SSWQVKS--F---ANAAL-------------K-FEP--VQLANIS-------
+--SIPSTIEYDYKYDG-K-----IITNVAYDLFTSATA------NGT-VEYELMVWLAAL
+GGAWPL-TT--S-----GR-PI----------KA-VNVGGTDFNLYQGK----N---G--
+-N-TTVFSYV---AVNS-TTKFS-ADFKQFFS------ELPADNTIA-PTQF--LTHVQA
+---------GTEPFQG-QNATLTVSKYSVAVNSA--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000455D64C glycoside hydrolase family 12 protein n=1 Tax=Coniophora puteana (strain RWD-64-598) RepID=UPI000455D64C
+------------------MFIS-LAFVTG----LIASAKAA-------------------
+--TTLTGQYQCSTQ-GN--YELCNNQWGID--DGTGSQTATLVSTSGN-TITWSTTWT--
+---W-AD-NENDVKT--Y---SNVSP-------------TSGLG--QQLSAIQ-------
+--SAPTAWNW--DYVT-EST--GIRADVSYDIWLGTTPN-GAQASAD-SSYEIMIWLSGL
+GGIQPV-----------GSLQT----------SG-VSVAGYTWNIWTGP----N---S--
+-N-WEVISFV---SQDGNINDFN-VDLNDFFK------YLTENEGVS-SSLY--LQDIES
+---------GTEPFTG--SAELYTTSYSVSVTA---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0006869768 glycoside hydrolase n=1 Tax=Paenibacillus ehimensis RepID=UPI0006869768
+---------------------------------MLLLA-----SAVYA---------AST
+S-----TPGAKLYW-GNGKYYVFNNTWGSGNAGSGWWQTVY--HNNDN-DMGW--TW---
+---DWKTANPGSVKA--Y---PSIVSGWHWTNGY-----TAGSGFPARIWDNK-------
+--SINASVNY--SISA---S--G-SYNTAYDIWMHDTN--NAGTGSR-PTDEVMIWLNNT
+N-ASPA-GS-----------YV----------ET-VSLGGSSWNLYKGFIYDSA---AQT
+TG-WNVYSFV---RTSN-TTSSS-LNLRDFIN------YIVYTKKWMSNAKF--ISSVQF
+---------GSEIFTG-TG-QMHINRYSVNVQ----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_X7ZFX9 Cellulose binding domain protein n=1 Tax=Mycobacterium kansasii 662 RepID=X7ZFX9_MYCKA
+----------------------------------------------------MHHRIDPE
+HHGYHCDDDSHHSHHSHHDHYDHDDHYDHDDHDTDDHHLDDGGRHPGAATATFAVTSQ--
+---W----DTGFVAN--Y---------------------NIANPGAAQLNGWKLEFDLPA
+GESITNAWSS------------KLAQSGTHYVLTPESY--NSTIAPG-NSVTVGFQAAQT
+GAYAPP--------------------------AN-CLLNGQSCT-------------GGS
+VSTSQATTPA---TTTSTATSGT-QICDQFGTTTIGGAYVVQNNRWGTSAAQ--CINVTA
+TGFAITKEDGSAPTNG---APLSYPSVYLGCHYSNCSRAAGCRPS---------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0A2KS39 Glycoside hydrolase, family 12 n=1 Tax=Penicillium italicum RepID=A0A0A2KS39_PENIT
+------------------MKSF-APMSLVSLALSAMGDAST-------VPANGALNAR--
+-NVEFCDQWGTTTT-DK--FILYNNLWNQA-KDSNGKQCTTLDWSNGN-AIAWHTSYS--
+---W-GGNYKNEVKS--Y---ASASL-------------K-FTP--QILSTVS-------
+--SIKSAWTW--SYSN-TN----IVADVSYDMFLTSTP------DGN-DEYEIMVWLAAI
+GGAGPI-SS--T-----GK-PI----------AT-VSLNGAEWDVWVGP----N---G--
+-Q-MTVYSFV---AKST-VTNFG-GDLLDFFT------YLTKHHGLP-NYKY--LKTIQA
+---------GSEPFVG--TAELTVSNYWIELL----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q30BZ4 Cell 12A endoglucanase n=2 Tax=Phytophthora sojae RepID=Q30BZ4_PHYSO
+------------------MKSS-AVLAASALAIAASPAFAQ-------------------
+--EEFCGQWNLTKT-DD--YILYNNLWGAF-DDPTGTQCTGLDSVKGS-TVAWHTSFG--
+---W-SG-SKTQVKS--F---ANVAL-------------Q-FDH--LPISEVT-------
+--SIPSTIHFKYDYEE-S-----LIANVAFDLFTSSTP------DGD-AEYEIMVWLAAI
+GGAGPI-SS--T-----GS-AV----------DQ-VTVGGVDFSLYAGK----N---G--
+-N-MTVYSFV---ASTM-VNRYA-TDFKQFFD------VLPRNLTID-PSQY--LINVQA
+---------GTEPFVG--NGTLTVSKYSAAVNPAEYSQVQQQ------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0003605132 MULTISPECIES: hypothetical protein n=5 Tax=Streptomyces RepID=UPI0003605132
+------MSRREHPSTRRPRRRSRGVRTLIAAPLLAALGFLGQLAVPAQ--------AAVA
+QAWQSCDQWGN-WQ-TPDGYILYNNIWGSGAG----SQCIS--AESAR-NWTV-------
+---DADHPDTGGIKS--Y---P-----------------NAKWIVNEPVGEID-------
+--RLSSSYDV--TVP---SS--G-AYNTTYDVW-----------DVD-HDYEVMLWMNWT
+GAVGPL-GQ-----------FR----------TT-VALGGHTWDVYSGN----N---G--
+-G-NEVFSFL---RHGD-STAGE-VDLLAVLR------WLS-DEGWW-GDVT--VGDVQF
+---------GYEITSA-AG-GLEFTTNDFDVTSG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_X8JDK4 Glycoside hydrolase family 12 protein n=1 Tax=Rhizoctonia solani AG-3 Rhs1AP RepID=X8JDK4_9HOMO
+-----------------MVS-K-FLLLAATLLG-QSVIATPV----AISGSPSGLEKR--
+-FSALSGQWDTETE-GSGRYILYNNLWGLSY-DTSGTQTTQATSYSGT-TLAWKTTYS--
+---W-AG-SSSQVKS--Y---ANVAL-------------NTGLG--KQLSAIS-------
+--SIPSTWTW--SYSS-VSS--SLIADVSYDLWLSNSAS-GTGSSST-STYEIMVWLSSR
+GGAGPA-GS-----------LV----------GT-VTVGGYSWKLYKGT----V---S--
+-T-WTVYSFV---ASSE-VTSYS-GDLKAFVT------YLASSQGLS-TSQY--LVGAQA
+---------GTEPFVG-S-ATLTTSAYTIAVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0K8LET0 Endoglucanase-1 n=1 Tax=Neosartorya udagawae RepID=A0A0K8LET0_9EURO
+------------------MKTF-AIFGAL----FSSALA---------------------
+--QTLCNQYGTYSN-GR--YTVNNNLWGQG--SGSGSQCTYVDSISNS-GVAWHTTWT--
+---W-SG-GDNQVKS--Y---ANSQV-------------A-LTK--KHVSQIG-------
+--SIPTTVQW--SYDN-TN----IRADVAYDLFTAADI---NHVTYS-GDYELMIWLARY
+GGVQPI-GS-----------RI----------GT-ANIAGHTWELWYG---------G--
+-STQKTYSFV---SAT-PITSFS-GDVMDFWR------YLTNNHGYPASSQY--LINMQF
+---------GTEPFTG-GRATMKVSKFTASVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0A2JIU6 Glycoside hydrolase, family 12 n=1 Tax=Penicillium expansum RepID=A0A0A2JIU6_PENEN
+------------------MKSFIAPMSLVSLALSAVGDAST-------VPANGALNAR--
+-SVQFCDQWGTTTT-DK--FIIYNNLWNQA-KDTNGKQCTTLDWSNGN-AVAWHTSYS--
+---W-GGAYTNQVKS--Y---ASAAL-------------K-FTP--QILSTVK-------
+--SLKSAWTW--SYSN-TN----IVADVAYDLFLSSTP------TGS-EEYEIMVWLAAI
+GGAGPI-SS--T-----GK-TI----------AT-VSLNGVEWDVWVGP----N---G--
+-N-MTVYSFV---AKSA-VTNFG-GDLLYFFN------YLTQNHGLP-TDKY--LKTVQA
+---------GTEPFIG--TAELTVSNYWVELL----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_W6PRX7 Xyloglucan-specific endo-beta-1,4-glucanase A n=1 Tax=Penicillium roqueforti FM164 RepID=W6PRX7_PENRO
+------------------MKSFIAPVSLLCLGLSAMGNAAR-------AP-VKAIARR--
+--ADFCDQWGTTTT-DT--YILYNNLWNEA-QDPSGTQCTGLDSSSGS-KIAWHTSWS--
+---W-AG-ATNQVKS--Y---ASASL-------------Q-FTP--KTLSAIS-------
+--SIESVWDW--SYST-TD----IVADVAYDMFLSSTA------DGS-EEYEIMVWLAAL
+GGAGPI-SS--T-----GK-AI----------AT-VTINGVEWDVWVGP----N---G--
+-Q-MTVYSFV---AKST-VTSFS-GDLLKFFT------YLVNDQGLS-NSKY--LIDVQA
+---------GTEPFTG--TAKLTVSSYSVAVV----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q7X4S4 Endo-beta-1,4-glucanase n=14 Tax=Bacillus RepID=Q7X4S4_BACLI
+-------------MKNNHLLKS-I--LLWGAVCIIVLAGPL---SAFA---------ASS
+S-----NPSDKLYF-KNKKYYIFNNVWGADQV-SGWWQTIY--HNSDS-DMGW--VW---
+---NWPSNT-STVKA--Y---PSIVSGWHWTEGY-----TAGSGFPTRLSDQK-------
+--NINTKVSY--SISA---N--G-TYNAAYDIWLHNTN--KASWDSA-PTDEIMIWLNNT
+N-AGPA-GS-----------YV----------ET-VSIGGHSWKVYKGYIDAGG---G--
+KG-WNVFSFI---RTAN-TQSAN-LNIRDFTN------YLADSKQWLSKTKY--VSSVEF
+---------GTEVFGG-TG-QINISNWDVTVR----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0006E1200F hypothetical protein n=6 Tax=Streptomyces RepID=UPI0006E1200F
+--------MAPSI--T-SR-----IGKVLAVPAVALGLTVGVASAPAQ---------AA-
+-VWSSCDQWGN-TM-L-NGYILYNNIWGSGAG----SQCVW--ANSGT-NWGA-------
+---WANHPNTGGIKS--Y---P-----------------NAKKVVNKPIDSLR-------
+--SLTSSYNV--TVP---SA--G-AYNTSYDIW-----------DTD-YDYEIMLWVNRY
+GPVGPL-GG-----------PQ----------GT-VSLGGHTWNVYKGD----N---G--
+-A-NEVFSFL---RTSN-STSGT-VNILPILD------WIKDTKGWM-GNET--IGDVQF
+---------GYEITSS-SG-GLDFRTDNLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_E3R117 Glycosyl hydrolase family 12 n=1 Tax=Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212) RepID=E3R117_COLGM
+------------------MKIY-NYLVVGIFGPLAL------------------------
+-AQSLCDQYGYYAQ-AG--YYFNNNRWGQG--SGQGSQCLTVSWANSD-GVGWKTDWT--
+---W-SG-SPNNVKS--Y---PYSGI-------------TMSNK--LLVSQIG-------
+--YLGTSASW--QYSN-TN----IRANVAYDLFTAADP---RHDPSS-GDYELMIWLGRF
+GDIQPI-GS-----------SQ----------GR-VTVGSRSWDLWYGV----N------
+-NGMRIYSFV---ASS-PISQFN-EDVKPFFT------YLQNSKGFPASSQY--LITFQF
+---------GTEPFTG-GPTTFTVSNWNAKVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000455D923 glycoside hydrolase family 12 protein n=1 Tax=Coniophora puteana (strain RWD-64-598) RepID=UPI000455D923
+------------------MFLS-LAFVTG----LVALAKGQ-------------------
+---TLTGQYDCATQ-GN--YQLCNNQWGTS--AGTGSQTATLNGVNGN-SVSWSTQWN--
+---W-SG-GDNSVKT--Y---SNISP-------------TTGMG--SALSAIT-------
+--TAPTTWQW--AYSD-TSN---VRADVSYDIWIGTTPD-GAQASAQ-SSYEIMIWLSGQ
+GGIQPI-----------GSKTA----------S--ANIGGHQWDVWTGP----N---S--
+-N-WQVISFL---TTEGDITNFS-ADLNDFFK------YIIASNGVN-SGLF--LQTIES
+---------GTEPFTG--SATLTTTGYSVSVSS---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0005A89614 hypothetical protein n=1 Tax=Streptomyces sp. NBRC 110035 RepID=UPI0005A89614
+--------MAPGI--T-SR-----IGTALAAPVLALGITVGTASAPAH---------AA-
+-IWSSCDQWGN-TT-L-NGYTLYNNIWGSGTG----SQCVW--ANSGT-HWGV-------
+---WADHPNTGGIKS--Y---P-----------------NAKKVVGKPIDSLG-------
+--SLTSSYDV--TVP---SA--G-AYNTSYDIW-----------DTD-HDYEIMLWVNHH
+GAVGPL-GS-----------PQ----------GT-VSLGGHTWNVHKGD----N---G--
+-A-NQVFSFL---RTSD-SSSGT-VDILPILD------RIEDTKGWM-GNET--IGDVQF
+---------GYEITSS-SG-GLDFRTDNLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004251630 hypothetical protein n=1 Tax=Glycomyces arizonensis RepID=UPI0004251630
+----------------MRR--R-SLLTTALAAPLAAAAAVGGLQAPAQ---------AA-
+-TWSSSDRWAQ-WQ-S-GPYTLYNNIWGSGAG----YQSIW--ANSPS-NWGV-------
+---WADHPNTGGIKS--Y---P-----------------NVSYTLGRNVWSMG-------
+--SVSSSHNV--TVP--SGS--GLAYNTAYDVW-----------GNG-HEHEIMIWTNWY
+GPVGPI-GG-----------QV----------AS-VNLGGRNWDFHKGS----N---G--
+-S-NAVYSFL---AHTH-TTNSW-VDITAMCQ------WLV-SSGHM-PEVR--IDQIQF
+---------GWEITSS-AG-GHDFRVNSYSLSV---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_D9XWA4 Secreted sugar hydrolase n=15 Tax=Streptomyces RepID=D9XWA4_9ACTN
+--------MATST--L-RR-----ITKVLLAPALALGATVGLASAPAH---------AA-
+-VWSSCDQWGN-TG-L-NGYTLYNNIWGSGAG----AQCVW--ANSGT-NWGV-------
+---WADHPNTGGIKS--Y---P-----------------NAKKVINKPITSLA-------
+--SLTSSYNV--TVP---SS--G-AYNTSYDIW-----------DTD-YDYEIMLWVNHN
+GAVGPL-GT-----------SQ----------GT-VSLGGHTWNVYKGN----N---G--
+-A-NEVFSFL---RTSD-SNSGT-VNILPVLK------WIKDTKGWM-GNET--IGDVQF
+---------GYEITSS-AG-GLDFRTNNLTVSGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A068S956 Glycoside hydrolase family 12 protein n=2 Tax=Lichtheimia RepID=A0A068S956_9FUNG
+------------------MHFK-TLANASALLLIPLSMASPLPAVRA-------------
+--NEMCGQYDTTTA-GD--YIIYNNLWNKD-TATSGSQCTEVTGIKDDNTLSWRTTWS--
+---W-EG-DKTQVKS--Y---ANAKL-------------E-IDP--KQLSALK-------
+--SIPFTWKW--SYKG-EN----LIADVAFDIWTSSST------TGD-YEYEIMIWLGRL
+GGAGPI-----------GD-TV----------ST-FEHDGTTWELHEGS----N---G--
+-S-QKVYSFV---AAKD-INDMQ-SDALPFLQ------HLVDAGKLD-KSQY--LRAFQS
+---------GTEPFIG-SNAEFTTTAYKVNIA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000697E6CD hypothetical protein n=1 Tax=Paenibacillus algorifonticola RepID=UPI000697E6CD
+-------------MKNKLRNRS-FILMMIAAMLTLVPA------SAYA---------ASD
+S-----TPYAKLNF-NSNKYYLFNNSWGSSGI-SGWWQTVY--HNSNT-NFGY--VW---
+---NWKATT-GGVKA--Y---PSIVSGWHWTEGY-----TPGSGLPTRLSDNK-------
+--AINSGVTY--TLDP-ATN--G-QYNNAYDIWLHNTG--TATWSST-PTEEIMIWNRWT
+SGVGPI-GG-----------LV----------ASNVSIGGQGYDVYRGEITDNG---V--
+HQ-WWVYSFL---KRTQ-TDNFS-INVKNFTD------YLV-GKNYFPTTRY--VSSIEY
+---------GTEITNG-SG-QVNYSNFYANVQ----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A067NVX2 Glycoside hydrolase family 12 protein n=1 Tax=Pleurotus ostreatus PC15 RepID=A0A067NVX2_PLEOS
+------------------MLQQ-LILAVSYISAVLAAPTAQ-------------------
+---TIAGPFDCIPA-GS--FTLCQNLWGRA--SGVGNQNSTLIS-SGN-GVSWSTAYT--
+---W-AN-GPNNVKS--Y---ANVES-------------TTAKG--VQLQNVK-------
+--SAPTTWNW--HYET-QSS--GIRADVAYDIWTGVPSS-GTPASSA-SSFEIMIWLSGK
+GGIQPV-----------GSQIQ----------SN-VNVAGHTWNLWRGP----N---A--
+-N-WQVLSFV---STTGDITNFN-VDLNDFFK------YIIANQGVA-PTQF--VQSIQA
+---------GTEPFVG--QANLITDSYNVAINH---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000687C92D hypothetical protein n=1 Tax=Zymobacter palmae RepID=UPI000687C92D
+-----------------MKGMK-T-GMAALGMALMCASIHYASAGQVQ---------TAS
+--------DAKITL-NGGKSYLYNNQWGRGEVPNG-TQEIY--YNSDS-DNGW--RW---
+---KWPSST-TSVKG--Y---PSAVTGWHWTAGY-----TPNSGLPVKLSAHK-------
+--RVDTNVSY--AFKN-A-T--G-AYNAAYDLWFHTTN--AATWANA-PTDEVMVWLNRS
+GGVTPA-GS-----------YK----------ET-VTLAGTQWDLYVGHV----------
+SS-WNVYSFV---RKVP-TTSAS-LNMTNFTD------YLV-NKQYLSKDKY--LSSVEF
+---------GTEIYNG-SG-AFRLLKRDVNVR----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00055B17E9 hypothetical protein n=1 Tax=Streptomyces mirabilis RepID=UPI00055B17E9
+--------MVKSR--K-HK-----IAMAVLAPAMALGATVGLASAPAS---------AA-
+-VWGSCDQSAS-TS-L-DGYRLYNNIWGSGAG----GQCIW--ANSGT-GWGV-------
+---WADHPNTGGIKS--Y---A-----------------NSTKSINKSIDTLS-------
+--WLTSNYDV--SVP---SS--G-AYNTSYDIW-----------DNA-HQYEIMLWVNHT
+GAVGPI-GS-----------WQ----------AN-VTLGGHNWNVFKGT----N---G--
+-S-NQVFSFL---RTSN-SNSGT-VDVKQVLN------WIAYSKGWMPGSEI--IGDVQF
+---------GYEITSS-SG-GLNFNTNNLTVSGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_B8PEZ4 Endo-1,4-beta-D-glucanase n=2 Tax=Postia placenta RepID=B8PEZ4_POSPM
+------------------MKLL-ASFVLAA---LAACARSQ-------------------
+--TTLTGQYTCATS-GN--YELCQDQWGSA--NGVGSQNSTLVSTSGN-TISWTTTYT--
+---W-AN-NENDVKT--F---ANVLQ-------------TTYQG--ITLSTIT-------
+--SAPTSWTW--EYES-SSS--GLRADVAYDIWFGSAA--GDAGSST-STYEIMIWLSGE
+GGIQPV-----------GSEST----------SG-ISLAGYTWNLWAGE----N---T--
+-N-WETYSFV---SASGNINDFS-GDLTDFFN------YLYDNEGVS-DSQI--LQAIQT
+---------GTEAFTG--TATLNVESFSVSVET---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0H2RU24 Endocellulase n=1 Tax=Schizopora paradoxa RepID=A0A0H2RU24_9HOMO
+------------------MR---SIFGLAA---IASSVAAQ-------------------
+---TLTGAFDCMTS-GQ--FTLCQNLWGAS--AGVGGQNSTLISTSGD-SISWETKWT--
+---W-AN-NQNNVKS--Y---ANVES-------------SVAKG--IQLSNLA-------
+--SAPTSWSW--TYKT-QSS--GIRADVSYDIWLGNSAN-GAPASTA-SSFEIMIWLSGK
+GGIQPV-----------GSQTT----------TG-VSIAGHTWNLWKGP----N---A--
+-N-WEVLSFV---SANGDITDFS-ADLNDFFT------YLIDTQGVS-TSMF--LQAVQT
+---------GTEPFTG--SADLLINSFSVTASAK--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004C23FC2 hypothetical protein n=2 Tax=Streptomyces RepID=UPI0004C23FC2
+---------------MTRRTRR-PGIRLPLTVTAAFAALLGFAAAPAQ---------AA-
+-TWSSSEPFGS-YT-TPDGYTLYNNIWGSGAG----SQTIR--AESAS-DWDV-------
+---TADHPGTPGIKS--Y---P-----------------NAKKVIGKPISGIT-------
+--SLTSTYDV--TVP---AS--G-AYNTSYDIW-----------DSD-YDHEVMLWVNQT
+GAVGPI-GT-----------EQ----------AT-VTLGGSTWKVYKGD----N---G--
+-A-NQVYSFL---RTSD-SSAGT-VDILPVLK------WIQ-EKGWW-GDET--IGDVQF
+---------GYEITSS-PG-GLDFSTNRFSVSSR--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0F7TPE7 Putative Endo-1,4-beta-D-glucanase n=1 Tax=Penicillium brasilianum RepID=A0A0F7TPE7_9EURO
+------------------MKSI-ITLLAI----LSVANA------------------Q--
+-VSSFCTQYGSYTS-GA--YSVNNNLWGES--AGSGSQCTKVNSISSS-GVSWSTTWT--
+---W-SG-GSSSVKS--Y---ANSGL-------------S-FNK--KLVSQVG-------
+--SIPTSVQW--SYDN-TN----INADVSYDLFTAADI---NHVTYS-GDYELMIWLARY
+GSIQPI-GS-----------QI----------AT-ATIDGNTWALWYGS----N---G--
+-S-QKTYSFV---ASS-PIQSFT-TDIMHFFN------YLTQNQGFPASSQY--LIDLQF
+---------GTEPFTG-GSATLSVSNWSANVQ----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_T0KF69 Glycosyl hydrolase family 12 n=3 Tax=Colletotrichum RepID=T0KF69_COLGC
+------------------MKFS-AILALMPLAALATPTP--------------TVEKR--
+-ASTYCGQWDSAVT-GT--YTVYNNLWGMS--SGTGSQCTTLTGLSGS-NLVWSTKWS--
+---W-SG-GQYNVKS--Y---ANAVV-------------S-ITK--KALSSIG-------
+--SIPSTWNW--SYSG-SG----LVANVAYDLFTSSTA------SGS-AQYEIMIWLGSL
+GGAGPI-SA--T-----GS-TI----------AT-PTVAGRTWNLYKGT----N---G--
+-Q-MTVFSFV---APSN-VQSFS-GDLKAFVT------YLINSQGLP-SSQI--LQSIGA
+---------GTEPFVG-SNAVFTTSAYTAVLN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0C3NRX3 Glycoside hydrolase family 12 protein n=1 Tax=Phlebiopsis gigantea 11061_1 CR5-6 RepID=A0A0C3NRX3_PHLGI
+-----------------MFKFL-LALGLAS---LLKLVSAQ-------------------
+---TISGQYDCMPA-GD--YTLCQNLWGES--AGVGGQNSTLISTNGN-AVSWQTNWT--
+---W-AD-APNNVKSCQY---S------------------------YRLGTIQ-------
+--SAPTAWNW--TYVT-ESE--GIRADVSYDIWFGKAQS-GTAASSA-SSYEIMIWLSGQ
+GGIQPV-----------GSQIL----------SG-LNIAGNTWNLWSGP----N---A--
+-N-WQVLSFV---ISSGEVRNFN-ADLNEFFQ------YLIESQGVA-STQY--LQAIQV
+---------GTEPFVG--SASLLTESFSVSVSV---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000524C85B hypothetical protein n=1 Tax=Catenuloplanes japonicus RepID=UPI000524C85B
+--------------------------------MALVSVLALAVAAPAH---------AA-
+-VWGSSDRWAT-WT-N-GGYTLYNNIWGSGYG----AQSIW--ANSYS-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------NATKYVGKKVSALG-------
+--TTTSSFNV--TVP---TS--GVAFTTAYDIW-----------SSD-NAHEIMLWMNKY
+GAVGPL-GT-----------LQ----------TT-QSVGGHTWQIYRGS----N---G--
+-A-NNVYSFV---RTGN-TSSGT-VDIRAIAQ------WLR-TNGWW-GDVT--VGNVQF
+---------GYEITSS-SG-GKDFVTNSFSVTAS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0G2FW36 Putative xyloglucan-specific endo-beta-glucanase a n=1 Tax=Diaporthe ampelina RepID=A0A0G2FW36_9PEZI
+------------------MKFT-AEIASIVLAATSVTAAPS--------------VKR--
+ATEISCDSFGSKEA-GP--YTIYHNNWGAA-QATSGQQCTSFDSIDGT-TVAWETNWN--
+---W-EG-GSTSVKS--Y---SNAAL-------------E-NVG--KQLSAVQ-------
+--SIPSTWKW--TYSN-TD----IVADVSYDLWLAPTQ------GGT-NAYEIMVWLAAY
+GGAGPI-SS--T-----GS-AI----------DT-PTIGSTSWKLFEGP----N---G--
+-D-TTVYSFV---ADSP-VEDFS-GDMMEFLT------YLVQNQGVA-DSNW--ITSLQA
+---------GTEPFTG-SETVFKTTAYSLTVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_U4L3H8 Similar to Xyloglucan-specific endo-beta-1,4-glucanase A acc. no. Q5BG78 n=1 Tax=Pyronema omphalodes (strain CBS 100304) RepID=U4L3H8_PYROM
+------------------MKLS-IFTTSLLASCATIVCA---------------------
+--ADFCGQWDTATT-TN--YILYNNLWGSS-AATSGSQCTGLDSTSGT-SISWHTSWS--
+---W-AG-GSYNVKS--F---ANTAL-------------R-FTP--KKLSAIS-------
+--SIPSSWTY--SYSA-SN----IVANVAYDIFLDTTS-----GSST-SAYEIMVWLAAY
+GGAGPI-GSQLM-----QV-QV----------AT-VTIGEKSWKLFDGY----N---G--
+-S-MRVFSFV---ASSSPVTSWS-GDMKLFLT------HLATNYGLS-TALY--VNTIQA
+---------GTEPFTG-SGAKMTTTAFSATIN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_W7S855 Cellulase n=2 Tax=Kutzneria sp. 744 RepID=W7S855_9PSEU
+----------------MLSRLW-RTTVVLGAAALLAGATTL-TTTSAA---------GAD
+T--QLCDKYGSVRV-SGGRYIVQNDEWGDDTT-----QCL---SV--R-DDGFTITTA--
+---NHNKPTNGAPAS--Y---PSIYAGCHYGN------CTSGSGLPRQVANFH-------
+--SVRSSVAY--TV-A---G--G-QWDAAYDIWFDPNS--NP-SGQN-TGAELMIWGNHQ
+GAPQPI-GS-----------RI----------AT-VSIGGASWDVWFG-----N---V--
+-G-WNVISYV---RTSP-TTSLN-VDIGAFTS------DSV-GRGKISRSWY--LTSIQF
+---------GFEPWQG-GA-GLGVQSFSTSVS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A086T6R4 Endoglucanase-like protein n=1 Tax=Acremonium chrysogenum ATCC 11550 RepID=A0A086T6R4_ACRCH
+------------------MKCL-ALLAAV----ASLGSA---------------------
+--QQLCEQYGYHAA-NG--YYFNNNMWGQG--SGSGSQCLTVDSAQSG-GVSWHVDWQ--
+---W-SG-GQNNVKS--Y---PYAGR-------------ELPQK--RLVSSIG-------
+--SIPTSASW--GYSG-NN----LRANVAYDLFTAADP---NHETSS-GDYELMIWLGRL
+GDVYPI-GS-----------SV----------GF-VNVGGQQWELFDGY----N---G--
+-N-MHVFSFV---APQ-QINNFN-TDVKTFFD------YLTWNRGFPADQQH--LLILQF
+---------GTEPFTG-GPATFQVNHFSGQVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000465ABC1 hypothetical protein n=1 Tax=Streptomyces exfoliatus RepID=UPI000465ABC1
+--------MARNT--I-RR-----ITMAVLAPAMALGATVGLASAPAS---------AA-
+-VWNTCDQWGN-TS-L-GGYTLYNNIWGSGAG----SQCTW--ANSGT-GWGV-------
+---WADHPNTGGIKS--Y---P-----------------NSTKSINKTIDSLG-------
+--RLTSDYNV--AVP---SS--G-AYNTSYDIW-----------DTD-HQYEIMLWVNDN
+GAVGPI-GT-----------WQ----------DN-VTLGGHSWNVYKGT----N---G--
+-S-NQVFSFL---RTSD-STSGT-VDIKPILN------WIAYTKGWMPGSET--IGDVQF
+---------GYEITSS-AG-GLNFNTNNLTVNGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_M9PJT0 Xyloglucanase A n=1 Tax=Rhizomucor miehei RepID=M9PJT0_RHIMI
+------------------MKIS-LLTTAAALLFATASTAIP-------------LEKR--
+--ADFCGQWDTAEE-GP--YTIYNNLWGQD-SATSGQQCTGVDSLSGN-TLAWHTSWT--
+---W-AG-GQYNVKS--Y---ANAAL-------------S-FTA--TRVSDIS-------
+--SIPFTWHW--SYTG-SG----IVANVAFDLWTSSST------SGN-YEIEIMVWLGAL
+GGAGPL-----------GS-AV----------GT-FEQAGTTWTLYSGS----N---G--
+-S-NAVYSFV---AADS-LTSIS-SDLLPFLK------YLTSNGYIS-SSQY--LRAVQA
+---------GTEPFVG-TNAKLTTTAYSVSVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0005F2B177 hypothetical protein n=1 Tax=Actinoplanes rectilineatus RepID=UPI0005F2B177
+----------------MRK-------LRVLFSLVVAAVLIAVGQAPAR---------AA-
+-TWGSSDQWAT-WT-N-GGYTLYNNIWGSGAG----PQSIW--ANSYS-NWGV-------
+---WANHPNTGGVKS--Y---P-----------------NASRSVNIKLSSLR-------
+--SASSSFNV--TVP---SS--G-AYATAYDIW-----------ANG-TTYEIMLWMNKT
+GAVGPL-GS-----------LQ----------TT-ATVGGHTWNVYSGS----N---G--
+-A-NQVFSFV---RTGN-TSAGT-VDIKAVLD------WIR-TRGWY-GDVT--LSTIQF
+---------GYEITSS-SG-GLNFVTNSYSASAS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0006E2EE59 hypothetical protein n=1 Tax=Streptomyces graminilatus RepID=UPI0006E2EE59
+--------MAKKL--I-RR-----TTMAVLAPAMALGATVGLASAPAS---------AA-
+-VWNSCDQWAS-TT-L-DGYKLYNNIWGSGAG----SQCTW--ANSGT-TWGV-------
+---WANHPNTGGIKS--Y---A-----------------NSTKTINKSIDSLG-------
+--RLTSNYNV--SVP---SS--G-AYNTSYDIW-----------DTD-HQYEIMLWVNHT
+GAVGPI-GS-----------WQ----------AT-VSLGGHNWNVYKGT----N---G--
+-S-NQVFSFL---RTSN-SSSGT-VDVKPILN------WLAHTKGWMPGSET--IGDVQF
+---------GYEITSS-SG-GLNFTTNNLTVSGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004C64472 hypothetical protein n=2 Tax=Streptomyces RepID=UPI0004C64472
+--------MAQHT--L-RK-----VTMAVLAPAMAIGATVGLASAPAS---------AA-
+-VWNTCDQWGN-TT-L-NGYTLYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---NANHPNTGGIKS--Y---P-----------------NSKKVINKSITSLG-------
+--SLSSNYNV--TVP---SS--G-AYNTSYDIW-----------DTD-YDYEIMLWVNKT
+GAVGPL-GT-----------SQ----------GN-VTLGGHTWTVYKGN----N---G--
+-A-NEVFSFV---RTSN-SSSGS-VNILPILK------WIKDTKGWF-GNET--IGDVQF
+---------GFEITSS-SG-GLNFTTNNLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004C2E41E hypothetical protein n=1 Tax=Lentzea albidocapillata RepID=UPI0004C2E41E
+----------------MK------IVRALVVVMAAV-LTVPLAAGTAS---------AA-
+-AWSSSDRWGT-WS-N-GGYTVRNNIWGSGYG----PQTVW--ANSYS-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------HSERQVNRRLSSLG-------
+--SLSSSFNV--SYP---RS--G-AYTTAYDIW-----------ADN-HAYEIMLWMNKV
+GPVGPI-GA-----------RV----------TT-VSVGGHTWDVHRGS----N---G--
+-S-NQVFSFV---RTSN-TGSGT-VNIKAVMD------WIR-NRGWF-GDVT--VGSVQF
+---------GYEITSS-SG-GLNFNTNSYSVSYG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004161C33 glycoside hydrolase n=1 Tax=Bacillus sp. NSP9.1 RepID=UPI0004161C33
+-------------MKKHSFAKS-L--LLWGFALTILLAGPF---TALA---------ASS
+S-----KPAEKMYF-KNNQYYIFNNVWGADQV-SGWWQTIY--HNSDS-DLGW--VW---
+---NWPSTT-STVKA--Y---PSIVSGWHWTEGY-----TKGSGFPTRLSDQK-------
+--NISTNVSY--SISA---N--G-TYNAAYDIWLHNTN--HASWDTA-PTDEIMIWLNNT
+N-AGPA-GS-----------YV----------ET-VSVGGHKWKVYKGYIDAGG---G--
+KG-WNVYSFV---RTSN-TRSAS-LNIRDFTD------YLADSKNWLSKTKY--VSSVEF
+---------GTEVFGG-TG-QINISNWDVKVH----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00057FE225 glycoside hydrolase n=1 Tax=Pectobacterium carotovorum RepID=UPI00057FE225
+-----------MLIMNTHSPRT-FRTFLPAILSVLLLS----PLTVSA---------ASS
+S-----KDADKLYF-ENNKYYVFNNVWGKDEV-KGWQQTVF--YNSPT-SMGW--NW---
+---HWPSSS-SSVKA--Y---PSLVSGWHWTAGY-----TANSGLPIRLSSNK-------
+--SITSNVTY--SIKA---T--G-TYNAAYDIWFHTTD--KASWDTA-PTDELMIWLNNT
+N-AGPA-GD-----------YI----------ET-VFLGGSSWNVFKGWINAGN---G--
+KG-WNVFSFV---HTSN-TNNAS-LNIRHFTN------YLVGTKNWMSNTKY--ISSVEF
+---------GTEIFSG-DG-QIDITKWSVDIK----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A010R6Q6 Glycosyl hydrolase family 12 n=1 Tax=Colletotrichum fioriniae PJ7 RepID=A0A010R6Q6_9PEZI
+------------------MKFS-TILALLPLA-LASPTPT-------------TVEKR--
+-ATTYCGQWDSAVT-GT--YTVYNNLWGMS--SGTGSQCTTLTGLSGS-NLQWSTTWS--
+---W-SG-GQYNVKS--Y---ANAVV-------------N-VSK--KALSAIS-------
+--SIPSTWNW--SYSG-TG----IVANVAYDLFTSSTA------SGS-AQYEIMIWLGSL
+GGAGPI-SA--T-----GS-AI----------AT-PTVAGRTWNLYKGV----N---G--
+-Q-MTVFSFV---APSN-VQSFS-GDLKAFAT------YLINSQGLP-SSQI--LQSIGA
+---------GTEPFVG-SNAKFTTTAYTASLS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q8NJY8 Endoglucanase n=2 Tax=Bionectria ochroleuca RepID=Q8NJY8_BIOOC
+------------------MKTGIAYLAAV----LPLAMA---------------------
+--ESLCDQYAYLSR-DG--YNFNNNEWGAA--TGTGDQCTYVDSTSSG-GVSWHSDWT--
+---W-SG-SESEIKS--Y---PYSGL-------------DLPEK--KIVTSIG-------
+--SISTGAEW--SYSG-SN----IRADVAYDIFTAADP---NHATSS-GDYEVMIWLANL
+GGLTPI-GS-----------PI----------GT-VKAAGRDWELWDGY----N---G--
+-A-MRVYSFV---APS-QLNSFD-GEIMDFFY------VVKDMRGFPADSQH--LLTVQF
+---------GTEPISG-SGAKFSVSHWSAKLG----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_B5HWX5 Glycoside hydrolase family 12 protein n=6 Tax=Streptomyces RepID=B5HWX5_9ACTN
+--------MAS-T--L-RK-----ITMAVLAPAMAVGATVGLASAPAS---------AA-
+-VWNTCDQYGN-TS-L-NGYTLYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---WADHPNTGGIKS--Y---P-----------------NSKKVVNKSITSLG-------
+--SLSSNYNV--SVP---SS--G-AYNTSYDIW-----------DTN-YKYEIMLWVNKT
+GAVGPL-GT-----------SQ----------GN-VTLGGHTWTVYKGT----N---G--
+-S-NQVFSFV---RTSN-STSGT-VNVLPILK------WIKDTKGWF-GNET--IGDVQF
+---------GFEITSS-SG-GLNFTTNNLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_R0K6R4 Glycoside hydrolase family 12 protein n=1 Tax=Setosphaeria turcica (strain 28A) RepID=R0K6R4_SETT2
+------------------MKLS-TFIAASSASLALAVPAAP-------------LEKR--
+--ADFCDQWGSQVN-GP--YTTYNNLWGKG-SATSGSQCTGVDSYSGT----------PH
+GRGL-AG-THGQVKS--Y---ANVVT-------------N-VAK--KQLSSIN-------
+--SLPSVWKW--SYTG-SN----IIADVAYDLFTSSSP------SGK-EENEIMIWLAAL
+GGAGPI-SS--T-----GS-PI----------AT-VTLAGNSWKLYKGP----N---G--
+-Q-MTVYSFV---AQNQ-VQNFN-GDLMEFVR------YLTSKQGLA-SSQY--LISAGA
+---------GTEPFSG-SNAKLTVSEYSLSEK----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A1CDU5 Endoglucanase, putative n=1 Tax=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1) RepID=A1CDU5_ASPCL
+------------------MKIV-AALTAF----LSVALA---------------------
+--KPLCEQYGSYTS-GR--YNVNNNVWGKD--SGSGSQCTYVDGISGS-GAAWHTTWS--
+---W-SG-GKNSVKS--Y---PNSGV-------------A-LKK--KLVSELT-------
+--SIPTAVKW--SYDN-TN----IRADVSYDLFTAADI---NHVTYS-GDYELMIWLARY
+GNVQPI-GS-----------KI----------GT-ATVGGHTWELWCG---------G--
+-NKQKTYSFV---AAS-PITSYS-GDLMEFWH------YLASKHNFPASSQH--LINMQF
+---------GTEPFTG-GKSTFTVAHWSASVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000455DA91 glycoside hydrolase family 12 protein n=1 Tax=Coniophora puteana (strain RWD-64-598) RepID=UPI000455DA91
+------------------MFLS-LAFVAG----LFAVARSQ-------------------
+--TTLTEQYQCVTQ-GD--YELCNNQWGID--DGTGNQTATLISTSGN-TITWSTTWT--
+---W-AD-NENDVKT--Y---TNVSP-------------TSGMG--VTLGSIT-------
+--SAPTAWNW--DYVT-ESD--GIRADVSYDIWIGTTAD-GAQASAD-SSYEIMIWLSGL
+GGIQPV-----------GSLAT----------SD-VTVAGYTWNIWTGP----N---S--
+-N-WETISFV---SQDGNINDFS-EDLNEFFQ------YLIENEGVS-SDLY--LQSIET
+---------GTEPFTG--SAELYTNSYSVSVST---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_O33897 Cellulase n=1 Tax=Rhodothermus marinus RepID=O33897_RHOMR
+--------------MNVMRAVL-VLSLLLLFGCDWLFPDGDNGKEPEP---------EPE
+PTVELCGRWDARDV-AGGRYRVINNVWGAETA-----QCI---EVGLE-TGNFTITRA--
+---DHDNGNNVA--A--Y---PAIYFGCHWAPARAIRDCAARAGAVRRAHELD-------
+---------V--TPIT---T--G-RWNAAYDIWFSPVT--NSGNGYS-GGAELMIWLNWN
+GGVMPG-GS-----------RV----------AT-VELAGATWEVWYA-----D---W--
+-D-WNYIAYR---RTTP-TTSVSELDLKAFID------DAV-ARGYIRPEWY--LHAVET
+---------GFELWEG-GA-GLRTADFSVTVQ----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_M3DCZ5 Glycoside hydrolase family 12 protein n=1 Tax=Sphaerulina musiva (strain SO2202) RepID=M3DCZ5_SPHMS
+------------------MKAA-TIFTAAF---ASLAAAGP-----------TKDTKR--
+--ADNCEQWGSVVK-GD--YTVYNNLWNKN-AASSGSQCFSVGSLSSG-TIAWSTTWS--
+---W-SG-GSGQVKS--Y---PNAVY-------------NPGTKSGKQISKIS-------
+--SMPSVWQW--SYSG-SG----LIADVAYDIFTSSSA------TGS-EEFEIMIWLAAL
+GGAGPI-SS--TYGANGKPTPV----------GS-ITIGGVAFDLYKGP----N---G--
+-S-MTVFSFV---ARQQ-VKSFN-ADIKQFFQ------YLVKAQGYK-DSQY--LISAGA
+---------GTEPFEG-TNAVFTTTKYSFSIK----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A094H583 Uncharacterized protein n=2 Tax=Pseudogymnoascus pannorum RepID=A0A094H583_9PEZI
+------------------MKLL-ALLAPALVAASAIPASVP--------APSKTINER--
+-ATEICGQWDSIQT-GT--YTLYQDLWGMS-AATSGSQCSTYESLSGT-TIAWSTKWT--
+---W-QG-GPYNVKS--Y---ANVVL-------------KQDTG--KKVSAIK-------
+--SIPSKWTY--TYTG-TG----MVANVAYDLFTSSSA--GGNSDGS-SDYELMIWLAAL
+GGAGPI-SA--T-----GS-PI----------AS-VTVAGYKWNLWYGL----N---G--
+-N-MKVYSFV---AASQ-ITSFS-GDLKAFYT------YLVASQGFS-SSQY--VTSIGA
+---------GTEPFVG-TNAVMKTSGYSVALNV---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A067PAQ9 Glycoside hydrolase family 12 protein n=1 Tax=Jaapia argillacea MUCL 33604 RepID=A0A067PAQ9_9HOMO
+-----------------MLRTL-GVFVLLA---ALQLVGAQ-------------------
+-TRTLTGATSCITA-GS--YDLCQNLWGAS--SGVGNENSTLISVSGN-TVSWSTSYT--
+---W-AN-NPSNVKA--Y---PNLIS-------------NTAKG--VQLSAIQ-------
+--SAPSTYEW--TYLT-QSS--GLRADVSYDIWLGTAAS-GNPASSA-SSYEIMIWLSGL
+GGIQPI-----------GSQIL----------SN-VQIAGHGWNLWKGP----N---S--
+-N-WEVLSFV---SASGNINNFS-ADLNAFFQ------YLVKNQGVS-SSQY--VQVIQA
+---------GTEPFTG--TAKLVIGSYSVTINH---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A080ZGQ2 Uncharacterized protein n=5 Tax=Phytophthora parasitica RepID=A0A080ZGQ2_PHYPR
+------------------MKPF-TALTAAAIAYASAE-----------------------
+--TEFCGEQNKTET-AD--YILYNNLWGAF-DDPKGHQCSGLDSVDGS-TIAWHTSFS--
+---W-NG-TAWQVKS--F---ANAAL-------------K-FDH--VPIANVT-------
+--SIPSTIEFDFDYEG-K-----LVANVAFDMFTASTM------GGN-AEYEVMVWLQAI
+GGAGPL-SN--T-----GK-PI----------KE-VNVGGVDFSLYHGK----N---G--
+-N-MTVYSFV---AANT-TNSFS-TDFKQFFD------ELPANNSIA-PEQY--LINVQA
+---------GTEPFVG--NGTLTVSKYSAAVHTV--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0F0GS16 Uncharacterized protein n=1 Tax=Lechevalieria aerocolonigenes RepID=A0A0F0GS16_NOCAE
+----------------MNK-----IMRAFVVAMAAV-LTVSLGTSTAL---------AA-
+-AWSSSDRWGT-WS-N-GGYTVRNNVWGNGHG----PQSIW--ANSYS-NWGV-------
+---WANHPNTGGVKA--Y---P-----------------HSEKVVNRRLSSLG-------
+--SLSSSFNV--SYP---NA--G-AYTTAYDIW-----------ANN-NAYEIMLWMNKV
+GAVGPI-GS-----------WQ----------AS-VSVGGHSWNVYRGS----N---G--
+-S-NEVFSFV---RTSN-TGSGS-VDIKGIMN------WIR-NRGWF-GDVT--VGAVQF
+---------GYEITSS-SG-GLNFTTNSYSVSAG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00056A679E hypothetical protein n=2 Tax=Amycolatopsis orientalis RepID=UPI00056A679E
+----------------MRS-----PVRSLMSSIVMALVATLVIGGTAQ---------AA-
+-TWSSSDKWGS-WS-N-GGYTVRNNVWGSGAG----AQSIW--ANSYS-NFGV-------
+---WADHPNTGGVKS--Y---P-----------------HSGKNIGRQLSGLR-------
+--SLSSSFNV--SRP---GS--G-AYATAYDIW-----------ANN-NAYEIMLWMNKQ
+GAVGAI-GS-----------KQ----------AT-ATVGGHTWDVYRGS----N---G--
+-H-NEVFSFL---RTSN-TNAGS-VDVLAVMN------WIK-NRGWY-GDVT--LGEVQF
+---------GFEITSS-SG-GMNFTSNSFSVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_K9GZ99 Uncharacterized protein n=2 Tax=Penicillium digitatum RepID=K9GZ99_PEND1
+------------------MKSF-APLSLVSLALSAMADAST-------IPANGALNAR--
+-GVQTCDQWGTTTT-DK--FILYNNLWNKG-KDPNGWQCTTLDWSNGN-ALAWRTSYS--
+---W-GGNYKNEVKS--Y---ASASL-------------K-FTP--QVLSTVK-------
+--SIKSDWSW--SYSH-NN----IVADVSYDMFLTPTP------GGN-EEFEIMVWLAAI
+GGAGPI-SS--T-----GR-PI----------AT-VSLNGAEWDVWVGP----N---G--
+-Q-MTVYSFV---AKST-INKFG-GDLLDFFK------YLIEHQGLP-SNKY--LKSVQA
+---------GSEPFIG--AADLTVSNYWIELL----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_W7TD35 Sugar hydrolase n=2 Tax=Kutzneria sp. 744 RepID=W7TD35_9PSEU
+--------------MLMRK-----SLRFAQVGLAAL-ATLVLTATTAH---------AA-
+-GWSSSDKWGT-WS-N-GGYTLSNDVWGGGAG----PQTIW--ANSYS-NWGV-------
+---TSNQPNTGGVKT--Y---P-----------------HSGRGIGKKLSAIG-------
+--RVTSNFNV--TVP---GS--G-AYETAYDIW-----------ANN-NAYEIMLWMNKT
+GAVGPI-GS-----------KQ----------TT-VTVGGHTWDVYKGS----N---G--
+-A-NAVFSFL---RHGN-TNAGS-VDVKAVLN------WIR-SKGWF-GDVT--LGDVQF
+---------GFEITST-GR-SLNFTSNSFSVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A1XP58 Xyloglucan-specific endo-beta-1,4-glucanase A n=4 Tax=Aspergillus RepID=XGEA_ASPNG
+------------------MKVL------ALSALLSLASAAS-------------ISRR--
+--SDFCGQWDTATA-GD--FILYNDLWGED-NASSGSQCTGVDSASGS-EIAWHTSWS--
+---W-EG-GSSDVKS--Y---ANAAL-------------Q-FTG--TQLSSIS-------
+--SIPSTWKW--TYSG-SD----IVADVAYDMFLGSTA------DASSDEYEIMVWLAAL
+GGAGPI-SS--T-----GS-TI----------AT-PTINGVTWDLYTGP----N---G--
+-D-TTVYSFV---AQST-TEDFS-GDLNDFFT------YLVDNEGVS-DSLY--LTTLEA
+---------GTEPFTG-SDAELKVSEYSVSIE----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000690FC3D hypothetical protein n=1 Tax=Streptomyces sp. NRRL WC-3774 RepID=UPI000690FC3D
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------MIWFNHV
+GGVQPV-GS-----------QT----------GT-ASVAGRSWQVWSGR----N---G--
+-S-NDVLSFV---APSA-IDSWN-FDVMDVAR------QAV-SRGLAQDNWY--LTSVQA
+---------GFEPWNN-GA-GLAVTSFSSTVTIGGSAPGGPGGGSGGASACKVNYGTNVW
+PGGFTAGVTVANTGSSPVDGWKLAFTVPAGQRERECLERRGLLRVPGHLRRQLRQTGRLQ
+L
+>lcl|UniRef90_A0A0B7KHV8 Uncharacterized protein n=1 Tax=Bionectria ochroleuca RepID=A0A0B7KHV8_BIOOC
+------------------MKSF-LTLALS----CAWLSH---------------------
+-GQSLCDQFAYYSQ-DV--WYLNNNEWGAS--AGTGTQCTYVDSVNSG-GVSWHTDWT--
+---W-AG-GSGSVKS--Y---PYSGR-------------SLPTK--KLVANIG-------
+--SIPTVAEW--RYEG-QN----LRCNIAYDLFTAANP---NHSTSS-GDYELMIWLGNL
+GPVTPIGGT-----------PI----------AT-ANVGGRTWSLYSGL----N---G--
+-N-MRVYTFV---ATS-QISSFN-ADIKPFFN------YLISNHGFPASSQY--LLTLQF
+---------GSEPFTG-DNARFIVGHWSGSIS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_B6H8I9 Pc16g06060 protein n=1 Tax=Penicillium chrysogenum (strain ATCC 28089 / DSM 1075 / Wisconsin 54-1255) RepID=B6H8I9_PENCW
+------------------MRTT-SLLIAL----ATAAFA------------------Q--
+-EKTLCGQYDTYSS-GA--YIVNNNLWGKD--SGSGSQCASVNSISDS-GVSWSTTWN--
+---W-SG-GEDNVKS--Y---PNSGL-------------VALKK--QPVSDIS-------
+--SIPSSVKW--NYDN-TD----IRADVAYDLFTAADI---NHDTSS-GDYELMVWLARY
+GAVQPI-GS-----------QI----------AT-VTVGGTKWELWNGA----N---G--
+-S-QKTYSFV---ASN-PITSWS-GDIMDFFN------YLTEKEGFPAETQN--LITVQF
+---------GTEPFTG-AKSTFTVSNWSAKVE----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q30BZ7 Cell 12A endoglucanase n=2 Tax=Phytophthora sojae RepID=Q30BZ7_PHYSO
+------------------MKFL-LPATVTIAALASSA--SA-------------------
+--QQFCGRDDNKVV-GD--YTVYNNLWAEE-NDPKGGQCTEVTGSTSS-SVSWQTSFN--
+---W-AG-DNWQVKS--F---ANAAL-------------K-FTP--KQVSTVT-------
+--SIPTSIAYKYTYDG-N-----IIANVAYDLFTSSTP------TGD-VEYELMVWLSAL
+GGAWPL-TD--S-----GK-PI----------KT-VTAGGVEFDLYQGF----N---K--
+-K-VKVFSYV---AKKS-ATSFT-ADLKYFFD------QLPADNNLP-QTQY--LQKVEA
+---------GTEPFQG-KNAKMVVSSYSVQVK----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_G2R5K4 Glycoside hydrolase family 12 protein n=1 Tax=Thielavia terrestris (strain ATCC 38088 / NRRL 8126) RepID=G2R5K4_THITE
+------------------MK---L-LLFV----SALAAATPL--------GS-LEPRQ--
+-QATLCDQYGYWSG-NG--YEVNNNLWGES-AATSGSQCTYVDGSSSG-GVQWHTTWT--
+---W-NG-GDNNVKS--F---AYSGR-------------QITKG--QKISSIS-------
+--SIQTSVSW--SYSN-TN----IRADVAYDIFTAADP---NHSTSS-GDYELMIWLAKY
+GSISPI-GS-----------SV----------GT-VNVGGRSWDLWVGY----N---G--
+-A-MKVFSFV---APS-PVTSFS-ANVKDFFN------YLQNNQGFPASSQN--LLTFQI
+---------GTEPFTG-GPATFTVSQFSANVS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q30BZ5 Cell 12A endoglucanase n=2 Tax=Phytophthora sojae RepID=Q30BZ5_PHYSO
+------------------MQIS-TVLTASALALAASPSFAE-------------------
+--KEFCGEKNLTQT-DD--YILYNNLWGAW-DDPKGWQCTGLDSVDGS-TISWHTRFS--
+---W-NG-TAWQVKS--F---ANAAL-------------Q-FDH--VPIADVT-------
+--SIPSTIEYDFQYEG-K-----TVANVAYDLFTTSKI------GGD-AEYEVMVWLEAI
+GGAGPL-SN--T-----GS-AI----------KH-VTVGGVDFSLYHGK----N---G--
+-N-MTVYSYV---AANA-MNSFS-ADFKQFFD------ELPANNTIA-PTQY--LINVQA
+---------GTEPFVG--NGTLTVSKYSAAVHTAGAN-----------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000696AAA4 hypothetical protein n=1 Tax=Actinosporangium sp. NRRL B-3428 RepID=UPI000696AAA4
+--------MANSA--I-RR-----IGLAVLAPAMALGATVGLAAAPAS---------AA-
+-VWSTCDQWGN-TN-L-NGYTLYNNIWGSGAG----AQCTW--ANSGT-SWGV-------
+---WADHPNTGGIKS--Y---P-----------------NSTKAINKSIDSLG-------
+--TLVSNYNV--SVP---SS--G-AYNTSYDIW-----------DTD-HDYEIMLWVNYN
+GAVGPL-GS-----------YQ----------GN-VTLGGHNWNVFKGT----N---G--
+-S-NEVFSFL---RTTD-SSSGT-VDVKQILN------WIAHTKGWMSGSET--IGDVQF
+---------GYEITSS-AG-GLNFATNNLTVSGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_H1VVN5 Xyloglucan-specific endo-beta-1,4-glucanase A n=1 Tax=Colletotrichum higginsianum (strain IMI 349063) RepID=H1VVN5_COLHI
+------------------M-----------------------------------------
+-----CDNWGSLTT-GG--LTVYHNNWGAA-QASSGSQCTTFESLKSG-SVAWSTSWT--
+---W-TG-GQGQVKS--Y---SNVAL-------------E-KIN--KKLSAIK-------
+--SIPSKWTW--SYSG-SN----IVADVAYDLWLAPSV------GAN-NKYEIMIWLSAL
+GGAGPI-SS--T-----GK-TI----------DT-PTIAGTKWSLYSGP----N---G--
+-D-TTVYSFV---APKD-IKSFN-GDLMGFFN------YLTSKQGVA-KTNV--VTSLQA
+---------GTEPFSG-NNAVFKTSAYTISVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_B8N3L3 Probable xyloglucan-specific endo-beta-1,4-glucanase A n=7 Tax=Aspergillus RepID=XGEA_ASPFN
+------------------MKFL------TPLVLSSLASAAA-------------LNRR--
+--ADMCGQWDTTTT-DK--FTLYNNLWGEG-NADSGSQCTGLDSDDGN-TIAWHTSWT--
+---W-TG-GAGQVKS--F---ANVAY-------------N-FEA--TQLSQLS-------
+--SIPSTWKW--ENTG-SD----IVADVAYDLFTSSSA------DGD-EEYEIMIWLAAL
+GGAGPI-SS--T-----GS-AI----------AT-PTVGGQSWSLYSGP----N---G--
+-Q-MTVFSFV---ASST-TEDFS-ADLNDFLK------YLQEEQGMP-SSQY--LTHVQA
+---------GTEPFSG-SNVKFTTSSYSVSVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A074S7Q9 Xyloglucan-specific endo-beta-1,4-glucanase A n=2 Tax=Rhizoctonia solani AG-3 RepID=A0A074S7Q9_9HOMO
+------------------MSFK--LFVAASLVLSTIVSGSPVEAGLAKRDAESSLSKR--
+-FNVLSGQWDTESL-NSGYYTLYNNLWGKD--AGTGSQQTQATTVNGK-KVAWKTTYT--
+---W-SG-GQYNVKS--Y---SNVGL-------------NTGLG--KKLSAIS-------
+--SIPTGWYW--TYSS-ASS--NLVSNVSYDLWLSATS------GGS-NSDEIMIWLSAR
+GGAGPA-GS-----------QI----------TT-ATVNGVTWKLFKGT----V---S--
+-T-WTVWSFV---APSE-LTGYN-SDLKPFFT------YLINSQGLS-SSKY--LTGVQA
+---------GTEPFVG--SATLTTTEYSVTVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_W2PRN1 Uncharacterized protein n=7 Tax=Phytophthora parasitica RepID=W2PRN1_PHYPN
+------------------MKIS-IAITVA--AVAASSVFAE-------------------
+--EEFCGQWNSTQT-DD--YTIYNNLWGQD-NDKAGGQCTGLDSVDGS-TIAWHTSFN--
+---W-AG-DNWQVKS--F---ANAAL-------------K-FNP--VQIANVA-------
+--SIPSTIEYDYKYDG-N-----IITNVAYDLFTSATA------NGT-VEYELMVWLAAL
+GGAWPL-TT--T-----GK-PI----------KE-VKVSNVDFNLYQGK----N---G--
+-N-TTVFSYV---AVNM-TKSFS-ADFKQFFD------ELPADNTIA-PTQY--LTHVQA
+---------GTEPFQG-KNATMTVCKYSAAVKSA--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0006997447 hypothetical protein n=1 Tax=Streptomyces sp. CNQ-509 RepID=UPI0006997447
+------------------------MAALVALGSTAAFLTTA----EAS---------P-A
+AQAEICEKYGTTTI-Q-DKYVVQNNAWGTDQT-----QCI---NT--T-DSGFQITRA--
+---DGSTPTNGAPKS--Y---PSVFLGCHYTN------CSPGTNLPRQIGAIS-------
+--NAPSDISY--TFVD---N--A-VYNASFDIWLDPEP--QT-DGVS--QTEIMIWLNRV
+GPIQPI-GS-----------QT----------GT-AEVAGRTWEVWTGS----N---G--
+-S-NDVISFV---APSA-VNSLS-FDLTAFID------HAI-GAGLATDQWY--LTSVQA
+---------GFEPWEG-GT-GLGVNSFSASVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004122D51 hypothetical protein n=1 Tax=Streptomyces sp. AW19M42 RepID=UPI0004122D51
+--------MATRT----RT-----LSRFALAPATAVAALIGFAAAPAQ---------AA-
+-IWSSSDQWGNYTT-A-DGYTLYNNIWGSGAG----SQSIW--ANSSS-NWGV-------
+---SADHPNTGGIKS--Y---P-----------------NAKKVVDKSITSLS-------
+--SLTSDYNV--TVP---SS--G-AYNTSYDIW-----------DTD-YDYELMLWVNYN
+GAVGPL-GT-----------SQ----------GT-VTLGGHSWTVYKGD----N---G--
+-A-NQVFSFL---RTSD-STSGS-VDILPILK------WIKDTKGWW-GDET--IGDVQF
+---------GYEITSS-AG-GLDFTTNGFGVSAS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0K6FY29 Endoglucanase cel12C n=1 Tax=Rhizoctonia solani RepID=A0A0K6FY29_9HOMO
+------------------MSFK--LFAVASLALSTLVSGSPVEVGSAKRDAGFSLNKR--
+-FNVLTGQWDNESL-NSGYYTLYNNLWGKD--SGSGSQTTQATSVNGK-KVAWKTTYN--
+---W-SG-GPYNVKS--Y---SDVGL-------------NSGLN--KKLSAIS-------
+--SIPTGWYW--TYSS-ASS--NLVSNVSYDLWLSTTS------GGS-NTDEIMIWLSAR
+GGAGPA-GS-----------QI----------TT-ATVNGVTWKLFKGT----V---S--
+-T-WTVWSFV---APSE-LTSYN-SDLKPFFT------YLINSQGLS-SSKY--LTGVQA
+---------GTEPFVG--SATLTTTEYSVTVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A074W626 Family 12 glycosyl hydrolase n=4 Tax=Aureobasidium RepID=A0A074W626_9PEZI
+------------------MKFI-TAAAVM----LGVASAA----------PTATIEKR--
+--AQQCGQWDSKVT-GA--YTLYQDLWGI--SGYTGSQCSDINSLSGS-TLNWWTTWS--
+---W-AG-GSSQVKS--Y---ANVVT-------------K-TNP--VQISKIK-------
+--SLATKWTW--VQSG-SN----VVADVAYDIFTSSTA------GGK-NEFEIMVWLAAL
+GGAGPI-SA--T-----GK-PI----------AT-VTVAGHSWKLWYGS----N---G--
+-V-NEVYSFT---PNGNNVASFS-GDLMDFFA------YLIKSQGFK-DSQY--LISVGA
+---------GTEPFTG-SNAKLT-SSYSLVPAYK--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0G3A998 Uncharacterized protein n=2 Tax=Streptomyces RepID=A0A0G3A998_9ACTN
+--------MAPST--L-SR-----VAKALIAPALALGATAGLASAPAS---------AA-
+-VWSSCDQWGS-TT-L-NGYTLYNDVWGSGAG----SQCIW--ANSGT-NWGV-------
+---WADHPNTGGIKS--Y---P-----------------NAKKVINKSIGSMG-------
+--SLSSSYNV--TVP---SS--G-AYETAYDIW-----------DTG-HKYEIMLWVNKT
+GAVGPL-GT-----------SQ----------GT-VTLGGSTWTVYKGN----N---G--
+-S-NDVFSFV---RGSN-SGSGT-VNILPILK------WIKDTKGWF-GDVT--IGDLQF
+---------GFEITSS-AG-GLNFTVNSETTSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_C7AGU1 Endocellulase EG12 n=3 Tax=Ceratobasidiaceae RepID=C7AGU1_THACU
+-------------------MVK-IAVAATFFVLTGLASASP-----APLKTESNLEKR--
+-FNLLSGQWDSENI-GNGQYMLYNNLWGKSKPGTSGSQSTQALSYSGT-TIGWRTQYS--
+---W-SG-NPNDVKS--Y---ANAAL-------------LKGLG--KRLSAIK-------
+--TIPTTWRW--TYSA-AAS--DLVANVSYDLWLSNVPN-GTGHSTT-STYEIMIWLSNR
+-RAGPA-GS-----------QV----------AT-TTIGGQSWKVFKGR----V---E--
+-T-WDVYSFV---ASNE-LTNYN-ADLKPFFT------YLSSSHGVS-LNQY--LAALQA
+---------GTEPFQK-T-GTLTTTAYTAAIN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A072SAY1 Uncharacterized protein n=5 Tax=Streptomyces RepID=A0A072SAY1_9ACTN
+--------MAPKT--P-RG-----IVRALIAPALALGATVGLASAPAH---------AA-
+-VWNSCDQWGN-TT-L-DGYILYNNIWGSGAG----SQCVW--ANSGT-NWGV-------
+---WADHPNTGGIKS--Y---P-----------------NSKKVINKPLSSLR-------
+--SLTSSYRV--TVP---ST--G-AYNTSYDIW-----------DTD-HDYEIMLWVNHN
+GAVGPL-GT-----------SQ----------GT-VSLGGHTWNVFKGS----N---G--
+-A-NEVFSFL---RTSD-STSGT-VDILPVLK------WIKDTKGWM-GDET--IGDVQF
+---------GYEITSS-AG-GLDFRTDSLTVSGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_L8PLL6 Putative secreted endo-1,4-beta-glucanase n=1 Tax=Streptomyces viridochromogenes Tue57 RepID=L8PLL6_STRVR
+------------------------------------------------------------
+---------------------MNNNLWNEGKV-TG-TQCVRDNSRSGS-TISWGDALQPG
+RQRHRQGPRREDVRL--HRPRP------HWGFKV----DKAQTGLPIRVGDRK-------
+--PVRTSWEF--SVSS-H-P--G-TRNVAYDLWLHAKN--TADRQDR-PSDEIMIWLNRQ
+GGAGPL-GT-----------KY----------GS-VSLGGAMGDIYEGDI----------
+-G-WKVHPFV---RRSN-TSRAT-LDLDDFTR------ALV-RRNLLGNDTY--VSGIEA
+---------GTEVFKG-TG-RLDTKAYSADIG----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_D7CAI4 Uncharacterized protein n=1 Tax=Streptomyces bingchenggensis (strain BCW-1) RepID=D7CAI4_STRBB
+---------------MHRK-----ARKLFLTPLFALLALIGFAAAPAH---------AA-
+-TWSSSDQWGN-WS-N-GGYTLYNNIWGSGAG----AQTIW--ANSYT-DWGV-------
+---WANHPNTGGIKS--Y---P-----------------NAKRVVGKKVSAIG-------
+--SLNSSYNV--TVP---SS--G-AYNTSYDIW-----------DTN-YDYEIMLWMNKT
+GPVGPL-GT-----------SQ----------GS-LTLGGHSWTVYKGS----N---G--
+-A-NEVFSFI---RTSN-STSGS-VDIKAIVN------WIKNTKGWF-GDVT--IGDVQF
+---------GYEITSS-AG-GLDFKTNSFGVSFS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q12679 Endoglucanase A n=1 Tax=Aspergillus kawachii (strain NBRC 4308) RepID=GUNA_ASPKW
+------------------MKLS-MTLSLF----AATAMG---------------------
+--QTMCSQYDSASS-PP--YSVNQNLWGEY--QGTGSQCVYVDKLSSS-GASWHTKWT--
+---W-SG-GEGTVKS--Y---SNSGL-------------T-FDK--KLVSDVS-------
+--SIPTSVTW--SQDD-TN----VQADVSYDLFTAANA---DHATSS-GDYELMIWLARY
+GSVQPI-GK-----------QI----------AT-ATVGGKSWEVWYGT----STQAG--
+-AEQKTYSFV---AGS-PINSWS-GDIKDFFN------YLTQNQGFPASSQH--LITLQF
+---------GTEPFTG-GPATFTVDNWTASVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_G2QKQ0 Glycoside hydrolase family 12 protein n=1 Tax=Myceliophthora thermophila (strain ATCC 42464 / BCRC 31852 / DSM 1799) RepID=G2QKQ0_MYCTT
+------------------MQP--FLLLFL----SSVTAASPL--------TA-LDKRQ--
+-QATLCEQYGYWSG-NG--YEVNNNNWGKD-SASGGHQCTYVDSSSSS-GVAWHTTWQ--
+---W-EG-GQNQVKS--F---ANCGL-------------QVPKG--RTISSIS-------
+--NLQTSISW--SYSN-TN----IRANVAYDLFTAADP---NHATSS-GDYELMIWLARF
+GDVYPI-GS-----------SQ----------GH-VNVAGQDWELWTGF----N---G--
+-N-MRVYSFV---APS-PRNSFS-ANVKDFFN------YLQSNQGFPASSQY--LLIFQA
+---------GTEPFTG-GETTLTVNNYSARVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_U7PRP7 Uncharacterized protein n=3 Tax=Sporothrix RepID=U7PRP7_SPOS1
+------------------MKLT-LALLF------PLAAAVPS--------AV-LQPRQ--
+-STNLCKKYDYWSG-NG--YECLNNLWGDT-AATSGQQCTYVDGSSSN-SVSFHTTWT--
+---W-QG-APNNVKS--Y---AYCGK-------------IAPKG--KLISAIS-------
+--SMQTSVSW--TYTT-ED----LRANVAYDIFTAADP---NHDRSS-GDYELMIWLARL
+GGIYPI-GK-----------ST----------GT-VTVAGKQWDLWVGM----N---G--
+-Q-MQVYSFV---AAS-PVRSFS-ADVKQFFN------HLQTSQNYPASKQN--LIVFQI
+---------GSEAFTG-GPATVTFNNWAVDIN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_M1WEM3 Related to endoglucanase I n=1 Tax=Claviceps purpurea (strain 20.1) RepID=M1WEM3_CLAP2
+------------------MKIS-ASVAFAGLAASVLAN--------------PVITKR--
+--EQWCGNWGSTTT-GP--YTIYHNNWGAA-SASSGKQCTSFSSRNGA-SVAWSTSWS--
+---W-QG-GPSNVKS--Y---SNVGL-------------A-HVN--RKLTDVK-------
+--SIPSKWSW--TYTG-QN----IVADVAYDLWLAPSA------GAD-NTYEIMIWLAAL
+GGAGPI-SQ--T-----GSTPI----------AN-PQIAGTTWKLFKGP----N---G--
+-S-TTVFSFV---APSN-IENFD-GDLNLFFK------YLVESQGVA-NTNV--ITALQA
+---------GTEPFIG-SNAVFNSPVCSIEVS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_C6WFR6 Glycoside hydrolase family 12 n=1 Tax=Actinosynnema mirum (strain ATCC 29888 / DSM 43827 / NBRC 14064 / IMRU 3971) RepID=C6WFR6_ACTMD
+----------------MKQRSL-AAALLVAAG-MAVPVVTA----AAT---------GAQ
+ADAALCGQYDSTQV-Q-GRYVVMNNRWGGNAE-----QCV---DV--T-GSGFRLTSQ--
+---KGSKPTDGAPLS--Y---PAIYGGCHYDN------CSPGTNLPVRIGDVA-------
+--SASTSIGY--GYNA---S--G-IYNASYDIWMDPSP--KR-TGVN--QVELMIWLNRQ
+GPIQPI-GS-----------RV----------GS-TTIAGRTWEVWQGN----N---G--
+-G-NDVVSYL---APSP-ISNFS-FDVLDFVR------DVD-NRTQVSTSWY--LTSVQA
+---------GFEPWQG-GE-GLSVNNFSLDVRTR--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0G4NXT8 Glycoside hydrolase, family 12 n=1 Tax=Penicillium camembertii RepID=A0A0G4NXT8_PENCA
+------------------MKFF-VPISLLSLTLAASGNAAS-------ASSSKTRTKR--
+--SDFCDQYGTVSE-GS--YTVYNNLWGQE-YDYGGKQCTGVDSFSGS-TIAWHTSWS--
+---W-AG-SSNQVKS--Y---ASVGL-------------Q-FTA--KQLSAVS-------
+--SIKSSWDW--SYST-TD----VVADVAYDMFLSSSA------NGS-EEYEIMVWLAAL
+GDAGPI-ST--E-----GS-PI----------AT-VTINGISFKVYCGP----N---G--
+-S-MTVYSFV---AEST-ITSFS-GDMLEFFT------YLVDNQGLS-SSLY--LIDVQA
+---------GTEPFTG--KADMKTSAFSVAVI----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00052455B8 hypothetical protein n=1 Tax=Saccharothrix syringae RepID=UPI00052455B8
+----------------MGN-----RIRSAAAAAVVV-LSLVGTTGVAQ---------AA-
+-AWSSTDKWGT-WS-N-GGYTVRNDVWGSGVG----PQTIW--ANSYS-NWGV-------
+---WADHPNTGGVKS--Y---P-----------------HSAKAINRKLSALG-------
+--RLSSSFNV--SRP---GS--G-SYATSYDIW-----------ANN-NAYEIMIWVNKQ
+GAVGPI-GS-----------RQ----------AT-VSVGGHTWDVYRGS----N---G--
+-A-NEVFSFL---RTGN-TNAGT-VDVLAVLR------WIG-SRGWY-GDVT--VGEVQF
+---------GFEITSS-AG-GLDFVSNSYSVTT---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0M8MZD7 Endoglucanase-1 n=1 Tax=Escovopsis weberi RepID=A0A0M8MZD7_9HYPO
+------------------MKSS-TVLAGLLPAALA-------------------------
+-QNTSCDQWASFSN-EQ--YILSNDLWGQD--AGEGWGCITNDGLTST-SAAFHADWN--
+---W-SG-GQSNVKA--F---PSVQR-------------VIPLG--RRISSIS-------
+--SMPTEATW--DYTG-SD----IRADVAYDVFSSSVP---TNPTWD-GDFEIML-LGKF
+GDVGPL-GS-----------SQ----------GT-VTVAGRSWELFWGY----N---G--
+-A-MQVYSFV---APTN-INQFS-GDFKNFFD------FLSESKGVNFDDQY--LLSYQF
+---------GSEPFTG-DCSKFTTSHWSAEVV----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000360CA80 MULTISPECIES: hypothetical protein n=3 Tax=Streptomyces RepID=UPI000360CA80
+--------MARRT----RT-----LNRLALTPAVALAALVGFAAAPAQ---------AA-
+-VWSSSDQWGTYTT-S-DNYTLYNNIWGSGAG----SQSIW--ANSSS-DWGV-------
+---WADHPNTGGIKS--Y---P-----------------NAKKVVNKPIGSLS-------
+--SLTSTYNV--TVP---SS--G-AYNTSYDIW-----------DTD-YDYEVMLWVNYN
+GAVGPL-GT-----------SQ----------GT-LTLGGHTWTVYKGD----N---G--
+-S-NQVFSFL---RTSD-STSGT-VDILPILK------WIKDTKGWW-GNET--IGDVQF
+---------GYEITSS-AG-GLDFRTNGFGVSAS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_N4V2G7 Glycoside hydrolase family 12 n=1 Tax=Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422) RepID=N4V2G7_COLOR
+------------------MQLT-SYLVSAILAATAVASPTP------------TIEKR-N
+TTTTWCESFGSLAT-GG--YTVYHNNWGAA-DATSGSQCTTFESLKSG-SVAWSSKWS--
+---W-AG-GQGKVKS--Y---SNVAL-------------E-KVN--KPLSSIK-------
+--SIPSKWTW--TYDG-SD----LVADVAYDLWLAPSV------GAN-NKYEIMIWLAAL
+GGAGPI-SS--T-----GK-KI----------DS-PTIAGTTWSLFSGP----N---G--
+-D-TTVYSFV---APST-INSFD-GDLNGFFD------YLVSKQGVA-KTNV--VTSLQA
+---------GTEPFSG-SNAVFTTTGVSISVS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_M5BQR0 Xyloglucan-specific endo-beta-1,4-glucanase A n=1 Tax=Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) RepID=M5BQR0_THACB
+------------------MSFK--LFAIASLALSTLVSGSPVEAGLAKRDTNTSLNKR--
+-FNVLTGQWDSENL-NNNYYILYNNLWGKD--AGTGSQQTQATSVNGK-KVAWKTTYN--
+---W-SG-GQYNVKS--Y---SNVAL-------------NSGLN--KRLSAIS-------
+--SIPTGWYW--TYSS-ASS--NLVSNVSYDLWLSTTA------SGS-STDEIMIWLSSR
+GGAGPI-GS-----------QI----------TT-ASVNGVSWKLFKGT----V---S--
+-T-WTVWSFV---ASSE-LTGFN-QDLKPFFT------YLINSQGLS-NSKY--LTGVQA
+---------GTEPFVG--SATLTTTEYSATVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00056124AA glycoside hydrolase n=2 Tax=Amycolatopsis orientalis RepID=UPI00056124AA
+---------------------M-AALMLAAAATLTVPLTGAA---------------PAH
+ADTLICDQYGATTI-Q-GKYRVMNNRWGSNAE-----QCI---SV--H-DSGFRIASQ--
+---KGSTATNGAPLS--Y---PAVYAGCHYDS------CSPGTNLPKQLGQIG-------
+--RASSSIEY--GFAG------G-IFDAAYDIWMDPTP--KR-TGVN--QMEIMIWFHRQ
+GGVQPV-GG-----------AV----------GY-TTIGGRSWQVWQGN----N---G--
+-G-NDVVSYV---APSA-MSSWS-FDVMDFVR------DVD-ARTRVDGSWY--LTSIQA
+---------GFEPWQG-GE-GLAVNRFSADITGRSAG-----------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0M8P461 Uncharacterized protein n=1 Tax=Penicillium nordicum RepID=A0A0M8P461_9EURO
+------------------MKTT-LILALA----AAAASA---------------------
+--QELCEQYGVYSK-DK--YIVNNNMWGKD--SGTGSQCTTVDGISDT-GVSWHTKWS--
+---W-SG-GEGEVKT--Y---PNSGV-------------E-LDV--KLVSELT-------
+--SIKTSAKW--EYDN-SD----INADVAYDLFTAADK---NHETSG-GDYELMIWLGRY
+GTIAPI-GK-----------KL----------NS-VDVGGQTWELWNGM----N---G--
+-D-MNVYSFV---AAD-PITTFA-TDIKEFFD------FLVKSQSFPADSQY--LINLQF
+---------GTEPFTG--DATFTVSNWEATAI----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0M8WC38 Uncharacterized protein n=1 Tax=Nocardia sp. NRRL S-836 RepID=A0A0M8WC38_9NOCA
+----------------MSK-----TVRSFVIGLVAV-LTVSLGTGSAL---------AA-
+-AWSSTDRWGT-WS-N-GGYTVRNNVWGNGSG----PQTVW--ANSYS-NWGV-------
+---WSNQPNTGGVKS--Y---P-----------------HSEKMVNRRLSSLG-------
+--SLRSSFNV--SYP---NA--G-SYTTAYDIW-----------ANN-NAYEIMLWMNKV
+GNVGPI-GS-----------YQ----------TS-VTVGGHSWNVYRGS----N---G--
+-A-NEVFSFV---RTAN-TGSGQ-VDVKAVMD------WIR-GRGWF-GDVT--VGAVQF
+---------GYEITSS-SG-GLNFNTNSYSVSFG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_R8BAK2 Putative xyloglucan-specific endo-beta--glucanase protein n=1 Tax=Togninia minima (strain UCR-PA7) RepID=R8BAK2_TOGMI
+------------------MKLS--VLAPGILAGLAAASPAP----------TKSLQER--
+-ATTMCGQWDSLAT-GG--YTVYQDLWGMS-AATSGSQCTTVTGMSGS-NLVWSTSWT--
+---W-AG-GSSSVKS--Y---ANAVV-------------S-FTP--KQLSAIS-------
+--KIPTTWKW--SYTG-TS----VVANVAYDLFTGSSA------SGT-SQYEIMIWLNAL
+GGAGPI-SS--T-----GS-TI----------AT-PTIGGVSWKLYSGS----N---G--
+-V-QTVFSFV---ASSA-QSNFS-GDLKNFIS------YLTSNQGLP-TSQY--LTSIGA
+---------GTETFTG-SNAVFSTSAYTASVS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004C048C2 hypothetical protein n=1 Tax=Streptomyces sp. NRRL S-1022 RepID=UPI0004C048C2
+--------MAAST--L-GR-----AVKVLLAPALALGATVGLASAPAS---------AA-
+-VWNSCDQWGS-TS-L-NGYTLYNNIWGSGAG----SQCVW--ANSGT-NWGV-------
+---WANHPDTGGIKS--Y---P-----------------DAKKTVGKQVASLT-------
+--SLTSTYNV--TVP---SS--G-AYNTSYDIW-----------DTG-HKYEVMLWVNKT
+GAVGPL-GT-----------AQ----------GT-VTLGGATWTVYKGN----N---G--
+-S-NDVFSFI---RSSN-SSSGT-VNILPILK------WIKDTKGWF-GNVT--IGDVQF
+---------GYEITSA-SG-GLNFTTNNLTVSGS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00048ECBA0 glycosyl hydrolase n=1 Tax=Paenibacillus pasadenensis RepID=UPI00048ECBA0
+---------------MKTK-----TRLTAFLTLLIG---SLLLSATAF---------AA-
+-VWTSSAQWGN-WS-N-GGYTVYNNIWGSGAG----TQTIW--ADSYS-KWGV-------
+---TANHPNTGGIKS--Y---P-----------------NSTRPINTQLAALS-------
+--SLKSSFNI--TVP---SS--GSSFVAAYDIW-----------SGN-NAHEIMLWMNKQ
+GAVGPI-AG-----------SWDSNGNPVANFTN-VSVGGHTWNVYKGS----N---G--
+-S-NDVFSFV---RTSN-TSSGT-VDVLAILN------WCK-SKGWM-GNEI--VNSVQF
+---------GYEITSA-PN-A-TFTTNSYSVSFS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_B8LVY6 Endoglucanase, putative n=1 Tax=Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006) RepID=B8LVY6_TALSN
+------------------MKLS-LLLS-L----AAAAYA------------------Q--
+-QQSLCSQYSSYTS-GP--YTVNNNLWGES--SGSGSQCTYVNSISSS-GVAWSTTWN--
+---W-SG-SNSQVKS--Y---ANSQY-------------SALNK--KLVSQLS-------
+--SIPTSVQW--SYSN-TA----ITADVSYDLFTAADI---NHVTYS-GDYELMIWLGRY
+GGAQPL-GS-----------QI----------GT-ANVAGITWQLWYGV----N---G--
+-S-QKTYSFV---APS-QTTSWS-GDILNFFD------YLEEHQNFPASSQY--LIDLQF
+---------GTEPFTG-SQTTLTVNHWSASAN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0D9L9L4 Glycoside hydrolase family 1112 n=3 Tax=Penicillium RepID=A0A0D9L9L4_9EURO
+------------------MKSFIAPMSLISLALSAMGDAAT-------VPVND-ITRR--
+-GTEICDQWGTTTT-DK--FTLYNNLWNQG-KDPNGKQCTTLDSSSGN-TIAWHTSYS--
+---W-AGNAPNEVKS--Y---ASASL-------------K-FTP--QILSTVK-------
+--SIKSDWTW--SYSN-TN----IVADVAYDLFLSSTP------TGS-EEYEIMVWLAAL
+GGAGPI-SS--T-----GK-AI----------AT-VTLNGVEWDVWVGP----N---G--
+-Q-MTVYSFV---AKST-VSHFS-GDLLDFFD------YLVKNQGLP-NGKY--LKTVQA
+---------GTEPFTG--TSELTVSNYSVELL----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_W3WPQ1 Xyloglucan-specific endo-beta-1,4-glucanase A n=1 Tax=Pestalotiopsis fici W106-1 RepID=W3WPQ1_9PEZI
+------------------MKFA-TSLASMVLAASSAFAAPT------GTEPTPTLDKR--
+ATTISCDSWGSLVT-GG--YTIYHNNWGAS-AATSGSQCTYFDSLSGS-TVAWHTTWS--
+---W-AG-GSSSVKS--Y---SNVAL-------------E-NVN--KQLSAVS-------
+--SIPSVWKY--TQTG-SS----IVADVAYDLWLAPTS------GGT-NEYEIMVWLAAY
+GGAGPI-SS--T-----GS-AI----------AT-VTIGSYSWKLYYGL----N---G--
+-S-TKVYSFV---ATST-VTSFS-GDINLFFK------YLTSSQGVP-TSYY--ITSLQA
+---------GTEPFTG-SSATLTVSAYSISVS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_S3D2I9 Concanavalin A-like lectins/glucanase n=1 Tax=Glarea lozoyensis (strain ATCC 20868 / MF5171) RepID=S3D2I9_GLAL2
+------------------MLFP-ILL----LLAGALATPTP-------------VEKR--
+-ATTMCGGWGTVPT-AG--FTVYHNNWGAG-AATSGSQCTTFNSVSAAKSFSWSTSWS--
+---W-AG-GNVNVKS--Y---SNVAL-------------E-NVN--KKLSAIT-------
+--SIPSTWTW--RYTG-TS----MVSDVSYDLWLAPSV------GAN-NKYEIMIWVGSY
+GGAGPI-SS--T-----GSTPL----------AS-PTIAGTKWKLFKGP----N---G--
+-D-TTVFSFV---APAN-IGNFA-GDLNLFFK------YLTASQGVS-SDMV--VTSLQA
+---------GTEPFVG-SNCVFTTSAYTISVK----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0F5KXG3 Glycoside hydrolase n=4 Tax=Bacillus RepID=A0A0F5KXG3_9BACI
+--------------MNRHAVKS-I--LLFGIACIMLLAGPL---TAFG---------ASS
+S-----TPSDKIYF-KNKKYYIFNNVWGADQV-SGWWQTIY--HNSDS-DLGW--VW---
+---NWPSST-SSVKA--Y---PSIVSGWHWTEGY-----TKGSGLPTRLSDRK-------
+--NINTKVSY--SISA---N--G-TYNAAYDIWLHNTN--KASWDTA-PTDEIMIWLNNT
+N-AGPL-GS-----------YV----------ET-VSIGGHKWNVHKGYVDAGN---G--
+KG-WNVYSFV---RTSN-VQSAS-LNIRDFTN------YLADSKKWLSKTKY--VSSVEF
+---------GTEIFGG-TG-QINISNWDVTVR----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_D7CF74 Uncharacterized protein n=4 Tax=Streptomyces RepID=D7CF74_STRBB
+--------------------------MAVLAPTMALGATVGLASAPAS---------AAA
+-VWNSCDQWGS-TS-L-DGYKLFNNIWGSGAG----SQCTW--ANSGT-GWGV-------
+---WADHPNTGGIKS--Y---P-----------------NSTKTINKTIDSLG-------
+--WLTSDYNV--SVP---SS--G-AYNTSYDIW-----------DTD-HQYEIMLWVNHN
+GSVGPI-GT-----------WQ----------AN-VTLGGHNWNVYKGT----N---G--
+-S-NQVFSFL---RTSN-SNSGT-VDVKPILN------WIAYTKGWMPGNET--IGDVQF
+---------GYEITSS-SG-GLNFNTNNLTINGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004CCFA93 glycoside hydrolase n=1 Tax=Streptomyces seoulensis RepID=UPI0004CCFA93
+-----MRV---KSR---KLRSV-TAALVLAAGSVTALTAT------TG---------SAH
+ADAQVCDQFGSVTT-P-GGYVVQNNAWGTSAP-----QCV---TQ--V-GDGFQLTRA--
+---DGSVPTNGAPKS--Y---PSIFAGCHYTN------CSPGTNLPKRIGSIG-------
+--SVPSSITY--QYAG---G--A-VFDAAYDIWLDPTP--RT-DGVN--KTEIMIWLDRT
+GPVQPI-GS-----------VT----------GT-VSLAGQNWDVWRGS----N---G--
+-T-NDVISYV---ASSS-LTGLN-FNVKDFID------HTV-SQGLATPDWY--LTSIQA
+---------GFEPWEN-GA-GLAVTNFSVAVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A094GPV4 Uncharacterized protein n=1 Tax=Pseudogymnoascus pannorum VKM F-4518 (FW-2643) RepID=A0A094GPV4_9PEZI
+------------------MKTI-VAASIL----FSTVLA------------------Q--
+-QQTLCDQYGSYNS-AP--YTVNNNLWGES--SGTGSQCTYVDSISSS-GVAWHTTWS--
+---W-SG-GDNQVKS--Y---ANSQI-------------D-LTK--KYVSDIG-------
+--TIPTSVNW--QYDN-TN----INADVSYDLFTAADI---NHVTYS-GDYELMIWLAKY
+GSIQPI-GS-----------QI----------AT-ANVGGQTWDLWYG---------G--
+-SGQQTYSFV---APT-PINCFC-TDIQEFFS------YLTQNHGFPASSQY--LINMQF
+---------GTEPFTG-GQATFTVSDWSANVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_O94218 Xyloglucan-specific endo-beta-1,4-glucanase A n=2 Tax=Fungi RepID=XGEA_ASPAC
+------------------MKLS-------LLSLATLASAAS-------------LQRR--
+--SDFCGQWDTATA-GD--FTLYNDLWGES--AGTGSQCTGVDSYSGD-TIAWHTSWS--
+---W-SG-GSSSVKS--Y---VNAAL-------------T-FTP--TQLNCIS-------
+--SIPTTWKW--SYSG-SS----IVADVAYDTFLAETA------SGS-SKYEIMVWLAAL
+GGAGPI-SS--T-----GS-TI----------AT-PTIAGVNWKLYSGP----N---G--
+-D-TTVYSFV---ADST-TESFS-GDLNDFFT------YLVDNEGVS-DELY--LTTLEA
+---------GTEPFTG-SNAKLTVSEYSISIE----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0L0KNA7 Uncharacterized protein n=3 Tax=Streptomyces RepID=A0A0L0KNA7_9ACTN
+--------MATRT--L-AR-----AVKVLLAPALALGATVALASAPAS---------AA-
+-VWNTCDQWGN-TN-L-NGYTLYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---NANHPGTGGIKS--Y---P-----------------NQKKVVNKTITSLG-------
+--SLNSSYNV--SVP---SS--G-AYNTSYDIW-----------LRN-NAYEVMLWVNKT
+GPVGPI-GT-----------SQ----------GT-ATLGGHTWTVYKGT----N---G--
+-S-NEVFSFI---RTSN-SSSGS-VQILPILK------WIKDTKGWF-GNET--IGDVQF
+---------GYEITSS-SG-GLNFTTNNLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_D0NUJ3 Cell 12A endoglucanase n=2 Tax=Phytophthora infestans RepID=D0NUJ3_PHYIT
+------------------MKFT-VVIATAATAVAALPVFAE-------------------
+--EEFCGQWSSTQT-AD--YIIFNNLWGQD-NDKAGGQCTGLDSVDGS-TIAWHTSFN--
+---W-AG-DNWQVKS--F---ANAAL-------------K-FAP--VQISSVA-------
+--SIPSTIEYDYKYDG-N-----IITNVAYDLFTSATA------NGT-VEYELMVWLAAL
+GGAWPL-TT--T-----GK-PI----------KE-VKVGSVDFNLYQGK----N---G--
+-N-TTVFSYV---AVNT-TKSFT-ADFKQFFD------ELPADNAIA-STQY--LTQVQA
+---------GTEPFQG-KNATLTVSKYSAAVNS---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_M9PK16 Xyloglucanase B n=1 Tax=Rhizomucor miehei RepID=M9PK16_RHIMI
+------------------MKLT-FLSSIVAAFLATSAAAIP-------------LNKR--
+--AEMCGQWDTTSA-GP--YTVYNNLWGEG-SATSGSQCTSVNSIDGN-VLSWSTSWS--
+---W-AG-GQYNVKS--Y---ANAEL-------------K-FDA--VKLSSVS-------
+--SIPFQWSW--SYSG-SN----IVADVAFDLWTSTAN------TSD-FEIEIMVWLAAI
+GGAGPI-----------GD-SV----------GT-FSYGGYTWNLHKGN----N---G--
+-S-NDVYSFV---ATEQ-IKSIK-SDLLPFFK------HLIDSGYIS-SSQY--LRAVQA
+---------GTEPFLG-SNAKLVTSSYSVSVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0N1H8A5 Glycoside hydrolase family 12 n=1 Tax=Actinobacteria bacterium OK074 RepID=A0A0N1H8A5_9ACTN
+--------MATPK--LSRR-----LVLAVVAPALAFGATLGLASAPAS---------AA-
+-VWSSCDQYGN-TS-L-NGYTLYNNIWGSGAG----AQCIW--ANSGT-NWGV-------
+---NANHPNTGGIKS--Y---P-----------------NAKKVINKSITSLG-------
+--SLSSDYNV--TVP---SS--G-AYNTAYDIW-----------DTN-YDYEVMLWVNHT
+SNVGPL-GT-----------SQ----------GN-LTLGGSTWTVYKGN----N---T--
+-A-NDVFSFV---RTSN-SSSGT-VSILPILQ------WIKDTKGWF-GNVT--IGDLQF
+---------GFEITSS-SG-GLDFTVNSESVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00052757DC hypothetical protein n=2 Tax=Actinobacteria RepID=UPI00052757DC
+----------------MRN-----PLRSLVCGIAAVLVVTLAPAGTAQ---------AA-
+-AWSSSDRWGT-WS-N-GGYIVRNNVWGSGYG----PQSIW--ADSYS-SWGV-------
+---WANHPNTGGVKS--Y---P-----------------HVGRTIGRRLSTVR-------
+--SLTSNFTV--SRP---NA--G-SYATAYDIW-----------ANG-HDYEIMLWMNKQ
+GAVGPI-GS-----------RQ----------TT-ATVGGHTWDVYRGS----N---G--
+-S-NAVFSFV---RTSN-TNSGS-VDVLAVMN------WIR-NRGWY-GDVT--INDVQF
+---------GFEITSS-AG-GMNFLTNSYSVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_T2H1C4 Endoglucanase n=1 Tax=Lentinula edodes RepID=T2H1C4_LENED
+------------------MRLV-SAPTVASALSLALLSSAQ-------------------
+---TITGQYDCLPA-GD--FTLCQNLWGEL--SGVGNQSSTLISTTGN-AVSWSTTWN--
+---W-AN-NPNNVKS--Y---ANVLS-------------NTAKG--VQLSNIA-------
+--SAPTSWSW--TYET-QSD--GIRADVSYDIWFGKAPS-GVAATSA-SSYEIMIWLSGQ
+GGIQPV-----------GSVTK----------SN-ITVAGFQWDLWSGP----N---A--
+-N-WEVFSFK---TASGDITDFD-VDLQEFFT------YLTENEGVA-SSQY--VQAIQT
+---------GTEPFTG--NAVLMTSSYSVAINSL--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0005B7B746 hypothetical protein n=1 Tax=Actinopolyspora erythraea RepID=UPI0005B7B746
+-------------MFSGKRRRL-CAAVAFAVSGLALGSLTT-GTVAAQ---------PAT
+T---LCGKYDSTQV-EGGRYIVQNNVWGADTE-----QCI---SV--A-GNSFTVTTA--
+---NHDKATNGSPAG--Y---PSIYAGCHYGN------CTTGTGLPVRADRMT-------
+--EATTSWDI--STPE---T--G-TYNAAYDLWFDPEP--SK-SGQN--AAELMIWLDHR
+GDIQPI-GS-----------PV----------GT-FTVDGAQWEIWTG-----N---V--
+-G-WNVISYV---RTET-TDSVD-LDLTAFSA------DAV-ERGSVEPGWY--LNSVQA
+---------GFEPWID-GT-GLATNDFSVNIG----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A094DZ10 Uncharacterized protein n=1 Tax=Pseudogymnoascus pannorum VKM F-4513 (FW-928) RepID=A0A094DZ10_9PEZI
+------------------MKLL-ALLAPALAAASAIPASAP--------VPSKTIKER--
+-ATEICGQWDSIQT-GS--YTLYQDLWGID-AATSGSQCSTYESLSGD-TIAWSTKWS--
+---W-QG-GDYNVKS--Y---ANVVL-------------TQDTG--KQVSAIQ-------
+--SIPSKWSY--TYTG-TG----VVANVAYDLFSSASA--GGNSDGS-SDYEIMIWLAAI
+GGAGPI-SS--T-----GS-AI----------AS-VTVAGQQWNLWYGL----N---G--
+-S-MKVYSFV---AASQ-IESFS-GDLKEFYT------YLVASQGFS-DSQY--VTSIGA
+---------GTEPFVG-TDAVMTVSGYSVALNA---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_B5HAP2 Glycoside hydrolase family 12 n=2 Tax=Streptomyces pristinaespiralis RepID=B5HAP2_STRPR
+MAHAHPTQGAHPTQGARRA-----LRRAALAPLLALLAVVGLASAPAH---------AA-
+-VWYSSDRWGT-WN-S-GGYTLYNNIWGSGAG----PQTIW--ADSAT-DWGV-------
+---WADHPGTGGIKS--Y---P-----------------NAKKVVNKKIGAIS-------
+--TLTSHYNV--SVP---AA--G-AYNTAYDIW-----------DSN-YDHEIMLWVNHH
+GPVGPL-GS-----------AQ----------GR-VSLGGHTWDVYRGD----N---G--
+-A-NAVYSFL---RTSD-STSGT-VDLKAVLA------WLKNTKGWI-GDVT--VGDVQF
+---------GYEITSS-PG-GLDFVTHDFGVRTS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_R1GQP5 Putative glycoside hydrolase family 12 protein n=1 Tax=Botryosphaeria parva (strain UCR-NP2) RepID=R1GQP5_BOTPV
+------------------MKFS-TALLWATT--AAFASAAP---------SAAPLERR--
+--ADFCGDWDNVKN-GP--YTTYNNLWGRSTSGVSGSQCTGVDSFNSN-TISWHTSWS--
+---W-SG-VSNQVKS--Y---ANVVV-------------D-ITS--KQLSAIS-------
+--SINSIWKW--SYTG-SG----IVANVAYDLFTSSSA------TGS-EEYEIMIWVAAL
+GGAGPI-SA--T-----GS-PI----------AT-VTLAGSSWKLYKGK----N---S--
+-Q-LTVFSFV---AASN-INNFS-GNLNDFIK------YLTSSQGLP-ASQY--LKSIGA
+---------GTEPFVG-SNAKLTTSSYTVSYK----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_W5WF07 Uncharacterized protein n=2 Tax=Kutzneria RepID=W5WF07_9PSEU
+----------------MTFR---RTAT---AMALLLGLADL-GVGAAA---------ATP
+SYAQLCGQYDSVHV-ANNRFVVQNDEWGDTIP-----QCV---QP--T-DSGFTVVSG--
+---NHNLPTTNAPAA--Y---PSIYAGCHYGN------CSSGSGLPLQVSKFG-------
+--NLRSSVNY--TT-T---G--G-QWDAAYDIWLDTNP--NP-TGQN-NGAEIMIWGAHT
+SGPRPF-GG-----------KV----------AT-ANLAGATWDVWYGVQNNNG---V--
+-S-WNVISYA---RQQA-TNSLE-VSVRDFTL------DAA-NRGYVQRSWY--LTSVQF
+---------GFEPWQG-GP-GLAVNSFSFTNN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A084BDL5 Endoglucanase n=1 Tax=Aspergillus fumigatus var. RP-2014 RepID=A0A084BDL5_ASPFM
+------------------MS----------------------------------------
+--------------------------------SGSGSQCTYVDSISNS-GVAWHTTWT--
+---W-SG-GDNQVKS--Y---ANSQV-------------S-LTK--KLVSQIS-------
+--SIPTTVQW--SYDN-TN----TRADVAYDLFTVADP---NHVTYS-GDYELMIWLARY
+GNVQPI-GS-----------QI----------AS-VNIGGHNWELWYG---------G--
+-STQKTYSFV---SAT-PITSFS-GNVMDFWT------YLTRNHGYPASSQY--LINMQF
+---------GTEPFTG-GPATLRVSQWTASVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0003A694F2 hypothetical protein n=1 Tax=Amycolatopsis balhimycina RepID=UPI0003A694F2
+----------------MHK-----VVRSLVVSLAVA-ASVATSAGVAS---------AA-
+-TWSSSDKWAT-WS-N-GGYTIRNDVWGSGAG----PQTIW--ANSYS-NFGV-------
+---WSDQPNTGGVKT--Y---P-----------------HSAKNVGKKLSALG-------
+--KVSSSFNV--TRP---GS--G-AYETAYDIW-----------ADN-NAYETMLWMDKQ
+GAVGPL-GS-----------KQ----------VT-ATVGGHTWDVYKGS----N---G--
+-S-NAVFSFV---RTSN-TNAGT-VDVLAVLN------WIK-ARGWF-GDVT--LGEVQF
+---------GFEITSS-PG-GLNFTTNSYSVTSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0L1HER5 Glycoside hydrolase family 12 protein n=1 Tax=Stemphylium lycopersici RepID=A0A0L1HER5_9PLEO
+------------------MKLS-TFIAVSSASLALAVPTAT-------------IQKR--
+--ADFCGQWDSQVT-GD--YTIYNNLWGRA-DATSGSQCTGVDGLSGR-SLKWHTSWS--
+---W-SG-GAGHVKS--Y---ANVVT-------------D-IGK--KALSSIK-------
+--SLPSVWKW--AYTG-DD----LIANVSYDLFTSSTA------DGD-EEYEIMIWLAGL
+GGAGPI-SA--T-----GS-PI----------AT-VNLAGSSWKLYNGQ----N---G--
+-Q-MNVFSFV---AENQ-VQNFD-GDLMDFVN------YLSSEQSLP-SSQI--LISAGA
+---------GTEPFSG-SNAKLSVSEYSLAEN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_L7FKB8 Glycosyl hydrolase family 12 n=5 Tax=Streptomyces RepID=L7FKB8_9ACTN
+--------MATRTRML-SR-----ITKAMLAPALALGVTVGLASAPAS---------AA-
+-VWNSCDQYGN-TS-L-NGYTLYNNIWGSGAG----SQCTW--ANSGT-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------NSKKVINKSITSLG-------
+--SLTSNYNV--TVP---SS--G-AYNTSYDIW-----------DTD-YDYEIMLWVNKT
+GAVGPL-GT-----------SQ----------GN-VTLGGHTWTVYKGN----N---G--
+-A-NEVFSFV---RTSN-STSGS-VNILPILK------WIKDTKGWF-GNET--IGDVQF
+---------GFEITSS-SG-GLNFTTNNLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0N0MQH4 Glycoside hydrolase family 12 n=1 Tax=Actinobacteria bacterium OK006 RepID=A0A0N0MQH4_9ACTN
+--------MAPRT--L-GR-----AAKALLAPALALGATVGLASAPAQ---------AA-
+-VWNSCEQYGN-TS-L-NGYTLYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------NAKRVINKSITSLG-------
+--SLTSGYNV--TVP---SS--G-AYNTSYDIW-----------DTG-YKYEVMLWVNKT
+GAVGPL-GT-----------SQ----------GT-LTLGGHTWTVYKGN----N---G--
+-S-NDVFSFV---RTSN-SSSGT-VDVLPILK------WIKDTKGWF-GNVT--IGDLQF
+---------GFEITSS-SG-GLDFVTNSLSVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0F0H0P3 Uncharacterized protein n=1 Tax=Lechevalieria aerocolonigenes RepID=A0A0F0H0P3_NOCAE
+----------------MTK-----FARSLVVAVAAV-LAVSLGASTAL---------AA-
+-TWTSSDQWGS-WS-N-GGYTVRNNVWGGGRG----PQTIW--ANSYS-NWGV-------
+---RSNQPNTGGVKS--Y---P-----------------HSEKMVNRRLSALG-------
+--RLTSNFNV--SYP---NA--G-SYTTAYDIW-----------ANN-NAYEIMLWMNKV
+GNVGPI-GS-----------FQ----------TS-VSVGGHSWNVYRGS----N---G--
+-A-NAVFSFV---RTSN-TGSGS-VDIKAVMN------WVR-SRGWF-GDVT--VGAVQF
+---------GYEITSS-SG-GLNFTTNSYSVSAG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0006E32233 hypothetical protein n=1 Tax=Streptomyces griseoplanus RepID=UPI0006E32233
+--------MGTATTGSATCAPA-RPRALLLGLLAALAAALGLAAQPAY---------AA-
+-TWSSSDQWAT-WS-N-GGYTLYNDIWGSGAG----PQTIW--ANSSS-NWGV-------
+---WANHPNTGGVKS--Y---P-----------------NATKYVGRTLSSLA-------
+--SVKSSFNV--TVP---SS--G-AYETAYDIW-----------DSG-NANEIMLWMNRT
+GAVGPL-GT-----------SQ----------GS-VTVGGHTWTVYKGS----N---G--
+-A-NAVFSFV---RTSN-TSSGT-VDILAVLN------WIRTTKGWF-GNVT--LGNVQF
+---------GYEITSS-SG-GLNFTINSFSVSAS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q0PXV4 Putative endoglucanase n=1 Tax=Diaphorina citri RepID=Q0PXV4_DIACI
+---------------------M-KFSLAILIVFIAVSQIRGSNAAFHT------------
+------DKFGEEKI---GGYVVRNNVWGDGAG----SQNIT--VTDQG-HWCI-------
+---HCSHLKQGGIKS--Y---P-----------------HTGYMINKPLSAIH-------
+--GLTSTYGA--KVDN-KQG--LLAYSLTYDIW-----------LQK-HKYEIMIWVQYC
+GPIGPI-GG-----------RT----------NDNVQIAGYKWNVHKGT----N---G--
+-V-NQVFSFL---NVGQ-SEKGS-IDLKAILD------WIC-QQNWFNEKEATLLDEVQF
+---------GFEITNS-PA-NTNFCLNDFSCTVK--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_C6WRV4 Glycoside hydrolase family 12 n=1 Tax=Actinosynnema mirum (strain ATCC 29888 / DSM 43827 / NBRC 14064 / IMRU 3971) RepID=C6WRV4_ACTMD
+----------------MVN-----RIRAAFAVFAVV-ASLLASTGVAS---------AA-
+-VWSSTDKWGT-WS-N-GGYTVRNDVWGSGVG----PQTIW--ANSYS-NWGV-------
+---WADHPNTGGVKS--Y---P-----------------HSAKAIGRKLSALS-------
+--TLRSSFNV--TRP---GG--G-AYATAYDIW-----------ADN-HAYEIMIWANKQ
+GAVGPI-GS-----------KQ----------TT-VSVGGHTWDVYRGS----N---G--
+-S-NAVFSFI---RTSN-TNSGT-VDVLAVLR------WIR-TQGWY-GDVT--VDEVQF
+---------GFEITSS-AG-GMDFVSTSFSVTS---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A093AX84 Uncharacterized protein n=1 Tax=Amycolatopsis lurida NRRL 2430 RepID=A0A093AX84_9PSEU
+----------------MRR-----QARSLMSVVVLALVAMLVTGGTAQ---------AA-
+-TWSSSDKWGS-WP-N-GGYTVRNNVWGGGSG----PQSIW--ANSYS-NFGV-------
+---WANHPNTGGVKS--Y---P-----------------HSAKNVGRQLSGLR-------
+--SLSSSFNV--SRP---GG--G-AYATAYDIW-----------ANN-NAYEIMLWMNKQ
+GAVGAI-GS-----------KE----------TT-VSVGGHTWDVYRGS----N---G--
+-A-NAVFSFL---RTSN-TNAGT-VDVLAVLN------WIK-NRGWY-GDVT--VGEVQF
+---------GFEITSS-SG-GMNFSANSYSVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004CAA32E hypothetical protein n=1 Tax=Streptomyces sclerotialus RepID=UPI0004CAA32E
+--------MATST--R-TRTLG-KVAKALLAPALALGATVGLASAPAQ---------AA-
+-VWNTCDQWGN-TT-L-NGYTLYNNIWGSGAG----SQCTW--ANSGT-NWGV-------
+---WANHPDTGGIKS--Y---P-----------------NSKKVINKSITSLS-------
+--SLTSSYNV--TVP---SS--G-AYNTSYDIW-----------DTD-YDHEIMLWVNYN
+GAVGPL-GT-----------SQ----------GT-VTLGGHTWNVYKGD----N---G--
+-A-NQVYSFL---RTSD-SSSGT-VNILPILK------WIKDTKGWI-GNET--IGDVQF
+---------GYEITSS-SG-GLDFRTNNLTVSSG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A066TZ89 Glycoside hydrolase n=4 Tax=Amycolatopsis RepID=A0A066TZ89_9PSEU
+-----------------------MSAALLAAAGLAAPVAVAP---------------AAH
+ADTLICDQYGTTTI-G-GRYVVMNNRWGSSAQ-----QCI---NV--T-GSGFRIQTQ--
+---QGST-SGGAPLS--Y---PAVYLGCHYSN------CSPGSPLPRQLSRIG-------
+--SVPSSISY--TYAG------G-VFDASYDIWLDPTP--KT-NGVN--QMEIMIWFNRT
+GGVQPV-GG-----------RV----------GT-TSIGGRGWEVWQGN----N---G--
+-G-NDVVSYV---AQST-LSGWS-FNVLDFVN------DVD-NRTRVDRSWY--LTSVQA
+---------GFEPWSG-GV-GLAVNSFSTSVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004C2DD60 hypothetical protein n=1 Tax=Lechevalieria aerocolonigenes RepID=UPI0004C2DD60
+----------------MNK-----LMRALIVAMAAV-LTVSVAAGTAQ---------AA-
+-TWSSSDRWGT-WS-N-GGYTVRNNIWGSGYG----PQTIW--ANSYS-NWGV-------
+---WANHPNTGGIKA--Y---P-----------------HSERMVNRRLSSLG-------
+--SLSSSFNV--SYP---NA--G-AYTTAYDIW-----------ADN-NAYEIMLWMNKV
+GAVGPI-GS-----------WQ----------AS-VSVGGHSWNVYRGS----N---G--
+-A-NQVFSFV---RTSN-TGAGQ-VDVKAVMD------WIR-GRGWF-GDVT--VGAVQF
+---------GYEITSS-SG-GLNFNTNSYSVSFG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0F7TF62 Uncharacterized protein n=2 Tax=Eukaryota RepID=A0A0F7TF62_9EURO
+------------------MKSF-APLSLVSLALAGLSNAAT-------IP-TKSLTRR--
+--ADFCDQWGSTTT-GS--YIVYNDLWGQS-YDTSGTQCTGVDSLSGT-TIAWHTSYS--
+---W-SG-ASSQVKS--F---ANVAL-------------Q-FTA--KTLSSIS-------
+--SIKSSWKW--SYST-TS----IVADVAYDMFLSSSA------SGS-NEYEIMVWLAAL
+GGAGPI-SS--T-----GS-AI----------AT-TTINGVTWKLYVGP----N---G--
+-S-MTVYSFV---AEST-VTSFS-GDMLKFFT------YLIDNQGLS-SSLY--LIDVQA
+---------GTEPFTG--TAKLTTSAYSAVVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0003605B87 hypothetical protein n=1 Tax=Actinomycetospora chiangmaiensis RepID=UPI0003605B87
+---------------------------MVAGGSVFVGNAVGSAATYAQ------------
+----ICDQFGSQGV-G-GKYVVQNDRWGTPNK-----QCV-----TPF-DTGFSLD----
+---VADGANNTGPSG--Y---PSIYRGCNYGYCTP----GSANLFPAPVRTLG-------
+--TVRSNLAT--TGPD-RTQPVN-QYNTAYDIWFDPNP--AQA-GRN-TGAEMMIWLNRT
+SWVQPI-GK-----------PY----------YD-VNVGGVIYTVWYGKT----------
+-D-LPVISYV---RKTP-TTSVTNLPIDLFVR------DAS-NRGVIRSTWY--MTSVQA
+---------GFEPWTG-GK-GLKVTNFSVTRNGQ--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0B7K918 Uncharacterized protein n=1 Tax=Bionectria ochroleuca RepID=A0A0B7K918_BIOOC
+------------------MKLS-SFLTSAFLASTTLATPTP------------TLEER--
+-ATTWCDAFGSLTT-EG--YTVYHNNWGSG-QATSGSQCTTFNSVTSK-SFSWSTSWT--
+---W-QG-GNIHVKS--Y---SNVAL-------------E-KVN--KKLSAIN-------
+--SIPSTWTW--RYTG-TN----MVSDVSYDLWLAPSV------GAN-NKYEIMIWVGSY
+GGAGPI-SD--T-----NETPL----------AT-PTILGTKWKLFRGP----N---G--
+-D-TTVYSFV---APSN-IGNFS-GDLKKFFD------YLTSSQGVS-TDMV--VTSLQA
+---------GTEPFVG-SNCVFTTSKYTISVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00055DF146 hypothetical protein n=1 Tax=Streptomyces aureus RepID=UPI00055DF146
+--------MAPRT--T-LR-----LARAVVAPALALGATIALASAPAQ---------AA-
+-VWSSCDQWGS-TT-L-NGYTLYNDIWGSGAG----SQCIW--ANSGT-SWGV-------
+---WANHPDTGGIKS--Y---P-----------------NSKKYVGRTIAGLS-------
+--SLTSTYNV--TVP---SS--G-AYNTSYDIW-----------DTG-YAYETMLWVNYN
+GAVGAL-GT-----------SQ----------GS-LTLNGTTWTVYKGN----N---G--
+-A-NDVFSFL---RSSD-STSGT-VDILPILR------WIANTKGWMPNTKT--IGDVQF
+---------GFEITSS-SG-GLDFVTNNLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_M2NH90 Glycoside hydrolase family 12 protein n=1 Tax=Baudoinia compniacensis (strain UAMH 10762) RepID=M2NH90_BAUCO
+------------------MYAA-ALISAL----VASAVA------------------Q--
+-SSTLCSQYASATS-GP--YSVNNNAWGSS-YASSGSQCTYVDSLSSS-GAAWHSTWT--
+---W-AG-ANTQVKS--Y---PNSGF-------------T-FTK--KLVSQVN-------
+--SIPTTATW--KYST-TS----INADVAYDLFTAADI---NHVTYS-GDYELMIWLGRY
+GSIQPI-GS-----------QI----------AT-TTIGGTSWAVWFG---------G--
+-SSQKTYSFV---ASS-PITSFS-GDIKPFFT------YLTNSQGFPASSQY--LIDLQF
+---------GTEPFTSTGSATFTVSKWTAAVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0G2GZI8 Putative xyloglucan-specific endo-beta-glucanase a n=1 Tax=Diplodia seriata RepID=A0A0G2GZI8_9PEZI
+------------------MKFT---SAALCAGAAALAAAAP----------TKTLNRR--
+--ADFCDQWGSTVT-GT--YTVYNNLWGQD-NADSGSQCTGVDSLSGD-SLAWHTSWT--
+---W-TG-GAGQVKS--Y---ANVVL-------------TDVEQ--VQLSTIS-------
+--SIPSTWKW--SYDG-SD----IVADVAYDLFTSSTA------GGD-EEYEIMIWLGAL
+GGAGPI-SS--T-----GS-SI----------AT-TTLGGVSFDLYSGP----N---G--
+-Q-MTVFSFV---ASSS-AEDFS-ADLKDFID------YLTTNQGLS-TSQY--MKSIGA
+---------GTEPFSG-TDAVFTTSEFSVSMS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A081EDR4 Uncharacterized protein n=3 Tax=Streptomyces RepID=A0A081EDR4_STRFR
+--------MPR------RT-----LLRTVLPAAAALAGLTTLASAPAH---------AA-
+-VWSSSEQWGT-WS-N-GGYTLYNNIWGSGTG----PQTIW--ANSYS-DWGV-------
+---WADHPNTGGIKS--Y---P-----------------NAKKVVNKPISQIT-------
+--TLTSHYNV--TVP---NS--G-AYNTSYDIW-----------DTD-YDHEIMLWVNRT
+GPVGPL-GS-----------HQ----------GD-VSLGGHSWSVYRGD----N---G--
+-H-NAVYTFI---RSSN-STAGT-VNIKPILD------WLKNTKGWI-GDET--IGDVQF
+---------GYEITSS-AG-GLDFRTNGFGVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004C662C5 hypothetical protein n=2 Tax=Streptomyces RepID=UPI0004C662C5
+---------------MAHRSPR-PGTRLPLALAAAFTALLGFAAAPAQ---------AA-
+-TWSSSEPFGS-YT-TPDGYTLYNNVWGSGAG----SQTIR--AESAS-EWEV-------
+---TADHPATSGVKS--Y---P-----------------NAKKVINKPLSSIT-------
+--SLTSSYDV--SVP---AS--G-AYSTAYDIW-----------DSD-YDHEVMLWVNHT
+GAVGPI-GT-----------EQ----------AT-VTLGGATWKVYKGD----N---G--
+-A-NQVYSFL---RTSD-SSAGT-VDLLPVLR------WIQ-QQGWW-GDET--IGDVQF
+---------GYEITSS-PG-GLDFATRSFRVTGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_R7SNW8 Endocellulase n=1 Tax=Dichomitus squalens (strain LYAD-421) RepID=R7SNW8_DICSQ
+------------------MRFA-ALFTVTA---VTVVATAQ-------------------
+---TLTGQYDCTPA-GE--FTLCQNLWGES--AGVGGQNSTLLSASGN-TVSWRTIWQ--
+---W-QN-NPNNVKS--Y---ANVES-------------STAKG--VQLSKLS-------
+--SAPTAWQW--KYET-ESS--GIRADVSYDIWTGTASS-GQPASSA-SSYEIMIWLSGQ
+GGIQPV-----------GSQVT----------TG-ISLAGHTWNLWKGP----N---A--
+-N-WQVLSFV---SQDGDITDFN-ADLKEFFD------YIVQNQGVS-SSQY--VQAIQT
+---------GTEPFTG--SASLLTESYSVALNQ---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004BFDDEB hypothetical protein n=1 Tax=Streptacidiphilus jeojiense RepID=UPI0004BFDDEB
+---MRIPTRTTRTTRTSRK--G-RAARAGLSLAVAA-SALMLTATDAS---------AA-
+-TYTSSDQWAS-YT-S-GSYTIYNDEWGSGYG----SQTLW--ANSYA-DWGV-------
+---SSTQPSTSGVKS--Y---A-----------------NVSRSFGTALNSLS-------
+--SATSTFAT--TLP---ST--G-NWESAYDIW-----------LNG-SSVEVMLWMDKS
+GDVGPL-GS-----------SV----------GN-LTLDGKTWTVYVGS----N---G--
+-T-NPVYSFV---LSSN-VTSGT-VNILNILK------WMQNTKGYV-SNPT--LSTVQF
+---------GFEISGT-GNTAQNFAVTNYSATAS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0C5GI18 Uncharacterized protein n=14 Tax=Actinobacteria RepID=A0A0C5GI18_9ACTN
+--------MATRT--P-RR-----IVKALLAPALALGATVGLASAPAQ---------AA-
+-VWNSCDQWGN-TT-L-NGYILYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---RADHPNTGGIKS--Y---P-----------------NAKKVVNKPLTSLA-------
+--SLTSSYNV--TVP---SS--G-AYNTSYDIW-----------DTD-YDYEIMLWVNYN
+GAVGPL-GT-----------AQ----------GS-VTLGGHTWNVYKGN----N---G--
+-A-NEVFSFL---RTSD-STSGT-VNILPILK------WIKDTKGWM-GNET--IGDVQF
+---------GYEITSS-SG-GLDFTTNNLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_S7RMJ3 Concanavalin A-like lectin/glucanase n=1 Tax=Gloeophyllum trabeum (strain ATCC 11539 / FP-39264 / Madison 617) RepID=S7RMJ3_GLOTA
+--------------------ML-ALAASLFLVPIVLAS----------------------
+--NQICGQWDTLTG-GD--FTLYQDLWGES-AATSGSQCSWLNSTSGD-CITWGTQWT--
+---W-QG-GQYNVKS--F---ANVGL-------------T-MTP--KQLSGIK-------
+--SIPTTWDY--TYTGTSG----AVADVAYDMFLSSTS------GGT-AQYEVMVWLDAL
+GGAGPI-SS--S-----GS-PI----------AT-PTIGSHSWKLYSGP----N---G--
+-Q-MTVYSFV---ASST-ITAFS-GDLIEFFE------FLESNEGVS-SSQY--LNSIQA
+---------GTEPFVG-TNAKLQVSNYCVALD----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A7E5C6 Putative uncharacterized protein n=1 Tax=Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1) RepID=A7E5C6_SCLS1
+------------------MKFT-QSLVSLALATVAVASPTA------------IVDKR--
+-ATTKCGQWDTFQT-GT--YTIYQNLWNIT--GFTGSQCTTLTSDTSN-TLVWSTAWS--
+---W-AG-GSSQVKS--Y---ANVGL-------------T-MSP--KEVSTIK-------
+--KIPTTWKW--SYTG-SN----LVADVSYDLFSSAKG------TGA-ADFEIMIWVAAL
+GGAGPI-SA--T-----GK-PV----------AT-VTIAGVSWKLYTGL----N---G--
+-S-TTVHSFV---AASS-VTNFS-GDLKEFLT------YLVTYQKYP-ATQL--LTTIQA
+---------GTEPFTG-SKAVFSTSAYSVSLS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00068BEFF8 hypothetical protein n=1 Tax=Streptomyces bicolor RepID=UPI00068BEFF8
+---MERDTMAKSA--L-RK-----ITMAVLAPAMALGATVGLASAPAS---------AA-
+-VWNTCDQWGS-TN-L-NGYTLYNNIWGSGAG----SQCTW--ANSGT-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------NSTKAINKSIASLG-------
+--WLTSDYNV--SVP---SS--G-AYNTAYDIW-----------DTD-HQYEIMLWVNHN
+GAVGPI-GG-----------YD----------ST-VTLGGHNWNVYRGT----N---G--
+-A-NQVFSFL---RTSD-SNSGT-VDIKPILQ------WLAYTKGWMSSNET--IGDVQF
+---------GYEITSS-SG-GLNFNTNNLTINGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000372011F hypothetical protein n=2 Tax=Streptomyces RepID=UPI000372011F
+--------MATRT--R-SR-----LVMALLAPALALGATVGLASAPAS---------AA-
+-VWSSCDQWGS-TT-L-NGYTLYNDIWGSGAG----TQCIW--ANSGT-NWGV-------
+---TANHPNTGGIKA--Y---P-----------------NAKKVIGKSITSLG-------
+--SLKSSYNV--TVP---SS--G-AYNTSYDIW-----------DTN-YAYEIMLWVNKT
+GAVGPL-GT-----------SQ----------GS-LTLGGSTWTVYKGN----N---G--
+-S-NDVFSFV---RSSN-SSSGT-IDILPILK------WIKDTKGWF-GNVT--IGDLQF
+---------GFEITSS-SG-GLAFTTNSESVTSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00051ACA53 hypothetical protein n=1 Tax=Streptomyces sp. URHA0041 RepID=UPI00051ACA53
+----------------MRTTLRRTPRTVLLGLVAAAAAVVGLAAAPAQ---------AA-
+-TWSSSDQWAT-WS-N-GGYTLYNDVWGSGAG----PQTIW--ANSSS-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------NATRYVGTKLSALH-------
+--SVSSSFNV--SVP---SS--G-AYETAYDIW-----------DSN-NAYEIMLWMNKT
+GPVGPL-GT-----------SQ----------GN-VSVGGSSWTVYKGS----N---G--
+-A-NAVFSFV---RTSN-TSSST-VDVLAVLN------WLKNTKGWF-GDIT--LGNVQF
+---------GYEITSS-SG-GLNFVTNSFSVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0F0GFD7 Uncharacterized protein n=1 Tax=Lechevalieria aerocolonigenes RepID=A0A0F0GFD7_NOCAE
+------------------MFAH-RFRVVLATAALALAAVIVQ-ASPAQ---------AAK
+T-----CNSGGSY--DMGKYWISNNLWGAGSG-SGW-QCIWNNSQSGN-NISWGTNY---
+---SWSGSG-NSVKS--Y---DAAILGWHWGWRR-----T-GTGLPVQLSANK-------
+--NVNTGFTY--NVRH-S-G--G-AMNVSYDMWLHPMS--NPGGGTT-PSDEVMIWTYRA
+GGAGPA-GT-----------LQ----------AT-VNVAGTSWDLYRGRIGGS-------
+TG-WNVYSFV---RKAN-TSSAT-FNARDFLN------HLV-GRGWMSSSKY--LTSVQA
+---------GTEVFTG-SG-QLDVTNFYANVG----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_W4KH42 Glycoside hydrolase family 12 protein n=1 Tax=Heterobasidion irregulare TC 32-1 RepID=W4KH42_9HOMO
+------------------MTFLKTFALILFTLNIASTLAVPVIETQGLNKRGSVLV----
+-------------------YTLENNLWGES-AATSGSQTSQVTATSGT-TITWHTTYS--
+---W-TG-GNTQVKS--Y---ANLDL-------------RQGLG--KAISAIS-------
+--SIPTTWHW--TYSS-AST--NLVADVSYDLWLSEMAG-TGGASSS-STYEIMIWLSTR
+GGAGPA-GS-----------QI----------GT-ATVDGVTWKLYKGT----V---S--
+-T-WTVFSFV---APSE-ITSFV-TDLKPFLT------YLTGNQGVP-SSQF--LVQAQA
+---------GTEPFIG--SATLSTTSYSLAIN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0005272941 hypothetical protein n=1 Tax=Actinopolyspora mortivallis RepID=UPI0005272941
+-----------------------MRLPRAAVVLVALLATLGLGGGTAY---------AA-
+-AWSSSEKFAT-WS-D-NGYLVRNNIWGSGVG----SQTIW--ANSYS-GWGV-------
+---WADHPDTGGVKS--Y---P-----------------HSARPIDERISEMD-------
+--TLTSEFDV--SVP---EG--G-AYATSYDIW-----------VDD-HGYEIMLWMNQH
+GPVGPI-GS-----------RV----------DT-TEVGGHTWDVHRGS----N---G--
+-Y-NEVFSFV---RHGD-TNAAT-VDIKAVLD------WIV-QQGWFSAEES--VHEVQF
+---------GFEITSS-PG-GMDFVSNRYSVTS---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_R1III1 Uncharacterized protein n=4 Tax=Amycolatopsis RepID=R1III1_9PSEU
+----------------MHK-----VVRSLLVSLTAA-AVVAGTAGVAE---------AA-
+-TWSSSDKWAT-WS-N-GGYTVRNDVWGGGAG----PQTIW--ANSSS-NWGV-------
+---WANHPNTGGVKS--Y---P-----------------HSAKNVGRTIGSLR-------
+--QVSSSFNV--SRP---GS--G-AYETAYDIW-----------ANN-NAYEIMLWMNKQ
+GAVGPI-GT-----------KQ----------TT-VSAGGHTWDVYRGS----N---G--
+-S-NEVFSFL---RTSD-TNAGT-VDVLAVLN------WIR-TRGWF-GDVT--LGEVQF
+---------GFEITSS-SG-GLNFTSNSYSVSAS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q0CFW4 Endoglucanase I n=1 Tax=Aspergillus terreus (strain NIH 2624 / FGSC A1156) RepID=Q0CFW4_ASPTN
+------------------MKIY-IAVSTL----ALTAAA------------------Q--
+-VSTLCGQYSSYTS-GA--YTVNNNLWGQG--SGSGSQCTYVDWVSGS-SVAWHTSWT--
+---W-SG-GSSSVKS--Y---ANSQL-------------S-FRK--QLVSGIH-------
+--SIPTTVDW--RYDN-TN----INADVAYDLFTAADI---NHVTYS-GDYELMIWLARY
+GGVQPI-GS-----------QI----------DT-ASIGGTTWQLWYGD----N---G--
+-SGQKTYSFV---SPS-PLTHWS-GDIQQFWN------YLSSRHGYPASSQY--LINLQF
+---------GTEPFTG-GRATMTVSSFSASVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_D0MJ55 Glycoside hydrolase family 12 n=4 Tax=Bacteria RepID=D0MJ55_RHOM4
+--------------MNVMRAVL-VLSLLLLFGCDWLFPDGDNGKEPEP---------EPE
+PTVELCGRWDARDV-AGGRYRVINNVWGAETA-----QCI---EVGLE-TGNFTITRA--
+---DHDNGNNVA--A--Y---PAIYFGCHWGA------CTSNSGLPRRVQELS-------
+--DVRTSWTL--TPIT---T--G-RWNAAYDIWFSPVT--NSGNGYS-GGAELMIWLNWN
+GGVMPG-GS-----------RV----------AT-VELAGATWEVWYA-----D---W--
+-D-WNYIAYR---RTTP-TTSVSELDLKAFID------DAV-ARGYIRPEWY--LHAVET
+---------GFELWEG-GA-GLRSADFSVTVQ----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_S7ZMB4 Putative endo-beta-1,4-glucanase n=3 Tax=Penicillium RepID=S7ZMB4_PENO1
+------------------MKSA-IALTTI----LAVASA------------------E--
+-LAQFCDQYGNWQS-GA--YSVGNNLWGKD--SGSGSQCTAVNSVSSN-GVAWSTTWN--
+---W-SG-GNSNVKS--Y---ANSGI-------------S-FNK--KLVSKVG-------
+--GIPTSVSW--TYSN-SN----INADVSYDLFTAADI---NHVTYS-GDYELMIWLAKY
+GPAQPI-GK-----------QI----------AT-ANVDGRNWALWYGA----N---G--
+-S-QKTYSFV---ASS-PINSYS-GDIKHFFD------YLTQHQGFPASSQY--LIDVQF
+---------GTEPFTG-GKSTFDVSHWSASVY----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_G9MT58 Glycoside hydrolase family 12 protein n=1 Tax=Hypocrea virens (strain Gv29-8 / FGSC 10586) RepID=G9MT58_HYPVG
+------------------MQLL-CFVLASLTANAAFALTTP--------------NKR--
+ATTW-CDAFGSIQA-GP--YTVYHNNWGAN-WATSGSQCTTYTALNGN-SVVWSTDWT--
+---W-AG-GQGHVKS--Y---SNVAL-------------E-KVD--KKLSDIK-------
+--SIPSTWTW--SYTG-SN----IVADVSYDLWLAPTA------AAN-NKYEIMIWIGTY
+GGAGPI-SS--T-----GSSPI----------AT-PTILGTKWKLFKGP----N---G--
+-D-TTVYSFV---ASSN-IQKWS-GDLKQFFN------YLTASQGVS-TSMV--VTSLQA
+---------GTEPFSG-SNAKFQTTAYTISVQ----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00068C0996 hypothetical protein n=1 Tax=Streptomyces hygroscopicus RepID=UPI00068C0996
+--------------MTTPVRSV-PLALLTALASLCGLLTA------AL---------PAH
+ADTVLCDQYASTTI-Q-GRYVVQNNRWGTSAT-----QCI---NA--T-GSGFTITQA--
+---DGSVPTNGAPKS--Y---PSVFYGCHYTN------CSPGTTLPKQLSSIG-------
+--SASTSTSF--TYAS---G--A-VFDASYDIWLDPAP--KT-DGVN--QTEIMVWYNKA
+GPIAPV-GS-----------QV----------GT-ATVGGRSWQVWTGW----N---G--
+-T-NNVITFV---SSST-LSSWG-FNVMDFVN------QAV-NRGLATRSWY--LTSIQS
+---------GFEPWSG-GA-GLAVNSFSASVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_G9PBX4 Glycoside hydrolase family 12 protein n=1 Tax=Hypocrea atroviridis (strain ATCC 20476 / IMI 206040) RepID=G9PBX4_HYPAI
+------------------MKFS-SYLIPGWLIASSGASPIS------------SIEPR--
+AITW-CGSFGSQQA-GP--YTIYHNNWGAA-TATSGQQCTTFNSLQGN-SVSWSTSWT--
+---W-TG-GNSNVKS--Y---SNVAL-------------E-NVD--KALSGIM-------
+--SIPSAWNW--QYSG-SQ----LVADVAYDLWLAPSA------SSA-NQYEIMIWLGKY
+GGAGPI-SS--T-----GSTPI----------AT-PTINGVSWQLFKGP----N---G--
+-S-TTVFSFV---APSN-INSWN-GDLKLFFN------YLTSSQGVS-TSMV--VTSLQA
+---------GTEPFIG-SNAVFTTTQYSISVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00047ACFD7 glycosyl hydrolase n=1 Tax=Cohnella thermotolerans RepID=UPI00047ACFD7
+---------------MKRK----------FVSLLVAGLISLMIAATAF---------AA-
+-VWSSSDNFAS-WS-N-GGYTVYNDVWGSGAG----PQTIW--ANSYS-NWGV-------
+---TSNQPNTGGVKS--Y---P-----------------NSTKEINTQLTSLH-------
+--SLTSSFNV--TVP---TS--GSSFESAYDIW-----------AGN-NAHEIMLWMNKY
+GAVSPI-AS-----------SWDANGNPVPAYTN-VSVGGHTWNVYKGS----N---G--
+-S-NDVFSFV---RTSN-TNSGT-VDVLAILN------WIK-SKGWI-GNEI--VNRVQF
+---------GFEITSS-PN-A-SFTCNSYSVSYS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q30BY7 Cell 12A endoglucanase n=1 Tax=Phytophthora ramorum RepID=Q30BY7_PHYRM
+------------------MKLF-IAIAAAAVAVSTASA-D--------------------
+--KEFCGQWNLTQT-DD--YTIYNNLWGAH-DDPKGGQCTGLDSVDGS-TIAWHTSFN--
+---W-NG-TSWQVKS--F---ANAAL-------------R-FDP--VQLADVK-------
+--SIPSTIEYDYKYDG-K-----IITNVAYDLFTSATA------NGT-VEYELMVWLAAL
+GGAWPL-SS--S-----GK-SI----------KE-VNVGNVDFNLYQGK----N---G--
+-N-TTVFSYV---AVNT-TNSFS-ADFKQFFD------ELPEDNTIA-STQY--LTHMQA
+---------GTEPFQG-QNATLTVSKYSAAVNAA--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q30BY5 Cell 12A endoglucanase n=2 Tax=Phytophthora ramorum RepID=Q30BY5_PHYRM
+------------------MK-G-LFAGVIAAAAFAVASA---------------------
+--GEYCGQWDWAKS-TN--YIIYNNMWNKN-SATSGSQCTGVDKISSS-TIAWHTSWN--
+---W-AG-APTQVKS--Y---SNAAL-------------I-FTP--KKVGSIS-------
+--TIPTKMKY--SYSY-SD---TAVADVSYDLFTSSSA------TGS-NEYEIMIWLAAY
+GGAGPI-SS--T-----GK-AI----------AT-VTIGSNSFKLYKGP----N---G--
+-S-TTVFSFV---ASKT-ITNFS-ADLQKFLS------YLVKNQGLP-SSQY--LTTLEA
+---------GTEPFTG-SNAKMTVSSYSAAVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q0V202 Putative uncharacterized protein n=1 Tax=Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173) RepID=Q0V202_PHANO
+------------------MKLT-LFTLASVTALAVAAPAPQ---------VIETLEKR--
+--ADYCGQWDNQII-GD--FTVYNNLWGKA-DATSGSQCTGVDGLSNG-TLKWHTKWS--
+---W-AG-GAGKVKS--Y---ANVVT-------------K-ITS--KALSEVK-------
+--SLPSSWTW--SYTG-SD----MIANVAYDLFTGSTP------TGD-HDYEIMIWLAAI
+GGAGPI-SA--T-----GS-PI----------AT-VTLAGTSWKLYNGL----N---G--
+-K-MNVFSFV---AESE-VKSFK-GDLMDFAN------YCIKSHGFP-NTQI--LQSVGA
+---------GTEPFSG-SDAVLTTSAYTMSQS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_D9VBY5 Glycoside hydrolase family 12 protein n=2 Tax=Actinobacteria RepID=D9VBY5_9ACTN
+----------------MHK-----AVRSLLAAVLAA-AAVATTAGVAE---------AA-
+-VWSSSDKWAT-WS-N-GGYTVRNDVWGSGAG----PQTIW--ANSGG-NFGV-------
+---WADHPGTGGIKS--Y---P-----------------HSAKNVGRTLSSLS-------
+--SVTSAFAV--NRP---GS--G-AYETAYDIW-----------AGN-NAYEIMLWMNKQ
+GAVGPL-GT-----------RQ----------TT-VSVGGHTWDVYRGS----N---G--
+-S-NAVFSFV---RTSN-TDSGR-VDVLAVLN------WIK-ARGWY-GDVT--LGEVQF
+---------GFEITSS-PG-GSNFTVGSYSVSAS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004C21091 hypothetical protein n=1 Tax=Glycomyces sp. NRRL B-16210 RepID=UPI0004C21091
+----------------MRR--R-SLLTAALAAPLATAGAVGALQSPAQ---------AQ-
+-TWSSDDQWGN-WT-T-GPYTLYNNIWGSGAG----YQSIW--ANSQS-DWGV-------
+---WADHPNTGGIKS--Y---P-----------------NVSYTLGRNVSNMG-------
+--SVSSSHSI--TVPT-SGS--GLAYNSAYDVW-----------GNG-HDHEIMIWTQWH
+GPVGPL-GS-----------HE----------GQ-FNLGGRNWDYFQGS----N---G--
+-A-NPVYSFL---ATSQ-STSGS-VDITAICQ------WLV-NQGRM-PNVR--IDQIQF
+---------GWEITSA-AG-GYDFRVNSYSLST---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_S2ZKQ1 Uncharacterized protein n=4 Tax=Streptomyces RepID=S2ZKQ1_9ACTN
+--------MATRT--LGRR-----IGMALIAPTLALGATVGLASAPAS---------AA-
+-VWSSCDQWGN-TT-L-NGYTLYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---NANHPNTGGIKS--Y---P-----------------NAKKVINKSITSLG-------
+--SLSSSYNV--SVP---SS--G-AYNTSYDIW-----------DTG-YQYEIMLWMNKT
+GAVGPL-GT-----------SQ----------GN-VTLGGHTWTVYKGN----N---G--
+-A-NDVFSFI---RTSN-SSSGT-VNVLPILK------WIKDTKGWF-GNVT--IGDLQF
+---------GFEITSS-SG-GLDFTVNSESVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_I0BM09 Glycoside hydrolase n=4 Tax=Paenibacillus mucilaginosus RepID=I0BM09_9BACL
+---------------MMKRVQR-ISTKIGALSAVLMLASVLAVSAATA---------AST
+S-----ADGGKVYF-DNNKQYLFNNAWGKSSV-SGWSQSVY--YNNAS-DLGW--VW---
+---NWPTTS-GGVKG--Y---PSIVSGWHWTDGY-----TAGSGFPTRIWDNK-------
+--NINTSVTY--NFAS-NTS--G-VYNMTYDLWLHDTN--NAKYNSR-PTDEIMVWLNNT
+N-AGAL-GT-----------YI----------ET-VSIGGSSWNVYKGYVDDGT---G--
+GG-WNVFSYL---RTAN-TNSID-LNLKNFVD------HAVYTKKWIANSKY--ISSVEF
+---------GTEVSSG-SG-QVNLSRWSLSVQ----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004E1CE67 hypothetical protein n=1 Tax=Streptomyces sp. NRRL F-5123 RepID=UPI0004E1CE67
+----------------MRTALRKKPRMLLLGLAASAAAAVGLAAAPAY---------AA-
+-AWSSSDQWAT-WS-N-GGYTLYNDVWGSGAG----PQTIW--ANSYS-NWGV-------
+---WANHPNTGGVKS--Y---P-----------------NATRYVGKKLSALH-------
+--SVSSSFDV--TVP---SS--G-AYETAYDIW-----------DTG-NAYEIMLWMNRT
+GAVGPL-GT-----------SQ----------GN-VTVGGSTWTVYRGS----N---G--
+-A-NAVYSFV---RSSN-TSSST-VDVLAVLN------WIKNTKKWF-GDIT--LGNVQF
+---------GYEITSS-SG-GLDFTTNSFSVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A066XN60 Putative glycosyl hydrolase family 12 n=1 Tax=Colletotrichum sublineola RepID=A0A066XN60_COLSU
+------------------MKVY-SYIVAGIFAPLAL------------------------
+-AQSLCDQYGYYAQ-AG--YYFNNNRWGQG--SGQGSQCLTVNWANSD-GVGWKADWT--
+---W-SG-GQNNVKA--Y---PYSGL-------------TMSNK--LLVSQIG-------
+--YLGTAASW--QYSN-TN----IRANVAYDLFTAANP---NHDPSS-GDYELMIWLGKF
+GDIQPI-GS-----------SQ----------GT-VNVGGRSWNLWYGV----N------
+-NGMKIYSFV---APS-PITDFS-GDIKAFFN------YLQNSKGFPASSQY--LITNQF
+---------GTEPFTG-GPTTFTVSRWNAKVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_D2PPG5 Glycoside hydrolase family 12 n=1 Tax=Kribbella flavida (strain DSM 17836 / JCM 10339 / NBRC 14399) RepID=D2PPG5_KRIFD
+----------------MRT----RSWRALVALVTLL-AGLAATTLPAS---------AA-
+-TWQSSDKWAT-WS-N-GGYTVRNNIWGGGAG----PQSIW--ANSYS-NWGV-------
+---WANHPNTGGVKS--Y---P-----------------HAGRAINKRISALG-------
+--TLTSSFNV--SRP---GS--G-AYATAYDIW-----------AGN-NAYEIMLWMNRQ
+GAVGPI-GS-----------RQ----------TT-TTVGGHTWDVYRGS----N---G--
+-A-NEVFSFV---RTGS-TNAGT-VDLKAVMN------WIR-NRGWI-GDVT--MGEVQF
+---------GFEITSS-SG-GLNFATNSYSVTSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0M0U1X6 Endoglucanase-1 n=1 Tax=Madurella mycetomatis RepID=A0A0M0U1X6_9PEZI
+------------------MRPS-LLLLTT----AALAQAAEF--------SAGVVPRQ--
+-QHALCELYAYWSG-NG--YELLNNLWGKD-SATSGSQCTYLDGTATN-GIQWHTTWT--
+---W-EG-APNNVKS--Y---PYVGR-------------QFARG--KKISSIS-------
+--RMPTSVAW--QYDN-EN----IRANVAYDVFTAADP---DHANSG-GDYELMIWLARY
+GNVYPI-GS-----------SI----------GS-VTLAGKTWDLWTGY----N---G--
+-Q-MRVYSFV---PPSGTIKSFS-ADVKEFFN------YLERNHRYPSSQQN--LIVFQV
+---------GTEAFTG-GPATFTCTQFTADVI----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0M8Y820 Uncharacterized protein n=2 Tax=Saccharothrix sp. NRRL B-16348 RepID=A0A0M8Y820_9PSEU
+----------------------------------MV-GALFGATGVAE---------AA-
+-TWSSNDKWGT-WS-N-SGYTVRNNVWGSGVG----PQTIW--ANSYS-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------HSAKMVNQRLSSLG-------
+--RLSSSFNV--SRP---GA--G-AYATTYDIW-----------ANN-HTYEIMIWMNKQ
+GAVGPI-GS-----------RQ----------TT-VSVGGHTWDVYRGS----N---G--
+-A-NEVFSFI---RTSN-TNAGT-VDLLAVLK------WIG-SRGWY-GDVT--VGDVQF
+---------GFEITSA-SG-GMDFMSNNFSITT---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_V2XUD6 Endo--beta-d-glucanase n=1 Tax=Moniliophthora roreri (strain MCA 2997) RepID=V2XUD6_MONRO
+------------------MYLS-ISIGFLV---LPLLSVGQ-------------------
+---TITGPFQCMAA-GN--YNLCQNLWGRQ--AGVGSQNSTLIRADGN-IVSWSTKYT--
+---W-QN-GPNSVKS--Y---ANVES-------------TVAKG--VQLQDVV-------
+--SAPTTWSW--NYES-QSE--GIRADVAYDIWTGVPPT-GTPASAN-SSFEIMIWLSGL
+GGIQPV-----------GSPVT----------TG-VSLVGHTWDLWRGP----N---T--
+-N-WEVLSFV---AKDGEIKDFN-VDLNDFFK------YIIDNQSVE-PTQY--IQSIQA
+---------GTEPFTG--QANLITSNYSVAIATA--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004C4D729 hypothetical protein n=1 Tax=Streptomyces sp. NRRL S-646 RepID=UPI0004C4D729
+--------MAKST--L-RK-----ITMAVLAPAMAIGATVGLASAPAS---------AA-
+-VWNSCEQYAN-TS-L-NGYTLYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------NATKVINKSITSLG-------
+--SLTSSYNV--SVP---SS--G-AYETAYDIW-----------DTN-HKYEIMLWMNKT
+GAVGPL-GT-----------SQ----------GN-VTLGGHSWTVYKGN----N---G--
+-S-NDVFSFV---RTSN-SSSGT-VDVLPILK------WIKDTKGWF-GNVT--MGDFQF
+---------GFEITSS-SG-GLNFTVNSESVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A089XI19 Secreted sugar hydrolase n=2 Tax=Streptomyces RepID=A0A089XI19_STRGA
+--------MAAHT--ALRR-----LTRALLAPALALGATVGLASAPAQ---------AA-
+-VWNSCDQWGN-TT-L-NGYTLYNNIWGSGAG----SQCVW--ANSGT-NWGV-------
+---WADHPDTGGIKS--Y---P-----------------NSKKVINKPIGSIG-------
+--SLTSSYNV--TVP---SS--G-AYNTSYDIW-----------DTD-YDYEIMLWVNHH
+GAVGPL-GT-----------FQ----------GT-VGLGGHTWNVYKGS----N---G--
+-H-NEVFSFL---RTSD-SNSGT-VNILPILK------WIKDTKRWM-GNET--IGDVQF
+---------GYEITSS-SG-GLNFTTHNLTVSGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0000E2B02E hypothetical protein ATEG_03755 n=1 Tax=Aspergillus terreus (strain NIH 2624 / FGSC A1156) RepID=UPI0000E2B02E
+------------------MKLS-------VLSLASLASAAA---LNAKVLTGKSLTRR--
+--ADFCDQWGQVTT-GN--FILYNNLWGQG-NADSGSQCTGLDSSSGNDSIAWHTSWS--
+---W-SG-GAGQVKS--Y---ANAA-----------------------------------
+-------------YTG-SD----IIANVAYDLFTSSTA------DGD-NEYEIMIWLAAL
+GGAGPI-SS--T-----GS-PV----------AS-PTVAGHSWDLYSGM----N---G--
+-Q-MQVYSFV---ASSQ-TESFS-ADLQEFIM------YLQSNQGLP-TSQY--LVDVQA
+---------GTEPFSG-SDATLTTSAYSVSVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_D9WY08 Glycoside hydrolase family 12 protein n=3 Tax=Streptomyces RepID=D9WY08_STRVR
+--------MASRT--L-SR-----VTKALLAPALALGATVGLAAAPAS---------AA-
+-VWNSCDQWGN-TS-L-NGYTLYNNIWGGGAG----AQCIW--ANSGT-NWGV-------
+---WADHPNTGGIKS--Y---P-----------------NQTKAINKSITSLG-------
+--SLSSSYNV--SVP---SS--G-AYNTSYDIW-----------DTD-HDYEIMLWVNKT
+GPVGPL-GS-----------SQ----------GS-VSLGGHSWNVFKGT----N---G--
+-S-NEVFSFV---RTSN-SSSGT-VNILSILK------WIKDTKKWM-GNET--IGDVQF
+---------GYEVTSS-SG-GLNFTTNNLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_K5VSH7 Uncharacterized protein n=2 Tax=Agaricus bisporus RepID=K5VSH7_AGABU
+------------------MLFK-LASTVFLAQ-FFALTSAQ-------------------
+---TISGPFDCLPAGNS--YTLCQNLWGRT--SGVGSQSSTLVGSSGD-SVSWSTNWN--
+---W-QN-NQNSVKS--Y---ANIIA-------------DNAMG--KQLSAVT-------
+--SAPTSWSW--SYET-KSD--PIRANVAYDLWLGASPV-GAPASRN-SSYEIMVWLSRQ
+GGIQPI-----------GGPTA----------SG-IQLAGNTWTLWSGP----N---S--
+-N-WQVLSFV---SDTGDIPNFN-ADFKEFFD------YLVQNSGVS-SQQY--VQAIQA
+---------GTEPFTG--SANLVTHSYSVALN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000479555F glycoside hydrolase n=2 Tax=Lonsdalea quercina RepID=UPI000479555F
+-----------MFILDTKQGARSMFMKKTVGFASIAMAVLMANGGALA---------ASS
+S-----EDNAKLYL-PSGIDYVYNNTWGKSTVPNG-QQSVY--MNSAK-DMGW--SW---
+---SWPSDV-NSVKG--Y---PSIVHGWHWTTGY-----GTNTGLPVRLSENK-------
+--NINTTAAW--SFSN-ATG----TYNVSYDIWFHSDN--NANWWST-PTDELMIWMNST
+N-ASPA-GS-----------YV----------NT-VTIGGIPWDVYKGTV----------
+-SSWNVYSFV---IKSN-QTSAN-LNIKNFTD------YLVKSTQWMSNTKY--ISSIEF
+---------GTEVYKG-SG-TFKVSKWSVNIK----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_G2YJD4 Glycoside hydrolase family 12 protein n=2 Tax=Botryotinia fuckeliana RepID=G2YJD4_BOTF4
+------------------MKFT-QSLVSLVLATVAVANPTP------------TLEER--
+AAVTKCGQWDTVAT-GS--YTVFQNLWNIT--GFTGSQCTTVTSDTSN-SLVWSTSWS--
+---W-AG-GSSQVKS--Y---ANAGL-------------N-MAA--KQVSAIS-------
+--TIPSTWKW--SYTG-SN----VVADVSYDLFSSSTA------TGS-ANYEIMIWLSAI
+GGAGPI-SE--T-----GSTPI----------AT-PTIAGVSWKLFSGL----N---G--
+-A-TRVYSFV---ASST-VNSFS-GDLKTFLT------YLTTNQKYP-SSQY--LLSIQA
+---------GTEPFTG-SNAVFKTTAYSVSLN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_D5ZUE0 Glycoside hydrolase family 12 protein n=3 Tax=Streptomyces RepID=D5ZUE0_9ACTN
+--------MAPST--L-SR-----VTKALLAPALALGATVGLASAPAH---------AA-
+-VWHSCDQWGN-TG-L-NGYTLYNNIWGSGAG----SQCIW--ANSGT-DWGV-------
+---WANHPDTGGIKS--Y---P-----------------NAKKVINKPIASIG-------
+--SLTSSYNV--TVP---SS--G-AYNTSYDIW-----------DTD-YDYEIMLWVNDN
+GAVGPL-GT-----------AQ----------GT-VSLGGHTWNVYKGS----N---G--
+-H-NEVFSFL---RTSD-STSGT-VNILPILK------WIKDTKGWM-GNET--IGDVQF
+---------GYEITSS-AG-GLDFRTNSLTVSGG--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0M0ULS1 Endoglucanase-1 n=1 Tax=Madurella mycetomatis RepID=A0A0M0ULS1_9PEZI
+------------------MK---LSLFFL----SSLAAATPL--------AS-LDRRQ--
+-QATLCDQYGYWSG-NG--YELNNNNWGRD-AATSGSQCTYVDSSSGN-GVAWHTTWT--
+---W-NG-GENNVKS--F---PYSGR-------------QVARG--LRISSIN-------
+--TMQTSVSW--YYSN-TN----IRANVAYDVFTAADP---NHVNSS-GDYELMIWLARY
+GNVYPI-GS-----------SV----------GT-VNVAGRTWELWVGM----N---G--
+-S-MRVYSFI---APS-PINSFS-ANVKDFFN------YLQNNQGYPASSQH--LIVFQM
+---------GTEPFTG-GPATMTVSQFSANIS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q50LE3 Endocellulase n=1 Tax=Polyporus arcularius RepID=Q50LE3_9APHY
+------------------MHFS-TLATLVA---VAATASAQ-------------------
+---TLSGQYDCAPA-GA--YTLCQNLWGES--SGVGNQNSTLISTSGN-TVSWRTQWQ--
+---W-QN-NPNNVKS--Y---ANLLS-------------NSAKG--VQLSAVR-------
+--AAPTAWQW--EYES-KSD--GIRADVSYDIWLGTAPS-GDPASRA-SSYEIMIWLSGL
+GGIQPV-----------GSKIL----------SG-VNVAGHTWDLWKGP----N---S--
+-N-WQVLSFV---SSTGDITDFN-VDLKDFFN------YLTQSQGVA-ASQY--VQAIQT
+---------GTEPFTG--SASLFTKAYSVAINQ---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0B7G460 Uncharacterized protein n=1 Tax=Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) RepID=A0A0B7G460_THACB
+------------------------------MFVGQSVLATPL----AVDNSSSGLEKR--
+-FSILSGQWDSESE-GSGRYTLYNNLWGQSY-DTSGKQSTQATSYSGT-TLAWKTTYS--
+---W-AG-SSSQVKS--Y---ADVTL-------------NTGLG--KQLSAIS-------
+--SIPSTWKW--SYTS-ASS--SLIADVSYDLWLSNSAS-GTGSSST-STYEIMIWLSSR
+GGAGPA-GS-----------QI----------GT-ATVGGRSWKLYKGT----V---S--
+-T-WTVYSFV---ATSE-ITSYS-GDLKAFFT------YLSSSQGLS-TSQY--LVAAQA
+---------GTEPFVG-S-ATLTTSAYTISVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0A7RRF2 Xyloglucan-specific endo-beta-D-1,4-glucanase n=2 Tax=Penicillium oxalicum RepID=A0A0A7RRF2_PENOX
+------------------MKSF-TPLSLLSLALVGLGDAAA-------VPATNSLTRR--
+--SDFCDQWGSVTT-GN--YIVYNNLWGQS-ADPSGHQCTGVDSLKGN-TIAWHTSFG--
+---W-TG-ASSSVKS--F---ANIAL-------------K-FTA--KTLKSVK-------
+--SINSTWKW--SYSN-TN----IVADVSYDMFLRSSP------SSSTNEYEIMVWLAAL
+DGAGPI-SS--T-----GA-PI----------AT-TSINGVQWKLYKGP----N---G--
+-S-MTVYSFV---ADST-VTNFS-GDLKKFFT------YLINHQGLN-SNLY--LVDVQA
+---------GTEPFTG--SAKLTTSAYSVAVV----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI000413012A hypothetical protein n=1 Tax=Glycomyces tenuis RepID=UPI000413012A
+----------------MRR--R-SLFTAGAAATVAGAAAVGALPAWARTGDGSEAGTAQ-
+-VWESEEQWGQ-WQ-D-GDFTLYNNLWGQGWG----HQRIW--ANSHA-NWGV-------
+---NADHPNTGGIKS--Y---P-----------------NVSYTLGRNVWEMG-------
+--DVQSSFQL--TVPG-GAD--GLAYNTAYDIW-----------GDG-HAHEIMLWVNWS
+GPVGPI-GS-----------QI----------TT-VDVGGHSWDYYQGS----N---G--
+-A-NDVYSFL---IHDH-TSAAT-IELTPIAQ------WLV-EQGYM-PEVR--IDQIQL
+---------GWEITSA-AG-GFDFTVDDYSLSV---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A094GL48 Uncharacterized protein n=1 Tax=Pseudogymnoascus pannorum VKM F-4518 (FW-2643) RepID=A0A094GL48_9PEZI
+------------------MKLL-AVLAPALAAASAIPAGAP--------APSKTINER--
+-ATKICGQWDSVVT-GT--YTLYQDLWGID-AATSGSQCSTFESLNGN-TIAWSTSWS--
+---W-LG-GNYNVKS--F---PNVVV-------------TQKTG--YQVSAIK-------
+--SIPSKWNY--SYTG-SG----IVADVAYDIFSSSTA--AGNSDGS-SDYEIMIWLAAL
+GGAGPI-SA--T-----GS-VI----------AT-PTVAGKKWNLYYGL----N---G--
+-S-MKVYSFV---APSQ-VTSFD-GDLKEFYT------YLVASQGFS-ASQY--ITSIGA
+---------GTEPFVG-TNAVMTTTGYSVVVNL---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00068F414F hypothetical protein n=1 Tax=Streptomyces natalensis RepID=UPI00068F414F
+-----------------------MLTALLAAALLCLSWLVV-TPSASA---------GTT
+T---ICDKSGSTTV-PGGKYIVQNNEWGDSIP-----QCI---DV--S-DNGFNVTTG--
+---DHNLAGHGAPAA--Y---PSIYAGCHWGR------CSTGNGLPQQVSSFT-------
+--DPQSSVNF--TTPN---S--G-QWDASYDIWFDTNP--NP-TGQN-NGEELMIWANHA
+GPPQPF-GS-----------KV----------GT-VRLEGANWDVWYARQGS-S---P--
+-A-WNTVSYV---RQQP-TNATT-VHIKDFTD------DSI-ARNYLQPSWY--MTSVQF
+---------GFEPWVG-GP-GLAVNSFSYTPNGDGTSAAHTGQASGH-------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_W2YIY3 Uncharacterized protein n=6 Tax=Phytophthora parasitica RepID=W2YIY3_PHYPR
+------------------MKFL-IPATLALAAVASSA--DA-------------------
+--QKFCGRDDLKVV-GD--YTVYNNLWGED-NDKTGGQCTEVTGSTSS-SVSWKTSFN--
+---W-AG-DNWQVKS--Y---ANAAL-------------K-FQP--KQVSAIS-------
+--SIPTSIDYTYTFDG-H-----IIANVAYDLFTSSSA------NGE-IEYELMVWLAAL
+GGPWPL-TD--S-----GK-PI----------KT-VNIGGVDFDLFQGM----N---K--
+-K-VKVFSYV---AKKT-AYKFS-ADLKKFFN------ELPANNTLP-QTQY--LVKLEA
+---------GTEPFQG-KNGEMIVKSYSSKVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_T0K5B9 Uncharacterized protein n=1 Tax=Colletotrichum gloeosporioides (strain Cg-14) RepID=T0K5B9_COLGC
+------------------------------MAATAVASPTP------------TIEKR--
+-ATTWCDSFGSLAT-GA--YTVYHNNWGAA-QATSGSQCTTFNSLSSG-SVSWSTSWT--
+---W-AG-GQGQVKS--Y---SNVAL-------------E-KVN--KQLSAIK-------
+--SIPSKWTW--SYTG-SN----LVADVAYDLWLAPSV------GAN-NKYEIMIWLGSY
+GGAGPI-SS--T-----GS-KI----------AS-PKIAGTTWSLFKGP----N---G--
+-D-TTVFSFV---APSN-IGSFN-GDLKGFFD------YLVSSQGVA-NTNV--VTSLQA
+---------GTEPFSG-TNAVFKTSAISISVS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004408EF0 endocellulase n=1 Tax=Fomitiporia mediterranea (strain MF3/22) RepID=UPI0004408EF0
+------------------MR---SLLVLSG---LSAAVIAQ-------------------
+---TISGKFDCLPA-GN--FNLCQNLWGAN--AGVGGQNSTLISASGN-TVSWETQWT--
+---W-AN-NENSVKS--Y---ANVES-------------LTAKG--VQLSNVA-------
+--SAPTSWSW--TYKT-QSE--GIRADVSYDIWFGQASS-GTPASSA-SSYEIMIWLSGK
+GGIQPV-----------GSQSV----------TG-INLAGHNWNLWKGP----N---S--
+-N-WEVLSFV---SADGDITDFN-ADLNEFFT------YLTENQGVS-PSQF--LQSIQT
+---------GTEPFTG--NADLLINSYSVSVTSK--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A066VAZ4 Uncharacterized protein (Fragment) n=1 Tax=Rhizoctonia solani AG-8 WAC10335 RepID=A0A066VAZ4_9HOMO
+-------------------MVK-FALAATFFALSSVVSASP-----APAKAEVNLEKR--
+-FNVLSGQWDTENI----------------------------------------------
+-----------------------------------------GLN--KKLNAIG-------
+--KIPTTWRW--TYNA-AST--ALIADVSYDLWLSNVPNSGTG-SKD-TTFEVMIWLSNR
+-RAGPA-GS-----------KV----------AT-ANINGLNWGLFKGR----V---G--
+-T-WDVYSFV---APSE-LSNYN-ADLKPFLT------HLINSRGIS-SNQY--LVALQA
+---------GTEPFEG-S-GTLTTTAYTAAIN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00069BC965 hypothetical protein n=1 Tax=Streptomyces avicenniae RepID=UPI00069BC965
+---------------MSGLRRA-LVAFLAGVASVAGLLTAAPGAGASG---------PVG
+RDVVICDQYGSTTI-Q-NRYTVQNNRWGTSAT-----QCI---DV--S-GTGFRLAQA--
+---DGGVSTGGPPKS--Y---PSVFFGCHYGN------CSPGTNLPRQISSIG-------
+--TARTSITY--QYTG---N--S-VYNASYDIWLDPTP--RR-TGVN--QTEIMIWLNRV
+GPIQPI-GS-----------PS----------GT-VSVAGRSWQVWTGS----N---G--
+-S-NQVISFV---APSA-IGSLT-FDVMDFVD------VTV-SRGLAGNAWY--LTSIQA
+---------GFEPWQG-GV-GLGVSSFSATVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q8NJZ6 Endoglucanase n=1 Tax=Chaetomium brasiliense RepID=Q8NJZ6_9PEZI
+------------------MKLT-L-VLFV----SSLAAATPL--------GW-RERRQ--
+-QVSLCGQSSSWSG-NG--YQLNNNLWGQS-RATSGSQCTYLDSSSNS-GIHWHTTWT--
+---W-EG-GEGEVKS--Y---AYSGR-------------QVSTG--LTIASID-------
+--SMQTSVSW--EYNT-TD----IQANVAYDIFTAEDP---DHEHSS-GDYEVMIWLARY
+NNVSPI-GS-----------SV----------AT-ATVGGDTWDLFAGA----N---G--
+-D-MEVYSFV---AEN-TMNSFS-GDVKDFFD------YLEQNVGFPVDDQY--LLVFEL
+---------GSEAFTG-GPATLSVSQFSANIA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q5BG78 Xyloglucan-specific endo-beta-1,4-glucanase A n=2 Tax=Aspergillaceae RepID=XGEA_EMENI
+------------------MKLL-------ALSLASLASAAT-------------ITRR--
+--ADFCGQWDTATA-GN--FIVYNNLWGQD-NADSGSQCTGVDSANGN-SVSWHTTWS--
+---W-SG-GSSSVKS--Y---ANAAY-------------Q-FTA--TQLSSLS-------
+--SIPSTWEW--QYST-TD----VVANVAYDLFTSSSI------GGD-SEYEIMIWLAAL
+GGAGPI-SS--T-----GS-SI----------AT-VTLGGVTWNLYSGP----N---G--
+-S-MQVYSFV---ASST-TESFS-ADLMDFIN------YLVENQGLS-NSQY--LTHVQA
+---------GTEPFTG-SDATLTVSSYSVSVS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0F7VV92 Endoglucanase S n=1 Tax=Streptomyces leeuwenhoekii RepID=A0A0F7VV92_9ACTN
+--------MATRT--P-RR-----IVKALLAPALALGATVGLASAPAQ---------AA-
+-VWNSCDQWGN-TT-L-NGYILYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---RADHPDTGGIKS--Y---P-----------------NAKKVINKPLSSLA-------
+--SLTSSYNV--TVP---SS--G-AYNTSYDIW-----------DTD-YDYEIMLWVNYN
+GAVGPL-GT-----------AQ----------GS-VTLGGHTWNVYKGN----N---G--
+-A-NEVFSFL---RTSD-STSGT-VNILPILK------WIKDTKGWM-GNET--IGDVQF
+---------GYEITSS-SG-GLDFTTNNLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0C4DIY5 Murein transglycosylase n=15 Tax=Fusarium RepID=A0A0C4DIY5_FUSO4
+------------------MKGS-LVFLAGLFAPFAL------------------------
+-AQSLCDQYSYYAN-GG--YEFNNNRWGQS--SGSGSQCTYIDWSNSN-GAGWHVDWS--
+---W-SG-GQDNVKA--Y---PNSAL-------------QIGTK--RIVSSIS-------
+--NMQSAAAW--SYSG-TN----VRANVAYDLFTAADP---NHVTYS-GDYELMIWLARY
+GNVQPI-GS-----------KQ----------TT-VNIEGRSWELWVGM----N---G--
+-S-MKVFSFV---ASS-PVNSFN-SDVKQFFN------YLANSQGYPASKQY--LLTFQF
+---------GTEPFTG-SNAKLTVTNFNAHVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A098E102 Uncharacterized protein n=5 Tax=Fusarium sambucinum species complex RepID=A0A098E102_GIBZA
+------------------MKAS-VGFLAAFLAPVTL------------------------
+-AQSLCDQYSYYAN-GG--YEFNNNRWGQG--SGSGSQCTYIDWTNSN-GAGWHTDWT--
+---W-SG-GQDNVKA--Y---PNSGL-------------QISNK--RLLSSIS-------
+--NMQSAAAW--SYSG-TN----VRANVAYDLFTASDP---NHVTYS-GDYELMIWLGRY
+GGVQPI-GS-----------KV----------GN-ANVEGRTWELWSGM----N---G--
+-S-MRVYSFV---APN-PVTNFN-SDVKQFWN------YLANTQGYPASKQY--LLTFQF
+---------GTEPFTG-SGAQFKVTNFNAHIN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0M8YI01 Uncharacterized protein n=1 Tax=Saccharothrix sp. NRRL B-16348 RepID=A0A0M8YI01_9PSEU
+-----------------------------MVAVLAAAALTLPTTGTAQ---------AAG
+S-----CDDFYTI--TMGKYWVNNNVWGQDSG-QGW-QCVWD-VSSGG-SISWGTAW---
+---DWSGGP-TSVKS--Y---ASSVLGWHWGNKL-----S-GTGLPVRLSDNR-------
+--SVNTGASY--TVKQ-NTA--N-VMNVAYDLWLHPMS--NPG-TTN-PSDEIMIWTYRS
+GGAGPV-GT-----------RQ----------AT-VSIAGTTWDLYRGNI----------
+-G-WEVYSFI---RTSN-TNSAT-YNLRDFTS------HLV-NRGWLSNQKY--LTSVQH
+---------GTEVFTG-NG-QLDVHSYYANVS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0F5VSJ3 Uncharacterized protein n=6 Tax=Streptomyces RepID=A0A0F5VSJ3_9ACTN
+--------MAKST--L-RK-----ITMAILAPAMALGATVGLASAPAS---------AA-
+-VWNSCDQWGN-TS-L-NGYTLYNNIWGSGAG----SQCIW--ANSGT-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------NSKKVVNKTIASLG-------
+--TLTSNYNV--TVP---SS--G-AYNTSYDIW-----------DTD-YDYEIMLWVNYN
+GAVGPL-GT-----------SQ----------GN-VTLGGHTWTVYKGS----N---G--
+-A-NEVFSFL---RTSD-SSSGT-VNIKPILT------WISGTKGWMSSSET--IGDVQF
+---------GYEITSS-SG-GLDFVTNNLTVSSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI00068C92C4 hypothetical protein n=1 Tax=Streptomyces sp. CT34 RepID=UPI00068C92C4
+------------------------MTA----------------PSAST---------GTT
+T---LCDQTGSTAV-SGGKYIVQNNEWGDNIR-----QCI---DA--F-DGGFTYASG--
+---YHNLAGHGAPAA--Y---PSIYAGCHWGK------CSSGNGLPQQVSSFT-------
+--NPQSSVNL--TTPN---S--G-QWDASYDIWFDTNP--HP-TGQN-NGEELMIWANHS
+GPPQPF-GT-----------KV----------GT-VQLEGANWDVWYARQGT-N---T--
+-Q-WNTVSYV---RQQP-TNTLT-VNIKDFTN------DSI-TRGYLQPSWY--MTSVQF
+---------GFEPWVG-GP-GLGVKNFSYTPNGSAWRAARS-------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_W8PWF3 Cellulase n=1 Tax=uncultured bacterium RepID=W8PWF3_9BACT
+--------------MKHFYWTL-FL-IGFLAGCSVLFPE-KNESNPQA---------EDE
+PTATVCDRWGSRDV-AGGRYRVINNVWGAETA-----QCI---EIGLE-TGNFILTRA--
+---EHSNGDNVA--A--Y---PAIYLGCHWGA------CTSQSGLPLRVEAIS-------
+--RLQSNWRL--TPIS---S--G-RWNAAYDLWFSPSL--TSTNGYS-GGAELMIWLNWR
+GNVMPG-GN-----------RV----------AT-VSLAGATWEVWFA-----D---W--
+-D-WNYIAYR---RTTP-VTEVTQLDLKAFID------DAV-ARGYISPTWY--LHAVET
+---------GFELWEG-GR-GLKSSDFSVTLTAR--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_F0XL81 Cell 12a endoglucanase n=1 Tax=Grosmannia clavigera (strain kw1407 / UAMH 11150) RepID=F0XL81_GROCL
+------------------MKLP-LVLAAASATMVTGVAAAA-----IAVPPSKVLQAR--
+-STTICGQWDSVET-GT--YTIYQDLWNKD--NGTGSQCSTVGSVSGS-TLSWSTSWS--
+---W-AG-NSTQVKS--Y---ANAVA-------------N-IAV--KQLSAIS-------
+--SIPTTWDW--NYSG-SG----IVADVSYDLFTSSTS------TGH-NEYEIMVWLASL
+GGAGPI-SA--T-----GS-AV----------AT-PTIGGVKWKLYSGK----N---G--
+-A-TTVYSFV---AVTE-QTRFS-GDLRKFFA------YLISNQGMP-SSQY--LLSTGA
+---------GTEPFVG-SNAVMTVSAFSLRLS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004B675EF glycosyl hydrolase family 5, partial n=1 Tax=Streptomyces sp. CNH099 RepID=UPI0004B675EF
+-----------MRSAKPRIRAL-GAAALLALGSLTASLTTA----EAS---------PAA
+AQAEICEKYGTTTI-Q-NRYVVQNNAWGTDQT-----QCI---TT--T-DSGFRITRA--
+---DGSAPTNGAPKS--Y---PSVYLGCHYSN------CSPGSNLPRQIGAIS-------
+--SAPSQVSY--SYVD---N--A-VYNASFDIWLDPEP--RT-NGVN--RTEIMIWLNRV
+GPIQPI-GS-----------PV----------GT-AQVAGHTWEVWRGS----N---G--
+-A-NDVISFV---APAT-VHSLT-FDLRDFID------RAI-DAGLATDQWY--LTSVQA
+---------GFEPWEG-GT-GLGVNSFSASVN----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0003A17600 hypothetical protein n=1 Tax=Kribbella catacumbae RepID=UPI0003A17600
+----------------MIK-----ALRPVVALVTLL-AATAVAVLPAN---------AA-
+-TWESSDKWGT-WS-N-GGYTVRNDVWGGGAG----PQTIW--ANSYS-NWGV-------
+---WANHPNTGGVKS--Y---P-----------------HSAKAIGKRISALG-------
+--TLRSSFNV--NRP---GS--G-AYATAYDIW-----------ADG-HAYEIMLWMNKQ
+GAVGAI-GS-----------KQ----------TS-ATVGGHTWDVYKGS----N---G--
+-S-NQVFSFL---RTSN-TNSGT-VDIKAVMN------WIK-NRGWI-GDAT--MTEVQF
+---------GFEITSS-SG-GMNFTSNSYSVTSS--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A017SCW5 Concanavalin A-like lectin/glucanase n=1 Tax=Aspergillus ruber CBS 135680 RepID=A0A017SCW5_9EURO
+------------------MKSI-AVLTSL----LSLTTAAV---------IPNTLTRR--
+--ADLCGQYVQSNE-GD--FILYNNAWGKD-NAEKGSQCTGLDSVNGD-TISWHATWS--
+---W-KG-GDGSVKS--F---PNAAY-------------R-FDA--KTLDSVS-------
+--SMTTKWEW--SYTG-SD----LVADVAYDMFLSSSA------DGD-AEYEIMVWLAAL
+GGAGPI-SS--T-----GQ-SV----------AT-TTIGGVSFDLWSGK----N---G--
+-N-MQVYSFV---ASSE-AQSFS-GDLLDFFQ------YLEQNQGLQ-SSLY--LTDVQA
+---------GTEPFTG-SGAEFTTSTYSVTVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0D7BSA9 Glycoside hydrolase family 12 protein n=1 Tax=Cylindrobasidium torrendii FP15055 ss-10 RepID=A0A0D7BSA9_9HOMO
+------------------MLLS-ILLTTAM---VVSTSNAQ-------------------
+---TLTGQYDCIKGAGN--YDLCQNLWGKS--SGVGSQSSTLISASGD-NISWSTNWT--
+---W-AN-NENSVKS--Y---ANVES-------------TTAKG--VKLSDIK-------
+--TAPTTWVW--DHTT-QSD--GIRADVAYDIWTGVQSV-GAPASAN-SSYEFMIWLAKL
+GGIQPV-----------GSRIA----------SN-VQVAGYNWEIWRGP----N---T--
+-N-WQVISFF---TTD-LIKNFQ-VDLTDFFD------YLIANQSVS-SSQY--LQSIQA
+---------GTEPFTG--SANLVTSQYSVSITT---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004C421C7 hypothetical protein n=1 Tax=Actinoplanes subtropicus RepID=UPI0004C421C7
+---------------MIGK-----IRLAAGGLAALLAAASLFVAGPAQ---------AA-
+-TWSSSDKWGT-WS-N-GGYTLYNDVWGSGAG----PQTIW--ANSYS-NWGV-------
+---WANHPNTGGIKS--Y---P-----------------NATRYLGKKVSTLG-------
+--TTTSSFNV--TVP---TS--GVAFESAYDIW-----------STG-NAYEVMLWMNKY
+GAVGPL-GT-----------LQ----------TT-VTVGGHTWKVYRGS----N---G--
+-S-NAVFSFV---RTSN-TSSGT-VDIRAIAQ------WLR-SAGWW-GDVT--IGNVQF
+---------GFEITSS-AG-GKDFMTNSFSVTG---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0D7B572 Glycoside hydrolase family 12 protein n=1 Tax=Cylindrobasidium torrendii FP15055 ss-10 RepID=A0A0D7B572_9HOMO
+------------------------MLTVATLALAITAASAQ-------------------
+---TLTGQFECASG-GD--YNLCQNLWGSD--SGTGSQSSTLISAEGD-TISWSTNWT--
+---W-AD-GPNSVKS--Y---ANVES-------------TTAKG--VQLSEIT-------
+--TAPTTWIW--EHET-QSD--GIRADVAYDIWTGVGPV-GTPASAN-SSYEFMIWLAKL
+GDIQPI-----------GSTVA----------SN-VEVGGLTWEVWRGP----N---T--
+-N-WEVISFF---TTD-LIQDFE-VDLKEFFD------YLVAEQDVD-PAQY--LQSIQA
+---------GTEPFTG--SANLVTSKYSVSVA----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_W9CHB5 Glycoside hydrolase family 12 protein n=1 Tax=Sclerotinia borealis F-4157 RepID=W9CHB5_9HELO
+------------------MKFA-QSLVSLVFATAAVASPTP------------VLRKR--
+-ATTVCGQWDSVAT-GT--YTVYQDLWGIS--GYTGSQCTTVTSDTSN-SLAWSTSWS--
+---W-SG-GSSQVKS--Y---ADAGL-------------T-MAA--KQVSAIS-------
+--TIPSTWKW--SYTG-SN----IVADVAYDLFSSSTV------SGS-ANYEIMIWLGAL
+GGAGPI-SS--T-----GS-PV----------AT-PTLAGVSWKLYSGR----N---G--
+-A-MTVYSFV---ASST-VNSFS-GDLKAFLT------YLVSNQGYP-SSQY--LQSIQA
+---------GTEPFTG-TNAVFKTTAYTVSMS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_M2R4N1 Glycoside hydrolase family 12 protein n=1 Tax=Ceriporiopsis subvermispora (strain B) RepID=M2R4N1_CERS8
+-----------------MAFFA-ALFALALAGCALARPTAS-------------------
+---TLTGAFTCVDA-AD--FTLCQNQWGAA--SGVGSQNSTLLSASGD-SISWSTVYT--
+---W-EN-GPNNVKT--Y---ANVQQ-------------NVGMG--VQLSDLA-------
+--SVPTTWQW--TYES-QSD--GLRADVSYDIWTGVPPT-GTAASRN-SSFEIMIWLSGL
+GGIQPV-----------GSQTV----------TN-VSIAGFNWNVWKGP----N---A--
+-N-WETISLV---SADGDITDFQ-VDLKDFFD------YLIAEQGVA-STQF--LQVIQT
+---------GTEAFEG--QASLLISNFSVAVNPQ--------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0004449973 endocellulase n=1 Tax=Stereum hirsutum (strain FP-91666) RepID=UPI0004449973
+-----------------MFSLS-SVFVGLL---CVATASAQ-------------------
+---LITGAFTCEAA-GE--YTLCQNLWGAA--AGVGGQNSTLISTSGN-EVSWMTNWT--
+---W-AN-GPNNVKS--Y---ANVES-------------STVKG--AQLSNIT-------
+--SVPTAWNW--TYAT-KSS--DIRADVSYDIWLGTTPD-GTPATTA-SSYEIMIWLSGL
+GGIQPV-----------GSVNT----------SG-IQIGGHNWTLWSGP----N---A--
+-N-WEVFSFV---SADGDITSFT-SDLNDFFE------YLVANQGVS-TSQF--LQAIQT
+---------GTEPFVG--SADLIIESFSVSLS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_Q2H360 Putative uncharacterized protein n=1 Tax=Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) RepID=Q2H360_CHAGB
+------------------MQ---LSLLFL----SSLVAASPL--------A--VEKRQ--
+-QATLCDQYGYWSG-NG--YEVNNNNWGRD-AASGGSQCTYVDNSSGS-GVSWHATWQ--
+---W-SG-GDNNVKS--Y---PYGGK-------------QVAKG--QKISNLN-------
+--NMQTSVSW--SYSN-TN----IRANVAYDVFTAADP---NHVNSS-GDYELMIWLGRF
+GNVYPI-GS-----------ST----------GT-VNVGGRSWELFIGY----N---G--
+-S-MKVFSFV---ASS-PINSFS-ANVKDFFN------HLQNSQGYPASQQN--LIVFQF
+---------GTEPFTG-GQTTFTVNNFSANIS----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_K5VCY6 Glycoside hydrolase family 12 protein n=2 Tax=Phanerochaete carnosa (strain HHB-10118-sp) RepID=K5VCY6_PHACS
+-----------------MFKNL-LVVVFAS---VLTLVSAQ-------------------
+---TISGQYDCMPA-GA--YTLCQNLWGES--AGVGSQNSTLMSTDGN-AITWQTNWT--
+---W-AN-NNNNVKS--Y---ANVLH-------------NTAKG--MQLGSIT-------
+--SAPTAWNW--TYVT-ESE--GIRADVSYDIWFGVAQS-GTAATSA-SSYEIMIWLSGL
+GGIQPV-----------GHQID----------SG-LNIAGHTWNLWNGP----N---A--
+-N-WQVFSFV---ISSGEVRNFS-ADLNEFFQ------YLIENQGVA-STQY--LQAIQT
+---------GTEPFVG--SADLFIESFAVTVNV---------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_A0A0G2FA65 Putative glycoside hydrolase family 12 protein n=1 Tax=Diaporthe ampelina RepID=A0A0G2FA65_9PEZI
+------------------MKFN-AALSSALLAASAVVAAPTSTLEVEPSRVDSALEKR--
+-ATTFCGSWGSQTA-GP--YTFYHNNWGAG-AASSGSQCTTFKDLQSN-TASWSTSWS--
+---W-AG-GAGSVKS--Y---SNVAL-------------E-KVN--KQLSAVS-------
+--TINSIWKW--GYTG-SS----LVADVAYDLWLSTSS------GGT-NKYEIMVWLAAY
+GGAFPI-SS--T-----WTTPI----------AT-TTIAGHSWKVYSGP----N---G--
+-D-TTVYSFV---ADST-ITNFS-GDLNAFFK------YLVSSQGLS-NSLW--ITSLQA
+---------GTEPFSG-SNAVMTTSSYTISVR----------------------------
+------------------------------------------------------------
+-
+>lcl|UniRef90_UPI0005267313 hypothetical protein n=1 Tax=Saccharothrix sp. NRRL B-16314 RepID=UPI0005267313
+----------------MKRSVR-LKWKALTVSLLAAVAVLVP-TGTAN---------AAG
+T-----CEAFGEVS-TTSKYWINNNLWGRDSG-SGW-QCVWDGYASGS-TLGWGTNW---
+---DWTGQS-NSVKS--Y---SSAVLGWHWGWKK-----Q-GTGLPVRISDRR-------
+--TIDTSWQY--RVTQ-STP--N-TMNVAYDLWLHTIA--NPTWEHQ-PSDEVMIWTYRA
+GGAGPV-GT-----------RQ----------AT-VTVAGTNWDLYRGNI----------
+-G-WNVYSFV---RTSN-TQSVT-FNVRDFLD------NLV-NRGWVSSSKY--LTSVQA
+---------GTEVFTG-SG-RLDTDAYRVDVR----------------------------
+------------------------------------------------------------
+-

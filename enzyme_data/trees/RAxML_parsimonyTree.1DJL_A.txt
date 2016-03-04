@@ -1,0 +1,1 @@
+((lcl|UniRef90_V5GHX5,(((lcl|UniRef90_A0A0H6LWK1,lcl|UniRef90_A0A0H8BYN1),lcl|UniRef90_I3U7N9),(lcl|UniRef90_W7X5M7,lcl|UniRef90_A0A0E9L6H6))),lcl|UniRef90_UPI00052F0AA0,1DJL_A);

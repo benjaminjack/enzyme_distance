@@ -1,0 +1,1 @@
+(lcl|UniRef90_F8X7S8,(lcl|UniRef90_W1H4Z1,(lcl|UniRef90_A5L8R6,(lcl|UniRef90_X1N9I9,lcl|UniRef90_T0PJT1))),1ZYM_A);

@@ -1,0 +1,1 @@
+(lcl|UniRef90_UPI0006CF7569,(lcl|UniRef90_Q51818,lcl|UniRef90_A0A0E2LMQ0),1CVR_A);

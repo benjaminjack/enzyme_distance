@@ -1,0 +1,2262 @@
+>1DO6_A
+------------------------MI-SETIRSGD-------WK----------------
+----------------------------G-EKHVPVIEYERE---GELVKVKVQVG-KE-
+IPHPNTTEHHIR----YIELYFLPEG-------------ENF-VY-QVGRVEFTAHGESV
+NGPNTSD-VYTEPIAYFVLK-TKKK---G-----KLYALSYCNIHGL----------WEN
+-EVTLE---------------------
+>lcl|UniRef90_UPI000464C651 desulfoferrodoxin n=2 Tax=[Clostridium] mangenotii RepID=UPI000464C651
+----------------------MNQT-PKFYFCE-ACGNIVEMIEDSGIELV--------
+----------CCGDYMQELVPNT-TDAAN-EKHVPVIEV--N-GNT----VKVTVG-S--
+TIHPMGDDHHIA----WIVLYTE--K-----------------GC-Q--RKYLD------
+--------HNGEPVATFEL--TDGD---K-----AVSAYEYCNIHGL----------WKA
+-DV------------------------
+>lcl|UniRef90_D2RHC3 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Archaeoglobus profundus (strain DSM 5631 / JCM 9629 / NBRC 100127 / Av18) RepID=D2RHC3_ARCPA
+------------------------ML-EKFVYSKERAEGEIISK----------------
+----------------------------V-ETHTPEIECPDVVKAGEPFEVRISVT----
+-KHPNKLEHSIR----YVDVFFIEEG-------------RAFNPV-KVAKVQFT------
+------P-EYAEAEAVLKLK-IQKS---G-----KIVALAYCNLHGL----------WEN
+-YKEVKVE-------------------
+>lcl|UniRef90_X1LGZ2 Uncharacterized protein n=3 Tax=marine sediment metagenome RepID=X1LGZ2_9ZZZZ
+----------------------MTEL-KQIYKCN-VCGNIVEVLHTGAGELV--------
+----------CCGEAMQLMQGKR-EDVGQ-EKHLPVIEK--T-PGK----VTVKVG-S--
+IPHPMEDNHYIE----WVEVASD--G-----------------KA-Y--REFLK------
+--------PGDSPEATFEI---KAE---K------ITAREYCTLHGL----------WKK
+-GED-----------------------
+>lcl|UniRef90_D1PTT2 Superoxide reductase n=2 Tax=Prevotella bergensis RepID=D1PTT2_9BACT
+-----------------MNKTTMAKR-NEIYKSA-STGNIVEVMVAGESALA--------
+----------C---DCELLKENT-TDAAT-EKHVPVIEA--I-EGG----YRVTVG-S--
+VEHPMTEEHYIQ----WIELLTE--K-----------------EV-L--RRYLD------
+--------PTDKPVAEFKT---DAK---H------VCAREYCNLHGL----------WKA
+-EK------------------------
+>lcl|UniRef90_A0A0C1UF98 Desulfoferrodoxin n=1 Tax=Clostridium argentinense CDC 2741 RepID=A0A0C1UF98_9CLOT
+----------------------MTEL-RQVYKCD-ICGNMIEVVHAAGGSLV--------
+----------CCGKPMTLKKENT-TDAAN-EKHVPVLEE--V-DGK----VVVRIG-S--
+VEHPMTPEHHIE----WIELHTE--D-----------------RV-Y--RKYLT------
+--------VDEKPEAVFNI---TLD---K-----VLYAREYCNLHGL----------WKS
+---------------------------
+>lcl|UniRef90_D3PD16 Superoxide reductase n=1 Tax=Deferribacter desulfuricans (strain DSM 14783 / JCM 11476 / NBRC 101012 / SSM1) RepID=D3PD16_DEFDS
+-----------------------MAI-GEFVKSAD-------FK----------------
+----------------------------N-EKHVPVIELPEKIEAGKEFVVNVSVG-KE-
+IAHPNTTEHFIG----WIALYFKPEN-------------GN--VY-NLGRAEFTAHGEST
+EGANKGP-AFTEPSALFKVK-LNQP---G-----KLVAVSYCNIHGL----------WES
+-EVEVKF--------------------
+>lcl|UniRef90_B2VA95 Uncharacterized protein n=4 Tax=Sulfurihydrogenibium RepID=B2VA95_SULSY
+----------------------MPKV-NSYVDISQIDKEAKRDF----------------
+----------------------------I-DRHSPFVHVEGEAVKGQKLKVKVRVG-NE-
+YVHPDDFDHYIA----YVQLWDG--------------------DT-LLGQATFTPGSLGN
+K--------PNQAEVDFYIVPTKDK---L-----KLNAMSYCTKHGL----------WQS
+ETVEIDVLSPEPATA------------
+>lcl|UniRef90_C2CKL6 Desulfoferrodoxin ferrous iron-binding domain protein n=1 Tax=Anaerococcus tetradius ATCC 35098 RepID=C2CKL6_9FIRM
+----------------------MTKL-TETVQSGD-------WK----------------
+----------------------------A-EKHVPELEFEKL--EGGKIKVTACVG-KE-
+IAHPNGFEHHIA----WIKVFFKAED-------------SKF-PV-EVASYQFPAHGEG-
+------E-VFSEPVACGVFK-SEKN---G-----TLYVLSYCNIHGL----------WEN
+-SLEVK---------------------
+>lcl|UniRef90_L0HJ05 Desulfoferrodoxin ferrous iron-binding domain protein n=1 Tax=Aciduliprofundum sp. (strain MAR08-339) RepID=L0HJ05_ACIS0
+------------------------ML-SETIKSGD-------WK----------------
+----------------------------G-EKHVPVIEYKKN---GEEIEVEVSVG-KE-
+IAHPNTPEHHIA----WIELYFQPED-------------GQF-PI-LVGRVAFTNHGD--
+--------PLSEPKAKFYFK-TGKK---G-----KLMALSYCNIHGL----------WQN
+-EVSVE---------------------
+>lcl|UniRef90_A0A0F9QYD8 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=A0A0F9QYD8_9ZZZZ
+-------------------MCEDDIF-CGVNEAKSANVDEMTDL----------------
+----------------------------E-KKHTPVIESPKKVKKGEPFEVQVEVG-KH-
+MKHPNENAHYIE----WIELYSG--------------------ET-FLARVDFV------
+------P-RLTEPKVKFVVA-LDHA---H-----PLIVKERCNLHGL----------WQS
+FPVEIEVEE------------------
+>lcl|UniRef90_W9DPH6 Desulfoferrodoxin ferrous iron-binding domain n=1 Tax=Methanolobus tindarius DSM 2278 RepID=W9DPH6_METTI
+-----------------------MEF-EEALKGKEVEG----------------------
+----------------------------K-EKHVPEIDIIRGHGHAKADYVRVIVG-KE-
+VKHPNTLEHHIS----WVELYGITKD-------------G-K-MV-DFGRMNFE------
+------P-VYTEPTASFHVNNIDDF---K-----AFCALEYCNIHGL----------WKN
+-CIDV----------------------
+>lcl|UniRef90_R5FX30 Uncharacterized protein n=2 Tax=Firmicutes RepID=R5FX30_9FIRM
+------------------------MK-EKFYICR-HCGNLIGLIHDAGVPMM--------
+----------CCGQKMEALVPNT-TEATV-EKHLPYIHK--E-DGS----VYVRVG-E--
+TTHPMTEEHYIQ----WVYIETE--N-----------------GG-Q--RRAFR------
+--------PGDTPEATFC---TGED---K-----PVAVYAYCNLHGL----------WKT
+-EIK-----------------------
+>lcl|UniRef90_V5WH49 Superoxide reductase n=1 Tax=Salinispira pacifica RepID=V5WH49_9SPIO
+-----------------------MAI-ADGIQTAD-------WK----------------
+----------------------------A-EKHAPVIESPDTVKSGEKFSISASVG-KE-
+IPHPNTTEHFIS----WIQVYFRPEG-------------EKF-TI-QLADSQFTAHGASA
+KGANEGS-ALTEPAVTVDVK-LKTS---G-----TIQALSYCNIHGL----------WEA
+-EKKITVS-------------------
+>lcl|UniRef90_A0A0A7LD12 SorA protein n=2 Tax=Candidatus Methanoplasma termitum RepID=A0A0A7LD12_9EURY
+-----------------MIKLAKVEK-RAIYMCD-TCKNVVEGIYSAGGPIP--------
+---------ECCGDTMTELKAQT-ADVTK-EKHVPYIEK--K-SGG----VLVKVGKE--
+TAHPMTAEHYIV----FIEIEAD--G-----------------IL-M--RKYLN------
+--------PGDAPEAFFKT---DA----K-----HIVAWEYCNLHKY----------WKS
+-P-------------------------
+>lcl|UniRef90_X1LDA3 Uncharacterized protein (Fragment) n=1 Tax=marine sediment metagenome RepID=X1LDA3_9ZZZZ
+-----------------------------------VCGNIVEVLHAGKGELV--------
+----------CCGQPMELLQEKT-ADVGL-ERHVPVVEA--T-DRG----IKVKVG-D--
+VPHPMEEKHYIE----WIEVITD--G-----------------GS-Y--RRFLK------
+--------PGDRPEAKFEI---GAQ---K------VVAREYCNIHGL----------WKS
+-G-------------------------
+>lcl|UniRef90_F0LIY6 Superoxide reductase n=2 Tax=Thermococcus RepID=F0LIY6_THEBM
+------------------------ML-SKTIASGD-------WK----------------
+----------------------------G-EKHVPVIEYKKD---GDLLEIEVSVG-KE-
+IPHPNTPEHHIA----WIELYFHPEG-------------EKF-PV-MVGRVAFTNHGD--
+--------PLTEPKAKFYIR-TSKK---G-----KLYALSYCNIHGL----------WEN
+-SVDVE---------------------
+>lcl|UniRef90_F7YVI0 Superoxide reductase n=1 Tax=Pseudothermotoga thermarum DSM 5069 RepID=F7YVI0_9THEM
+-----------------------MPL-SNHIQSAD-------WK----------------
+----------------------------A-EKHVPVIECADVVKANEWFEVKVSVG-KE-
+IPHPNTTEHHIK----WIKLFFMPEG-------------EKF-IY-DVATFEFNVHGESV
+AGANQGS-VWTHSAAVTWMK-VTKP---G-----TLYALAYCNIHGL----------WES
+-SKQIKVE-------------------
+>lcl|UniRef90_G4D162 Superoxide reductase n=1 Tax=Peptoniphilus indolicus ATCC 29427 RepID=G4D162_9FIRM
+-----------------------MKL-TETVKAGD-------WK----------------
+----------------------------N-EKHVPVLHVESV---NGELKIHAQVG-EE-
+IEHPNTLEHHIG----WIKVFFQPEG-------------FAA-PV-EVGSYNFSAHGEG-
+------E-LLSKPEVHAVVK-TDKK---G-----TVYALSYCNIHGL----------WES
+-AEEVK---------------------
+>lcl|UniRef90_A2BLY6 Superoxide reductase n=1 Tax=Hyperthermus butylicus (strain DSM 5456 / JCM 9403 / PLM1-5) RepID=A2BLY6_HYPBU
+--------------------MAVKPF-GEIIYSQERASGEAISK----------------
+----------------------------V-ETHTPRIEAPDTVKAGEPFQVRIRVG----
+-PHPSKVEHSIR----WIEVYFYEEG-------------RPYNPI-HLARIDLA------
+------P-EYAEPDVTLTLR-LKRG---G-----VIYVLEYCNLHGV----------WEA
+-RKEVKVES------------------
+>lcl|UniRef90_UPI00051B9CAB desulfoferrodoxin n=1 Tax=Selenomonas sp. ND2010 RepID=UPI00051B9CAB
+------------------------MA-KRFFICK-LCGNIVGVVKEGGGKLS--------
+----------CCGQAMTELTANT-TDAAQ-EKHVPVITV--A-GDS----VKVSVG-S--
+VTHPMTPEHFIE----WIHLETK--Q-----------------GA-Q--MAHLT------
+--------PDDAPEFVFNL--ADGD---E-----AVAAYAYCNLHGL----------WKA
+-EV------------------------
+>lcl|UniRef90_A0A0G0CVE8 Desulfoferrodoxin n=1 Tax=Parcubacteria (Moranbacteria) bacterium GW2011_GWF2_35_39 RepID=A0A0G0CVE8_9BACT
+------MNCVACCMLHVSCYMIMTEL-NQIYKCN-VCGNIVEMTHTGIGELV--------
+----------CCGQPMELKQEKT-EDEGM-EKHVPIIEK--T-AIG----VIVSVG-K--
+IAHPMESAHYIE----WIEVITE--H-----------------RV-Y--RKHLE------
+--------PSQEPSAEFCL---EAE---R------IEARAYCNVHGL----------WKS
+---------------------------
+>lcl|UniRef90_C9MNM9 Putative superoxide reductase n=3 Tax=Prevotella RepID=C9MNM9_9BACT
+----------------------MATR-NDVYKCP-ETGSLVEVLVGGECELG--------
+--------------NLQPVKENT-TDAAT-EKHVPVVEK--V-EGG----YSVTVG-E--
+VEHPMTEAHSIQ----WIELITEN-N-----------------EV-L--RKYLS------
+--------PTDKPVAVFKT---DAK---E------VYAREYCNLHGL----------WRS
+-K-------------------------
+>lcl|UniRef90_F6BB96 Desulfoferrodoxin ferrous iron-binding region n=2 Tax=Methanotorris RepID=F6BB96_METIK
+----------------------MNYF-CGINRMK-----EGTDF----------------
+----------------------------E-KKHTPFIECPEVVKADEYFEVKVTTG----
+IPHPMEDGHFIQ----WIELFMS--------------------DI-YLARVDFT------
+--------QFMKPEIVFVVK-APSK---GHD-KFTLKALMRCNLHGI----------WEY
+-EKEVKVE-------------------
+>lcl|UniRef90_UPI0003F64BC3 Neelaredoxin n=1 Tax=Veillonella magna RepID=UPI0003F64BC3
+-----------------------MAL-VNYVKSAD-------FK----------------
+----------------------------T-EKHVPVITAPDKVAAGEKVEIRLEVG-KD-
+IAHPNTTEHHIA----WIKLYYVEEG-------------TTL-PY-EVARLEFNVHGEAG
+AGANEGP-VFAEAAGVVTAT-FKKS---G-----KLIATSYCNIHGL----------WES
+-EKDIVVG-------------------
+>lcl|UniRef90_A0A099SDX0 DNA topoisomerase II n=2 Tax=Desulfosporosinus RepID=A0A099SDX0_9FIRM
+----------------------MTNL-RELYVCS-ICGNVVEVVNTGASALV--------
+----------CCNKPMNILQAGT-TDASL-EKHVPVIEA--V-SGG----IKVKVG-S--
+AAHPMEEKHFIR----FIEVLTK--E-----------------QV-L--RAELE------
+--------PGQAPEATF-LV-AENE---V------IEVREYCNIHGL----------WKT
+-SK------------------------
+>lcl|UniRef90_UPI000693D294 hypothetical protein n=1 Tax=Methanococcoides methylutens RepID=UPI000693D294
+-----------------------MEF-SDIIRSED-TNNVDDRS----------------
+----------------------------K-ERHIPTIDVLRNYDNTGREYIRVVVG-EN-
+VKHPNTPEHHIE----YIELYGRTKM-------------M-N-TV-TIGRATFG------
+------P-G-VKPEVVFGLVNFGKY---R-----EFCAIAYCNVHGV----------WQN
+-CIKIREELRLTAGCRREKCLQEGFGV
+>lcl|UniRef90_X1Q6D2 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=X1Q6D2_9ZZZZ
+----------------------MGEF-KDLFQSAD-------WK----------------
+----------------------------T-EKHIPAIEMPDKVKKGEFFKVTVTVG-KE-
+IAHPNTTEHHIS----WIEVYFHPEK-------------EKF-PY-QIGRFNFMVHGESV
+NGPNSST-IYTHPEVTLSFS----------------LIFSFLIYVGAVFGEIPPFTSW--
+---------------------------
+>lcl|UniRef90_UPI0006D9501D superoxide reductase n=1 Tax=Thermococcus sp. EP1 RepID=UPI0006D9501D
+------------------------MI-SGTIRSGD-------WK----------------
+----------------------------G-EKHVPVIEYKKE---DDLVKVKVQVG-KE-
+IPHPNTPEHHIA----WIELYFHPEG-------------ENF-PI-LVGRAEFANHTD--
+--------PLTEPIAKFFFK-TTKK---G-----KLHALSYCNIHGL----------WEN
+-EIVFE---------------------
+>lcl|UniRef90_A0A0C7P0Q0 Superoxide reductase n=1 Tax=Defluviitoga tunisiensis RepID=A0A0C7P0Q0_9BACT
+------------------------ML-GEVIKIQD-------FK----------------
+----------------------------N-EKHVPTIDCIEKVKANEEFEVEIQVG-KE-
+IKHPNTVEHHIV----WLDLFVHYDN-------------DPN-TV-HIGRYIF-------
+-----GP-TLAEPHVKTKIK-LPKT---G-----TLIALSYCNIHGL----------WEN
+-TKRVEVF-------------------
+>lcl|UniRef90_UPI000371CB8B hypothetical protein n=1 Tax=Desulfobacter curvatus RepID=UPI000371CB8B
+----------------------MAEQ-KQIYKCE-LCGNVVEVLHGADGNLV--------
+----------CCGAEMVLFEEKS-ADEGK-EKHVPVIET--T-AEG----IKVKVG-S--
+NPHPMEEKHYIE----WIEVIDG--D-----------------TS-C--RTYLK------
+--------PGQTPEAIFKG---CPA---N------VTAREYCNVHGL----------WKS
+---------------------------
+>lcl|UniRef90_UPI000366AC74 desulfoferrodoxin n=1 Tax=Desulfovibrio oxyclinae RepID=UPI000366AC74
+----------------------MATQLGGVYKCE-ACGNIVIVMHEGGGDLV--------
+----------CCGENMVLMQENT-VDAAQ-EKHVPVVER--D-GDK----VVVKVG-S--
+TAHPMEEKHYIE----WIELMVG--D-----------------IC-Y--TKMLK------
+--------PGDAPEAEFCLH-GNTG---D-----LKGARAYCNIHGL----------WAS
+-K-------------------------
+>lcl|UniRef90_UPI0006D41F3B hypothetical protein n=1 Tax=Oxobacter pfennigii RepID=UPI0006D41F3B
+----------------------MTKL-REVYKCN-VCGNMNEMVHAGAGTMV--------
+----------CCGKDMELLNENT-VDASL-EKHVPVIEK--V-DGG----VLVKVG-S--
+IEHPMEEIHHIE----WIELHTE--N-----------------YV-Y--RKFLK------
+--------VGEKPEALFNP---TEE---------PLYAREYCNLHGL----------WKG
+---------------------------
+>lcl|UniRef90_UPI00055EBC78 desulfoferrodoxin n=1 Tax=Mesoaciditoga lauensis RepID=UPI00055EBC78
+----------------------MTEK-KQIYKCE-ICGNIVEVLHEGAGELV--------
+----------CCGKPMKLYEEKT-ADSAV-EKHVPVIEK--M-EDK----VKVKVG-S--
+VPHPMDEKHYIE----WIELIVD--G-----------------KS-Y--RQFLK------
+--------PGDAPEAIFDL---KVSDDMK------LEAREYCSIHGL----------WKG
+---------------------------
+>lcl|UniRef90_UPI00056F4D1C desulfoferrodoxin n=1 Tax=Thermodesulfobacterium hydrogeniphilum RepID=UPI00056F4D1C
+----------------------MTKR-FQIYKCL-VCGNIVEVLHGGKGELV--------
+----------CCNQPMHLYQENT-TDAAK-EKHVPVIEK--V-EGG----YKVKVG-S--
+VPHPMEEKHYIE----WIELIAD--G-----------------KV-Y--RKFLN------
+--------PGDIPEAIFEI---KAK---K------VAAREYCNLHGL----------WKA
+-EG------------------------
+>lcl|UniRef90_C5ZZW2 Superoxide reductase n=1 Tax=Thermococcus sibiricus (strain MM 739 / DSM 12597) RepID=C5ZZW2_THESM
+------------------------MI-GETIRSGD-------WK----------------
+----------------------------G-EKHVPVIEYEKE---GDLVKVKVQVG-KE-
+IPHPNTTEHHIK----YIELYFLPEG-------------ENF-VY-QIGRADFTAHGEST
+KGPNMSD-IYTEPVAYFVFK-TAKK---G-----KLYALSYCNIHGL----------WEN
+-EVQLE---------------------
+>lcl|UniRef90_K0NMG9 Dfx: desulfoferredoxin n=2 Tax=Desulfobacula RepID=K0NMG9_DESTT
+----------------------MAEK-LGIYKCG-KCGNIVQVLHGEKPPVM--------
+----------CCGQAMDRLVENT-VDAAL-EKHVPVIEK--L-DGG----YLVKVG-S--
+VAHPMGNDHWIE----WIELASE--D-----------------NT-FVQRQMLT------
+--------PSSAPEAEFKT---DAA---K------VVARAYCNLHGL----------WKS
+---------------------------
+>lcl|UniRef90_E1RBL8 Desulfoferrodoxin n=1 Tax=Spirochaeta smaragdinae (strain DSM 11293 / JCM 15392 / SEBR 4228) RepID=E1RBL8_SPISS
+----------------------MATL-YGIYKCE-VCGNIVEVLHEGAGELV--------
+----------CCGQPMTFFEEKT-ADSTT-EKHVPVIEK--T-ANG----YKVTVG-S--
+TLHPMEEKHYIE----WIELIAD--G-----------------VS-Y--RSFLK------
+--------PGDKPEAEFCI---SAS---K------VSAREYCNVHGL----------WKG
+---------------------------
+>lcl|UniRef90_C0QSM1 Desulfoferrodoxin, ferrous iron-binding region n=1 Tax=Persephonella marina (strain DSM 14350 / EX-H1) RepID=C0QSM1_PERMH
+----------------------MPKV-NTYVDISEVEKEAKKDF----------------
+----------------------------I-DRHSPFVHVEGEAVKGQKLKVKVKVG-NE-
+YSHPDDFDHYIA----YVQLWDG--------------------DT-LLGQATFTPGTLGN
+E--------RGQVEVDFYIVPKSNK---L-----KLNAMSYCTKHGL----------WQS
+EYVEVEVKEPVSA--------------
+>lcl|UniRef90_H0UMQ1 Desulfoferrodoxin ferrous iron-binding domain protein n=1 Tax=Thermanaerovibrio velox DSM 12556 RepID=H0UMQ1_9BACT
+-----------------------MKV-SDLVQSGD-------WK----------------
+----------------------------G-EKHVPVIEAPETVKAGDAFEVKVSVG-KE-
+IPHPNTTEHHIR----WIQLFFKPEG-------------AKF-PY-EVGKVSFEVHGESV
+EGANQGP-VHTEPFGVFKVK-AGKG---G-----TLVALSYCNIHGL----------WES
+-SLELKVE-------------------
+>lcl|UniRef90_A0A0H2SIJ9 Neelaredoxin n=2 Tax=Marinitoga RepID=A0A0H2SIJ9_9BACT
+-----------------------MKL-GDVIKSAD-------YK----------------
+----------------------------N-EKHVPVIDAPEKVKADELFKIEIQVG-KD-
+IPHPNTVEHHIS----WIDLYIHYEN-------------DPN-TV-HLGRFEF-------
+-----GP-SVAEPHVLTYVK-LSKK---G-----TLIAHSYCNIHGL----------WES
+-EKVIDVE-------------------
+>lcl|UniRef90_H2J341 Desulfoferrodoxin ferrous iron-binding domain protein n=1 Tax=Marinitoga piezophila (strain DSM 14283 / JCM 11233 / KA3) RepID=H2J341_MARPK
+-----------------------MKL-GDVIKSAD-------FK----------------
+----------------------------N-EKHVPVIDAPEKVKAGETFKVEVQVG-KD-
+IAHPNTVEHHIA----WIDLYVHYED-------------NPN-TI-HLGRFEF-------
+-----GA-GVTEPHVLTHIK-LDKK---G-----TLIAHSYCNLHGL----------WES
+-EKVIEVE-------------------
+>lcl|UniRef90_D2Z6U9 Superoxide reductase n=1 Tax=Dethiosulfovibrio peptidovorans DSM 11002 RepID=D2Z6U9_9BACT
+-----------------------MKF-GELLQSGD-------WK----------------
+----------------------------G-EKHVPVIEAPEKVKAGESFDVALSVG-KE-
+IAHPNTTEHHIC----WIKLSFKPEG-------------DKF-GY-EVAKVDFDGHGASV
+KGANEGP-VFTDPYGVVRLN-LKTS---G-----TLIATSYCNIHGF----------WES
+-SQDIVAE-------------------
+>lcl|UniRef90_UPI00054D5B37 desulfoferrodoxin n=1 Tax=Desulfobacter vibrioformis RepID=UPI00054D5B37
+----------------------MAEK-KQVYKCE-ICGNVVEVLHGAAGDLV--------
+----------CCGAEMVLFEEKS-ADEGK-EKHVPVIEA--T-ADG----VKVKVG-S--
+NPHPMEEKHFIE----WVEVIDG--E-----------------TS-C--RHYLQ------
+--------PGQAPEAIFKG---CSA---N------VTAREYCNVHGL----------WKS
+---------------------------
+>lcl|UniRef90_A3DKJ9 Desulfoferrodoxin, ferrous iron-binding region n=3 Tax=Staphylothermus RepID=A3DKJ9_STAMF
+----------------------MKRF-GDLIYTPETASGEAITK----------------
+----------------------------V-ESHTPKIEAPDKVKAGEPFKVKVSVG----
+-PHPNKVEHSIR----WVELYFEEEG-------------RAFNPV-LLGRAYWT------
+------P-VYVEPQVEFTVK-LEKS---G-----VLYAIIYCNLHGL----------WEA
+-RKEIKVEK------------------
+>lcl|UniRef90_C4XQ87 Desulfoferrodoxin n=4 Tax=Desulfovibrio RepID=C4XQ87_DESMR
+----------------------MAEQ-LEIYKCE-LCGNIVEVLHAGGGELV--------
+----------CCGQPMKLMAENT-VDAAK-EKHVPVIEK--V-EGG----YLVKVG-A--
+VAHPMEEKHYIE----WIELIAD--G-----------------KA-Y--REFLK------
+--------PGQAPEAFFCV---KAD---K------VSAREYCNLHGL----------WKK
+-D-------------------------
+>lcl|UniRef90_M2D1T8 Desulfoferrodoxin n=12 Tax=Treponema RepID=M2D1T8_TREDN
+----------------------MSKE-ISFFLCKEKKGTIIGIDCCPDAEVS--------
+----------CCGEKLSAVKIGS-VDAAK-EKHVPVVEV--N-GNT----VKVKVG-S--
+VAHPMTEEHHIA----WVCLKTE--K-----------------GL-Q--FKELA------
+--------VTGAPEVEFSL--TSDD---K-----VIEAYEFCNLHGV----------WSG
+-K-------------------------
+>lcl|UniRef90_Q30WF9 Desulfoferrodoxin n=1 Tax=Desulfovibrio alaskensis (strain G20) RepID=DFX_DESAG
+----------------------MPNM-LEIYKCN-HCGNMVEVMAGGGAPLV--------
+----------CCGEEMELQVEGT-VDAAK-EKHVPVIEK--T-ANG----FLVKVG-A--
+VEHPMTDKHWIQ----WIELIAD--G-----------------RS-Y--TKFLN------
+--------PGETPEAEFCI---KAD---K------VTAREYCNLHGH----------WKT
+-EL------------------------
+>lcl|UniRef90_X1FGQ2 Marine sediment metagenome DNA, contig: S03H2_L01006 n=1 Tax=marine sediment metagenome RepID=X1FGQ2_9ZZZZ
+-------------MEEYEYTCDEDIR-CGVNVPKDAN--NLAEL----------------
+----------------------------E-QKHLPVISAPEKVKRGDTFSVTIEVG-KY-
+KKHPNEVAHFIE----WVELYSG--------------------DT-FLARTTLS------
+------G-SLSEPNITIPVK-LTHA---H----GPLKAWGKCNIHGL----------WES
+-TKDIQVED------------------
+>lcl|UniRef90_E3GWM9 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Methanothermus fervidus (strain ATCC 43054 / DSM 2088 / JCM 10308 / V24 S) RepID=E3GWM9_METFV
+------------------------MF-HKINRMK-----EKTEY----------------
+----------------------------E-MKHVPLIECKDSTKPDEFFNVRISTN----
+APHPMEKDHFIQ----WIELFVG--------------------PV-FLGRAEFT------
+--------QFTKPDVTFVVK-APSP---GHG-DYTLRALLRCNLHGV----------WEN
+-TKKIRMKSEK----------------
+>lcl|UniRef90_UPI0005B290FE superoxide reductase n=1 Tax=Anaerosalibacter sp. ND1 RepID=UPI0005B290FE
+----------------------MKTI-GTMLQSGD-------WK----------------
+----------------------------G-EKHVPVIHVPEKVKKGEAFEVKVLIG-EE-
+IPHPNTLEHHIS----WIRVYFHPEG-------------AKF-PI-EIGSSEFSAHGEG-
+------E-VFNEPYLTLKVK-VDKP---G-----TIHAVSYCNIHGL----------WEN
+-SEELNVEG------------------
+>lcl|UniRef90_F8C4D9 Desulfoferrodoxin n=1 Tax=Thermodesulfobacterium geofontis (strain OPF15) RepID=F8C4D9_THEGP
+----------------------MAEK-LGIYKCN-VCGNIVLVMHSGIGQLV--------
+----------CCGEPMQLMVAGS-IDAAV-EKHVPVIEK--V-GNT----YKVKVG-S--
+TPHPMTEEHYIE----WIELHADE-D-----------------KV-Y--IKFLK------
+--------PGDAPEATFQV---EAN---R------VLAKEYCNLHGL----------WES
+-SKVCEPSK------------------
+>lcl|UniRef90_Q1K036 Desulfoferrodoxin n=1 Tax=Desulfuromonas acetoxidans DSM 684 RepID=Q1K036_DESAC
+----------------------MTSQ-QGVYKCE-VCGNIVEVLHTGAGALV--------
+----------CCGSDMELLDANT-TDAAQ-EKHVPVIEK--T-DTG----YTITVG-S--
+VEHPMTDEHYIE----WIELIAD--G-----------------KS-Y--RAFLN------
+--------PGDKPQATFCV---SAE---K------ITAREYCNLHGL----------WKA
+-EA------------------------
+>lcl|UniRef90_W0JDS6 Neelaredoxin n=1 Tax=Desulfurella acetivorans A63 RepID=W0JDS6_DESAE
+----------------------MSKL-ADFVKYEA------DEK----------------
+----------------------------K-EKHVPVIDAPDTVKKGEFFSVTVTVG-KD-
+IPHPNTKEHYIG----WIEGFVVPKS-------------GV--AK-SIGKFIFE------
+------P-EVTDSTATFRIR-LEED---A-----TLFAWGYCNIHGV----------WEN
+-SKAIKVE-------------------
+>lcl|UniRef90_I4BTS4 Desulfoferrodoxin ferrous iron-binding domain protein n=1 Tax=Anaerobaculum mobile (strain ATCC BAA-54 / DSM 13181 / NGA) RepID=I4BTS4_ANAMD
+-----------------------MKF-EALMQSGD-------WK----------------
+----------------------------G-EKHIPVIESPDEVASGEAFVITVSVG-KE-
+IPHPNTTEHHIR----WIKLFFKGED-------------EKF-PF-EIGSYEFTAHGEHV
+GGPNTGP-AYSEPCVTAKVK-LNKS---G-----TLLAMSYCNIHGL----------WES
+-SKEIKVK-------------------
+>lcl|UniRef90_UPI00036C6B84 hypothetical protein n=1 Tax=Desulfovibrio oxyclinae RepID=UPI00036C6B84
+----------------------MAHL-SDLIKRDD-------WK----------------
+----------------------------N-EKHVPVIEAPDSVSASEPFDVKVSIG-KE-
+VAHPNTTEHHIR----WIRLFFKPQG-------------QEL-VY-EAGAFEFNAHGESA
+KGANEGP-VYTHHGATCTLK-ISEP---G-----HLIALGYCNIHGL----------WEN
+-SREIALKG------------------
+>lcl|UniRef90_A8AC72 Desulfoferrodoxin, ferrous iron-binding region n=1 Tax=Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125) RepID=A8AC72_IGNH4
+----------------------MKSF-GELIYTPDRAEGEAISK----------------
+----------------------------A-ETHTPKIEAPEKVKADQPFQVRVSVG----
+-PHPNEAAHSIR----WIELYFYEEG-------------RPFNPV-MLGRVAFE------
+------P-GYAEPDVTFTLK-LKKS---G-----VLYAISYCNLHGL----------WEA
+-RKEIKVE-------------------
+>lcl|UniRef90_A8MKY5 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Alkaliphilus oremlandii (strain OhILAs) RepID=A8MKY5_ALKOO
+----------------------MKTL-GQLLQTGD-------WK----------------
+----------------------------G-EKHVPVIHAPEKVKAGEVFEIKVSVG-DA-
+IGHPNTLEHYIA----WFKVFFHADG-------------GKF-PV-EIANFDFKAHGED-
+------G-NFTEPAGVARIK-LDKS---G-----TIHAVSYCNIHGL----------WEN
+-SQEIVVE-------------------
+>lcl|UniRef90_UPI00039988FD desulfoferrodoxin n=2 Tax=Clostridia RepID=UPI00039988FD
+----------------------MVKR-GNIYKCE-ICGNIVEVLSAGGGQLV--------
+----------CCGQPMTLLEANT-VDASL-EKHVPVIEK--T-EEG----ILVKVG-E--
+VPHPMEEKHYIM----WIDLVAD--D-----------------VV-H--RKFLK------
+--------PGDQPKALFNV---FAN---R------LVAYEYCNLHGL----------WKK
+-E-------------------------
+>lcl|UniRef90_F0GTU8 Superoxide reductase n=2 Tax=Anaerococcus prevotii RepID=F0GTU8_9FIRM
+----------------------MTKL-TETVQSGD-------WK----------------
+----------------------------A-EKHVPELEVERL--EDGKIRVNARVG-KE-
+IEHPNTLEHHIA----WIKVFFKAED-------------GKF-PV-EVGSYQYAAHGED-
+------D-IFSEPCASGVIK-TEKK---G-----TFYALSYCNIHGL----------WEN
+-SLELN---------------------
+>lcl|UniRef90_C8WZG7 Desulfoferrodoxin n=1 Tax=Desulfohalobium retbaense (strain DSM 5692) RepID=C8WZG7_DESRD
+----------------------MPEQ-LQVYKCE-QCGNIVEVLHGGAGDLV--------
+----------CCGENMKLIEAGT-VDAAK-EKHVPVIEK--T-DKG----YKVSVG-S--
+VPHPMEEKHYIE----WIELIAD--G-----------------KA-Y--RQFLK------
+--------PGQTPEAEFCI---EAK---A------VTAREYCNIHGL----------WKA
+-EA------------------------
+>lcl|UniRef90_UPI000647587E MULTISPECIES: desulfoferrodoxin n=1 Tax=Cetobacterium RepID=UPI000647587E
+-----------------------MKV-FEIFKVK-ESPVLLEVLIADAEVNV--------
+-------------EGLELVSEKT-EDATT-EKHVPYVEE--K-EDG----YLVKVGKE--
+VAHPMTEAHYIQ----IIEICVD--------------------DFLY--RKYLK------
+--------PGEAPEAYFRVP-KGAS----------VCAREYCNIHGL----------WHN
+---------------------------
+>lcl|UniRef90_UPI000682FFE3 desulfoferrodoxin n=1 Tax=Ruminococcaceae bacterium mt9 RepID=UPI000682FFE3
+----------------------MDQR-VKFYICK-HCGNIVGLINNGGVPMV--------
+----------CCGEKMHELVPNT-SEGAT-EKHLPVVEV--V-DYL----VNVSVG-S--
+VEHPSTEKHFIA----WIYLETA--H-----------------GG-Q--RKAIK------
+--------PGEHPVVSFAL--QD-D---E-----PIAVYAYCNLHGL----------WKT
+-EIQ-----------------------
+>lcl|UniRef90_A9BI34 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Petrotoga mobilis (strain DSM 10674 / SJ95) RepID=A9BI34_PETMO
+------------------------ML-GDVIKIND-------FK----------------
+----------------------------N-EKHVPTIDCPDKVEPNEEFEVDVQIG-KE-
+IKHPNTVEHHIE----WIDLFIQYDD-------------DPN-TV-HVGRYIF-------
+-----GP-VVGEPHVKAKIK-LTKS---G-----TLIALSHCNIHGL----------WEN
+-TKKVSVG-------------------
+>lcl|UniRef90_UPI0004A6C8B9 Neelaredoxin n=1 Tax=Desulfovibrio sp. L21-Syr-AB RepID=UPI0004A6C8B9
+-----------------------MKI-GELYKTAD-------WK----------------
+----------------------------S-EKHVPVIECPDSVARDDFFQITVSLG-KE-
+VAHPNTTEHHIS----WIEVYFMPEG-------------EKF-VQ-QVARFEFSAHGQSV
+EGPNEGT-VYTHHTGTCSMK-TGKP---G-----TILATAYCNIHGL----------WEN
+-SRKIGIS-------------------
+>lcl|UniRef90_Q12X81 Superoxide reductase n=4 Tax=Methanococcoides RepID=Q12X81_METBU
+-----------------------MNF-GELVKGKDIEAESAM------------------
+----------------------------K-EKHVPTIEILKKHGGTEADLIRVIVG-KE-
+TAHPNTVEHHIA----WVELYG-KKT-------------GGE-VV-NLGRVNFS------
+------P-GNTKPDCWFKLENISEY---K-----AFCALGYCNIHGL----------WEN
+-CVEV----------------------
+>lcl|UniRef90_A0A0B0EIQ1 Superoxide reductase n=1 Tax=Candidatus Scalindua brodae RepID=A0A0B0EIQ1_9BACT
+------------------MSNEKALF-CKVNKSEDVE--PDSPL----------------
+----------------------------A-KKHVPVITVPSVLKVGEFCDVKITVG-E--
+IEHPNENEHFIQ----WIEFYIG--------------------SV-YLGRFDFA------
+------P-VMTRPEITIPLK-LSHS---G-L-NSTLRAVSRCNMHGL----------WEG
+-TAQVKTE-------------------
+>lcl|UniRef90_P82385 Superoxide reductase n=3 Tax=Thermococcaceae RepID=SOR_PYRFU
+------------------------MI-SETIRSGD-------WK----------------
+----------------------------G-EKHVPVIEYERE---GELVKVKVQVG-KE-
+IPHPNTTEHHIR----YIELYFLPEG-------------ENF-VY-QVGRVEFTAHGESV
+NGPNTSD-VYTEPIAYFVLK-TKKK---G-----KLYALSYCNIHGL----------WEN
+-EVTLE---------------------
+>lcl|UniRef90_A0A0M4D028 Desulfoferredoxin n=1 Tax=Desulfuromonas sp. WTL RepID=A0A0M4D028_9DELT
+----------------------MAKQ-LEIYKCD-VCGNIVEVLHSGAAPLV--------
+----------CCGKNMTLQSENT-VDAAK-EKHVPVIEK--G-KGT----ITVTVG-S--
+VPHPMEEKHYIE----WIEILAD--G-----------------KA-Y--RQFLT------
+--------PGAKPEAVFNL---SAD---Q------VVAREYCNLHGQ----------WKA
+-EG------------------------
+>lcl|UniRef90_UPI0002897ED9 superoxide reductase n=2 Tax=Peptoniphilus RepID=UPI0002897ED9
+-----------------------MKL-TETVQTAD-------FK----------------
+----------------------------T-EKHVPVIHVEKE---EGLLKIKTIVG-EE-
+IEHPNTLEHHIA----WIKVFFKPEG-------------EKF-PT-EVGSYEFNAHGEG-
+------E-IETVPCVETAVK-TDKG---G-----EVYALSYCNIHGL----------WEN
+-SVEA----------------------
+>lcl|UniRef90_A1S195 Desulfoferrodoxin, ferrous iron-binding region n=1 Tax=Thermofilum pendens (strain Hrk 5) RepID=A1S195_THEPD
+---------------------MPKKF-GDLIYTPETASGEAISK----------------
+----------------------------V-ETHTPRIEAPDSVKAGEPFYVKIYVG----
+-PHPNTLQHSIR----WIEVYFEEEG-------------RPFNPV-MLSRIHLE------
+------P-ELVEPEVTLKLV-LKKS---G-----VIYALEYCNLHGV----------WEG
+-RKQVKVQ-------------------
+>lcl|UniRef90_A0A099C0K2 Uncharacterized protein n=1 Tax=Prevotella sp. S7 MS 2 RepID=A0A099C0K2_9BACT
+----------------------MMKL-NEIYRST-KCGSLVEVLNPTDGELA--------
+----------CCGEPMELLKENS-VDAAK-EKHVPVVEK--I-EGG----YRVTVG-S--
+VAHPMLEEHSIQ----WIELIAG--D-----------------MV-M--RKYLK------
+--------PGEAPVAEFKT---DAT---D------VYAREYCNLHGL----------WRS
+---------------------------
+>lcl|UniRef90_UPI00048C0794 superoxide reductase n=1 Tax=Proteocatella sphenisci RepID=UPI00048C0794
+-----------------------MSI-SNYFKSGD-------WK----------------
+----------------------------S-EKHVPVIIAPEKVNAEESFEVTVSIG-DA-
+IAHPNTLEHHIS----WMKLFFVQEG-------------SQV-LV-EVASMEFSAHGEL-
+------D-NLTDPHFSTKLK-IAKP---G-----KLVAMSYCNIHGL----------WES
+-EVEVKF--------------------
+>lcl|UniRef90_U2T5P2 Putative superoxide reductase n=1 Tax=Olsenella profusa F0195 RepID=U2T5P2_9ACTN
+-----------------------MSE-PTFYRCN-TCGNLVYVVNEGTCTPE--------
+----------CCGEPMEELVADS-TDAAT-EKHVPVI--ERS-GET----VTVKVG-E--
+IAHPMLEAHFIQ----WIALAYG--E-----------------AV-S--FHHLE------
+--------PGEEPVATFAG--VPAD---A-----KVVAFEHCNLHGL----------WKA
+-GA------------------------
+>lcl|UniRef90_UPI000425E75D desulfoferrodoxin n=1 Tax=Pseudobutyrivibrio ruminis RepID=UPI000425E75D
+---------------------------MKFYVCE-SCGNFVGMIFESGAPMS--------
+----------CCGKMMKELVPGT-SDGAV-EKHVPVFKV--E-GNK----VTVTVG-S--
+VEHPMAEEHFIE----WIALETK--K-----------------GG-Q--RKVLN------
+--------PGDKPCAEFAL--TDDD---A-----VAAVYAYCNLHGL----------WKA
+-E-------------------------
+>lcl|UniRef90_Q74MF3 NEQ011 n=1 Tax=Nanoarchaeum equitans (strain Kin4-M) RepID=Q74MF3_NANEQ
+-----------------------------MIKTEY-------------------------
+----------------------------N-PKHSPIIEIE---KEGELYKITIEVG-KE-
+VKHPNEPSHHIQ----WVDLYFEPEG-------------KE--PT-HIARIEFKAHGEY-
+------N-NYTEPKAIVYAK-LEGK---G-----KLIAISYCTLHGL----------WKT
+-EKEL----------------------
+>lcl|UniRef90_UPI00048DD6A5 dethiobiotin synthase n=1 Tax=Sedimenticola selenatireducens RepID=UPI00048DD6A5
+----------------------MPVV-NRYIDIDQVEKEAKKDY----------------
+----------------------------I-DRHSPFIHCADSAVKGELFKVTVRMG-NE-
+YAHPDDHDHYIR----SVQLYNG--------------------QT-LLAEASFPPGTLGG
+EG------AKGNAEVTFNVVPSGGK---L-----KLSAMAYCTKHGL----------WES
+NPVEVTIA-------------------
+>lcl|UniRef90_UPI00041448F1 desulfoferrodoxin n=1 Tax=Butyrivibrio sp. MC2013 RepID=UPI00041448F1
+------------------------ME-LSFYKCS-KCGKIVALIKGSACPTM--------
+----------CCGEEMKLIVPGS-TDAAV-EKHVPVVEV--N-GSV----VTVKVG-E--
+VDHPMLPEHYIE----WIGLETA--Q-----------------GF-A--MKDLK------
+--------AGDAPCVTFAL--SEGD---S-----VTAAYAYCNLHGL----------WKK
+---------------------------
+>lcl|UniRef90_C2BH40 Desulfoferrodoxin ferrous iron-binding domain protein n=2 Tax=Anaerococcus lactolyticus RepID=C2BH40_9FIRM
+-----------------------MKL-TETIQTAD-------WK----------------
+----------------------------A-EKHVPVIHIAKE---DGLVHIKANVG-EE-
+VAHPNTFEHHIA----WIKVFFKPEG-------------AKF-PI-EVGSYEFKAHGEE-
+------E-IFTQPCVEARVK-TDKG---G-----EVYALSYCNIHGL----------WEN
+-SAEI----------------------
+>lcl|UniRef90_A0A0G0FKT6 Desulfoferrodoxin n=1 Tax=Parcubacteria (Moranbacteria) bacterium GW2011_GWF1_36_78 RepID=A0A0G0FKT6_9BACT
+----------------------MATELNQIYKCN-VCGNIVEMVHTGVGELV--------
+----------CCGQPMELKQEKT-QDEGM-EKHVPVIER--T-AIG----VIVSVG-K--
+IPHPMTSEHYIE----WIEVITE--H-----------------RV-Y--RKHLE------
+--------PGQEPSAEFCL---EAE---H------IEARAYCNVHGL----------WKE
+---------------------------
+>lcl|UniRef90_B8D3S4 Desulfoferrodoxin, ferrous iron-binding region n=2 Tax=Desulfurococcus RepID=B8D3S4_DESK1
+----------------------MTGL-KDLIYTPSSARGEALSK----------------
+----------------------------V-ESHTPRIEAPDSVKPGEVFKVKVSVG----
+-PHPNTVEHSIR----WMELYFEEEG-------------RVFNPI-LIGRYEFT------
+------P-VYSEPVVEVYLK-IQKP---G-----KLIAVEYCNLHGL----------WEN
+-YKEIKISG------------------
+>lcl|UniRef90_UPI0004642289 desulfoferrodoxin n=2 Tax=Firmicutes RepID=UPI0004642289
+---------------------------MKLLKCP-ICGNVVEMIDDHGVPLM--------
+----------CCGKKMEVIEAGS-IDAAV-EKHVPVVSV--D-DSK----LKVSVG-D--
+VNHPMTPEHFISNI--WVEFETG--N-----------------IL----RVTLT------
+--------SNDQPEANFDIA-GKRG---K------ATVYEYCNLHGL----------WKT
+-EIEL----------------------
+>lcl|UniRef90_UPI00047D8740 superoxide reductase n=1 Tax=Clostridiisalibacter paucivorans RepID=UPI00047D8740
+-----------------------MSL-GKLLQTGD-------WK----------------
+----------------------------G-EKHVPVIHSPEKVKAGEAFELGVSIG-DE-
+IKHPNTIEHHIS----WFKVFFHPEG-------------AKF-PV-EIGTYNFTAHGEG-
+------D-ILNDPEVKTCVK-LSKS---G-----TIHVVSYCNIHGL----------WES
+-EKEITVE-------------------
+>lcl|UniRef90_C3WFQ0 Putative superoxide reductase n=1 Tax=Fusobacterium mortiferum ATCC 9817 RepID=C3WFQ0_FUSMR
+-----------------------MKK-NSFIKL--ECGTLVQVVATKEKCCD--------
+----------TLPNGFELVVPKV-EDATT-EKHVPYIEE--K-ENG----YLVRVGKE--
+TKHPMAEAHYIE----FIELEVD--G-----------------DTLY--RKYLK------
+--------PEQEPEAFFEVP-KGKE----------VVAREYCNIHGL----------WAN
+-K-------------------------
+>lcl|UniRef90_A0A0G2Z9J6 Neelaredoxin n=1 Tax=Kosmotoga pacifica RepID=A0A0G2Z9J6_9BACT
+-----------------------MAI-GEFIKSGD-------WK----------------
+----------------------------G-EKHVPVIEAPDIVEAGKSFMIEVSVG-KE-
+IPHPNTIEHHIK----WVDLYFKPDD-------------GQF-LV-HLGHVEFT------
+------P-VLADPHTTLSVK-LEKS---G-----TLLAISYCNLHGL----------WEN
+-TKTISVK-------------------
+>lcl|UniRef90_UPI0006B5F18F superoxide reductase n=1 Tax=Clostridiaceae bacterium mt12 RepID=UPI0006B5F18F
+----------------------MSEF-KQMIQSGD-------WK----------------
+----------------------------G-EKHVPIIHAPEKIKADELVEIKVSIG-DA-
+IKHPNTLEHHIS----WFKLFYLPEG-------------GKF-PI-ELGTFEFRAHGEG-
+------E-SFTEPCVHTCVK-LKTS---G-----NLYALSYCNLHGL----------WES
+-SQKIIVE-------------------
+>lcl|UniRef90_X1H412 Marine sediment metagenome DNA, contig: S03H2_S00290 n=1 Tax=marine sediment metagenome RepID=X1H412_9ZZZZ
+----------------------MGEF-RDLFKSAD-------WK----------------
+----------------------------T-EKHIPVIEVPDRIVKGEYFNVKATVG-KE-
+IHHPNTTEHHIS----WIEIYFQPAG-------------EKF-PY-QIGKFEFVAHGESV
+NGPDTST-IYTNPEITLSFK-TEKP---G-----TIYATSYCNIHGL----------WQN
+-SKEIELE-------------------
+>lcl|UniRef90_UPI000366E6D0 desulfoferrodoxin n=1 Tax=Coprothermobacter platensis RepID=UPI000366E6D0
+------------------------------MKTNQVQ--NDTSK----------------
+----------------------------T-EKHTPYIDVPSEVKVNEPFQVTVQVG-KD-
+IPHPNLVEHHIK----WIQVFFEEEG-------------RAFNPI-HVATFDMG------
+------P-TYAEPKVSFTMK-VQKP---G-----KLIALAYCNVHGL----------WEN
+-AVEIKAI-------------------
+>lcl|UniRef90_A0A090I161 Superoxide reductase n=1 Tax=Peptoniphilus sp. 1-1 RepID=A0A090I161_9FIRM
+----------------------MKKL-TELVQSGD-------WK----------------
+----------------------------N-EKHVPVLHVEQK---EDCLLITAQVG-EE-
+IEHPNTLEHHIG----WIKVFFQPEG-------------FKF-PI-EVGEYNFSAHGEE-
+------E-VFSKPYVQACVK-TDKK---G-----VVYAMSYCNIHGL----------WEN
+-SEEVK---------------------
+>lcl|UniRef90_UPI0003B74519 desulfoferrodoxin n=1 Tax=Desulfurobacterium sp. TC5-1 RepID=UPI0003B74519
+----------------------------------------------MKVFGP--------
+------------------------EPEGK-RKHTPVIEAPAKVKKGEWFDVKVVVG-KD-
+IAHPNTKEHWIQ----FISLWAD--------------------DF-IVGRVTLE------
+------P-EVAASEVTFKVK-LEKD---A-----VLTAQAYCNLHGL----------WHS
+EEVKVEVEE------------------
+>lcl|UniRef90_X1BPI1 Marine sediment metagenome DNA, contig: S01H4_S06106 n=2 Tax=marine sediment metagenome RepID=X1BPI1_9ZZZZ
+----------------------MTKL-KQIYKCN-VCGNIVEVLHTGVGKLV--------
+----------CCGETMQLMEEKR-EDVGQ-EKHLPVIEK--M-ENK----VKVKVG-S--
+IPHPMEEKHYIE----WIELIAD--G-----------------KA-Y--RQFLK------
+--------PGDTPEAVFDV---KPE---K------ITVREYCNLHGL----------WKE
+-GENQ----------------------
+>lcl|UniRef90_Q9WZC6 Putative superoxide reductase n=10 Tax=Thermotogaceae RepID=SOR_THEMA
+-----------------------MKL-SDFIKTED-------FK----------------
+----------------------------K-EKHVPVIEAPEKVKKDEKVQIVVTVG-KE-
+IPHPNTTEHHIR----WIKVFFQPDG-------------DPY-VY-EVGRYEFNAHGESV
+QGPNIGA-VYTEPTVTTVVK-LNRS---G-----TIIALSYCNIHGL----------WES
+-SQKITVEE------------------
+>lcl|UniRef90_Q1PVQ5 Similar to superoxide reductase n=1 Tax=Candidatus Kuenenia stuttgartiensis RepID=Q1PVQ5_9BACT
+-------------------MSEPGLF-CQINTAATGP--AET------------------
+----------------------------V-KKHVPVITLPEKVKAGEPFTVTIKVG-E--
+APHVMENGHFIQ----FIDLYCG--------------------HI-YLSRVDFT------
+------A-VMTKPDISFSIV-LQHE---G---SRTLRAFSRCNLHGI----------WEG
+-TREVNVMT------------------
+>lcl|UniRef90_E6W5Q1 Desulfoferrodoxin n=1 Tax=Desulfurispirillum indicum (strain ATCC BAA-1389 / S5) RepID=E6W5Q1_DESIS
+----------------------MAKR-FEVYKCE-VCGNITQVFHASNGPLA--------
+----------CCGQPMVLMVENT-VDAAK-EKHVPVVEK--V-DGG----IKVSVG-S--
+VEHPMEDKHYIE----WIEVIAG--D-----------------TF-Y--VQFLK------
+--------PGQKPEATFPI---TDD---N------IIVREYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_F8AEI4 Superoxide reductase n=2 Tax=Pyrococcus RepID=F8AEI4_PYRYC
+---------------------MVKML-SGTIKSGD-------WK----------------
+----------------------------G-EKHVPVIEYEKE---GDLVKIEVSVG-KE-
+VPHPNTPEHHIA----WIELYFHPQG-------------ENF-PI-MVGRVAFTAHGD--
+--------PLTEPKAVFFIR-TNKK---G-----KLYALSYCNIHGL----------WEN
+-EVQLE---------------------
+>lcl|UniRef90_A0A0L0W897 Desulfoferrodoxin, ferrous iron-binding domain n=1 Tax=Clostridium purinilyticum RepID=A0A0L0W897_CLOPU
+-----------------------MSI-GQFLQSGD-------WK----------------
+----------------------------G-EKHVPAILAPEKASAGEEIEVKVSIG-EE-
+IKHPNTHEHHIA----WVKVFFKPDD-------------FKF-PI-EIGSYSFNAHGES-
+------D-VFTEPVIVSKFI-ANKS---G-----KIYALSYCNIHGL----------WEN
+-SKDLSVE-------------------
+>lcl|UniRef90_A0A091B032 Desulfoferrodoxin n=1 Tax=Smithella sp. F21 RepID=A0A091B032_9DELT
+----------------------MAKR-NDVFKCE-VCGHIIEVLHEGKGELV--------
+----------CCNQPMKRLTENT-TDAAK-EKHVPVVEK--V-AGG----IKVTVG-S--
+VAHPMEEKHYIE----WIEVIAD--G-----------------KA-Y--RQFLA------
+--------PGQAPEAFFPI---EAA---T------ITAREYCNLHGL----------WKL
+---------------------------
+>lcl|UniRef90_UPI00040FD088 desulfoferrodoxin n=1 Tax=Thermodesulfovibrio thiophilus RepID=UPI00040FD088
+----------------------MTKK-LQIYKCE-KCGNIVEVLHEGIGQLV--------
+----------CCEIPMKLMEENT-VDASQ-EKHVPVIER--I-GEN----YKVKVG-S--
+VPHPMEEKHYIE----WIELIVD--G-----------------KA-Y--REFLR------
+--------PGQSPEALFRV---EGE---N------ISAREYCNIHGL----------WLK
+-QK------------------------
+>lcl|UniRef90_UPI0003F58BF9 desulfoferrodoxin n=1 Tax=Desulfobulbus japonicus RepID=UPI0003F58BF9
+----------------------MAKQ-SEIYKCK-ACGNIVTVLHGGDGDLV--------
+----------CCGENMVMLSENT-VDAAT-EKHVPVIEK--V-SNG----YKVSVG-S--
+TPHPMEEKHYIE----WIELIAD--N-----------------KS-Y--FQFLM------
+--------PGETPEALFCI---EAS---N------VSAREYCNMHGL----------WKA
+---------------------------
+>lcl|UniRef90_UPI0006CF2F63 desulfoferrodoxin n=2 Tax=Desulfosarcina cetonica RepID=UPI0006CF2F63
+----------------------MAER-YEVYKCD-VCGNIVQVLVGGGGELV--------
+----------CCGQPMQKLTENT-VDAAK-EKHVPVIEK--I-DGG----YKVKVG-S--
+VAHPMEEKHYIQ----WIELIAD--G-----------------KS-L--FQFLK------
+--------PGDTPEAVFKV---DAA---S------VSAREYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_H1Q0B6 Desulfoferrodoxin n=1 Tax=Prevotella micans F0438 RepID=H1Q0B6_9BACT
+----------------------MTKR-NEVYKNV-ANGNIVEILNPGE------------
+----------VICESFQLLNENS-TDAAT-EKHVPVIEK--I-EGG----YRVTVG-S--
+VEHPMTEAHFIQ----WIELITEN-N-----------------EV-L--RKYLE------
+--------PTDKPVAEFLT---NAK---Q------VYAREYCNLHGL----------WRS
+-K-------------------------
+>lcl|UniRef90_N1JZH6 Putative superoxide reductase n=2 Tax=Mesotoga RepID=N1JZH6_9BACT
+-----------------------MAI-GEYVKSAD-------WK----------------
+----------------------------S-EKHVPVIEIPDSVKPGEAFNVQITVG-KE-
+ISHPNTIEHHIK----WFDLYVMYDD-------------GQF-LT-HLGHIEFT------
+------P-VTTQPTAVFNVK-LEKS---G-----SLIATSYCNIHGL----------WES
+-SKRVEF--------------------
+>lcl|UniRef90_A0A081BNB5 Putative superoxide reductase n=1 Tax=bacterium UASB14 RepID=A0A081BNB5_9BACT
+-----------------------MGF-AALVHSPD-FEG---------------------
+----------------------------K-EKHVPSMTLSDSAIGT---VVTVQVG-KD-
+VLHPTTPEHHIE----WVKVFGETQE-------------G-K-IV-EVATLTFG------
+------K-GTSLPSGSIVIK-KENY---K-----SLTALSYCNLHGV----------WDN
+-SLTL----------------------
+>lcl|UniRef90_B5Y9S3 Superoxide reductase (SOR) n=1 Tax=Coprothermobacter proteolyticus (strain ATCC 35245 / DSM 5265 / BT) RepID=B5Y9S3_COPPD
+------------------------------MKTYEVQ--NDTSK----------------
+----------------------------T-EKHTPYIEIPSEVKPNEPFQVTVQVG-KD-
+IPHPNLVEHHIK----WIQVFFEEEG-------------RAFNPI-HIATFDLG------
+------P-TYAEPKVTFTMK-VPKN---G-----KLIALEYCNIHGL----------WEN
+-SADVKVSE------------------
+>lcl|UniRef90_R1CRA3 Superoxide reductase n=1 Tax=Caldisalinibacter kiritimatiensis RepID=R1CRA3_9CLOT
+----------------------MKSI-SEFLQTGD-------WK----------------
+----------------------------G-EKHVPVINVPENIKADEEFEIKVSVG-DE-
+IKHPNKVEHHIA----WIKVFFHPEG-------------SKF-PV-EIGTYNFSAHGEG-
+------S-IVNEPHVTTKVT-LNKS---G-----TIYALSYCNLHGL----------WEN
+-SKEITVK-------------------
+>lcl|UniRef90_O58810 Superoxide reductase n=6 Tax=Thermococcaceae RepID=SOR_PYRHO
+------------------------ML-KETIRSGD-------WK----------------
+----------------------------G-EKHVPVIEYERE---GDLVKVEVSVG-KE-
+IPHPNTPEHHIA----WIELYFHPEG-------------GQF-PI-LVGRVEFTNHSD--
+--------PLTEPRAVFFFK-TSKK---G-----KLYALSYCNIHGL----------WEN
+-EVQLE---------------------
+>lcl|UniRef90_A0A0G0ZMH8 Desulfoferrodoxin n=1 Tax=Microgenomates (Daviesbacteria) bacterium GW2011_GWB1_41_5 RepID=A0A0G0ZMH8_9BACT
+-----------------------MER-GQIYRCK-VCGHVIEILHPSEGQLV--------
+----------CCNEPMELLEAKT-QDEGY-EKHVPIIEK--T-ESG----VKVKVG-S--
+VPHPMEEAHYIE----WIEVSFN--G-----------------KS-D--KKFLK------
+--------PGDVPEAEFNV--WSGD----------LVARAYCNIHLL----------WKS
+-G-------------------------
+>lcl|UniRef90_A0A075KBK2 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Pelosinus sp. UFO1 RepID=A0A075KBK2_9FIRM
+-----------------------MKI-SDVIQSAD-------WK----------------
+----------------------------T-EKHSPVIEAPEKVKAGESFAIDLSVG-KE-
+IAHPNTTEHHIR----WIKLYFKPDN-------------SKF-VY-EVSTFEFNVHGESV
+EGANKGP-IYTEPAAKATIK-INSS---G-----TLIATSYCNIHGL----------WES
+-SQAITVE-------------------
+>lcl|UniRef90_UPI0004692712 dethiobiotin synthase n=1 Tax=Sulfurospirillum arcachonense RepID=UPI0004692712
+----------------------MPKI-NRYVDIDTVEREAKKDY----------------
+----------------------------I-DRHSPFIACADSAKSGEKFAVTVKVG-NE-
+YSHPDDFDHFIA----NVALYNG--------------------ET-LLGRADFVPGTLGG
+QD------AKGQAEVVFNIVPTTKK---L-----KLVAQSYCTKHGV----------WES
+DPVAVTVE-------------------
+>lcl|UniRef90_UPI0006D457DA superoxide reductase n=1 Tax=Caloranaerobacter sp. TR13 RepID=UPI0006D457DA
+----------------------MKSL-GQLLQSGD-------WK----------------
+----------------------------N-EKHVPVIQIPEKIRPNEEIELKVLVG-EE-
+IKHPNTLEHHIS----WIKVFYLPED-------------SKF-PV-ELGTFNFTAHGEN-
+------N-ILNEPVITTHIK-LNKS---G-----TIYALSYCNLHGL----------WEN
+-SKEIKVEE------------------
+>lcl|UniRef90_A4EAI2 Putative superoxide reductase n=6 Tax=Collinsella RepID=A4EAI2_9ACTN
+MPWMVRLPLGIRNIENIGTSAKESIM-AKFFKDP-DGKLIAALGNDVATP----------
+-------------TGCTELTANT-EDAAH-EKHVPVVESERD-GHV----IRARVG-S--
+VEHPMVPEHYIE----WIALEAE--G-----------------RL-E--VHYLE------
+--------PGMKPATFFA----GGS---K-----TGTVYAYCNLHGL----------WSA
+-TF------------------------
+>lcl|UniRef90_L0RBL1 Desulfoferrodoxin n=1 Tax=Desulfovibrio hydrothermalis AM13 = DSM 14728 RepID=L0RBL1_9DELT
+----------------------MA-ELYEVYKCE-GCGNITMVIHDGAGNLA--------
+----------CCGSDMILMTENT-VDAAK-EKHVPVIKK--T-DDG----YLVKVG-E--
+VAHPMDEKHYIE----WIELTCG--Q-----------------AR-Y--FKQLS------
+--------PGDTPEAEFCAC-KTCS---G-----PVVARAYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_E1L098 Desulfoferrodoxin ferrous iron-binding domain protein n=6 Tax=Finegoldia magna RepID=E1L098_FINMA
+----------------------MAKL-TETVQSGD-------WK----------------
+----------------------------A-EKHVPVIHIDKK---DDGFKVCAIVG-EE-
+IEHPNTFEHHIA----WIKVFFQPEG-------------EKF-PV-EVASYQAAAHGEG-
+------E-VFTKPHAHAYVK-STKP---G-----KVFALSYCNIHGL----------WES
+-AEEVK---------------------
+>lcl|UniRef90_M1WQE6 Desulfoferrodoxin n=1 Tax=Desulfovibrio piezophilus (strain DSM 21447 / JCM 15486 / C1TLV30) RepID=M1WQE6_DESPC
+----------------------MAIKLGEVYKCN-ACGNIVMAIHAGGGDLV--------
+----------CCGEEMVLMTENT-VDAAV-EKHIPVIEK--D-GDK----VTVKVG-S--
+TAHPMEEKHYIE----WIELCVG--D-----------------TV-L--TKILK------
+--------PGDAPVAEFCVSGLTGD----------ITAREYCNIHGL----------WAG
+-K-------------------------
+>lcl|UniRef90_A0A0F9LL04 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=A0A0F9LL04_9ZZZZ
+-----------------------MKQ-KQIYRCS-VCGKVIEILNSGAPETI--------
+----------CCGQPMILMEEQT-ADWKS-EKHVPKITV--D-GNK----VTVDVGISMG
+TPHPMTDEHYIM----WIELICK--E-----------------NCYK--RQLLN------
+--------PGDEPKAIFVVA-DTDG----------LSAREYCNLHFL----------WKA
+---------------------------
+>lcl|UniRef90_UPI00040D15B1 desulfoferrodoxin n=1 Tax=Desulfovibrio zosterae RepID=UPI00040D15B1
+----------------------MAEL-YEVYKCD-ACGNITMVIHGGAGELV--------
+----------CCGSPMKLMTENT-VDAAK-EKHVPVIEK--I-DGG----YKVKVG-E--
+VSHPMEEKHWIE----WIELACG--D-----------------TR-Y--FKQLA------
+--------PGMAPEAEF-----------YGKFDGPVVAREYCNLHGL----------WKA
+SS-------------------------
+>lcl|UniRef90_I5B6Q4 Desulfoferrodoxin n=3 Tax=Desulfobacter RepID=I5B6Q4_9DELT
+----------------------MAEK-MGIYKCI-KCGNIIQVLHDEQPPVT--------
+----------CCGKPMDRLVANT-VDAAK-EKHVPVIEK--I-EGG----YKVAVG-S--
+VAHPMTKEHWIE----WIELVSC--D-----------------GA-YVQRMMMT------
+--------PDSAPEAVFKC---DAD---K------VEAMAYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_D1B7J5 Superoxide reductase n=1 Tax=Thermanaerovibrio acidaminovorans (strain ATCC 49978 / DSM 6589 / Su883) RepID=D1B7J5_THEAS
+-----------------------MKM-ADLIQSGD-------WK----------------
+----------------------------G-EKHVPVIEVKGPVKAGEPFEVQVSVG-KE-
+IPHPNTTEHHIR----WIQLIFKPEG-------------GKF-PY-EVGRVTFDVHGEST
+DGANQGP-AHTEPFGVFRLK-VAKG---G-----TLTALSYCNIHGL----------WES
+-SVDLAAE-------------------
+>lcl|UniRef90_A0A097ASG3 Putative superoxide reductase n=1 Tax=Thermoanaerobacter kivui RepID=A0A097ASG3_THEKI
+----------------------MKSF-GSLYQSGD-------WK----------------
+----------------------------G-EKHVPVIHLPEKVKKGEVIELKVNVG-EE-
+IPHPNTLEHHIA----WIKICFHGEG-------------DKF-PV-EIGNYNFTAHGEY-
+------G-VFTEPYIIVKFK-AGKS---G-----TIYTASYCNIHGL----------WEN
+-SKEVVVEE------------------
+>lcl|UniRef90_UPI0006BB6CC0 superoxide reductase n=1 Tax=Clostridiales bacterium SIT13 RepID=UPI0006BB6CC0
+------------------------ML-SKTIMSGD-------WK----------------
+----------------------------N-EKHVPVIHIEKSVKGED-VKVKLAVG-EE-
+IGHPNTFEHHIA----WFKLFFQPEG-------------FPK-PI-EVSTVDFTAHGEE-
+------D-TLTSYTAEVNFK-AEKN---G-----KLFALSYCNIHGL----------WES
+-EADLVLE-------------------
+>lcl|UniRef90_Q5JF09 Superoxide reductase n=1 Tax=Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1) RepID=SOR_THEKO
+------------------------ML-SQTIKSGD-------WK----------------
+----------------------------G-EKHVPVIEYEKE---GDLVKVEVSVG-KE-
+IPHPNTPEHHIA----WIQLWFHPED-------------GAF-PI-LVGKVEFSNHTD--
+--------PLTEPRAVFFFR-TQKK---G-----KLYALSYCNIHGL----------WEN
+-EVTLE---------------------
+>lcl|UniRef90_UPI0004974C30 desulfoferrodoxin n=1 Tax=Dehalococcoidia bacterium SCGC AB-539-J10 RepID=UPI0004974C30
+-----------------------MKF-GDISKGKEAEG----------------------
+----------------------------K-EKHVPIIEVGKGKGEAGTDIVHVVVG-KE-
+VPHPNTVEHHIA----WIELYGVKQD-------------G-Q-VI-NLGRTAFA------
+------P-SYSNPNVRFQVP-LEQF---K-----AFCAVAYCNIHGV----------WEN
+-CLEI----------------------
+>lcl|UniRef90_E3PSP5 Putative superoxide reductase (SOR) n=1 Tax=Clostridium sticklandii (strain ATCC 12662 / DSM 519 / JCM 1433 / NCIB 10654) RepID=E3PSP5_CLOSD
+----------------------MSIL-ANYLQTGD-------WK----------------
+----------------------------G-EKHVPVIHAPESISANVLTEIKLSIG-DA-
+IAHPNTLEHHIS----WFKLFFLAEG-------------AKF-PV-ELGTYNFMAHGEG-
+------E-MFTEPVAIAKVK-LPSS---G-----KLIAISYCNIHGL----------WEN
+-SADVTVI-------------------
+>lcl|UniRef90_U2VFY5 Putative superoxide reductase n=3 Tax=Coriobacteriales RepID=U2VFY5_9ACTN
+-----------------------MAE-PTFYHCN-TCGTMVALLKKGGCDPS--------
+----------CCGEPMESLVAGS-VDAAA-EKHVPVVVEAED-GKH----ILVKVG-A--
+VEHPSLEEHYIE----WIALAAE--D-----------------KL-F--VRYLK------
+--------PGDKPEAQFGK--CCAK---G-----ATV-YAYCNLHGL----------WKA
+-EVEL----------------------
+>lcl|UniRef90_UPI0004001025 desulfoferrodoxin n=1 Tax=Acetobacterium dehalogenans RepID=UPI0004001025
+----------------------MCKE-PKFFVCK-HCGNFVGMIHESGVQMI--------
+----------CCGDPMTEVVPNT-TDAAQ-EKHVPVITV--S-GNS----VTVDIG-S--
+VPHPMTPEHHIA----WVYLETT--E-----------------GG-Q--RKCLA------
+--------ETGAPKAEFEL--TPGD---K-----VIAAYEYCNLHGL----------WKA
+-SL------------------------
+>lcl|UniRef90_UPI0002DA980A superoxide reductase n=1 Tax=Anaerococcus provenciensis RepID=UPI0002DA980A
+----------------------MTKL-TETVQTGD-------WA----------------
+----------------------------S-EKHVPEITIEKC--EDGKIKVTAAVG-SE-
+IEHPNTLEHHIS----WIKVFFQAED-------------GKF-PI-EISSYEFNAHGED-
+------D-VLSVPSATGILK-TDKK---G-----TVYALSYCNIHGL----------WEN
+-AAELN---------------------
+>lcl|UniRef90_O29903 Putative superoxide reductase n=2 Tax=Archaeoglobus fulgidus RepID=SOR_ARCFU
+---------------------------MELFQTAD-------WK----------------
+----------------------------K-EKHVPVIEVLRA--EGGVVEVKVSVG-KE-
+IPHPNTTEHHIA----WIELVFQPEG-------------SKF-PY-VVGRAEFAAHGASV
+DGPNTSG-VYTDPVAVFAFK-AEKS---G-----KLTAFSYCNIHGL----------WMG
+-EATLSLE-------------------
+>lcl|UniRef90_A7HKA0 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Fervidobacterium nodosum (strain ATCC 35602 / DSM 5306 / Rt17-B1) RepID=A7HKA0_FERNB
+------------------------ML-GEYIKSGD-------FK----------------
+----------------------------G-EKHVPVIEAPDTVKKNEWFEVEVSVG-KE-
+IPHPNLVEHHIA----WIELYAMPEG-------------APY-IL-RIGRYEFS------
+------P-TLEEPVIKAKIK-LEKN---S-----KLIALSYCNIHGL----------WEG
+-SKDVKVEE------------------
+>lcl|UniRef90_UPI00064FEF38 desulfoferrodoxin n=1 Tax=Methanobacterium sp. SMA-27 RepID=UPI00064FEF38
+----------------------MAEK-GDIYRCN-TCGNIFELIYVGGGTPT--------
+----------CCGTELEILSDKP-KSVGA-EKHIPIIEK--T-DTG----VKVKVG-E--
+IPHPMEEKHYIA----WIEIITD--N-----------------GT-Q--RVFLK------
+--------PGDAPEAEFNIE-FTND----------LYAKEYCTIHGL----------WRS
+---------------------------
+>lcl|UniRef90_E0E1V0 Superoxide reductase n=2 Tax=Peptostreptococcus RepID=E0E1V0_9FIRM
+----------------------MARE-LTFYKCN-RCGNIVELLVNGGGTLV--------
+----------CCREDMKELKANS-TDAAN-EKHVPVVEV--A-GNK----VSVKVG-S--
+VAHPMTEEHHIA----FVVLLTE--K-----------------TV-Q--RVDLD------
+--------HVGEPVAEFVL--ADDD---K-----VVAAYEYCNLHGL----------WVA
+-RV------------------------
+>lcl|UniRef90_G4KZ88 Desulfoferrodoxin n=2 Tax=Oscillibacter RepID=G4KZ88_OSCVS
+--------------------------MVEFYRCE-LCGNMVALIKKGGGTLV--------
+----------CCGQNMTKLEANS-TDAAK-EKHVPAVLR--E-DGK----IKVTVG-S--
+TPHPMLPEHHIE----WIALVTD--D--------------------KVDLKYLK------
+--------PGEEPHAEFSE--VPSG-----------TVYAYCNLHGL----------WKA
+-AL------------------------
+>lcl|UniRef90_D7N7V8 Superoxide reductase n=2 Tax=Peptoniphilus RepID=D7N7V8_9FIRM
+----------------------MKKL-TETVQSGD-------WK----------------
+----------------------------N-EKHVPVIHVENN---GEELVVKAFVG-EE-
+IAHPNTLEHHIS----WIKLFFQPEG-------------AKF-PI-EIGSYEFKVHGEE-
+------E-LFTKPEVVSTLK-TTKK---G-----ILYAMSYCNIHGL----------WEN
+-SQEV----------------------
+>lcl|UniRef90_E1K076 Superoxide dismutase n=1 Tax=Desulfovibrio fructosivorans JJ RepID=E1K076_DESFR
+-----------------------MSM-VDLFQTAD-------WK----------------
+----------------------------K-EKHVPVIECPAQVPGDGFFDVRVSLG-KE-
+IAHPNTTEHHIR----WIRVYFKPEG-------------GKF-AY-EVGSFEFTAHGEAV
+EGPNTGP-VHTFHGVTFSMK-TTAP---G-----TLTAAAYCNIHGL----------WEA
+-SQVISLA-------------------
+>lcl|UniRef90_U5Q3D1 Superoxide reductase n=1 Tax=Bacteroidales bacterium CF RepID=U5Q3D1_9BACT
+-------------------MPRLFTY-TDFAGGSD----KVRAY----------------
+----------------------------A-DKHTPVIICDMEAERDTPFQAKVRIG-MS-
+IKHPNTSEHHFE----YIQLWNL--------------------ET-LVGEVKLSCGSYGN
+NPIQIETVFTFIPKVSM-----------------RLTALAYCNKHGL----------WRS
+EEIFIKVYDKS----------------
+>lcl|UniRef90_D4KHL3 Desulfoferrodoxin ferrous iron-binding domain n=3 Tax=Megamonas RepID=D4KHL3_9FIRM
+------------------------MS-QKFYICS-HCGNIIAFVKDKGVPII--------
+----------CCGEKMKEIIPGT-TDAAV-EKHVPVISQ--E-GNI----VTVSVG-S--
+VEHPMIPEHYIE----WISLETN--K-----------------GN-Q--RKVLQ------
+--------PNTSPTAQFAL--LDGE---E-----VITAYAYCNLHSL----------WKA
+---------------------------
+>lcl|UniRef90_D1B288 Desulfoferrodoxin ferrous iron-binding region n=2 Tax=Sulfurospirillum RepID=D1B288_SULD5
+----------------------MPKI-NRYVDIDTVEREAKKDY----------------
+----------------------------I-DRHSPFITCENEAKQNEPFKVTVKVG-NA-
+YSHPDDFDHYIA----NVQLYNA--------------------DT-LLARADFVAGTLGG
+QD------KKGQAEVTFTIIPTGKK---L-----NLVAHSYCTKHGI----------WES
+DPVEVSVAE------------------
+>lcl|UniRef90_UPI0006D783E2 hypothetical protein n=1 Tax=Peptoniphilaceae bacterium SIT14 RepID=UPI0006D783E2
+----------------------MSKI-TELYQTAD-------WK----------------
+----------------------------N-EKHVPAITAPEKVKGDELFDVEVSVG-KE-
+VAHPNTMEHHIE----WIKLYYLAKD-------------SDK-AV-EIADARFSAHGEG-
+------D-AYTEPKLKASVK-LNKC---G-----KLISTSYCNIHGL----------WTS
+-EVDITVEA------------------
+>lcl|UniRef90_UPI00047DA46A superoxide reductase n=1 Tax=Alkaliphilus transvaalensis RepID=UPI00047DA46A
+----------------------MKSL-GQLLQSGD-------WK----------------
+----------------------------G-EKHVPVIHAPEKVSAGESFEIKVSIG-DA-
+VAHPNSFEHYIA----WFKVFFHPEG-------------AKF-PI-EIANFDFPTHGEG-
+------D-NYTEPVGLASVK-LSKS---G-----TIHAISYCNIHGL----------WEN
+-SKEITVE-------------------
+>lcl|UniRef90_A0A0F2NQJ6 Uncharacterized protein n=1 Tax=Peptococcaceae bacterium BRH_c4a RepID=A0A0F2NQJ6_9FIRM
+----------------------MTEL-NQVYKCN-VCGNIAEMLHTGAGQLV--------
+----------CCNKPMELLKENS-VDASK-EKHVPVIER--A-GNK----VTVKVG-S--
+IDHPMEEKHFIE----WIEVIAG--D-----------------RV-Y--RKYLA------
+--------PGEKPEAEFEI---PAD---S------ILARGYCNLHGL----------WIS
+-RG------------------------
+>lcl|UniRef90_UPI0006B5C90B desulfoferrodoxin n=1 Tax=Desulfatitalea tepidiphila RepID=UPI0006B5C90B
+-----------------------MDF-SAIIQSSQSEG----------------------
+----------------------------K-EKHVPTVTVDKGYKEGH-DIVRVVVG-HE-
+TPHPNTQEHHIS----WIELYGVKKD-------------NNQ-VI-NLGRAAWA------
+------P-VYSNPNVRFQINQIKDF---K-----AFYALAYCNIHGL----------WGN
+-MLTA----------------------
+>lcl|UniRef90_S5Z5M1 Desulfoferrodoxin n=1 Tax=Thermofilum sp. 1910b RepID=S5Z5M1_9CREN
+---------------------MAKKF-GDLIYSPEVAAGEAVSK----------------
+----------------------------V-ETHTPKIEAPDEVKAGEPFYIKIKVG----
+-PHPNTLQHSIR----WIEVYFEEEG-------------RAFNPI-MLSRIHLE------
+------P-ELVEPEVTLKLV-LKKS---G-----VIYALEYCNLHGV----------WEG
+-RKAITVK-------------------
+>lcl|UniRef90_W0FL14 Superoxide reductase n=1 Tax=uncultured bacterium Contig1532b RepID=W0FL14_9BACT
+------------------------MA-VRFYRCS-HCGNIIIKVVDKKVPVV--------
+----------CCGEKMEELVPSS-TDAAV-EKHVPVISV--D-GNI----VTVSVG-S--
+VAHPMIPEHFIQ----FIVLETS--N-----------------GI-Q--IAELA------
+--------AGNEPVATFAV--TEGT---E-----VKAAYAYCNLHGL----------WVN
+-E-------------------------
+>lcl|UniRef90_J0L8N5 Desulfoferrodoxin n=1 Tax=Thiovulum sp. ES RepID=J0L8N5_9HELI
+----------------------MPKI-NRYVDIDQVEREARKDY----------------
+----------------------------I-DRHSPFVTVSGEAKKGEKLAVTVKVG-NE-
+YSHPDDFDHFIS----NVSLFNG--------------------ET-LLARADFVPGTLGN
+E--------KSQVEVTFNIIPTTKK---L-----KLVAQSYCTKHGV----------WES
+DPVACEVAE------------------
+>lcl|UniRef90_E8T581 Desulfoferrodoxin ferrous iron-binding region protein n=1 Tax=Thermovibrio ammonificans (strain DSM 15698 / JCM 12110 / HB-1) RepID=E8T581_THEA1
+----------------------------------------------MKVHGP--------
+------------------------EPEGK-RKHTPVIEAPAKVKKGEWFEVRVVVG-KD-
+IPHPNTKEHWIE----HISLWAG--------------------DF-LAGRADLE------
+------P-ERAASEVVFKIK-LEET---T-----TLTAHAYCNLHGL----------WHS
+EDVTVEVEE------------------
+>lcl|UniRef90_UPI000418DFB3 Neelaredoxin n=2 Tax=Thermotogaceae RepID=UPI000418DFB3
+-----------------------MKL-ADFIKSED-------FK----------------
+----------------------------K-EKHVPVIEAPDSVKKNEPFHITVTVG-KE-
+IPHPNTTEHHIR----WIQVFFQPDG-------------DPY-VY-EIGKYEFNAHGESV
+QGPNTGA-VYTEPTVTNKVK-LNKS---G-----TILALSFCNIHGL----------WES
+-SKKIVVEE------------------
+>lcl|UniRef90_D3S044 Superoxide reductase n=1 Tax=Ferroglobus placidus (strain DSM 10642 / AEDII12DO) RepID=D3S044_FERPA
+---------------------------MELLQTAD-------WK----------------
+----------------------------K-EKHVPVIEVLKW--DNGVVEVKVSVG-KE-
+IPHPNTTEHHIA----WIELIFHPEG-------------EKF-PY-VVGRTEFAAHGASV
+EGPNTSG-VYTEPVAHFTFK-TEKG---G-----KLIAFSYCNIHGL----------WMN
+-ETELK---------------------
+>lcl|UniRef90_F0H0D5 Superoxide reductase n=7 Tax=Anaerococcus RepID=F0H0D5_9FIRM
+-----------------------MLL-TQTVQSGD-------WK----------------
+----------------------------N-EKHVPELEYKEL--GEGKYEVSAFVG-KE-
+IAHPNTLEHHIA----WIKVFFIPEG-------------GKL-PV-EVANYNFSAHGES-
+------E-IYSTPKAVGEFK-ADKK---G-----TLFALSYCNIHGL----------WEN
+-SLEIK---------------------
+>lcl|UniRef90_UPI0006DD1A3E desulfoferrodoxin n=1 Tax=Pyrodictium delaneyi RepID=UPI0006DD1A3E
+---------------------MAKPF-GELIYTPE-TTGPAASK----------------
+----------------------------A-ETHAPKIEAPDTVKKGEPFKITIKVG----
+-PHPNQVQHSIR----RIEIWFSEEG-------------RAFNPI-HIATIDLE------
+------P-VYAEPEITITIR-LEKS---G-----TLYVLSYCNLHGV----------WET
+-HKDVKVEE------------------
+>lcl|UniRef90_W1YSY8 Desulfoferrodoxin ferrous iron-binding region (Fragment) n=1 Tax=human gut metagenome RepID=W1YSY8_9ZZZZ
+----------------------TMAV-HDYIKSGD-------FA----------------
+----------------------------T-EKHVPVIETVDTVKAGETFHVTLSVG-KD-
+IAHPNTVEHHIE----WIKLYFVAEG-------------TQL-PF-EVGEISFNVHGDGA
+T-ANEGP-VHAISEGSLAVS-LNKS---G-----K-------------------------
+---------------------------
+>lcl|UniRef90_R7NGX4 Uncharacterized protein n=1 Tax=Mycoplasma sp. CAG:776 RepID=R7NGX4_9MOLU
+------------------------MN-RKFLLCR-RCGNLIELINDSGVTPI--------
+----------CCGIDMVLLTANS-TEAAT-EKHIPVIEK--E-GTT----VKITIG-E--
+TLHPMEESHYIE----WIYLETN--M-----------------GI-K--RVNLK------
+--------PGEEPIAYFAL--LENE---K-----IIKAYSYCNLHGL----------WVK
+-EI------------------------
+>lcl|UniRef90_X1E2P2 Marine sediment metagenome DNA, contig: S01H4_S06534 n=1 Tax=marine sediment metagenome RepID=X1E2P2_9ZZZZ
+----------------------MTIQ-KQVYRCN-VCGNIVEVLHTGKGELV--------
+----------CCGQPMELLQEKT-ADVGL-EKHVPVVET--T-DRG----IKVKVG-D--
+VPHPMEEKHYIE----WIEVITD--G-----------------GS-C--RQFLK------
+--------PGGKPEAEFEI---GPP---K------LVAREYCNIHGL----------WKS
+-S-------------------------
+>lcl|UniRef90_UPI0004785D92 Neelaredoxin n=1 Tax=Aminiphilus circumscriptus RepID=UPI0004785D92
+-----------------------MKF-ADVMQSGD-------WK----------------
+----------------------------G-EKHVPVIEAPEKVKAGEAMTVTVSVG-KE-
+IPHPHTTEHHIR----WIRLAFKPEG-------------GKF-VY-DLGLVEFNAHGESP
+EGANQGP-AYTDPVASFRIK-LKKS---G-----MLLAASYCNIHGM----------WES
+-SVPVAVEE------------------
+>lcl|UniRef90_A6LMA4 Desulfoferrodoxin n=1 Tax=Thermosipho melanesiensis (strain DSM 12029 / CIP 104789 / BI429) RepID=A6LMA4_THEM4
+----------------------MTRR-GQVYKCE-KCGNIVEVLHEGPGTLV--------
+----------CCGEPMKLLEEKT-ADSSQ-EKHVPFIEE--I-ENG----YRIRVGAN--
+AMHPMEEKHYIE----WIELTVD--G-----------------AV-Y--KKFLN------
+--------PGEKPEAVFEV--KKGT---K------VSAREYCNIHGL----------WKK
+---------------------------
+>lcl|UniRef90_M1E481 Desulfoferrodoxin n=1 Tax=Thermodesulfobium narugense DSM 14796 RepID=M1E481_9FIRM
+----------------------MATEVLQIYKCE-TCGNIVMVLHSGVGQLV--------
+----------CCGSPMKLMEENT-VDAVV-EKHVPVIER--N-GKE----VLVKVG-S--
+TPHPMTSTHWIE----WIELHVDD-S-----------------YV-L--IKRLN------
+--------FNDKPEATFSLP-TEPK---N------LMAREYCNLHGL----------WKS
+-KE------------------------
+>lcl|UniRef90_F2KWY0 Putative superoxide reductase n=10 Tax=Prevotella RepID=F2KWY0_PREDF
+----------------------MAKR-NELYKCA-ESGNIVEVLVGGECGSG--------
+--------------NMQLLKENT-TDAAT-EKHVPVVEK--I-EGG----YRVTVG-E--
+VEHPMTEAHSIL----WIELITNN-N-----------------EV-L--RKYLD------
+--------PTDRPVAEFKT---DAT---E------VYAREYCNLHGL----------WRS
+-K-------------------------
+>lcl|UniRef90_I0GKS9 Putative superoxide reductase n=1 Tax=Caldisericum exile (strain DSM 21853 / NBRC 104410 / AZM16c01) RepID=I0GKS9_CALEA
+-----------------------MAL-KDLIQTAD-------FT----------------
+----------------------------K-EKHTPVIEVLEK---GDKTKIRVSVG-KE-
+IPHPNTTEHHIE----WIEVYFKPAD-------------GKF-PY-LLARFTFDSHGAST
+NGPNTSQ-VYTEPDVTFVAK-IGTD---G-----ELFALSYCNIHGL----------WES
+-EVVKI---------------------
+>lcl|UniRef90_E0NJP0 Desulfoferrodoxin ferrous iron-binding domain protein n=2 Tax=Peptoniphilus RepID=E0NJP0_9FIRM
+-----------------------MKL-TETIQSGD-------WK----------------
+----------------------------N-EKHVPALHVERC--CEEGIKIVAEVG-ED-
+IAHPNTLEHHIS----WIKVFVKPEG-------------AKF-PI-EVGSYEFKAHGEE-
+------E-LFSVPKVTVNVK-CPKK---A-----TVYALSYCNIHGL----------WEN
+-SVEFEG--------------------
+>lcl|UniRef90_A0A0A2HXZ0 Desulfoferrodoxin n=1 Tax=Desulfobulbus sp. Tol-SR RepID=A0A0A2HXZ0_9DELT
+----------------------MAEK-MEVYKCS-ICGNIVEVLAGGAGSLV--------
+----------CCGQPMARMTENT-TDAAV-EKHVPVLEK--K-DGC----WQVNVG-S--
+VDHPMTAEHYIE----WIELVDG--D-----------------TV-Y--RQNLK------
+--------PGDKPSACFAC---SAD---K------VTARAYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_C9KNV3 Putative superoxide reductase n=2 Tax=Mitsuokella RepID=C9KNV3_9FIRM
+------------------------MA-KRFFRCE-KCGNIVGLIKDAGGPLS--------
+----------CCGQPMTELIPNT-VDAAA-EKHVPVITLDRE-GGE----VTVQVG-T--
+VAHPMLPEHFIE----WIHLETE--N-----------------GA-Q--IKHLK------
+--------PGDAPEAVFML--AGSD---K-----PVAAFAYCNLHGL----------WKA
+-EFHED---------------------
+>lcl|UniRef90_F0S113 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Desulfurobacterium thermolithotrophum (strain DSM 11699 / BSA) RepID=F0S113_DESTD
+--MDRRDFIKKTILATGVFLGGGVTV-SEITKAAE-------EKFPVFGPDL--------
+------------------------KSIGG-RKHTPYVKAPKKVRAGEWFDVYVEVG-YY-
+HPHPNTMTHWIESVALWID------------------------KF-EVVKATFRA-----
+--------TQGAPKALFTVK-IDKP---G---NAILEGLGYCNLHGL----------WVS
+KPIILEVV-------------------
+>lcl|UniRef90_I4C6Z6 Desulfoferrodoxin ferrous iron-binding domain protein n=1 Tax=Desulfomonile tiedjei (strain ATCC 49306 / DSM 6799 / DCB-1) RepID=I4C6Z6_DESTA
+----------------------MARI-GELYQAAD-------WK----------------
+----------------------------T-EKHVPVIECADEVAAEEMFDVSVSLG-KE-
+IAHPNTTEHHIM----WIKVHFKPNE-------------DKF-SY-DLGSFEFSAHGASV
+EGPNTGP-AYTNHSVVCRIK-LKKS---G-----VLFASAYCNIHGL----------WEN
+-SKPINVRQQL----------------
+>lcl|UniRef90_UPI0003B3E069 Rubredoxin oxidoreductase (desulfoferrodoxin) n=1 Tax=Faecalicoccus pleomorphus RepID=UPI0003B3E069
+---------------------------MKIYKCD-DCGAVFELVVE---PTK--------
+----------GAIEGLREVKAGE-VDGAL-EKHVPVVEQ--D-GHK----LIVKVG-S--
+VAHPMTPEHYINAI--WVEFEDG--T-----------------YV----KKALT------
+--------PDMAPEAHFCMK-NKSG---K------VTVYEYCNLHGL----------WKT
+-EFTLKAE-------------------
+>lcl|UniRef90_E0RNT7 Neelaredoxin n=2 Tax=Spirochaeta thermophila RepID=E0RNT7_SPITD
+-----------------------MAL-GEWIKSDD-------FK----------------
+----------------------------T-EKHVPVIELPREVKKGEAVLVTVTVG-KE-
+IPHPNTTEHFIQ----WIRLYYKDVD-------------GKF-AI-DLGCAEFNAHGATT
+AGPNTGP-AYTEPVAVFKVK-LDTP---G-----TLVAESYCNIHGL----------WES
+-SVEVKPEA------------------
+>lcl|UniRef90_A0A073IUV9 Neelaredoxin n=1 Tax=Synergistes jonesii RepID=A0A073IUV9_9BACT
+-----------------------MKI-AETIRDGD-------FK----------------
+----------------------------A-EKHVPTIDAPDKIKAGEEALVKVMVG-EE-
+IKHPNTPLHHIS----WIQLFFKPDN-------------GT--VA-DVAKFCYAAHGDTM
+NLDTPGC-ILAEPASCVKIH-PAKS---G-----TLIAMSYCNLHGL----------WEN
+-SKRIEVE-------------------
+>lcl|UniRef90_UPI00046CD90F Neelaredoxin n=1 Tax=Deferrisoma camini RepID=UPI00046CD90F
+----------------------MSAI-GDLYKQAD-------WK----------------
+----------------------------A-EKHVPVIECPDTVAADEAFEVKVCVG-KE-
+IAHPNTTEHHIR----WIRLYFLPEG-------------GKA-PF-EVANLEFTAHGESA
+EGANAGP-AYTHHQASAFLK-LKTS---G-----RLIATSYCNIHGL----------WES
+-AKDVRVG-------------------
+>lcl|UniRef90_G9PRP3 Desulfoferrodoxin ferrous iron-binding domain-containing protein n=2 Tax=Synergistaceae RepID=G9PRP3_9BACT
+-----------------------MKI-GEVMRDGD-------FK----------------
+----------------------------A-EKHVPTIEAPEKVKLGEEALVKVMVG-QE-
+IKHPNTPLHHIR----WIQLYFKPDD-------------ATP-VI-EVAKFDYSAHSDTM
+NPDMPGC-AAADPASCVKVK-LTKS---G-----TFIAVSYCNIHGL----------WES
+-AKKIEVEA------------------
+>lcl|UniRef90_A0A0E3S576 Superoxide reductase n=3 Tax=Methanosarcina RepID=A0A0E3S576_9EURY
+-----------------------MVE-GNINKPADPK--NLTEG----------------
+----------------------------D-KKHIPAIYVPKTIVAGEPFDVIVQVG-L--
+IPHVMEEKHHIE----WIELYLN--------------------DT-KIGKVELS------
+------LRKNKKAEATFTIK-ADKS---LAGKESKLHALEHCNVHGT----------WEE
+-FMTIKIS-------------------
+>lcl|UniRef90_E8R9F6 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Desulfurococcus mucosus (strain ATCC 35584 / DSM 2162 / JCM 9187 / O7/1) RepID=E8R9F6_DESM0
+----------------------MTGL-KDLIYTPSTASGEAISK----------------
+----------------------------V-ETHTPRIEAPDHVKPGEVFRVKVSVG----
+-PHPNTVEHSIR----WIELYFEEEG-------------RAFNPV-LIGRYEFT------
+------P-VYSEPVVEVYLK-IQKP---G-----RLIAVEYCNLHGL----------WES
+-YKEVKVSG------------------
+>lcl|UniRef90_A0A096CS43 Neelaredoxin n=1 Tax=Veillonella montpellierensis DNF00314 RepID=A0A096CS43_9FIRM
+-----------------------MAV-HDYIKSAD-------FK----------------
+----------------------------N-EKHVPVIDCADTFKVGEKATIEVAVG-KE-
+IAHPNTTEHHIN----WIKLYFVPEG-------------TQV-PY-EVGAIEFNVHGESA
+AGANEGP-VFAEAEGSFKVT-FKKS---G-----KLIAVSYCNIHGL----------WES
+-EKDITVA-------------------
+>lcl|UniRef90_F0TC31 Desulfoferrodoxin n=1 Tax=Methanobacterium lacus (strain AL-21) RepID=F0TC31_METLA
+-----------------------MER-GQIYRCN-TCGNMFELINVGGGTSS--------
+----------CCGTEMELLSDKA-KDVGA-EKHVPVIEK--I-DGG----VKVKVG-S--
+VPHPMEEDHYIA----WIEIITD--N-----------------ET-Q--RAFLK------
+--------PGEAPEAEFKID-DTTN----------LFAKEYCTVHGL----------WRS
+-A-------------------------
+>lcl|UniRef90_UPI0003FDC29A desulfoferrodoxin n=1 Tax=Desulfovibrio aminophilus RepID=UPI0003FDC29A
+----------------------MAGI-GEVYKCD-TCGNIVLVVHGGAGELV--------
+----------CCGKPMRLMTENT-VDAAR-EKHVPVIEV--S-GDT----VTVKVG-G--
+VPHPMEEKHWIE----WIELTAD--D-----------------EV-Y--TKLLK------
+--------PGDKPEASFCLCGKKPA---S------LKAREYCNLHGL----------WAA
+GK-------------------------
+>lcl|UniRef90_F7V8Z0 Desulfoferrodoxin n=1 Tax=Clostridium sp. (strain SY8519) RepID=F7V8Z0_CLOSS
+---------------------------MKLFRCS-HCGNIIAMVEDSGVPVV--------
+----------CCGEKMQELVPNT-TDAAQ-EKHVPVITV--E-GQK----VTVTVG-S--
+VAHPMEEAHHIS----WIILETA--Q-----------------GR-Q--RKELK------
+--------PGDAPTAVFML--TDDD---K-----PLAAYEYCNLHGF----------WKA
+-DV------------------------
+>lcl|UniRef90_D7E6L1 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Methanohalobium evestigatum (strain DSM 3721 / OCM 161 / Z-7303) RepID=D7E6L1_METEZ
+------------------------MI-ENIVKGKEEEAESKL------------------
+----------------------------K-EKHIPSIEIMKGQGKQGGDFIEVAVG-KE-
+TPHPNKVEHHIA----WVELHGVRNN-------------G-Q-VV-NLGKMDFA------
+------P-VYVEPNAKFEVNSIDDF---K-----SFYAVEYCNIHGL----------WEN
+-SVEM----------------------
+>lcl|UniRef90_D1JAS1 Putative superoxide reductase n=1 Tax=uncultured archaeon RepID=D1JAS1_9ARCH
+-----------------------MKF-EDLLKGEEVEG----------------------
+----------------------------K-EKHVPYIEVGKGRGREDVDVVRVVVG-KE-
+VPHPNTTEHHIA----WIELYGMKKE-------------G-Q-IV-DLGRAAFA------
+------A-GYTNPNARFQVP-IADF---K-----AFCALAYCNIHGL----------WQN
+-SIEME---------------------
+>lcl|UniRef90_D4IY39 Desulfoferrodoxin ferrous iron-binding domain n=2 Tax=Lachnospiraceae RepID=D4IY39_BUTFI
+---------------------------MKFYVCE-VCGNFVGMIKESGAPMT--------
+----------CCGQRMKELVPGT-SDGAV-EKHVPVCKV--E-GNK----VIVTVG-S--
+VEHPMAPEHYIE----WIALETA--K-----------------GA-Q--RKVLN------
+--------PGDKPCAEFAL--TDDD---S-----VVAVYAYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_A0A095Y669 Uncharacterized protein n=1 Tax=Prevotella sp. S7-1-8 RepID=A0A095Y669_9BACT
+----------------------MAKR-NDIYKNT-KTGSMVEVMAAGELNLD--------
+----------G---DWKAMTENT-VDAAK-EKHVPVIEA--I-EGG----YRVTVG-S--
+VEHPMTEEHYIQ----WIELMTE--T-----------------EV-L--RKYLT------
+--------PNDKPVAEFKT---DAK---K------VCAREYCNLHGV----------WKA
+-DL------------------------
+>lcl|UniRef90_Q8TJP2 Desulfoferrodoxin n=5 Tax=Methanosarcina RepID=Q8TJP2_METAC
+------------------MMGKKMAE-EKINKPADPN--NLTDG----------------
+----------------------------E-KKHIPIINVPETIVAGEPFDVTVEVG-I--
+IPHVMEEKHHIE----WIELYLN--------------------DK-KIRRAELS------
+------L-ENKKAEATFTVE-ADKS---LAGKESKLRALENCNIHGL----------WEE
+-FMTIKMS-------------------
+>lcl|UniRef90_A0A0M0BWI2 Neelaredoxin n=1 Tax=miscellaneous Crenarchaeota group-6 archaeon AD8-1 RepID=A0A0M0BWI2_9ARCH
+----------------------MAKI-NDLVKTAD-------WK----------------
+----------------------------L-EKHVPVIDCSDTVVSNKIFEVKVAIG-KE-
+IAHPNTSEHHIS----WISLYFQPDG-------------EKT-AY-QVGHYEFTAHGASV
+QGPNTSA-VYAHHGLSTWIK-INKP---G-----ILFAVSLCNIHGL----------WQS
+-SKEISLK-------------------
+>lcl|UniRef90_A0A0K9I403 Desulfoferrodoxin n=1 Tax=Desulfocarbo indianensis RepID=A0A0K9I403_9DELT
+----------------------MSNQRLNVYKCG-KCGNIVEMVHAGMGQLV--------
+----------CCGEPMKLQSENT-QDAAQ-EKHVPVIEK--V-DGG----FKVKVG-S--
+VAHPMEEKHYIQ----WIEVIAD--D-----------------KA-Y--MEFLK------
+--------PGAAPEAVFKI---DAA---K------ITAREYCNIHGH----------WKA
+-EG------------------------
+>lcl|UniRef90_B9L7C4 Uncharacterized protein n=1 Tax=Nautilia profundicola (strain ATCC BAA-1463 / DSM 18972 / AmH) RepID=B9L7C4_NAUPA
+----------------------MPKI-NRYQDISQIDREAKKDY----------------
+----------------------------I-DRHSPFVHCEDTAKKGEKFKVKVKVG-NE-
+YSHPDDFDHYIA----YVQLWNG--------------------ET-LLGQATFTPGTLGN
+Q--------KDHVEVDFYIVPTSNK---L-----KLTAMAYCTKHGL----------WES
+EVKEVSVSE------------------
+>lcl|UniRef90_D9R1P0 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Clostridium saccharolyticum (strain ATCC 35040 / DSM 2544 / NRCC 2533 / WM1) RepID=D9R1P0_CLOSW
+----------------------MKNE-PVFLTDK-NHNIILESITGTPNAAL--------
+---------PDSLKPFEVLEPNT-SDGAA-EKHVPVIES--E-GNH----VTIKVG-S--
+IFHPMTEDHSIA----WICLQTT--A-----------------GTVM--RVSLS------
+--------PNCQPMACFTL--EKGD---T-----PKAAFAYCNLHGF----------WKT
+-EA------------------------
+>lcl|UniRef90_H9UAW6 Desulfoferrodoxin ferrous iron-binding domain protein n=2 Tax=Fervidobacterium RepID=H9UAW6_FERPD
+------------------------MI-GDFVKSGD-------FK----------------
+----------------------------G-EKHVPVICAPDKVKKGEWFEAEVSVG-KE-
+IPHPNTVEHHIA----WIELYAMPEG-------------APY-IL-RIGRYEFS------
+------P-TLEEPIVKVKIR-LEKT---S-----KLIALSYCNLHGL----------WEG
+-STDVVVEE------------------
+>lcl|UniRef90_F0JFW7 Desulfoferrodoxin n=1 Tax=Desulfovibrio desulfuricans ND132 RepID=F0JFW7_DESDE
+----------------------MAIKLGEVYKCN-ICGNIVMAIHEGGGSLV--------
+----------CCGEEMVQMTENT-VDAAK-EKHVPVIEK--D-GDK----VTVKVG-S--
+VAHPMEEKHYIE----WIELQVG--D-----------------VV-L--TKMLK------
+--------PGEKPEAEFCICGLSGP----------LKAREYCNIHGL----------WTA
+SA-------------------------
+>lcl|UniRef90_K4MI76 Putative superoxide reductase n=1 Tax=Methanolobus psychrophilus R15 RepID=K4MI76_9EURY
+-----------------------MNF-GDILKGREAEG----------------------
+----------------------------K-EKHVPEIEIIRGHGKDKNDFVKVTVG-KE-
+VPHPNTAEHHIE----WVELYGITKE-------------G-H-TI-DFGRMSFE------
+------P-VYADPVATFHVKGIDNF---K-----AFCALEYCNIHGV----------WQN
+-CIEV----------------------
+>lcl|UniRef90_M7TFA4 Desulfoferrodoxin n=1 Tax=Thermoplasmatales archaeon SCGC AB-540-F20 RepID=M7TFA4_9EURY
+----------------------MTKI-REIYKCN-ICGNIVEALHAGVGELV--------
+----------CCGEPMELMKEKT-EDSSI-EKHVPYIEK--T-ENG----VLVKIGQN--
+QEHPMEEKHHIE----WIQVIAD--G-----------------IS-Y--RKFLK------
+--------PGDKPQAEFEI---KAD---K------IETREYCNIHGL----------WRS
+---------------------------
+>lcl|UniRef90_D6GQ21 Superoxide reductase (SOR) n=1 Tax=Filifactor alocis (strain ATCC 35896 / D40 B5) RepID=D6GQ21_FILAD
+----------------------MSIL-QDFIKTGD-------WK----------------
+----------------------------G-EKHVPVITCADTFKAGEVTDVTLSIG-DA-
+ISHPNTAEHYIA----WFKLFFVAEG-------------SKN-VV-ELGDVHFDSHGEA-
+------N-LFTEPKAVFSVK-LPSS---G-----KLVALSYCNLHGL----------WEN
+-VKEVTAE-------------------
+>lcl|UniRef90_A0A0F9BAP0 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=A0A0F9BAP0_9ZZZZ
+-----------MPDTKIPTKCPDNVL-CGVNMVCDCE--NMTDL----------------
+----------------------------E-KKHLPVITAPDTVGKGEFFEVTIEVG-KL-
+LAHPNEPGHHID----FIELYAD--------------------HT-YLARVHFT------
+------G-RTTKPTVKLWIS-LDHI---H----GKLRAFAYCNLHGN----------WGG
+-CKKIQVTEH-----------------
+>lcl|UniRef90_D1Y2M6 Desulfoferrodoxin ferrous iron-binding domain protein n=1 Tax=Pyramidobacter piscolens W5455 RepID=D1Y2M6_9BACT
+-----------------------MKI-GELIQSGD-------WK----------------
+----------------------------G-EKHVPVIEAPASVKAGETAHVVLSVG-KE-
+IAHPNTMEHYIA----WIKLYFKGAS-------------SKF-AV-ELGELTFDVHGDNA
+----------TAPQGCLHVK-LKES---G-----TLIAVSYCNLHGL----------WES
+-SAEITVE-------------------
+>lcl|UniRef90_UPI0005EDD80F hypothetical protein n=1 Tax=bacterium UASB270 RepID=UPI0005EDD80F
+-----------------------MAL-AQFIHAPE-FEG---------------------
+----------------------------K-EKHVPDIALSTSDLGT---VVTIQVG-KE-
+VVHPTTKEHHIE----WVKVFGETQE-------------G-K-FV-EIGELNFG------
+------R-GTAFPRGSLVIK-KEEY---K-----SLTALSYCNLHGV----------WDN
+-SLAL----------------------
+>lcl|UniRef90_UPI000485A4FE desulfoferrodoxin n=1 Tax=Desulfosarcina sp. BuS5 RepID=UPI000485A4FE
+----------------------MAER-LEVYKCE-VCGNIVEVLQGEKGELA--------
+----------CCNQPMKLMAENS-VDAAK-EKHVPMIEK--I-SGG----VKVTVG-S--
+VAHPMEEKHYIQ----WIEIVAD--G-----------------MA-Y--RRFLN------
+--------PGETPEATFQV---EAE---Q------ITAREYCNLHGL----------WKS
+---------------------------
+>lcl|UniRef90_F8E9F7 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Flexistipes sinusarabici (strain DSM 4947 / MAS 10) RepID=F8E9F7_FLESM
+----------------------MGNI-GEFVKTAD-------YK----------------
+----------------------------S-EKHVPVIECPSGLKKGEASDVVVSVG-KE-
+IAHPNTTEHFIS----WIALYFKPED-------------GN--IY-NLGRAEFLSHGESV
+KGANEGP-AYTDPVACFRVK-LEEK---G-----KLVAVSYCNIHGL----------WES
+-EVDVSF--------------------
+>lcl|UniRef90_UPI00037FF34F hypothetical protein n=1 Tax=Propionispira raffinosivorans RepID=UPI00037FF34F
+----------------------MAQE-RKFYVCK-LCGNIVGMIHVGGGTLS--------
+----------CCGQPMQELVANT-SDGAT-EKHVPVIEA--Q-GSK----VTVKVG-S--
+VTHPMLPEHWIQ----WIYLQTE--K-----------------GG-Q--RVDLN------
+--------PGEEPVAHFVL--AEGD---K-----VVAAYEYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_E4TYN8 Desulfoferrodoxin ferrous iron-binding region n=3 Tax=Sulfuricurvum RepID=E4TYN8_SULKY
+----------------------MPTI-NRYVDISTVDREAKKDY----------------
+----------------------------I-DRHSPFIHCAANAKKGEKFAVTVKMG-NE-
+YSHPDDFDHFIA----NIALYNG--------------------ET-LLARADFVPGTLGN
+E--------KNHAEVTFNIVPTGKK---L-----TLVAHGYCTKHGV----------WES
+TPVEVEVEEASSCCGGGHCS-------
+>lcl|UniRef90_F3Z468 Desulfoferrodoxin ferrous iron-binding region n=2 Tax=Desulfovibrio africanus RepID=F3Z468_DESAF
+-----------------------MKA-GELYQTAD-------WK----------------
+----------------------------N-EKHVPVIECPDSVAADQMFDVKVTIG-KE-
+ISHPNTTAHHIA----WIKLYFKPEG-------------GKF-PY-EIGGFFFSAHGAST
+EGPDTSS-VYTHHGVTCSFK-TSKP---G-----TLLATSYCNIHGL----------WEN
+-SKTLGIK-------------------
+>lcl|UniRef90_F2NDC8 Desulfoferrodoxin n=1 Tax=Desulfobacca acetoxidans (strain ATCC 700848 / DSM 11109 / ASRB2) RepID=F2NDC8_DESAR
+----------------------MTAK-LEIYKCD-ICGNIVEMVHAGPGQLV--------
+----------CCGQPMKNFKENT-VDAAK-EKHVPVIEK--V-PGG----FKVKVG-S--
+VAHPMEEKHYIE----WIEVIAG--N-----------------KA-Y--RQFLN------
+--------PGEAPEAVFII---EAE---E------ITAREYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_X1F716 Marine sediment metagenome DNA, contig: S03H2_C02196 n=2 Tax=marine sediment metagenome RepID=X1F716_9ZZZZ
+-------------------MAEKDLF-SQVNRPEDPD--NMTDL----------------
+----------------------------E-KKHLPVVDAPDKASAGETIQVSVEVG-KL-
+LAHPNEPAHHIE----FIDLYED--------------------EV-YLTRADFT------
+------G-GKVNPKVTFEVM-LTKG---G-----RLRAFCSCNLHGV----------WEG
+-DKLIPIE-------------------
+>lcl|UniRef90_A0A0E9FFY0 Desulfoferrodoxin n=3 Tax=Bacteria RepID=A0A0E9FFY0_CHLTH
+----------------------MTKT-KQIYRCS-VCGNIVEVVNASTGTLS--------
+----------CCGKPMELLTENT-TDAAT-EKHVPVIEK--T-DCG----YRVTVG-E--
+VEHPMAEEHYIQ----WIDLITE--N-----------------GV-L--RKFLK------
+--------PGEKPVAEFKT---CAK---N------VTAREYCNLHGL----------WKA
+-TK------------------------
+>lcl|UniRef90_D8F7Q2 Superoxide reductase n=1 Tax=delta proteobacterium NaphS2 RepID=D8F7Q2_9DELT
+----------------------MAER-MEVYKCE-ACGNIVEVLHGGDGELV--------
+----------CCGQPMVLFKENT-VDAAK-EKHVPVVEK--T-ADG----VVVKVG-E--
+VAHPMEEKHYIE----WIEIIAD--G-----------------TV-Y--RQFLN------
+--------PGDAPEATFNI---KAD---Q------VTAREYCTIHGL----------WKA
+---------------------------
+>lcl|UniRef90_UPI000413872A desulfoferrodoxin n=1 Tax=Desulfatiglans anilini RepID=UPI000413872A
+----------------------MAQK-LEIYKCD-VCGNIVEVLFGGAGELV--------
+----------CCGQPMKLFKENT-VDAAK-EKHVPVIEK--LPDGG----FKVKVG-S--
+VPHPMEEKHYIQ----WVEVIAD--G-----------------KA-Y--RQFLE------
+--------PGAAPEAVFKI---DAA---S------IVAREYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_A0A096B5C3 DNA topoisomerase II n=3 Tax=Prevotella RepID=A0A096B5C3_9BACT
+----------------------MAKR-NELYKCS-ESGNIVEVLVGSESGVG--------
+--------------SMQLLKENT-TDAAT-EKHVPVVEK--I-AGG----YRVTVG-E--
+VEHPMTEEHSIQ----WIELITNN-N-----------------EV-L--RKYLN------
+--------PSDHPVAEFKT---DAT---E------VYAREYCNLHGL----------WRS
+-K-------------------------
+>lcl|UniRef90_UPI0006E22DBE superoxide reductase n=1 Tax=Thermococcus thioreducens RepID=UPI0006E22DBE
+------------------------MI-SGTIRSGD-------WK----------------
+----------------------------G-EKHVPVIEYEKE---GDLVKVEVQVG-KE-
+IPHPNTPEHHIA----WIELYFHPEG-------------ENF-PI-LVGRVAFTNHGD--
+--------PLTEPRAVFFFR-TAKK---G-----KLYALSYCNIHGL----------WEN
+-EVTLE---------------------
+>lcl|UniRef90_UPI0004E25D67 desulfoferrodoxin n=1 Tax=Desulfovibrio frigidus RepID=UPI0004E25D67
+----------------------MA-ELFEVYKCD-ACGNITMVMHAGPGNLA--------
+----------CCGTDMKLMTENT-VDAAK-EKHVPVIET--I-EGG----YKVKVG-A--
+VAHPMDEKHYIE----WIELASG--N-----------------DR-Y--LKKLN------
+--------PGEAPEADFCGC-KFGT---E-----PVTARAYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_G1UT52 Desulfoferrodoxin n=2 Tax=Desulfovibrio RepID=G1UT52_9DELT
+----------------------MPNQ-LEIYKCT-HCGNIVEVLHGGGAELV--------
+----------CCGEPMKLMKEGS-TDGAL-EKHVPVIEK--V-DGG----YKVKVG-S--
+MAHPMEEKHYIE----WIELLAD--G-----------------RS-Y--TKFLK------
+--------PGDAPEAFFEI---DAA---K------VTAREYCNLHGL----------WKA
+-EN------------------------
+>lcl|UniRef90_E5BIJ6 Putative superoxide reductase n=8 Tax=Fusobacterium RepID=E5BIJ6_9FUSO
+------------------------MR-NDFFKVA-GSKKLLEVAVDGEGCLK--------
+----------EAIPGVEKLEVKS-EDAST-EKHVPYVEE--Q-ENG----YLVKVGKE--
+TAHPMQDAHYIQ----FIEIVVD--D-----------------NNLY--RRYLN------
+--------PGDAPEAFFAVP-KGTK----------VVAREYCNLHGV----------WQY
+-TK------------------------
+>lcl|UniRef90_UPI0004830C77 desulfoferrodoxin n=1 Tax=Desulfobulbus elongatus RepID=UPI0004830C77
+----------------------MTQK-NEVYKCA-LCGNIVEILHAGAGELV--------
+----------CCGQAMTLMTENT-VDAAK-EKHVPVITK--V-DEG----YKVSVG-A--
+VPHPMEEKHWIE----FIELIAD--G-----------------KV-Y--RQNLS------
+--------PGGTPEAIFCI---KAD---Q------VSAREYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_UPI0004646C96 desulfoferrodoxin n=2 Tax=Clostridiales RepID=UPI0004646C96
+---------------------------MKFLKCN-HCGNIVAVIEEKGGTIT--------
+----------CCNDEMKELVANT-TDAAT-EKHVPVIEV--N-GEH----VTVTVG-S--
+VEHPMLPEHFIG----WIVLETK--Q-----------------GN-Q--RKLLS------
+--------PGEKPVAKFML--TEGD---E-----VIAAYEYCNLHGL----------WKA
+-EV------------------------
+>lcl|UniRef90_G8QYB2 Desulfoferrodoxin ferrous iron-binding domain protein n=1 Tax=Sphaerochaeta pleomorpha (strain ATCC BAA-1885 / DSM 22778 / Grapes) RepID=G8QYB2_SPHPG
+-----------------------MKE-QEFYICK-HCGNIVAKVEDHGPAIS--------
+----------CCGEEMMLIKANT-VDAAK-EKHVPVVKV--E-GNK----VTVNVG-S--
+VDHPMTKEHHIG----WIYLQTE--H-----------------GG-Q--RKNPV------
+--------IDGKPHAVF-M--VEAD---K-----PLAVFAYCNLHGL----------WEV
+-KL------------------------
+>lcl|UniRef90_UPI00049154A5 desulfoferrodoxin n=1 Tax=Desulfocurvus vexinensis RepID=UPI00049154A5
+----------------------MPEL-LEIYKCA-ACGNIVEVVHAGGGELV--------
+----------CCGEPMKLFKENT-VDAAK-EKHVPVIEK--T-ADG----YKVSVG-S--
+VLHPMEEKHWIE----WIELIAD--G-----------------VV-M--RKQLA------
+--------PGDTPVATFCT---KAA---K------VTAREYCNLHGL----------WKA
+-EA------------------------
+>lcl|UniRef90_UPI000596F741 Neelaredoxin n=1 Tax=Thermotoga profunda RepID=UPI000596F741
+-----------------------MKL-ADFIKSED-------FK----------------
+----------------------------K-EKHVPVIEVAEKVKKGEKTEITVTVG-KE-
+IPHPNTTEHHIK----WIKLFFQPDG-------------DPY-VY-EIGNYEFNVHGESV
+KGPNTGD-VYTEPVVKTVAK-LNKS---G-----TILALSYCNIHGL----------WES
+-SKKIEVE-------------------
+>lcl|UniRef90_X0SFR8 Marine sediment metagenome DNA, contig: S01H1_L07988 n=1 Tax=marine sediment metagenome RepID=X0SFR8_9ZZZZ
+----------------------MAER-LEIYKCE-ICGNIVEVLHGGEGELV--------
+----------CCGQPMVQLVENT-VDAAK-EKHVPVIEK--V-EGG----VKVKVG-D--
+VAHPMEEKHWIE----WIEIIAD--G-----------------KA-Y--RQFLN------
+--------PGEAPEAIFNV---EAE---Q------VTAREYCNIHGL----------WKA
+---------------------------
+>lcl|UniRef90_A0A0B0EGW3 Superoxide reductase n=1 Tax=Candidatus Scalindua brodae RepID=A0A0B0EGW3_9BACT
+------------------MSKEKSLF-CVLNKPEDVA--PDSPV----------------
+----------------------------A-KKHVPVITVPPVLKAGEFYDVKITVG-E--
+IEHPNENEHFIQ----WIEFYVG--------------------DV-YLGRFDFA------
+------P-VMTKPEVTIPLK-LGHH---G-L-DSTLRAVSRCNLHGL----------WEG
+-KVQVKTE-------------------
+>lcl|UniRef90_X1R254 Uncharacterized protein n=2 Tax=marine sediment metagenome RepID=X1R254_9ZZZZ
+-----------------------MQF-QDILKSVESEG----------------------
+----------------------------R-EKHVPVIEIGKGKGEGGTDIVHVVVG-KE-
+TPHPNTVEHHIA----WIELFGVKKD-------------G-Q-VI-NLGRAAFA------
+------P-TYTNPNVRFQVP-VAEF---K-----AFCALAYCNIHGV----------WEN
+-CLEI----------------------
+>lcl|UniRef90_F9N3X9 Superoxide reductase n=1 Tax=Veillonella sp. oral taxon 780 str. F0422 RepID=F9N3X9_9FIRM
+-----------------------MAI-TNYVKTAE-------FA----------------
+----------------------------T-EKHVPVITAPDTVKAGERVVIELEVG-KE-
+IAHPNTVEHHIS----WIKLYYVEEG-------------TQL-PY-EVARLEFNVHGEAP
+TGANEGP-VHAEAAGVVTAS-FKKS---G-----RLIATSYCNIHGL----------WES
+-EKDIVVEG------------------
+>lcl|UniRef90_D5EA78 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Methanohalophilus mahii (strain ATCC 35705 / DSM 5219 / SLP) RepID=D5EA78_METMS
+-----------------------MEI-EELIKGKVSEG----------------------
+----------------------------K-EKHVPDISIGKSHGSDVEDLVTVHVG-KE-
+VAHPNTVEHHIA----WLELYGVKKGEHAAGSSYGGDKYG-Q-VV-DLGRAEFG------
+------P-SFTEPLARFKVN-VADF---S-----ALFAISYCNVHGL----------WQN
+-IIEL----------------------
+>lcl|UniRef90_I3RFG4 Superoxide reductase n=1 Tax=Pyrococcus sp. ST04 RepID=I3RFG4_9EURY
+------------------------ML-KDTIKSGD-------WK----------------
+----------------------------G-EKHVPVIEYTRE---GDLVRIEVSVG-KE-
+IPHPNTPEHHIA----WIELYFHPEG-------------ENF-PI-MVGRVAFTSHGD--
+--------PLTEPRAVFFLK-TTKK---G-----KLYALSYCNIHGL----------WEN
+-EVTLE---------------------
+>lcl|UniRef90_V2QH03 Uncharacterized protein n=1 Tax=Mucispirillum schaedleri ASF457 RepID=V2QH03_9BACT
+-----------------------MSI-SNSIKTAD-------FK----------------
+----------------------------A-EKHVPVIKVVSR--DGDTAVIEVSVG-AE-
+IAHPNTTEHFIA----YIDLYYKGEA-------------A---IQ-HIGRAEFLAHGESA
+KGANQGA-LHTEPVALFKCK-LTAS---G-----VLHAVSYCNIHGL----------WES
+-ELAI----------------------
+>lcl|UniRef90_I0A144 Superoxide reductase n=1 Tax=Fervidicoccus fontis (strain DSM 19380 / VKM B-2539 / Kam940) RepID=I0A144_FERFK
+----------------------MKKF-GEYIYSPEQASGEAISK----------------
+----------------------------V-ETHTPKIEAPESVKANEAFTVKISVG----
+-PHPNQVSHFIR----SLTVYFVEEG-------------RAFNPV-HLATVEFE------
+------P-EYSEPIITLTLK-LKKS---G-----TIYALGYCNLHGV----------WEG
+-KKEVKVE-------------------
+>lcl|UniRef90_U2JJM0 Putative superoxide reductase n=1 Tax=Peptostreptococcaceae bacterium oral taxon 113 str. W5053 RepID=U2JJM0_9FIRM
+----------------------MKYL-TQTVQKGD-------WK----------------
+----------------------------A-EKHVPIIHLPEEVKAGEAFEVSVSVG-DE-
+IAHPNTVEHHIA----WIKLFFQPED-------------SKF-PI-EVGSYQFAAHGEA-
+------E-VFSAPLIQAKMT-VAAK---G-----TFTAISYCNLHGL----------WES
+-AAELVF--------------------
+>lcl|UniRef90_UPI0003B5B81E Neelaredoxin n=1 Tax=Geovibrio sp. L21-Ace-BES RepID=UPI0003B5B81E
+-----------------------MAI-GDFVKTAD-------FK----------------
+----------------------------S-EKHVPVVEVPAGVKKGEAFDVTVSIG-KE-
+IAHPNTTEHFIA----WISLYFKPAD-------------GGV-VS-HLAKFDYMAHGEST
+KGANEGP-AHTEPYSVAKIK-LDEP---G-----TLVAVSYCNIHGL----------WEG
+-SAEVKF--------------------
+>lcl|UniRef90_D4H5Z7 Superoxide reductase n=1 Tax=Denitrovibrio acetiphilus (strain DSM 12809 / N2460) RepID=D4H5Z7_DENA2
+-----------------------MSI-GEFVKTAD-------FK----------------
+----------------------------S-EKHVPVIVVPEGIKAGEPFVVEVSVG-KE-
+IPHPNTTEHFIS----WISLYFKPAE-------------GPV-I--NLGRFEYSAHGEAA
+AGANQGP-AYAEPVSTCKIK-LEKA---G-----TLIATSYCNIHGL----------WEG
+-SAEVTF--------------------
+>lcl|UniRef90_A1HRY1 Superoxide dismutase n=1 Tax=Thermosinus carboxydivorans Nor1 RepID=A1HRY1_9FIRM
+-----------------------MKF-VDIVQSAD-------WK----------------
+----------------------------A-EKHVPVIDAPAIVKAGEKVTIEVGVS-KE-
+IAHPNTTEHHIR----WIKLYFKPEN-------------GKF-AY-ELANFEFNAHGESG
+EGPNKGP-AYSEPFGKVVVK-LGGS---G-----TLLATAYCNIHGL----------WES
+-SHEIKVEA------------------
+>lcl|UniRef90_G0EFE4 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Pyrolobus fumarii (strain DSM 11204 / 1A) RepID=G0EFE4_PYRF1
+----------------------MAKF-GELIYTEDVGG-PVAAK----------------
+----------------------------K-ETHMPRIEAPDAVKKGEPFKVTVRVG----
+-PHPNEAAHSIR----RVELWFAEEG-------------RPFNPI-HIATVTFE------
+------P-GYGEPEVTITIK-LEKS---G-----TLYALAYCNLHGI----------WEA
+-RKDIRVE-------------------
+>lcl|UniRef90_A0A010Z9F9 Desulfoferrodoxin n=3 Tax=Clostridiales RepID=A0A010Z9F9_9CLOT
+----------------------MKNE-PVFLTDK-NHNVILEAISGTPNAAL--------
+---------PDSLKPFEILEPNT-SDGAT-EKHVPVVET--E-GNH----VTVKVG-S--
+TFHPMTEEHNIS----WVCLQTT--A-----------------GSIM--RVSLS------
+--------PDCEPVACFTL--EDGD---S-----PKAAFAYCNLHGF----------WKT
+-EA------------------------
+>lcl|UniRef90_UPI00042371F4 desulfoferrodoxin n=1 Tax=Desulfovibrio bastinii RepID=UPI00042371F4
+----------------------MATELYQIYKCE-VCGNIVMVLHEGEGDLV--------
+----------CCGKDMVLMTENT-VDAAK-EKHVPVIEK--I-EGG----YKVKVG-D--
+VAHPMEEKHYIE----WIELSSG--S-----------------NG-Y--FKKLS------
+--------PGDAPEAEFCGC-KFGS---E-----PVVARAYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_A0A0F9GC79 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=A0A0F9GC79_9ZZZZ
+------------------MITEKSLF-CKLNKLEDVE--ADSPL----------------
+----------------------------A-KKHIPVITVPPVLKAGEFYDVKITVG-E--
+IEHPNENEHFIQ----WIEFYIG--------------------DV-YLGRFDFA------
+------P-VMTRPEVTIPLQ-LGHH---G-L-DSTLRAISRCNIHGL----------WEG
+-KVQVKTE-------------------
+>lcl|UniRef90_A0A0F9DEQ5 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=A0A0F9DEQ5_9ZZZZ
+------------------MANEKDLL-AGVNVPEDIN--NPTDT----------------
+----------------------------E-KKHLPVIDAHDSASIGEPITVTVEVG-KL-
+LKHPNEPAHHIE----WLDLYED--------------------KL-YLARADFT------
+------G-GKVNPKVTFEIC-LKKG---G-----TLRAFACCNLHGV----------WEG
+-DRKINIV-------------------
+>lcl|UniRef90_D1W560 Superoxide reductase n=3 Tax=Prevotella RepID=D1W560_9BACT
+----------------------MTKR-NEIYKCE-KCGNMVEVVNEAAGELT--------
+----------CCDAPMKLLKENT-VDAAT-EKHVPVIEK--I-EGG----YRVTVG-E--
+VEHPMTEGHYIQ----WIELITP--T-----------------EV-L--RKYLT------
+--------PSDKPVAEFKT---CAT---E------VCAREYCNLHGL----------WKA
+-E-------------------------
+>lcl|UniRef90_X1FR20 Marine sediment metagenome DNA, contig: S03H2_L01463 n=1 Tax=marine sediment metagenome RepID=X1FR20_9ZZZZ
+----------------------MAEK-LQVYKCM-VCGNIVEVLHGGAGELV--------
+----------CCGQPMENLVVKT-ADEGK-EKHVPVIEK--V-NGG----IKVKVG-S--
+VAHPMEEKHYIE----WIELLAD--G-----------------KA-Y--RQFLN------
+--------PGDAPEAVFSI---EAD---S------VSAREHCNVHGL----------WKG
+-EG------------------------
+>lcl|UniRef90_C8W1M2 Desulfoferrodoxin n=1 Tax=Desulfotomaculum acetoxidans (strain ATCC 49208 / DSM 771 / VKM B-1644) RepID=C8W1M2_DESAS
+----------------------MTKL-LQIYKCN-VCGNIVEVVNTGRGQLV--------
+----------CCQQNMELKTENT-QDAAK-EKHVPVVEI--L-GNK----VTVKVG-S--
+VTHPMEVKHYIE----WIEVIAD--G-----------------KA-Y--MQFLN------
+--------PGDVPEAEFEV---TGE---N------ITARAYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_A0A085L6X8 Uncharacterized protein n=1 Tax=Peptococcaceae bacterium SCADC1_2_3 RepID=A0A085L6X8_9FIRM
+-----------------------MRF-GEVLKTKANEG----------------------
+----------------------------K-EKHVPVIEIQRC-AECGEDVVVIIVG-KE-
+TPHPNTTEHHIK----WIQLYGLKKD-------------N-Q-LL-HLGTFGLG------
+------P-VYTAPEVTAHLK-TAEL---K-----TIFALAYCNIHGV----------WEN
+-SLEI----------------------
+>lcl|UniRef90_UPI0004685F8D DNA topoisomerase II n=1 Tax=Prevotella dentasini RepID=UPI0004685F8D
+----------------------MAKR-NEVYKCA-ECGNIVEVLSGSESSVC--------
+--------------GMQLLTENT-TDAAT-EKHVPVVEK--I-EGG----YRVTVG-E--
+VEHPMTEAHSIQ----WIELITEN-N-----------------EL-L--RKYLA------
+--------PTDKPVAEFKT---DAK---E------VYAREYCNLHGL----------WRS
+-K-------------------------
+>lcl|UniRef90_B8FAX4 Desulfoferredoxin n=1 Tax=Desulfatibacillum alkenivorans (strain AK-01) RepID=B8FAX4_DESAA
+----------------------MAER-FQIYKCE-ACGNIVEVLTGGAGELV--------
+----------CCGAPMKLFTENT-VDAAK-EKHVPVVEK--T-ADG----VKVTVG-S--
+VAHPMEDKHYIE----WIEVIVD--G-----------------KA-Y--REFLS------
+--------PGQAPEATFCV---PDG---D------ITVREYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_M1Z3B5 Superoxide reductase n=1 Tax=[Clostridium] ultunense Esp RepID=M1Z3B5_9FIRM
+----------------------MKSI-GKLYQSGD-------WK----------------
+----------------------------G-EKHVPVIHAPEKVKKGDLVEVNLNIG-EE-
+IAHPNTQEHYIA----WIKLYFHPEG-------------SNF-PV-EVGSYNFNSHGEH-
+------G-TFTEPYVSAKFK-VERS---G-----TLHATSYCNIHGL----------WEN
+-SVELVVED------------------
+>lcl|UniRef90_F4A2G9 Desulfoferrodoxin n=1 Tax=Mahella australiensis (strain DSM 15567 / CIP 107919 / 50-1 BON) RepID=F4A2G9_MAHA5
+--------------------MSVKNT-KEVYKCS-VCGNIVEVLHVGGGTLV--------
+----------CCGKPMELLEEKT-ADAAT-EKHVPVIEK--T-GDG----VLVKVG-S--
+VPHPMLPEHYIE----WIELIVD--G-----------------AS-Y--RKFLK------
+--------PGDKPEAFFAV---QGD---D------LQAREYCNVHGL----------WKS
+---------------------------
+>lcl|UniRef90_D5U163 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Thermosphaera aggregans (strain DSM 11486 / M11TL) RepID=D5U163_THEAM
+--------------------MLKMGL-KELIYEPGSVKGEAVSK----------------
+----------------------------V-ESHTPRIEAPDKVKSGEVFKVKVSVG----
+-PHPNTVEHSIR----WIELYFEEQG-------------RPFNPI-LIGRYEFT------
+------P-VYSEPVVEVSLK-LSKP---G-----KLIAVEYCNLHGL----------WES
+-SKQIDVS-------------------
+>lcl|UniRef90_B2KAN3 Superoxide reductase Sor n=1 Tax=Elusimicrobium minutum (strain Pei191) RepID=B2KAN3_ELUMP
+----------------------MTKL-NEIYKCS-VCGNIVEVVHASVGELT--------
+----------CCGKPMVLQTENT-VDAAK-EKHVPFVTK--T-ADG----YKVQIG-S--
+VEHPMTEEHHIE----WIELICEECN-----------------KV-M--RKHLN------
+--------PGDKPVAEFKT---KSQ---K------VLAREYCNLHGL----------WST
+-KEVQK---------------------
+>lcl|UniRef90_C9RCV4 Desulfoferrodoxin n=1 Tax=Ammonifex degensii (strain DSM 10501 / KC4) RepID=C9RCV4_AMMDK
+----------------------MTEL-HQVYKCN-VCGNIVEVVHTGRGQLV--------
+----------CCGKPMELMTEKK-EDVGQ-EKHVPVIEP--R-NGK----IRVHVG-E--
+VPHPMEEAHYIE----WIELHMG--D-----------------RV-E--RMHLK------
+--------PGDPPEATFLCP-FGTP----------LYARAYCNLHGL----------WRQ
+-DTFPKK--------------------
+>lcl|UniRef90_R9MXU7 Desulfoferrodoxin n=1 Tax=Lachnospiraceae bacterium 10-1 RepID=R9MXU7_9FIRM
+---------------------------MKPVFLK-KEEEILFLVEGKESNLN--------
+---------SCTCQGFSILDSST-AEGAG-EKHLPVVEK--D-GDK----ITVSVG-S--
+VFHPMTQEHSIG----WIYLETK--K-----------------GG-Q--FVKLC------
+--------PDDEPTAEFVM--AKSD---E-----AVAAYAYCNLHGF----------WKT
+-EIG-----------------------
+>lcl|UniRef90_A0A0G0ZXL3 Desulfoferrodoxin (2-Fe-SOR) n=2 Tax=unclassified Parcubacteria RepID=A0A0G0ZXL3_9BACT
+----------------------MITQ-NQVYKCS-VCGNIVEVLFAGGGELV--------
+----------CCGAPMQLQAEKL-EDVGM-EKHVPVIEK--I-TNG----YKVKVG-S--
+IPHPMEEKHYIQ----WIELIAD--G-----------------RV-Y--RKFLS------
+--------PGDLPEAEFCL---SAK---E------FTAREYCNIHGL----------WKS
+-V-------------------------
+>lcl|UniRef90_B0K5T2 Desulfoferrodoxin, ferrous iron-binding region n=8 Tax=Thermoanaerobacter RepID=B0K5T2_THEPX
+----------------------MEKF-GSLYQSGD-------WK----------------
+----------------------------G-EKHVPVIHISDKVKKEEVVELRVNIG-EE-
+IPHPNTLEHHIK----WIKVYFHGEG-------------DKF-PV-EIGNYNFTSHGEY-
+------G-VFTEPDLTIKFK-VEKS---G-----TIYAASYCNIHGL----------WEN
+-SKKIEVE-------------------
+>lcl|UniRef90_I8TU84 Desulfoferrodoxin ferrous iron-binding region n=2 Tax=Pelosinus fermentans RepID=I8TU84_9FIRM
+-----------------------MKI-SDVIQSAD-------WK----------------
+----------------------------T-EKHAPVIEAPEKVKSGESFAVGLSVG-KE-
+IAHPNTTEHHIR----WIKLYFKPDN-------------SKF-VF-EVAASEFNVHGEST
+DGANKGP-VYAEPTTKAIIK-LNGS---G-----TLLATSYCNIHGL----------WES
+-SQAITVE-------------------
+>lcl|UniRef90_A8F7C0 Superoxide reductase n=1 Tax=Pseudothermotoga lettingae (strain ATCC BAA-301 / DSM 14385 / NBRC 107922 / TMO) RepID=A8F7C0_PSELT
+-----------------------MSL-SERIQSAD-------WK----------------
+----------------------------A-EKHVPVIDCPDSVKADELFEVKVSIG-KE-
+IAHPNTTEHHIK----WIKVFFHPDG-------------EKF-TY-DVATFEFNAHGEAV
+AGPNQGS-VWTHHAGNFWMK-IKKS---G-----TMYALAYCNIHGL----------WES
+-SKKITVA-------------------
+>lcl|UniRef90_A0A0L6TWL5 Desulfoferrodoxin n=1 Tax=Acetobacterium bakii RepID=A0A0L6TWL5_9FIRM
+----------------------MCKE-PKFLVCK-HCGNMVSMIHESGVEMI--------
+----------CCGDPMTVMIPNT-TDAAQ-EKHVPVITV--N-GTT----VTVDIG-S--
+APHPMTPEHHIE----WIFLETA--E-----------------GR-Q--RKCLA------
+--------QDGKPQAVFEL--TAGD---K-----VISAYEYCNLHGL----------WKA
+-AL------------------------
+>lcl|UniRef90_F8AD32 Desulfoferrodoxin n=2 Tax=Thermodesulfatator RepID=F8AD32_THEID
+----------------------MAQR-LEVYKCN-LCGNIVTVLHSGQGVLV--------
+----------CCNEPMELMKENT-TDASQ-EKHVPVIEK--I-EGG----YKVKVG-S--
+APHPMDEKHYIE----WIELIAG--T-----------------KS-Y--IQFLT------
+--------PGDAPEAEFKV---EAD---Q------VAARAYCNLHGL----------WKA
+-NL------------------------
+>lcl|UniRef90_UPI0003B5B82B desulfoferrodoxin n=1 Tax=Desulfovibrio longus RepID=UPI0003B5B82B
+----------------------MGIKLGEVYKCE-VCGNIVMAIHAGDGDLV--------
+----------CCGEEMKHMTENT-VDAAK-EKHVPVIEK--D-GDK----VVVKVG-S--
+VAHPMEEKHYIE----WIELTVG--N-----------------VV-L--SKLLK------
+--------PGDKPEAEFCICGLSGP----------LKAREYCNIHGL----------WTA
+TK-------------------------
+>lcl|UniRef90_A0A0F9J6E8 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=A0A0F9J6E8_9ZZZZ
+----------------------MAER-LEVYKCQ-ECGTIVEVLDGGGGTLT--------
+----------CCDQPMALLEAKT-ADKAT-EKHVPVIEP--V-AGG----YKVVVG-T--
+TLHPMAAEHYIQ----WIELLAD--G-----------------KA-Y--RQFLS------
+--------PGDAPEAVFAI---EAA---E------VSAREHCNLHGL----------WKG
+---------------------------
+>lcl|UniRef90_B0PDQ8 Putative superoxide reductase n=2 Tax=Anaerotruncus RepID=B0PDQ8_9FIRM
+----------------------MSME-HRFMICK-HCGNIIGMIHDAGVKPV--------
+----------CCGEPMTELVTNT-TDAAT-EKHVPVVEV--E-GNE----VRVKVG-S--
+APHPMSDEHHIA----WIYLQTR--H-----------------GG-Q--RKALQ------
+--------TGKDAAARFLV--VD-D---E-----AVAAFAYCNLHGL----------WKT
+-PI------------------------
+>lcl|UniRef90_S7TP31 Desulfoferrodoxin n=1 Tax=Desulfococcus multivorans DSM 2059 RepID=S7TP31_DESML
+----------------------MAKR-LEVYKCE-ACGNIVEVLEGGDGELV--------
+----------CCGKPMKLMTENT-VDAAK-EKHVPVIEK--V-DNG----FKVTVG-S--
+VAHPMEEKHYIQ----WIELIAD--G-----------------KA-Y--REFLK------
+--------PGDAPEAVFHI---AAN---Q------VSAREYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_Q1NKX4 Desulfoferrodoxin n=1 Tax=delta proteobacterium MLMS-1 RepID=Q1NKX4_9DELT
+----------------------MAKK-LEVYKCD-LCGNIVEVLHAGAGQLV--------
+----------CCGQPMRLITENT-VDAAQ-EKHVPVIEK--V-DGG----YQVKVG-S--
+VPHPMEEKHYIE----WIELLAD--G-----------------KV-Y--RQFLE------
+--------PGQTPEAFFPV---TAE---S------VSAREYCNIHGL----------WKA
+---------------------------
+>lcl|UniRef90_S0G6F0 Desulfoferrodoxin Dfx n=2 Tax=Desulfotignum RepID=S0G6F0_9DELT
+----------------------MAQR-KQVYKCD-VCGNMIEVLHGGEGDLV--------
+----------CCGEDMKLFEEKSAAEEGK-EKHVPVIEA--A-DGG----VTVKVG-S--
+NPHPMEEKHYIE----WIEILDG--D-----------------DS-C--RHFLK------
+--------PGQAPETFFAT---KNQ---K------VTAREYCNVHGL----------WKS
+---------------------------
+>lcl|UniRef90_A0A0A7GFA0 Superoxide reductase n=1 Tax=Geoglobus acetivorans RepID=A0A0A7GFA0_9EURY
+------------------MS-GNPLF-RGLNRPGSSNPEDMNDL----------------
+----------------------------E-KKHTPVITAPDRVSKGERFEVVVETG-VY-
+MQHPNEYGHHFS----WIELYLD--------------------DV-LAGRVYLQ------
+------P-VIAAPKAVFLLN-AAED---YVG-KRKLVARAFCNLHGT----------WVS
+-EKPIDIE-------------------
+>lcl|UniRef90_E1RJX3 Desulfoferrodoxin n=2 Tax=Methanolacinia RepID=E1RJX3_METP4
+----------------------MTGM-PVLYKCD-KCGKVIMITSSGEGKLV--------
+----------CCDQDMRLLEAKT-ADFKN-EKHVPIIEK--S-AGG----IKVTVG-S--
+IIHPMTEEHHIE----WIAVVDG--D-----------------KF-M--AKCLK------
+--------PGDEPVAEFPI---SNT---N------VKAFEYCNIHEF----------WSN
+-GK------------------------
+>lcl|UniRef90_R5APF9 Desulfoferrodoxin n=1 Tax=Clostridium sp. CAG:1024 RepID=R5APF9_9CLOT
+---------------------------MKLYICE-HCGNIITFIEDHGVPVV--------
+----------CCGERMHECIPNT-TNASA-EKHVPVIKV--N-NGT----VTVSVG-S--
+TAHPMQPEHHIA----WIALETI--N-----------------GV-H--LCKLK------
+--------PETDPKATFHL--DNEE---T-----VIAAYAYCNLHGF----------WKA
+-NA------------------------
+>lcl|UniRef90_A0A0F7FHM9 Desulfoferrodoxin n=1 Tax=Thermofilum sp. 1807-2 RepID=A0A0F7FHM9_9CREN
+---------------------MPKKF-GDLVYTPESASGEAISK----------------
+----------------------------V-ETHTPKIEAPDQVKSGEPFHVKISVG----
+-PHPNTIQHSIR----WIEVYFQEDG-------------RAFNPV-LLARVHFE------
+------P-ELAEPEVQLKLV-LKKS---G-----VIHAIEYCNLHGL----------WEG
+-RKEIKVV-------------------
+>lcl|UniRef90_F2JRL3 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Cellulosilyticum lentocellum (strain ATCC 49066 / DSM 5427 / NCIMB 11756 / RHM5) RepID=F2JRL3_CELLD
+----------------------MCGE-QKFYICK-HCGNIIGVIQNGGGKLI--------
+----------CCNEAMTELGSNT-TEAAT-EKHLPIITI--S-GNE----VTITVG-S--
+IAHPMTEEHLIN----WIYLLTE--K-----------------GG-Q--RKCLL------
+--------PGQKPIAKFVL--TEDD---H-----VIAAFAYCNLHGL----------WRT
+-DI------------------------
+>lcl|UniRef90_X0U1W8 Marine sediment metagenome DNA, contig: S01H1_L10024 (Fragment) n=1 Tax=marine sediment metagenome RepID=X0U1W8_9ZZZZ
+------------------------------YKCE-VCGNIVEVLHEGVGELV--------
+----------CCNQPMKLMQENT-VDAAQ-EKHVPVIEK--T-ADG----IKIIVG-S--
+VLHPMEEKHYIE----WIELIAD--G-----------------QA-Y--REFLK------
+--------PGAKPEAMFKI---DAQ---N------ITAREYCNLHGL----------WKS
+---------------------------
+>lcl|UniRef90_E4TH49 Superoxide reductase n=1 Tax=Calditerrivibrio nitroreducens (strain DSM 19672 / NBRC 101217 / Yu37-1) RepID=E4TH49_CALNY
+-----------------------MPI-AELVKSAD-------FK----------------
+----------------------------S-EKHVPVIECPNGLNKGEYSLIEVSVG-KE-
+IPHPNTTEHYIG----WISLYFKPAS-------------GKP-VY-NLGRAEFLAHGEST
+EGANKGP-AYTNPVACFKVK-LEES---G-----TLVAVSYCNIHGL----------WES
+-QVDVNF--------------------
+>lcl|UniRef90_A0A098R2Q8 Neelaredoxin n=1 Tax=Spirochaeta sp. JC230 RepID=A0A098R2Q8_9SPIO
+------------------------MI-SSKIQSAD-------WK----------------
+----------------------------S-EKHAPVIECKPQGEKQGSYSVTVSVG-KE-
+IPHPNTTEHHIS----WIQLFFLPQD-------------GTF-PI-QLGEARFTAHGESA
+QGANQGP-AYSVPEARFQVT-ITGQ---G-----TLQAISYCNIHGL----------WQS
+-EIPLA---------------------
+>lcl|UniRef90_A0LQ58 Desulfoferrodoxin n=1 Tax=Syntrophobacter fumaroxidans (strain DSM 10017 / MPOB) RepID=A0LQ58_SYNFM
+----------------------MAER-MQVFKCE-LCGNIIEVLHGGAGELV--------
+----------CCGQPMKVFVENT-VDAAK-EKHVPVLEK--S-AAG----IKVKVG-G--
+VPHPMEEKHYIE----WVELIVG--D-----------------KI-Y--RQFLK------
+--------PGAPPEAVFSV---DPS---G-----PAVAREYCNLHGL----------WKG
+---------------------------
+>lcl|UniRef90_R5BKW9 Superoxide reductase n=3 Tax=Veillonella RepID=R5BKW9_9FIRM
+----------------MTKGVISMAV-TNYVKSAD-------FK----------------
+----------------------------N-EKHVPVITAPDTVKAGEKVHIELEVG-KD-
+IAHPNTTEHHIS----WIKLYYVEKG-------------TTL-PY-EVARLEFNVHGEAA
+AGANEGP-VYAEAAGVVVAS-FKKS---G-----KLIATSYCNIHGL----------WES
+-EKDIVVQ-------------------
+>lcl|UniRef90_A0A075LT21 Uncharacterized protein n=1 Tax=Palaeococcus pacificus DY20341 RepID=A0A075LT21_9EURY
+-----------------------MKF-GEIIYTPEVEEGPAAAK----------------
+----------------------------K-ESHAPKIEIE---KKEDYYKIKVSVG----
+-PHPNTPEHSIR----WIEVYFYEEG-------------RAFNPI-ILSRVHFE------
+------P-GYVEPEIKLKIK-LQKS---G-----IIYAVAYCNLHGL----------WEN
+-RKEIKVE-------------------
+>lcl|UniRef90_A1AN37 Desulfoferrodoxin n=1 Tax=Pelobacter propionicus (strain DSM 2379) RepID=A1AN37_PELPD
+----------------------MAKL-LEVYKCE-LCGNIVEVVHAGDGELV--------
+----------CCGQAMKLLTENT-VDAAK-EKHVPVIEV--C-EGC----VKVSVG-S--
+VSHPMEEKHYIE----WIELVAD--G-----------------KA-Y--RQFLK------
+--------PGEAPTATFDV---TAQ---Q------ITAREYCNLHGL----------WSS
+-KA------------------------
+>lcl|UniRef90_A0A0F8D2C6 Uncharacterized protein n=5 Tax=Methanosarcina RepID=A0A0F8D2C6_9EURY
+-----------------------MAE-EKINKPADSK--NLTEG----------------
+----------------------------E-KKHVPAIHVPKTIIAGESFDVIVEVG-L--
+IPHVMEEKHHIE----WIELYLN--------------------DK-KIGKVELS------
+------LHKNEKAEAIFTVE-ADKS---LAEKESKLRALESCNIHGL----------WEE
+-FMTIRMS-------------------
+>lcl|UniRef90_UPI00036BDFEA hypothetical protein n=2 Tax=Veillonellaceae RepID=UPI00036BDFEA
+----------------------MNES-VVLYQCP-DCGYIVEVVNPGSPELICSGEAFAA
+TCVEVAAGLECCGKKMVKLESNT-VEASQ-EKHLPVAEW--LATGQ----VEVKVG-A--
+AAHPMTSEHWIR----WIWAVAD--G-----------------QV-Q--RVELE------
+--------PEQSPEAVFSVK-EAGD----------VVLYAYCNLHGL----------WKT
+-LLPR----------------------
+>lcl|UniRef90_UPI0004821AB6 desulfoferrodoxin n=1 Tax=Halonatronum saccharophilum RepID=UPI0004821AB6
+-----------------------MKY-YEVKNVANEK--EKSEL----------------
+----------------------------E-KKHIPIIEAPDKVNKDEFFEVKLKIG-K--
+IDHPVDKDHFIQ----YVDLYAE--------------------FY-HLGRANFT------
+--------PEAKAEATFKIK-LKES---C-----TLRAYELCNLHGQ----------WES
+-AKKIEVV-------------------
+>lcl|UniRef90_A6TX05 Desulfoferrodoxin, ferrous iron-binding region n=1 Tax=Alkaliphilus metalliredigens (strain QYMF) RepID=A6TX05_ALKMQ
+----------------------MKSF-GQFLQTGD-------WK----------------
+----------------------------G-EKHVPVIHAPEKVKAGEGFELKISIG-DA-
+IGHPNTLEHYIA----WFKVFFHAEG-------------AKF-PV-EIANFNFAAHGEG-
+------D-NFTDPTGCTQVK-LNKS---G-----TFHAISYCNIHGL----------WEN
+-SQEITVE-------------------
+>lcl|UniRef90_T0JTG2 Desulfoferrodoxin ferrous iron-binding domain n=1 Tax=Sporomusa ovata DSM 2662 RepID=T0JTG2_9FIRM
+-----------------------MKI-ADLVQSAD-------WK----------------
+----------------------------A-EKHVPVIEAPEKGKAGEKVSVEVCVG-KE-
+IAHPNTTEHHIR----WIKLYFKPDN-------------AKF-AS-EVATFEFAAHGEST
+EGANKGP-VFTEPFGKAVIK-LNGS---G-----TLVAESYCNIHGL----------WEG
+-TKTITVE-------------------
+>lcl|UniRef90_H1XV48 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Caldithrix abyssi DSM 13497 RepID=H1XV48_9BACT
+-----------------------MKL-ADQLQSAD-------WK----------------
+----------------------------K-EKHAPVIEAPEKVKAGEAFEIKVGLG-KE-
+IAHPNTTEHHIS----WISVFFKPKG-------------SNF-TH-QVGHFEFWGHGEST
+SGPNKGP-VYANPEVTVSLS-LNES---G-----TLFAMALCNIHGL----------WES
+-SREVEVE-------------------
+>lcl|UniRef90_UPI0006B58C17 superoxide reductase n=1 Tax=Clostridiales bacterium mt11 RepID=UPI0006B58C17
+----------------------MKNL-SSLYQSGD-------WK----------------
+----------------------------G-EKHVPVIHAPEKAKKDEVIELKVNIG-EE-
+IAHPNTLEHHIS----WIKVYFHPEG-------------SKF-PI-ELGTYDFSAHGEA-
+------G-IFTEPDVTVKFK-AEKS---G-----TIFVSSYCNIHGL----------WEN
+-SAELTIED------------------
+>lcl|UniRef90_N0BL06 Desulfoferrodoxin ferrous iron-binding domain protein n=1 Tax=Archaeoglobus sulfaticallidus PM70-1 RepID=N0BL06_9EURY
+---------------------------MELFQTAD-------WK----------------
+----------------------------S-EKHVPVIEIEKS---DDLVDVKVVVG-KE-
+IPHPNTTEHHIK----WIELLFLPDG-------------AKF-PV-HIGRTEFNTHGEST
+QGPNTST-VYTEPTAVFRFK-TEKP---G-----KLIAVSFCNIHGL----------WKS
+-EAEL----------------------
+>lcl|UniRef90_A0A0A0DK61 Desulfoferrodoxin n=1 Tax=Spirochaeta sp. JC202 RepID=A0A0A0DK61_9SPIO
+----------------------MAKK-YEVYKCE-DCACIVMLMDAGSEDLL--------
+----------CCGKNMIHMPEQT-ADSSK-EKHVPIIKK--I-DGG----FEVKVG-S--
+IPHPMLENHWIQ----WIELVVD--G-----------------QR-M--LRELG------
+--------SSDEPKAYFSCS-IENP---K-----KVAAREYCNIHGL----------WRG
+-E-------------------------
+>lcl|UniRef90_UPI00035C3E40 hypothetical protein n=1 Tax=Succinispira mobilis RepID=UPI00035C3E40
+-----------------------MKL-ADCIQTAD-------WK----------------
+----------------------------A-EKHVPAITVPAEIKAGEFFTVQACVG-KD-
+IAHPNTLEHNIQ----WVQLFFKPEG-------------GKF-AI-ELGKAVFTAHGES-
+------D-TFTNPCLCLNTK-INTN---G-----TFIALSYCNIHGL----------WED
+-SVEVKVL-------------------
+>lcl|UniRef90_A0A0F8XR87 Desulfoferrodoxin n=2 Tax=root RepID=A0A0F8XR87_9ARCH
+-----------------------MKQ-KNIFKCK-ICNKVIEILNPGVPETI--------
+----------CCGQPMDLMEEKT-ADWKG-EKHVPKITI--D-GNK----VTVDVGISMG
+TPHPMTDEHYIM----WIELICV--N-----------------NCYK--RQFLA------
+--------PGKEPKATFVVS-DTTG----------LNAREYCNLHGL----------WAG
+-TE------------------------
+>lcl|UniRef90_A0A0F9UV20 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=A0A0F9UV20_9ZZZZ
+-----------------------MEK-KSIYRCS-ICGKVIEILNPGAVDTI--------
+----------CCGEPMKIMEEQT-EDWKS-EKHVPKITI--D-GNT----ITVDVGISMG
+TPHPMTDDHYIM----WIELICK--E-----------------NCYK--RKFLK------
+--------PNDEPKASFVVA-DTTG----------LSAREYCNLHFL----------WKS
+---------------------------
+>lcl|UniRef90_A0A0L8F0T7 DNA topoisomerase II n=1 Tax=Clostridium sp. DMHC 10 RepID=A0A0L8F0T7_9CLOT
+----------------------MTEF-KQIYKCP-ICGNMIEVLHKAGGTLV--------
+----------CCGKPMMLVSENT-VDAAV-EKHVPVIEK--I-EGG----VLVKVG-E--
+VEHPMLQEHHIE----WIEIHTE--N-----------------KV-Y--RKYLK------
+--------PGEKPQAEFKI---DEE---------VLYAREYCNVHGL----------WKK
+---------------------------
+>lcl|UniRef90_A0A0J1GA40 Uncharacterized protein n=2 Tax=Lachnospiraceae RepID=A0A0J1GA40_9FIRM
+------------------------------------------MISPGNPTAS--------
+----------CTCQDFTELKPNT-SEGAS-EKHLPIIEI--S-GNQ----VTVKVG-S--
+IYHPMTEEHSIA----WVYLQTK--------------------MGCQ--RINLC------
+--------PTCEPVANFVL--TDGD---E-----AIAAYAYCNLHGF----------WKT
+-EV------------------------
+>lcl|UniRef90_UPI0004636C98 dethiobiotin synthase n=3 Tax=Nautiliaceae RepID=UPI0004636C98
+----------------------MPKI-NRYEDISQIDREAKRDY----------------
+----------------------------I-DRHSPFIHCEDTAKKGEKFKVKVKVG-NE-
+YSHPDDFDHYIA----YVQLWDG--------------------ET-LLGQATFTPGTLGN
+E--------KSQVEVDFYIIPKKSK---L-----KLTAMSYCTKHGL----------WES
+ETKEVIVSE------------------
+>lcl|UniRef90_UPI00055070E0 hypothetical protein n=1 Tax=Lachnospiraceae bacterium AC2031 RepID=UPI00055070E0
+------------------------MK-MKVFKCT-KCGNMISYLNKDACDVK--------
+----------CCGETMVEVVPNT-TDAAG-EKHVPVIEI--N-GNI----VTVKVG-S--
+VEHPMMDAHYIQ----WVVLETE--Q-----------------GR-Q--RKELK------
+--------PGAEPVATFAL--VDGD---K-----AVAAYEYCNLHGL----------WKA
+-EV------------------------
+>lcl|UniRef90_I2K729 Desulfoferrodoxin n=1 Tax=Sulfurovum sp. AR RepID=I2K729_9PROT
+-------MNRRDALKVAGVTAMMAAV-SAEAKMAVEHMNRMEMKPKDPSNMD--------
+------------------------KG--E-LKHSPLVTIKEKDANGYT-DVHITVG-QEG
+IIHPSTPDHWID----FIELYAD--------------------DK-LVGKSVLE------
+------P-EISRGAASFAVK-LDNV---K-----VLKAKAGCNLHGI----------WTT
+-TVTL----------------------
+>lcl|UniRef90_UPI0003B4F765 desulfoferrodoxin n=1 Tax=Desulfospira joergensenii RepID=UPI0003B4F765
+----------------------MAEK-YGVYKCE-KCGNIVQVLHGEKPPVM--------
+----------CCGQAMDRLVANT-VDAAQ-EKHVPVVEK--I-DGG----YLVKVG-S--
+VAHPMTPEHYIQ----WIELVTE--N-----------------GT-LIQRKFLE------
+--------PTDAPEATFKT---DAD---K------VTAREYCNLHGL----------WEY
+---------------------------
+>lcl|UniRef90_UPI000496D57A desulfoferrodoxin n=1 Tax=Desulfovibrio alcoholivorans RepID=UPI000496D57A
+----------------------MAKQ-LEIYKCE-VCGNIVEVLHGGDGELV--------
+----------CCGQPMKLMTENT-VDASK-EKHVPVIEK--T-ADG----YLVKVG-A--
+VAHPMEAKHWIE----WIELVAD--G-----------------KA-Y--RQFLN------
+--------PGDTPEATFCV---KAE---K------VYAREYCNIHGL----------WKK
+-D-------------------------
+>lcl|UniRef90_A0A0E3SRQ8 Superoxide reductase n=1 Tax=Methanococcoides methylutens MM1 RepID=A0A0E3SRQ8_METMT
+-----------------------MEF-SEIIGSED-TNNVDDRS----------------
+----------------------------K-GRHIPTIEVLRNYEGTGKEYIRVVVG-EK-
+AIHPNTPEHHIE----YIELYGRTKM-------------M-D-TV-TIGRATFG------
+------P-G-VKPDAVFGVVYFGKY---R-----EFCAIAYCNVHGP----------WEN
+-CIEIREELRLTAGCRREKCLQEGFGV
+>lcl|UniRef90_UPI00034B069F hypothetical protein n=1 Tax=Collinsella sp. GD3 RepID=UPI00034B069F
+-------------------------M-AAFFQDS-EKHLIIAPSADVPAP----------
+-------------SGYTELVAGS-TDAAQ-EKHVPDIKIESD-GRL----IHVTVG-S--
+TEHPMLEEHYIE----WIVLEAE--G-----------------RL-E--MHVLK------
+--------PGQSPTTYFP----GGV---K-----SGTVYAYCNLHGL----------WKA
+-EF------------------------
+>lcl|UniRef90_A0A0G0TDC9 Desulfoferrodoxin n=2 Tax=unclassified Parcubacteria RepID=A0A0G0TDC9_9BACT
+--------------------MKVTSL-NQIYKCG-LCGNMSEIIHVGGGEPF--------
+----------CCGQVTDLLEPKT-EDVGA-EKHVPVIEK--T-VVG----FRVKVG-S--
+VPHPMEADHWIQ----WIELIVD--G-----------------VS-Y--RKFLN------
+--------PGNAPEAEFCV---EAE---N------VLAREYCNLHGL----------WQN
+-K-------------------------
+>lcl|UniRef90_Q8R810 Desulfoferrodoxin n=3 Tax=Caldanaerobacter subterraneus RepID=Q8R810_CALS4
+-------------------MCAPTGF-GALYQSGD-------WK----------------
+----------------------------G-EKHVPVIHSPEKVKKGEAFEVKVNIG-EE-
+IPHPNTLEHHIK----WIKVYFQGEG-------------DKF-PV-EIGNYNFTSHGEY-
+------G-VFTEPEVTVKFK-IEKS---G-----TIYATSYCNIHGL----------WEN
+-SKEIKVE-------------------
+>lcl|UniRef90_E4LDH7 Superoxide reductase n=12 Tax=root RepID=E4LDH7_9FIRM
+-----------------------MAV-HDYIKSGD-------FA----------------
+----------------------------T-EKHVPVIETVDTVKAGETFHVTLSVG-KD-
+IAHPNTVEHHIE----WIKLYFVAEG-------------TQL-PF-EVGEISFNVHGDGA
+T-ANEGP-VHAISEGSLAVS-LNKS---G-----KLIAVSYCNIHGL----------WES
+-EKEITVA-------------------
+>lcl|UniRef90_UPI00054F3F6A hypothetical protein n=1 Tax=Clostridium sp. KNHs214 RepID=UPI00054F3F6A
+----------------------MTEL-KQVYKCE-ICGNIVEVVNKGAGTLV--------
+----------CCGKPMTLKKENT-TDAAT-EKHVPVIEK--V-EDG----ILVKVG-E--
+VAHPMTPEHYIQ----WIELHTD--D-----------------RV-Y--RKFLT------
+--------PEDKPEALFKV---NEE---------IKYAREYCNLHGL----------WKG
+-ENK-----------------------
+>lcl|UniRef90_R6WID2 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Ruminococcus sp. CAG:382 RepID=R6WID2_9FIRM
+------------------------ME-QKFLICK-HCGKMVAVVKETGVPVI--------
+----------CCGEAMSELIPGT-TDAAA-EKHVPVVTV--D-GRN----VKVAVG-S--
+VAHPMLPEHYIE----WISLHTK--Q-----------------GN-Q--RKELK------
+--------PGEKPEAYFAL--CDGD---E-----VIAAYAYCNLHSL----------WKS
+---------------------------
+>lcl|UniRef90_A6DDG8 Uncharacterized protein n=1 Tax=Caminibacter mediatlanticus TB-2 RepID=A6DDG8_9PROT
+----------------------MPKI-NRYVDISQIDKEAKKDY----------------
+----------------------------I-DRHSPFIHCADEAKKGEKFKVKVKVG-NE-
+YCHPDDYDHYIA----YVQLWDG--------------------ET-LLGQATFTPGSLGN
+Q--------CSQVEVDFYIVPTKSK---L-----KLTAMSYCTKHGL----------WES
+EVKEVKVSE------------------
+>lcl|UniRef90_E3CV91 Superoxide reductase n=1 Tax=Aminomonas paucivorans DSM 12260 RepID=E3CV91_9BACT
+-----------------------MKV-ADTIQSGD-------WK----------------
+----------------------------G-EKHVPVIEAPEKVKAGEAFEVTLSVG-KE-
+IPHPNTTEHHIK----WIQLLFKPEG-------------GKF-AY-EVAKVRFEVHGEST
+EGPNQGP-AHAEPCATVKVK-LSKP---G-----TFLALSYCNIHGF----------WES
+-ERPVSVE-------------------
+>lcl|UniRef90_A0A075WSR7 Desulfoferrodoxin n=3 Tax=Thermodesulfobacterium RepID=A0A075WSR7_9BACT
+----------------------MAEK-LGLYKCQ-VCGNIVLVMHGGKGQLV--------
+----------CCGKPMELQTPNT-VDAAV-EKHVPVIEK--E-GDV----YKVKVG-S--
+VPHPMTEEHYIE----WIELHADE-D-----------------KV-Y--IKFLK------
+--------PGEAPEAVFEV---KAA---K------VVAKEWCNLHGY----------WQG
+-A-------------------------
+>lcl|UniRef90_A0A096BFW1 Superoxide reductase n=1 Tax=Caloranaerobacter azorensis H53214 RepID=A0A096BFW1_9CLOT
+----------------------MKSL-GQLLQSGD-------WK----------------
+----------------------------G-EKHVPVIQIPENIKSNEEIEIKVSVG-EE-
+IKHPNTLEHHIS----WIKVLYLPEG-------------SKF-PV-ELGTFNFTAHGEN-
+------S-ILNEPIVVTHVK-LDKS---G-----TIYALSYCNLHGL----------WEN
+-SKEIKVQE------------------
+>lcl|UniRef90_F9MTM9 Superoxide reductase n=2 Tax=Tissierellia RepID=F9MTM9_9FIRM
+-----------------------MKL-TETVQSGD-------WK----------------
+----------------------------N-EKHVPVIHIENK---DGNTVVNVRVG-EE-
+IEHPNTLEHHIQ----WIKVFLQKEG-------------SKF-PI-EIGSYQFSAHGED-
+------D-ICTKPCVHACLN-GTCS---G-----TIYALSYCNIHGL----------WEN
+-SEEF----------------------
+>lcl|UniRef90_UPI000489D059 desulfoferrodoxin n=1 Tax=Desulfovermiculus halophilus RepID=UPI000489D059
+----------------------MATQ-LEVYKCN-ACGNIVEVLHGGAGELV--------
+----------CCGQPMELLQAGS-VDAAK-EKHVPAIEK--T-SSG----FKVKVG-S--
+VAHPMEEKHYIE----WIELIAD--G-----------------KA-Y--REFLQ------
+--------PGQAPEAEFCV---QAS---Q------VTAREYCNVHGL----------WKA
+-DS------------------------
+>lcl|UniRef90_A0A0D8I7F3 Superoxide reductase n=1 Tax=Clostridium aceticum RepID=A0A0D8I7F3_9CLOT
+----------------------MKSF-GEFLQSGD-------WK----------------
+----------------------------G-EKHVPVIHAPESVKAGEAFELKISVG-DE-
+IPHPNSLEHYIA----WGKVYFFQDG-------------GKF-PV-ELATFKFNAHGEG-
+------G-NFAEPVGLTKIK-LDKS---G-----TIHAITYCNIHGV----------WEN
+-SKKITVE-------------------
+>lcl|UniRef90_UPI00037578AD hypothetical protein n=1 Tax=Fenollaria massiliensis RepID=UPI00037578AD
+-----------------------MKL-SELIKSAD-------WK----------------
+----------------------------S-EKHVPVIHV---AKEADDIKVCVSVG-DE-
+IAHPNTLEHHIA----WMKLFFVPEG-------------KQI-PV-EVASYVASAHGES-
+------D-LFTEPSMSVKLK-ANVK---G-----TLLALSYCNIHGL----------WEN
+-TEEV----------------------
+>lcl|UniRef90_A0A0G0TAF1 Desulfoferrodoxin n=1 Tax=Parcubacteria (Moranbacteria) bacterium GW2011_GWC2_40_12 RepID=A0A0G0TAF1_9BACT
+----------------------MTEL-NQIYKCA-ECGNIVEVLHTGVGELV--------
+----------CCGEPMELLAEKT-EEEGLTEKHVPVIEK--T-EKG----VKVKIG-S--
+VPHPMIPEHHIE----WIEILAD--G-----------------KV-Y--RKFLK------
+--------PGDAPEAEFCV---EAE---N------IVAREYCNLHGL----------WKS
+---------------------------
+>lcl|UniRef90_A0A0F7IGH8 Desulfoferrodoxin ferrous iron-binding domain n=1 Tax=Geoglobus ahangari RepID=A0A0F7IGH8_9EURY
+------------------MSCENDLF-CGVNRPKSLNPDEMSDL----------------
+----------------------------E-KKHTPVISAPERVKAGEVFEVKVETG-VF-
+MAHPNEYGHYFA----WIELYLD--------------------DT-PVGRVSLQ------
+------P-VVSSPSVVFRVS-ATHS---HEG-KRKLRALAFCNLHGV----------WEG
+-EKEIEVE-------------------
+>lcl|UniRef90_F0S320 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Desulfurobacterium thermolithotrophum (strain DSM 11699 / BSA) RepID=F0S320_DESTD
+----------------------------------------------MKVFGP--------
+------------------------EPEGK-RKHTPVIEAPAKVKKGEWFDVKVVVG-KD-
+IAHPNTKEHWIA----HISLWAG--------------------DF-LVAKADLE------
+------P-EKAASEVIFKVK-LEET---T-----TLTAHAYCNLHGL----------WHS
+EEVTVEVEE------------------
+>lcl|UniRef90_F9D2T9 Desulfoferrodoxin ferrous iron-binding domain protein n=2 Tax=Prevotellaceae RepID=F9D2T9_PREDD
+-----------------------MKT-NEIYKHA-ATGSLVEVLNAGDGELA--------
+----------G---EWKLMNENS-TDAAT-EKHVPVLER--V-EGG----YRVTVG-S--
+VEHPMTEAHSIQ----WIELVTE--T-----------------EV-L--RKYLT------
+--------PNDKPVAEFKT---DAP---K------AYAREYCNLHGL----------WKS
+-EWL-----------------------
+>lcl|UniRef90_UPI000495D31D dethiobiotin synthase n=2 Tax=Persephonella RepID=UPI000495D31D
+----------------------MPKI-NNYVDISQIDKEAKRDY----------------
+----------------------------I-DRHSPFVHVEGEAVKGQKLKVKVKVG-EE-
+YCHPDDFDHYIA----WVQLWDG--------------------DT-FLGQATFVPGVQGN
+Q--------CSQAEVDFYIVPTKNK---L-----KLQAMSYCTKHGL----------WQG
+PEVEVEVKEAEAPAGV-----------
+>lcl|UniRef90_U7V8U5 Putative superoxide reductase n=1 Tax=Cetobacterium somerae ATCC BAA-474 RepID=U7V8U5_9FUSO
+-----------------------MKV-YEIFKVK-ENPVLLEVIVADKDGVS--------
+----------V--EGLELVKEKT-QDAST-EKHVPFVEE--K-EDG----YLVKVGKE--
+MAHPMTEEHYIQ----MIEICVD--------------------DFLY--RKYLK------
+--------PGEAPEAYFKVP-KGKS----------VCAREYCNIHGL----------WSN
+---------------------------
+>lcl|UniRef90_C5A656 Superoxide reductase (SorA) n=6 Tax=Thermococcus RepID=C5A656_THEGJ
+-------------------MEVVEML-SGTIKSGD-------WK----------------
+----------------------------G-EKHVPVIEYEKD---GDLVKVEVSVG-KE-
+IPHPNTPEHHIA----WIELWFHPEE-------------ENF-PV-LVGRAEFSNHSD--
+--------PLTEPRAVFFFK-TQKK---G-----KLYALSYCNIHGL----------WEN
+-EVQLE---------------------
+>lcl|UniRef90_A0A0F9DWL0 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=A0A0F9DWL0_9ZZZZ
+------------------MIEELVNL-NELYQSAD-------WK----------------
+----------------------------K-EKHVPMVEIVGEIKKGLTISLRLQVG-KE-
+IEHPNTTEHHIE----WIQALFLPED-------------EKF-PF-IIGRTEFNAHGASI
+NGPNSST-VYCDPTTTLTFK-TEIP---G-----IIIALSSCNIHGL----------WRN
+-TQEIKF--------------------
+>lcl|UniRef90_E1K0X1 Desulfoferrodoxin n=1 Tax=Desulfovibrio fructosivorans JJ RepID=E1K0X1_DESFR
+----------------------MAEQ-LQVYKCE-VCGNIVEVLHGGAGELV--------
+----------CCGQPMKLMAENT-VDAAK-EKHVPVIEK--T-DKG----YLVKVG-A--
+VAHPMEEKHYIE----WIELLAD--G-----------------KA-Y--RQFLK------
+--------PGDKPEALFCI---EAS---T------VAAREYCNLHGL----------WKK
+-D-------------------------
+>lcl|UniRef90_E3GGF9 Rubredoxin oxidoreductase (Desulfoferrodoxin) n=2 Tax=Eubacterium limosum RepID=E3GGF9_EUBLK
+----------------------MCKK-PKFYICR-HCGNIFGVVEDSGVTPV--------
+----------CCGDPMEVLTPNT-VDAAQ-EKHVPVIKI--D-GNT----VTVEVG-S--
+VPHPMLEEHHIA----WIYLETK--E-----------------GG-Q--RKCLE------
+--------IGGEPKAVFAL--IPGD---E-----VIAAYEYCNLHGL----------WMA
+-TV------------------------
+>lcl|UniRef90_L0KZC0 Desulfoferrodoxin ferrous iron-binding domain protein n=1 Tax=Methanomethylovorans hollandica (strain DSM 15978 / NBRC 107637 / DMS1) RepID=L0KZC0_METHD
+-----------------------MQF-GEILKGKEVEG----------------------
+----------------------------K-EKHVPAIELIRGHGSTGADFVRVVVG-KE-
+VPHPNTVEHHIE----WVELFGITKD-------------G-K-TI-DFGRMNFE------
+------P-VHSEPIASFHINNIDNF---K-----AFCALEYCNIHGV----------WQN
+-CIEV----------------------
+>lcl|UniRef90_UPI00054FA79B desulfoferrodoxin n=1 Tax=Desulfovibrio sp. L21-Syr-AB RepID=UPI00054FA79B
+--------------------MTVAER-YQVYKCD-VCGNIVAVMHGGPGDLV--------
+----------CCDQPMKLMEEGT-VDAAK-EKHVPVIEK--T-ANG----FKVKVG-E--
+VAHPMEEKHYIE----WIELIAD--G-----------------KS-Y--HQFLS------
+--------PGDAPEAEFCI---QAA---T------VTAREYCNIHGH----------WKA
+-EA------------------------
+>lcl|UniRef90_S0FQ91 Desulfoferrodoxin Dfx n=2 Tax=Desulfotignum RepID=S0FQ91_9DELT
+----------------------MAEK-MGIYKCE-KCGNIVQVLHGEKPPVT--------
+----------CCGKPMERLVENT-VDAAV-EKHVPVVEK--I-EGG----YKVKVG-S--
+TAHPMTSEHYIQ----WIELTSE--D-----------------DT-FVQRKMLT------
+--------PDNAPEAVFKT---DAD---K------VVAREYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_K0B3I4 Desulfoferrodoxin, ferrous iron-binding domain protein n=1 Tax=Clostridium acidurici (strain ATCC 7906 / DSM 604 / KCTC 5404 / 9a) RepID=K0B3I4_CLOA9
+-----------------------MSL-GNLLQSGD-------WK----------------
+----------------------------G-EKHVPAILSVDSVKLGESVEVKVHIG-EE-
+IPHPNTFEHYIS----WIKVFYQPKD-------------HKF-PI-EIGSYNFSAHGES-
+------D-IFTEPLVVTSFK-PSKC---G-----KIYALSYCNIHGL----------WED
+-SKDLVVEA------------------
+>lcl|UniRef90_F7NDH0 Putative superoxide reductase n=1 Tax=Acetonema longum DSM 6540 RepID=F7NDH0_9FIRM
+-----------------------MKL-ADVLKSAD-------WK----------------
+----------------------------T-EKHVPVIEAPDCVKAGEKAVVTVSVG-KE-
+IAHPNTTEHHIR----WIRLYFKPDS-------------GNF-VY-DLGYFEFNAHGEST
+EGANKGP-VYTEPAGQVTAK-LQSS---G-----TLLAVSYCNIHGI----------WES
+-SKPITVE-------------------
+>lcl|UniRef90_F7XLG4 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Methanosalsum zhilinae (strain DSM 4017 / NBRC 107636 / OCM 62 / WeN5) RepID=F7XLG4_METZD
+-----------------------MKF-QELVKGKNEEAESTL------------------
+----------------------------K-EKHVPVIEIEKEKGVNGTDIVRVYVG-KE-
+TPHPNKVEHHIA----WIALFGVKKD-------------NDQ-VV-NLGRSSFA------
+------P-VHTNHNATFEIR-TDDF---K-----TLCATEYCNIHGL----------WEN
+-CIEV----------------------
+>lcl|UniRef90_R6EU04 Superoxide reductase n=3 Tax=Prevotella RepID=R6EU04_9BACT
+----------------------MTKT-REIYRCT-VCGNVVEVVNPGAM-LS--------
+----------CCGQPMKLMKENT-TDAAK-EKHVPVIEP--I-EGG----YRVKVG-S--
+VEHPMLPEHYIQ----WIELLTP--T-----------------DV-L--RHELQ------
+--------PGEKPEAIFLT---DAK---E------VSAREYCNLHGL----------WKG
+-NANTSPHDEHH---------------
+>lcl|UniRef90_B1L4D1 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Korarchaeum cryptofilum (strain OPF8) RepID=B1L4D1_KORCO
+---------------------------MEMFRTQD-------WK----------------
+----------------------------T-EKHVPVIEIVER--KEDQVTVRVTVG-KE-
+IPHPNTTEHHIR----WISLYFWPEG-------------ENY-PF-EIGKADFSAHGEST
+QGPNTST-VYTEPIAHFTFK-TKKK---G-----KLIAFSLCNIHGL----------WRN
+-EEPLP---------------------
+>lcl|UniRef90_O50258 Neelaredoxin n=2 Tax=Desulfovibrio gigas RepID=NLR_DESGI
+-----------------------MKM-CDMFQTAD-------WK----------------
+----------------------------T-EKHVPAIECDDAVAADAFFPVTVSLG-KE-
+IAHPNTTEHHIR----WIRCYFKPEG-------------DKF-SY-EVGSFEFTAHGECA
+KGPNEGP-VYTNHTVTFQLK-IKTP---G-----VLVASSFCNIHGL----------WES
+-SKAVALK-------------------
+>lcl|UniRef90_D1PG65 Superoxide reductase n=5 Tax=Prevotella RepID=D1PG65_9BACT
+----MKCLIFRQHIHKIIGGTIMTKV-REIYRCQ-ICGNVVEVVNPGAV-LS--------
+----------CCGEPMKLMKENT-SDGAK-EKHVPVIEP--I-EGG----YRVTVG-S--
+VEHPMLPEHYIQ----WIELLTP--T-----------------DV-L--RHELK------
+--------PGEKPEAIFLTN-AEAK---D------VTAREYCNLHGL----------WKG
+-VIEG----------------------
+>lcl|UniRef90_A8ZYE8 Desulfoferrodoxin n=1 Tax=Desulfococcus oleovorans (strain DSM 6200 / Hxd3) RepID=A8ZYE8_DESOH
+----------------------MAER-FQIYKCE-LCGNIVEVMFGSDGTLV--------
+----------CCDQPMNLMTENT-VDAAK-EKHVPVIEK--S-GDK----ITVKVG-S--
+VAHPMEEKHYIQ----WIELIAD--G-----------------KS-Y--TQFLK------
+--------PGDAPEAVFVM---AAD---K------ITAREYCNLHGH----------WKA
+-DM------------------------
+>lcl|UniRef90_R6D3J8 Uncharacterized protein n=1 Tax=Clostridium sp. CAG:242 RepID=R6D3J8_9CLOT
+---------------------------MKFYVCK-HCGNIIAYAKNKGVPVM--------
+----------CCGEKMSELVPGS-VDAAT-EKHVPVISV--E-GNK----VTVTVG-E--
+VEHPMAEEHFIE----WIALETQ--E-----------------GN-Q--RKELK------
+--------PGSKPQAVFML--AETD---K-----AVAAYAYCNLHGL----------WKA
+-EA------------------------
+>lcl|UniRef90_UPI00058C17AD Neelaredoxin n=1 Tax=Desulfuromonas acetoxidans RepID=UPI00058C17AD
+-------------------------M-GASIRRAD-------FK----------------
+----------------------------K-EKHVPVIELPSRIVAGQPFDLTVSVG-KD-
+IPHPNTTEHFIN----WICVYFKAAG-------------ESR-VT-ELAKFEFTAHGESP
+MGTNKGP-AHSDPHVSARMR-LKKS---G-----TLIAVSYCNIHGL----------WES
+-AVTVTTV-------------------
+>lcl|UniRef90_X0S989 Marine sediment metagenome DNA, contig: S01H1_L03507 n=1 Tax=marine sediment metagenome RepID=X0S989_9ZZZZ
+----------------------MAER-LEIYKCE-ACGNIVEVLHEGAGELV--------
+----------CCGQPMKLFKENT-VDAAL-EKHVPVVEK--T-SEG----FTVKVG-S--
+VPHPMEEKHYIE----WIEVIAD--G-----------------EA-Y--RTFLK------
+--------PGEIPQANFDI---KAE---N------ITAREYCNLHGL----------WKS
+---------------------------
+>lcl|UniRef90_C4V441 Putative superoxide reductase n=1 Tax=Selenomonas flueggei ATCC 43531 RepID=C4V441_9FIRM
+---------------------------MSIFYLA-GKSHLVEVYDDEALDLS--------
+----------CCGNPLKELKPNT-VDAAQ-EKHVPVPTYDAA-KHE----VTVSVG-S--
+VAHPMTEEHLIN----WVMLVTQ--H-----------------GA-Q--RIDLT------
+--------AVDAPTVTFRL--ADGD---A-----PVKVLAYCNLHGL----------WQA
+-EV------------------------
+>lcl|UniRef90_B8E1U8 Superoxide reductase n=2 Tax=Dictyoglomus RepID=B8E1U8_DICTD
+----------------------MVNI-KDLFQSAD-------WA----------------
+----------------------------K-EKHVPVIEILEK-DKEKGVRIRVSVG-KE-
+IPHPNTTAHHIA----WIEVYFQPEG-------------DKY-PY-HVGRFEFVAHGATV
+QGPDTST-VYSEPVVEFVFK-TQKD---G-----VIFATSYCNIHGL----------WEN
+-SAELKL--------------------
+>lcl|UniRef90_A0A0F8YHB9 Uncharacterized protein n=1 Tax=marine sediment metagenome RepID=A0A0F8YHB9_9ZZZZ
+----------------------MAEQ-NGIYRCN-VCGNIVFVANDGGGTLS--------
+----------CCDQDMELLKANS-TDAAQ-EKHVPVIEK--T-GSG----YKVTVG-S--
+VPHPMEEKHYIQ----WIELIAD--G-----------------VS-Y--WKFLK------
+--------PGDAPEAEFCI---DAA---S------VSAREYCNLHGL----------WTN
+-AS------------------------
+>lcl|UniRef90_UPI00037D641D hypothetical protein n=1 Tax=Geopsychrobacter electrodiphilus RepID=UPI00037D641D
+----------------------MAKQ-LEIYKCS-ICGNIVEVMHGAAGALA--------
+----------CCGQNMALLTENT-TDAAT-EKHVPVVEV--A-GNK----VKVQVG-S--
+VPHPMQNEHFIE----WIELIAD--G-----------------KS-Y--TQFLK------
+--------PGEAPAAVFEV---SGA---K-----NLSVREYCNLHGH----------WQA
+-KG------------------------
+>lcl|UniRef90_K6TQ43 Desulfoferrodoxin n=1 Tax=Methanobacterium sp. Maddingley MBC34 RepID=K6TQ43_9EURY
+----------------------MTET-GQIFRCD-VCGNIVNILCVGPGNLV--------
+----------CCEVPMELLKEKQ-DGDGS-IKHRPVIEK--S-DMG----VKVKVG-E--
+VPHPMEENHHIE----WVELATD--N-----------------QV-F--IQLLN------
+--------PGDQPEAEFPVD-SDQE---T-----QLKARSYCNIHGL----------WKS
+---------------------------
+>lcl|UniRef90_E4KZN4 Superoxide reductase n=3 Tax=Peptoniphilus RepID=E4KZN4_9FIRM
+-----------------------MKL-TETVQTAD-------WK----------------
+----------------------------A-EKHVPVIHVERA---DGLLKIKALVG-EE-
+IEHPNTLEHHIA----WIKVFFKPEG-------------EKF-PV-EVGSYEFAAHGEA-
+------D-LFTVPCVEAAVK-TDKG---G-----EVYALSYCNIHGL----------WEN
+-SVEA----------------------
+>lcl|UniRef90_A0A0F2QBG1 Superoxide reductase n=1 Tax=Clostridiaceae bacterium BRH_c20a RepID=A0A0F2QBG1_9CLOT
+----------------------MKSF-KELMQSGD-------WK----------------
+----------------------------G-EKHVPVIHCPEKVTANEAFELKVLIG-EA-
+INHPNTLEHHIS----WIKVFFLAGG-------------KKF-PV-ELGTFNFTTHGEG-
+------D-VFTDFIGLTKVK-VPSS---G-----TILAMSYCNIHGL----------WEN
+-SKEIVVE-------------------
+>lcl|UniRef90_UPI00045EB114 MULTISPECIES: desulfoferrodoxin n=2 Tax=Lachnospiraceae RepID=UPI00045EB114
+----------------------MKNE-PVFLTDK-NHNVILEAITGTPNAAL--------
+---------PDSLKPFEILEPNT-SDGAA-EKHVPVIET--N-GNH----VTVKVG-S--
+AFHPMTEDHNIA----WVCLQST--A-----------------GSIT--RVPLS------
+--------PDCEPVAYFTL--EKGD---S-----PKTAFAYCNLHGF----------WKT
+-EA------------------------
+>lcl|UniRef90_D3S5J5 Desulfoferrodoxin ferrous iron-binding region n=2 Tax=Methanocaldococcus RepID=D3S5J5_METSF
+----------------------MNYF-CGINRMK-----EGNDF----------------
+----------------------------E-KKHTPFIECPEAVKADEYFEVKISTG----
+IPHPMEDGHFIQ----WIELFMG--------------------DI-YLARVDFT------
+--------QFMKPEVKLIVK-APSK---GHD-SFILKALMRCNLHGI----------WEY
+-EKEVKIE-------------------
+>lcl|UniRef90_E6X024 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Nitratifractor salsuginis (strain DSM 16511 / JCM 12458 / E9I37-1) RepID=E6X024_NITSE
+----------------------MPKI-NRYVDISTIDREAKKDY----------------
+----------------------------I-DRHSPFVHCESTAKKGEPFKVKVKMG-NE-
+YCHPDDFDHYIA----YVQLWDG--------------------ET-LLAQTNWQPGAMGN
+Q--------CAHAEVDFYIVPQKSK---L-----KLTAMSYCTKHGL----------WES
+DPVEVTVED------------------
+>lcl|UniRef90_C5CIN3 Desulfoferrodoxin ferrous iron-binding region n=1 Tax=Kosmotoga olearia (strain TBF 19.5.1) RepID=C5CIN3_KOSOT
+-----------------------MKI-GEFVKTAD-------WK----------------
+----------------------------N-EKHAPLIEAPEQVETAKAFTVELSVG-KE-
+IPHPNTVEHHIK----WMDLYVKYDD-------------SQF-LV-HLGHIELT------
+------P-VLSEPKATLTIK-LEKS---G-----TLIATSYCNLHGL----------WES
+-SKKIEVK-------------------
+>lcl|UniRef90_G9RW71 Desulfoferrodoxin n=2 Tax=Ruminococcaceae RepID=G9RW71_9FIRM
+---------------------------MKFYICK-HCGNIIAYVRSSGVPVV--------
+----------CCGEPMQEIIPGT-TDGAL-EKHVPVIEV--E-GNK----VTVRVG-A--
+VEHPMLPEHYIE----WIALETA--Q-----------------GN-Q--RKPLA------
+--------PGQKPEAVFML--AEGD---S-----VVAAYEYCNLHSL----------WKA
+---------------------------
+>lcl|UniRef90_UPI0006933C73 hypothetical protein n=1 Tax=Geoalkalibacter subterraneus RepID=UPI0006933C73
+------------------------MF-ANINRVANPE--EKTTL----------------
+----------------------------E-KKHAPVIEAPDKVKSGEPFEVTVTVG-E--
+IVHPMGATHYIQ----RVQLYVGNE---------------------PAGRVDFSH-----
+--------QFNEPRARFTLK-TDKP---V-----TLVVREYCNLHGL----------WES
+-RKQIALAD------------------
+>lcl|UniRef90_UPI0002FA2419 dethiobiotin synthase n=1 Tax=Nitratiruptor sp. (strain SB155-2) RepID=UPI0002FA2419
+----------------------MPTI-NRYVDISEIDREAKKDY----------------
+----------------------------I-DRHSPFVICDSTAKKGEKFQVKVRVG-NE-
+YSHPDDFDHYIA----YVQLWDG--------------------ER-LLGQATFTPGTLAN
+E--------KSQVEVDFYIIPTK-K---L-----KLTAMSYCTKHGL----------WES
+TPVEVEVTE------------------
+>lcl|UniRef90_R6YYX9 Uncharacterized protein n=2 Tax=Coriobacteriaceae RepID=R6YYX9_9ACTN
+-------------------------M-ATFYKND-ANNFLAALQVETPAP----------
+-------------AGYQALDANT-SDGAV-EKHVPVVEIEHE-GRL----IKVTVG-S--
+TEHPMETAHYIQ----WIALEAD--D-----------------RL-E--VHYLK------
+--------PGQSPVAFFP----GGV---K-----AGTVYAYCNLHGL----------WKA
+-EF------------------------
+>lcl|UniRef90_R6BT35 Desulfoferrodoxin n=1 Tax=Clostridium sp. CAG:169 RepID=R6BT35_9CLOT
+---------------------------MKFYVCK-HCGNIITFEENKGVPVV--------
+----------CCGEKMSELVPGS-VDAAA-EKHVPVISV--E-GNK----VTVTVG-E--
+VAHPMLEEHFIK----WIVLETA--Q-----------------GS-Q--RKELK------
+--------AGEQPQAVFML--TDCD---K-----PVAAYAYCNLHGL----------WSV
+-NA------------------------
+>lcl|UniRef90_Q1JYH9 Desulfoferrodoxin n=1 Tax=Desulfuromonas acetoxidans DSM 684 RepID=Q1JYH9_DESAC
+----------------------MATR-NEVYKCA-TCGNVLAILTGGQGELI--------
+----------CCDAPMELMAENS-TDAAH-EKHVPMVVG--I-LDD----IEVSVG-S--
+VAHPMQPEHYIE----WIELLTD--R-----------------VS-Y--REFLK------
+--------PGDTPDVNFSV---DTE---D------VTARAYCNLHGL----------WKS
+-KP------------------------
+>lcl|UniRef90_A0A0F3GZH8 Superoxide reductase n=1 Tax=Candidatus Magnetobacterium bavaricum RepID=A0A0F3GZH8_9BACT
+-------------------MSEKSLF-CGMNQPADPN--NMTDS----------------
+----------------------------E-KKHMPVVDCPDTVKVGEPFKVHIKVG-A--
+IPHVMEEAHHVQ----WIDVYFG--------------------RN-FNVRIDLT------
+------P-VFTKPEVTVTLL---KG---GKHRKTTLRVIERCNLHGQ----------WET
+-SKEITVTE------------------
+>lcl|UniRef90_X0ZQ25 Marine sediment metagenome DNA, contig: S01H4_C00399 (Fragment) n=1 Tax=marine sediment metagenome RepID=X0ZQ25_9ZZZZ
+----------------------MGEF-RDLFKSAD-------WK----------------
+----------------------------T-EKHIPVIEVPDRIVKGEYFNVKATVG-KE-
+IHHPNTTEHHIS----WIEIYFQPAG-------------EKF-PY-QIGKFEFVAHGESV
+K---------LNGFTVMPFL-IEHS---------------------------------QN
+---------------------------
+>lcl|UniRef90_A0A0J1DN73 Neelaredoxin n=1 Tax=Peptococcaceae bacterium 1109 RepID=A0A0J1DN73_9FIRM
+-----------------------MRI-GELLRSGD-------WK----------------
+----------------------------S-EKHVPVINAPDEVQAGEKFTVSVGVG-ED-
+IPHPNTTEHHIR----WIKLLFQPED-------------G-F-TY-EVADWQFTAHGESV
+KGANAGP-VITEPFGQVQIV-LKES---G-----TLLAMSYCNIHGL----------WEN
+-ARPITVRQ------------------
+>lcl|UniRef90_T0PB24 Uncharacterized protein n=2 Tax=Clostridium RepID=T0PB24_9CLOT
+----------------------MSEL-RQVYKCE-VCGHMVEVVHEAAGTLV--------
+----------CCGKPMTLKKENT-QEAAV-EKHVPVVEK--I-EGG----YRVTVG-S--
+VLHPMTVEHHIE----WIEVHTK--D-----------------RV-Y--RKYLS------
+--------IDEQPVAEFQI---NED---------IIYAREYCNLHGL----------WRS
+---------------------------
+>lcl|UniRef90_G7Q4M0 Desulfoferrodoxin n=2 Tax=Desulfovibrio RepID=G7Q4M0_9DELT
+----------------------MAKQ-LEIYKCE-VCGNIVEVLHAGDGDLV--------
+----------CCGQNMKLMTENT-SDGAK-EKHVPVIEK--T-DKG----YLVKVG-S--
+APHPMEEKHYIE----WIELIAD--G-----------------KT-Y--RAFLK------
+--------PGQAPEATFCV---EAA---S------VTAREYCNIHGL----------WKK
+-D-------------------------
+>lcl|UniRef90_A0A0C2VPP1 Dethiobiotin synthase n=1 Tax=Sulfurovum sp. FS08-3 RepID=A0A0C2VPP1_9PROT
+----------------------MPKI-NKYVDIDTVEREAKKDY----------------
+----------------------------I-DRHSPFIHTVESVNGGEMFEVTVQNG-KE-
+YTHPDDMNHYIA----SISLFNG--------------------ET-LVAKADFMAGMLGG
+DE------HKGHAKVTFHVLATGKK---M-----NLVAHSYCTKHGI----------WES
+DPVEVTVN-------------------
+>lcl|UniRef90_G1WJQ6 Uncharacterized protein n=1 Tax=Collinsella tanakaei YIT 12063 RepID=G1WJQ6_9ACTN
+-------------------------M-AKFFKADDTSNFVIALTDNAAVP----------
+-------------TGYSLVEANS-IDAAV-EKHVPSIDLQRD-GHI----IHVTVG-E--
+VEHPMTDEHYIE----WVALEAD--D-----------------RL-E--VHYLK------
+--------PGQTPTTFFA----GGV---K-----SGTVYAYCNLHGL----------WKA
+-AF------------------------
+>lcl|UniRef90_UPI0006D1F516 desulfoferrodoxin n=1 Tax=Desulfovibrio brasiliensis RepID=UPI0006D1F516
+----------------------MATNLGEVYKCE-ACGNIVIVVHAGGGDLV--------
+----------CCGEDMVLMKENT-QDAAQ-EKHVPVIER--D-GDK----AVVKVG-S--
+VDHPMEDKHYIE----WIELMVG--D-----------------KV-Y--TKMLK------
+--------PGDAPKAEFCLC-GETG---E------LSARAYCNIHGL----------WAD
+-K-------------------------
+>lcl|UniRef90_A0A0F2S9V5 DNA topoisomerase II n=1 Tax=Peptococcaceae bacterium BRH_c23 RepID=A0A0F2S9V5_9FIRM
+----------------------MTNL-RELYVCS-ICGNVVEVVHTGATALV--------
+----------CCNKPMDKLEAGT-KDASL-EKHVPVIEI--V-SEG----IKVKVG-S--
+VAHPMEEKHFIR----FIEVLTK--D-----------------QV-L--RAELA------
+--------PNQAPEAIFKLA-KSDD---V------VEVREYCNIHGL----------WKA
+-DL------------------------
+>lcl|UniRef90_A0A031WEA1 Desulfoferrodoxin homolog n=24 Tax=Peptoclostridium RepID=A0A031WEA1_PEPDI
+----------------------MCSE-QKFFICE-TCGNLVGMIQSGGVPIF--------
+----------CCGKPMKELVPNT-TDAAV-EKHVPVIEV--D-GNN----VTVKVS-S--
+TTHPMTKEHHIA----WVYLMTE--Q-----------------GG-Q--RKCLA------
+--------VDGEPVVKFAL--NDDD---K-----VISAYAYCNLHGL----------WKA
+-EL------------------------
+>lcl|UniRef90_E0QKW1 Desulfoferrodoxin ferrous iron-binding domain protein n=2 Tax=Peptostreptococcaceae RepID=E0QKW1_9FIRM
+----------------------MSIL-ANYVKSGD-------WK----------------
+----------------------------G-EKHVPAIIAPASVKAGEVAQIKVCVG-EE-
+IAHPNTLEHHIA----WIKLFFVAEG-------------SQV-LV-ELANSEFAANGEL-
+------E-CFTEPTLFANVK-LPKS---G-----KLVAVSYCNIHGL----------WEN
+-SLDITVA-------------------
+>lcl|UniRef90_H6LFX0 Rubredoxin oxidoreductase n=1 Tax=Acetobacterium woodii (strain ATCC 29683 / DSM 1030 / JCM 2381 / KCTC 1655) RepID=H6LFX0_ACEWD
+----------------------MCKE-PKFFVCK-HCGNFVGMIHESGVKMI--------
+----------CCGDEMTEVVPNT-TDAAQ-EKHVPVIAV--N-GNT----ATVDIG-S--
+VPHPMTPEHHIA----WVYLETT--Q-----------------GG-Q--RKCLP------
+--------VDGAPHVEFAL--TPGD---K-----VIAAYEYCNLHGL----------WKA
+-SL------------------------
+>lcl|UniRef90_UPI0004823E66 desulfoferrodoxin n=1 Tax=delta proteobacterium PSCGC 5451 RepID=UPI0004823E66
+----------------------MAER-FEVYKCE-ACGNIVEVIHGGGGELV--------
+----------CCGEPMKLLVENT-VDAAK-EKHVPVIEK--I-DGA----VKVKVG-D--
+VAHPMEEKHYIE----WIEIIAD--G-----------------KA-D--RQFLN------
+--------PGETPEAVFKT---DAQ---N------VTAREYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_I3TF63 Desulfoferrodoxin, ferrous iron-binding region n=1 Tax=Thermogladius cellulolyticus (strain 1633) RepID=I3TF63_THEC1
+----------------------MSEL-GNLIYTPQRASGEAITK----------------
+----------------------------V-ESHTPKIHAPDKVSKNTPFKVRVEVG----
+-PHPNTVEHSIR----WIELYFKEEG-------------RAFNPV-FLGRYVFE------
+------P-VYHEPVVEVTLK-LAKS---G-----RLIAESYCNLHGV----------WES
+-SKDIVVE-------------------
+>lcl|UniRef90_UPI000415D358 desulfoferrodoxin n=1 Tax=Spirochaeta cellobiosiphila RepID=UPI000415D358
+----------------------MAVK-SEIYLCE-LCGNLVEVLQGGDGELV--------
+----------CCGQAMKRLEEQT-ADSAN-EKHVPVIEK--I-DGG----YKVTVG-S--
+TLHPMLEKHFIQ----WIELIAD--G-----------------KS-Y--KQFLN------
+--------PGDEPVAVFNV---EAS---T------VSAREYCNLHGL----------WKG
+---------------------------
+>lcl|UniRef90_UPI0006BB8605 superoxide reductase n=1 Tax=Clostridiales bacterium SIT11 RepID=UPI0006BB8605
+-----------------------MKL-TETVQSGD-------WK----------------
+----------------------------S-EKHVPVIHAEQN---GDVLNIKVLVG-EE-
+VEHPNTLEHHIE----WIKVFFQAEG-------------GKF-PV-EVGSYRFCAHGEE-
+------E-IFSKPEVSAVVK-TQAK---G-----TVYALSYCNLHGL----------WEN
+-SQEI----------------------
+>lcl|UniRef90_J1L4V4 Desulfoferrodoxin n=1 Tax=Methanofollis liminatans DSM 4140 RepID=J1L4V4_9EURY
+----------------------MTEL-LEVYKCE-KCGNVVKIAHAGDGELV--------
+----------CCGVPMVRMEEKT-ADVGK-EKHVPVLEK--V-EGG----VKVKVG-D--
+VPHPMEEKHYIE----WIEVRKG--R-----------------KL-Y--VHKLN------
+--------PGDAPEAVFPI---DDV---N------AKARIYCNIHGL----------WTN
+-RK------------------------
+>lcl|UniRef90_UPI0004B2621D Neelaredoxin n=1 Tax=Peptoniphilus obesi RepID=UPI0004B2621D
+----------------------MKKL-TETVQTAD-------WK----------------
+----------------------------K-EKHVPVIHVENK---DGELLVTAQVG-EE-
+VEHPNTLEHHIA----WIKLFFQAEG-------------AKF-PV-EIGSYQFSAHGEE-
+------E-LFSKPYVAAKLK-TDKK---G-----IVYALSYCNIHGL----------WEN
+-SEEI----------------------
+>lcl|UniRef90_D3L582 Superoxide reductase n=1 Tax=Anaerobaculum hydrogeniformans ATCC BAA-1850 RepID=D3L582_9BACT
+-----------------------MKF-ETLIQSGD-------WK----------------
+----------------------------G-EKHVPVIEAPEEVASGEAFTVTVSVG-KE-
+IPHPNTTEHHIR----WIKLFFKGED-------------EKF-PF-EVGTYEFNAHGEHV
+NGPNTGP-AYSEPYAVAKIK-LNKS---G-----TLLAMSYCNIHGL----------WEN
+-SKEIKVK-------------------
+>lcl|UniRef90_R5J361 Desulfoferrodoxin-like protein n=3 Tax=Peptostreptococcus RepID=R5J361_9FIRM
+----------------------MSRE-LAFY-TN-EAGDILEKLVCEGGDL---------
+-------------SGLKAIEANS-TDAAG-EKHVPVIEV--A-GNK----VTVKVG-E--
+VAHPMTEKHHIA----FVVLVTE--K-----------------TI-Q--RVDLD------
+--------HEGEPVAEFVL--ADDD---K-----AIAAYEYCNLHGL----------WIA
+-QA------------------------
+>lcl|UniRef90_J4W0K0 Putative superoxide reductase n=2 Tax=Mogibacterium RepID=J4W0K0_9FIRM
+-------------------------M-KKLYKCN-RCGNIVGKVYDGDGTLV--------
+----------CCGEEMDELVPKT-AEMAN-EKHVPVVEC--N-GNL----VTVTVG-S--
+TLHPMTEEHHIQ----FIILETN--L-----------------GF-Q--RKSLK------
+--------SDGAPVATFAV--QDGE---K-----VVAAYEYCNLHGF----------WFN
+-ELN-----------------------
+>lcl|UniRef90_E1L524 Superoxide reductase n=7 Tax=Veillonella RepID=E1L524_9FIRM
+-----------------------MAV-HDYIKSGD-------FA----------------
+----------------------------T-EKHVPVIEAADKVKAGEAFDVKLSVG-KD-
+IAHPNTVEHHIE----WIKLYFVAEG-------------TQL-PY-EVGELSFNVHGDGA
+T-ANEGP-VHAVSAGTLAVS-LNKS---G-----KLIAVSYCNIHGL----------WES
+-EKAIVVE-------------------
+>lcl|UniRef90_F8N5U0 Desulfoferrodoxin n=1 Tax=Prevotella multisaccharivorax DSM 17128 RepID=F8N5U0_9BACT
+----------------------MTKK-GEVYKCK-HCGGIVEVLHEGAVPV---------
+----------CCGEPMTLLKENT-TDAAT-EKHVPVVEK--I-EGG----YRVTVG-S--
+VAHPMTPEHYIQ----WIELVTP--N-----------------GV-L--RRDLT------
+--------PEDKPMAEFKT---DAT---E------VVAREYCNLHGL----------WKA
+---------------------------
+>lcl|UniRef90_UPI0003F8AC6B Neelaredoxin n=1 Tax=Desulfovibrio inopinatus RepID=UPI0003F8AC6B
+-----------------------MKI-GDIYQTAD-------WK----------------
+----------------------------T-EKHVPVIEAPDTVKADEVFNVTISLG-KE-
+IAHPNTTEHHIR----QITLYYKPEG-------------GKF-AY-QAGHFEFSAHGEDA
+SGPNQGP-IYTNHSVTCGLK-LTTS---G-----TLIASAFCNIHGL----------WES
+-EKAITVQS------------------
+>lcl|UniRef90_B5IGW5 Desulfoferrodoxin ferrous iron-binding region n=2 Tax=Aciduliprofundum boonei (strain DSM 19572 / T469) RepID=B5IGW5_ACIB4
+------------------------ML-SETIKSGD-------WK----------------
+----------------------------G-EKHVPVIEYKKD---GDMIEVEVSVG-KE-
+VPHPNTPEHHIA----WIELYFKPED-------------GGF-PI-MVGRVAFTSHSA--
+--------PITEPKAKFYFK-CEKK---G-----KLMALSYCNIHGL----------WQN
+-EVDVE---------------------
+>lcl|UniRef90_UPI00029A549B superoxide reductase n=1 Tax=Thermococcus zilligii RepID=UPI00029A549B
+------------------------MI-SGTIKSGD-------WK----------------
+----------------------------G-EKHVPVIEYKRE---GNLVRVEVTVG-KE-
+IPHPNTPEHHIA----WIQLYFHPEN-------------GVF-PI-LVGTVEFTNHTD--
+--------PLTEPRAVFFFR-TEKK---G-----KLYALSYCNIHGL----------WEN
+-EVQLE---------------------
+>lcl|UniRef90_D9PWZ6 Superoxide reductase n=1 Tax=Methanothermobacter marburgensis (strain DSM 2133 / 14651 / NBRC 100331 / OCM 82 / Marburg) RepID=D9PWZ6_METTM
+----------------------MTER-NQIFRCN-VCGNIVEVLNPGAGQLV--------
+----------CCNQPMELLVARR-TDVGP-EKHVPVVER--S-GDG----IRVKIG-E--
+VPHPMEENHHIQ----WVEVIAG--E-----------------EV-H--RRDLS------
+--------PGDRPEAEFPVD-PDSE----------FMVRAYCNIHGL----------WY-
+---------------------------
+>lcl|UniRef90_J5WSX2 Putative superoxide reductase n=4 Tax=unclassified Peptostreptococcaceae (miscellaneous) RepID=J5WSX2_9FIRM
+----------------------MSVL-GQLIQTGD-------WK----------------
+----------------------------G-EKHVPAITAPQTVKVGEVAEVKVCIG-QE-
+IAHPNTLEHHIS----WIKLLFVPSG-------------GKL-PV-ELAHSEFSANGEL-
+------E-IFTSPSLVANVK-LPKS---G-----TLVAVSYCNIHGL----------WES
+-SVEITVE-------------------
+>lcl|UniRef90_UPI000557AF19 desulfoferrodoxin n=1 Tax=Hippea jasoniae RepID=UPI000557AF19
+----------------------MTKR-FEVYKCD-ICGNIIEVLHEGADALV--------
+----------CCGQPMKKLDEQT-ADTST-EKHVPFIKR--E-GDK----YIVKVGEN--
+TAHPMEEKHYIE----WIELVVD--G-----------------VV-Y--KKFLN------
+--------PGDAPEAVFEV---PEG---K-----EVWAREYCNIHGL----------WAK
+-R-------------------------
+>lcl|UniRef90_D9RZ36 Superoxide reductase n=1 Tax=Thermosediminibacter oceani (strain ATCC BAA-1034 / DSM 16646 / JW/IW-1228P) RepID=D9RZ36_THEOJ
+----------------------MDSL-ANHLQKDD-------WK----------------
+----------------------------K-EKHVPVIEVKGPVKKGESFDVHLCVG-KE-
+IPHPNTTEHHIR----WIKLFYQPEG-------------EKF-TI-ELGTYRFEAHAESV
+EGPNKGS-AKCNPCVHTSVI-VEKP---G-----TLIALSYCNIHGL----------WEN
+-SLKIDFEE------------------
+>lcl|UniRef90_R9KKD5 Desulfoferrodoxin n=1 Tax=Lachnospiraceae bacterium A2 RepID=R9KKD5_9FIRM
+---------------------------MNFFKCT-ECCSIAMEIVSGGHE----------
+-----------GAKVFQELLANT-TDASG-EKHVPLVEK--K-EGS----ILVKVG-E--
+LEHPMLEEHHIM----WIYLETE--H-----------------GG-M--LRKLN------
+--------PGDKPEAEFCI--SPED---K-----PVAAYEYCNLHGL----------WKA
+-EIK-----------------------
+>lcl|UniRef90_V6TVM1 Desulfoferrodoxin n=1 Tax=Giardia intestinalis RepID=V6TVM1_GIAIN
+MVFSHFYLNSATTSFSSLQRRKKMSL-SNCIHKPDEERT---------------------
+----------------------------K-EKHVPEMKLNG-------NHVDIKCG-AT-
+TMHPATEKHYIG----TIRLFGITKE-------------GNI-TL-ELGCQQIW------
+------P-GLGEPVASFRVCDLEKY---K-----GLLAVAYCNLHGC----------WEN
+-YLEL----------------------
+>lcl|UniRef90_M5EHT7 Superoxide reductase n=2 Tax=Halanaerobium RepID=M5EHT7_9FIRM
+-----------------------MGY-YDLKKLENTGE-DKTAL----------------
+----------------------------E-KKHVPYIQCPDEVKKGEYFEVKVTFG-KE-
+ITHPMGKDHYIQ----YFDLYAN--------------------YA-SLARVEFT------
+--------PDMKAEATLNVK-LEES---C-----DLNVYAFCNLHGH----------WEG
+-RKEIKVVE------------------
+>lcl|UniRef90_UPI0005EB1EDF desulfoferrodoxin n=1 Tax=Desulfonatronovibrio magnus RepID=UPI0005EB1EDF
+----------------------MPEI-REIYKCE-ACGNIVEVVHGGQGELV--------
+----------CCGQPMKLMTENT-VDAAK-EKHVPVIEK--T-ADG----FKVKVG-S--
+VDHPMEEKHYIE----WIELIAD--G-----------------KS-Y--KEFLK------
+--------PGQAPEAEFCI---KAQ---K------VTVREYCNIHGL----------WKA
+-EA------------------------
+>lcl|UniRef90_U7UEX0 Putative superoxide reductase n=1 Tax=Peptoniphilus sp. BV3C26 RepID=U7UEX0_9FIRM
+-----------------------MKL-TQTVQSGD-------WK----------------
+----------------------------N-EKHVPALHAEKS---EGCLKIHALVG-EE-
+VEHPNTLEHHIA----WIKVFFQPEG-------------AKF-PT-EVGSYTFSAHGEE-
+------E-ICSKPEVNVCIK-TEKS---G-----LVYALSYCNIHGL----------WEN
+-SLEI----------------------
+>lcl|UniRef90_E3GZG8 Desulfoferrodoxin n=2 Tax=Methanothermus fervidus RepID=E3GZG8_METFV
+--------------------MNMTKL-NQVYRCN-VCGNIVEVLNPGEGKLV--------
+----------CCGQEMELLLARK-TDVGP-EKHVPVIEN--F-DNK----IKVRVG-K--
+VPHPMESNHYIL----WIELITP--K-----------------KS-Y--RISLN------
+--------PGDKPEAIFPR--PKSK---K------YMVRCYCNIHGL----------WHD
+LEEKMKF--------------------
+>lcl|UniRef90_UPI0005914B0C desulfoferrodoxin n=1 Tax=Clostridium sp. CL-6 RepID=UPI0005914B0C
+------------------------ME-QKFYICE-TCGNIVTYVKKSGVPVF--------
+----------CCGKKMQEIIPGT-SDAAT-EKHVPVIAV--E-GNK----VTVSVG-A--
+IAHPMVKEHYIE----WISIETK--D-----------------GN-Q--RKVLA------
+--------PEDAPMAEFML--TDTD---E-----VIAAYAYCNLHSL----------WKA
+-EK------------------------
+>lcl|UniRef90_A0A0M9E8E2 Superoxide reductase n=1 Tax=Candidatus Magnetomorum sp. HK-1 RepID=A0A0M9E8E2_9DELT
+----------------------MAEK-LGIYKCE-ICGNMVEVIHAGAGELV--------
+----------CCGKPMTYMKENT-VDAAK-EKHVPVIEK--V-AGG----VKVKVG-D--
+VAHPMEDKHYIE----WIEIIAD--G-----------------KA-Y--RQFLN------
+--------PGDTPEATFSI---DAA---Q------ITAREFCNLHGV----------WKA
+---------------------------
+>lcl|UniRef90_R6Q1C5 Desulfoferrodoxin n=2 Tax=Firmicutes RepID=R6Q1C5_9FIRM
+-----------------------MKT-PRFFICK-HCKNIITMVEDKGVPVV--------
+----------CCGEKMTELKANT-SDGAG-EKHVPVVQV--E-GSK----VTVKVG-E--
+VTHPMLEEHHIA----WIYLETS--Q-----------------GG-Q--IKYLD------
+--------HTGAPEAVFAL--AEGE---Q-----AVAAYEYCNLHGL----------WKA
+-EI------------------------
+>lcl|UniRef90_UPI0006B5CD51 desulfoferrodoxin n=1 Tax=Desulfatitalea tepidiphila RepID=UPI0006B5CD51
+----------------------MTER-LEVYKCN-VCGNIVEVLHAGPGQLV--------
+----------CCGQPMVCMKENT-VDAAK-EKHVPVIEK--I-DGG----VKVKVG-S--
+VAHPMEEKHYIE----WIEIIAD--G-----------------KA-Y--RQFLK------
+--------PGQTPEAIFMV---TAS---D------IKAREYCNIHGL----------WKA
+---------------------------

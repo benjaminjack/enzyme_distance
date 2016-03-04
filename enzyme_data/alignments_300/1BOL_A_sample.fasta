@@ -1,0 +1,891 @@
+>1BOL_A
+------------------------------------------------------------
+-------SS--------CS---STALSCSNSA---NSD-TCCSPEYG-LVVLNMQW----
+----APGY---------GPDNAFTLHGLWPDK----CSGAYAPS--GGCDSNRASS--S-
+-----------------IASVIKS--K---DSSLYNSMLTYWPS--N------QG--NNN
+VFWSHE---WSKHGTCVSTYDPDCY-DN-YEEGE-DIVDYFQKAMDLRSQYNVYKAFSSN
+GITPG--GTYTATEMQSAIESYF-GAKAKIDC-S-SGT---LSDVALYFYVRG----RDT
+YVITDAL---ST-GSC-SGD--VEYPTK--------------------------------
+-------------------------------------
+>lcl|UniRef90_Q9UVC5 RNase Sy (Fragment) n=1 Tax=Syncephalastrum racemosum RepID=Q9UVC5_SYNRA
+------------------------------------------------------------
+------ADS--------CP---ADALSCSAT----SGD-SCCSPTNG-LLVLVQQW----
+----LKDY---------GPNTAFTLHGLWPDT----CSGGIPGSGNTGCDSSRNVD--D-
+-----------------VGSVIKS--G---DSSLYSQMSQYWPS--Y------TG--DNS
+EFWTHE---WNKHGTCVTTLDPDCFGAS-YTDNE-DMFTYFQQAIDLRAKYNLYTILKDA
+GITPG--GSYSVSALESAIEKST-GSTPKITC-S-SGA---ISEIWLYFHVKG----TDS
+YVPTDAV---DK-STC-SGT--VIYPAKS-------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0B7KC35 Uncharacterized protein n=1 Tax=Bionectria ochroleuca RepID=A0A0B7KC35_BIOOC
+---------------------------------MAFTHFLFAST-LVG-AAFA-------
+-----GPKT--------CS--SDVPLSCHNTTA--VED-TCCF-IPSGQLLLTQFW----
+--DTNPAT---------GPDDSWTIHGLWPDN----CDGTYP----ANCDSSRKYT--N-
+-----------------ITDILTA-GG---GDATLTYMETYWKD--Y------KG--DDE
+TFWEHE---WAKHGTCVSTLDPDCY-AD-YQPTE-EAVAYFAKAVELFKTLPTYEWLSDA
+GITPSSSKKYALSDIQAALEKGH-GKPVTVSC-D-GKA---LNEVWYHYNVKG-SLQSGE
+FVAAEPD---GTKGSC-PSS--VSYLPKSGSK----------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0L9SQV9 Uncharacterized protein n=1 Tax=Ophiocordyceps unilateralis RepID=A0A0L9SQV9_9HYPO
+--------------------------------------MHPLVP-LVL-PSIA-------
+-----GGKT--------CP--SDIPLSCHNSTV--VDD-TCCF-IPAGQLLQTQFW----
+--DVNPST---------GPADSWTLHGLWPDN----CDGSYP----ASCDASRGDY--E-
+-----------------IRTVLED-AK---QSDTLTYMERYWKD--Y------KG--DDD
+HLWEHE---WSKHGTCVSTLDPTCFGPG-YRRAD-EAVAYFARAVSLFKTLPTHAWLAAA
+DITPTFDDDYDLQDIQEALTARH-GAPVTLRC-R-GNA---LTEVWYHFNVQG-SLQDGL
+FVASDPD---GPKGSC-PRS--VQYLPKRNWAHGDLSQKSQVRLG---------------
+-------------------------------------
+>lcl|UniRef90_A0A074YVA4 Uncharacterized protein n=1 Tax=Aureobasidium subglaciale EXF-2481 RepID=A0A074YVA4_9PEZI
+-----------------------------M-SS----TLIALST-LLG-LAAA-------
+-----SIKS--------CP--ANAPISCQTSGT--IQN-TCCTE-VQGQILQTQFW----
+--DSSPAT---------GPANSFTIHGLWPDN----CDGTYE----ATCDSSRAYT--D-
+-----------------IDCILQN-KG---HGDILSYMETYWKD--Y------QG--DDE
+SFWEHE---WSKHGTCYSTLNPSCY-TN-YQPED-ELVDFLNTTITLFKKLPTYDWLASA
+GITPSSSKTYTNAQITNALKSKF-GATPILSC-T-SGK---LNQVEYVFNVRG-SVANGQ
+FIAVNPT---GTKGNC-PTS-GIKWLPKDLSTTPEANEGSCS------------------
+-------------------------------------
+>lcl|UniRef90_V5FST8 Ribonuclease T2, putative n=1 Tax=Byssochlamys spectabilis (strain No. 5 / NBRC 109023) RepID=V5FST8_BYSSN
+------------------------------------MGALASQLLLAG-GALA-------
+-----GLQA--------CS-LNSTQLSCHNTTA--VKD-SCCFNSPGGLLLQTQFW----
+--DTNPST---------GPSDSWTIHGLWPDN----CDGTYQ----SNCDESRAYK--N-
+-----------------ITEILKS-QS---RTELLDYMNKYWKD--E------NG--DDE
+SFWEHE---WGKHGTCINTIEPSCY-TN-YKPQR-EVGDYFNKVVDLFKGLNTYKFLSDA
+GITPSSSKTYELSDLEDALSKAH-GGKVTINC-E-DDS---LDEVWYFFNVKG-NAINGQ
+YIAADAM---SD-STC-PKS-GIKYLPKDSN-----------------------------
+-------------------------------------
+>lcl|UniRef90_A0A016Q3M2 Uncharacterized protein n=3 Tax=Fusarium sambucinum species complex RepID=A0A016Q3M2_GIBZA
+----------------------------MTFTK----ALVPLALFLAK-AQAD-------
+-----AFSS--------CS--KDLPLSCHNTTA--VEN-TCCF-VPAGQLLQTQFW----
+--DSSPVA---------GPSDSWTIHGLWPDY----CDGTYP----QFCDKSREYT--D-
+-----------------IKSIVSK-FL---GNSTLSYMDKYWVS--Q------DG--NDE
+SLWEHE---FNKHGTCISTLEPSCY-SN-YQTGE-EAADYVKKTISLFKTLPTYKWLAEA
+GIEPSTDKTFTASEIEDALASQH-GARVTIGC-Q-GST---LSEVWYHFNVQG-SIQEGQ
+FVATEPD---GSKSSC-PSS-GIKYAPKN-------------------------------
+-------------------------------------
+>lcl|UniRef90_R1ERG2 Putative ribonuclease t2 protein n=1 Tax=Botryosphaeria parva (strain UCR-NP2) RepID=R1ERG2_BOTPV
+----------------------------MV-VSRLILGAAAYLSLAAASLHSPLS-----
+-----ATGN--------CSRHDLDVLSCTPESL--TTD-ACCVESPGGLLLLTQLY----
+---SKTAG---------GPADTWTMHGLWNDF----CNGSYP----SSCDDTRNYK--D-
+-----------------IASTLEE-HR---QYSLLDYMKENWRN--DPVITTANG--TDE
+ELWEHE---WSKHGTCMTTLRPSCY-SH-YSPQL-ELIQFLQEVVHLHKQLPTEDYLASC
+GIVPASNTTYALHEWLLE------------------------------------------
+------------------------------------------------------------
+-------------------------------------
+>lcl|UniRef90_UPI0004412A83 ribonuclease T2 n=1 Tax=Auricularia delicata (strain TFB10046) RepID=UPI0004412A83
+------------------------------------------------------------
+----------------------MRVLSLLAAT---AVN-TCCVPTQ-GLVLQTQFW----
+--DTYTGL---EAQGQKLPKKTWTLHGLWPDN----CDGTYE----QYCDFSRQYDPKPD
+PPV-LGNVTVPIVEGVKLDEVIKS-FG---RHDLLKYMNKYWVA--Q------GQ--PSP
+EFWAHE---FSKHATCFSTFDIECY-HN-YRQHE-DVVNFFDTVVQAYKKHPTYAYLAAD
+GIVPSNSTTYALNAVLKALEHAT-GATPHVGCSK-DGA---LNEVWYYSHSLG-APQLGV
+YKPVNTT---FG-ATC-PET-GIRYLERTAGSEW--------------------------
+-------------------------------------
+>lcl|UniRef90_S8FZE1 Ribonuclease Trv RNase Trv n=1 Tax=Fomitopsis pinicola (strain FP-58527) RepID=S8FZE1_FOMPI
+---------------------------------------MARQARGSAQTVLA-------
+-----AADS--------CP--S-LPASCQNTTE--ETN-LCCFE-GLGLIQQVQFW----
+--DTDPTT---------GPSNSWTIHGLWPNY----CDGSYP----EDCDASRDYS--D-
+-----------------ITSLLQD-FG---ATDTLDYMNTYWDN--A------DG--SNE
+ELWAHE---WSTHGTCYTTFQASCF-SD-YQTGQ-DAVTFYETVVTLFKTLPTYDWLSQA
+GITPSYDQTYTLSELQNAIQNVA-GVTATFDC-E-DDE---LYQIEYWFNVQG-PVPDGD
+FIPIGLVQ--IIRDQV-PAQ-KRGWFRVLGGAFAF-------------------------
+-------------------------------------
+>lcl|UniRef90_A0A022QLC3 Uncharacterized protein n=1 Tax=Erythranthe guttata RepID=A0A022QLC3_ERYGU
+------------------------MNVKIS-SVVIIKLFVLQCCISISFS--SSDFDFFY
+FVQQWPGSY--------CD----------------TRQ-SCCYPTTG-------------
+-----------------KPDEDFSIHGLWPNY----NTGKWP----QNCGSQSSLDRSE-
+------------------------------ISDLMSRMHKDWPT--L---ACPTA--DGM
+KFWGHE---WDKHGTCTS---------------F-DQHTYFQFALDLKNKANLLQVLAKS
+GIRP--GNFYGLESIKQAIQEGV-GYEPYIDCNVDSEGNHQVFQVYLCVDKSA-----TK
+FIRCPIL---PHGRAC-GSR--IEFPSFSSDSNSSHKEL---------------------
+-------------------------------------
+>lcl|UniRef90_K9H918 Ribonuclease T2, putative n=2 Tax=Penicillium digitatum RepID=K9H918_PEND1
+---------------------------------MGML-ALAAMG-LIT-GTSG-------
+-----HLET--------CP--SRTAFSCSSSS---TQP-TCCFNYPGGTLLQTQFW----
+--DTNPSS---------GPDDSWTIHGLWPDN----CDGTYQ----SYCDSERAYS--N-
+-----------------ITAILQG-QG---LCDLVDYMEEYWVD--I------NG--DNE
+NFWSHE---WSKHGTCINTIDPSCY-SS-YKPQE-EVGDFFKKTVNLFKRLDTHKALAAA
+GITPSTSKTYTLSAIQQALTSMH-GASVYLGC-S-SGN---LNQVWYFFHVKG-NTIHGK
+YKAVDAL---TA-SGC-PDT-GIKYVPK--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A059BH32 Uncharacterized protein n=1 Tax=Eucalyptus grandis RepID=A0A059BH32_EUCGR
+--------------------------MKFQ-CSIVIS-LLLLQCLAVLVA--SQSFDFFY
+FVQQWPGSY--------CD----------------TER-SCCYPTTG-------------
+-----------------KPAADFGIHGLWPNH----DDGSYP----SNCDPNSPFNPSE-
+------------------------------VSDLKSSMQKNWPT--L---ACPSG--DGQ
+KFWSHE---WEKHGTCSESV-------------L-DQHAYFELALSLKQKANLLQALKSS
+GITP--GSSYSLESIKDAITEAV-GYTPWIECNKDSSGNSQLYQIYLCVDPSG-----SD
+LIKCPVF---PKGP-C-SKE--IEFPSF--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0N0DAP6 Ribonuclease t2 family protein n=1 Tax=Fusarium langsethiae RepID=A0A0N0DAP6_9HYPO
+----------------------------MAFTK----ALVPLALFLAK-AQAD-------
+-----AFSS--------CP--NDLPLSCHNTTA--VED-TCCF-VPAGQLLQTQFW----
+--DSDPAG---------GPSDSWTIHGLWPDY----CDGTYP----QFCDKSREYT--D-
+-----------------IKSIVSK-FL---GNSTLSYMDKYWVS--E------DG--NDE
+SFWEHE---WDKHGTCISTLEPSCY-SD-YKTGE-EAADYIKRTISLFKTLPTYKWLAEA
+GIEPSTEKTYTASDIEDALASQH-GARVTIGC-K-GSS---LNEVWYHFNVQG-SLQEGE
+FVASEPD---GGKSSC-PDS-GIKYAPKN-------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0A1TRI8 Putative Ribonuclease Trv n=1 Tax=Torrubiella hemipterigena RepID=A0A0A1TRI8_9HYPO
+---------------------------MPSVTR----TLIPAAG-LIA-VAVA-------
+-----GSVS--------CP--ANSPLSCHNSTA--VQD-TCCF-IPTGQLVQTQFW----
+--DFSPAT---------GPSDSWTIHGLWPDN----CDGSYP----AQCDDDRAYT--N-
+-----------------ITDILSD--K---APDTLSYMQTYWKD--Y------KG--DDE
+TFWEHE---WGKHGTCISTLEPSCY-SN-YQTTQ-EAADFFTRTVGLFKTVPTYSWLAAA
+GITPSTSKTYSLSTIQDVLTKKH-GAAVTLKC-K-NKV---INEVWYHYNVRG-SLQTGQ
+FVAAAPD---GVKGNC-PST--VQYKPKN-------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A068RXU7 Ribonuclease t2 n=2 Tax=Lichtheimia RepID=A0A068RXU7_9FUNG
+-------------------------------MKSPITAAIAASCLIAAASAFPTN-----
+--LLKRQDS--------CP---ADALSCSAS----SGD-SCCTPENG-LLVHVQQW----
+----SPGY---------GPSDAFTLHGLWPDT----CNGGIPGSGDSGCDSSRNYD--D-
+-----------------VGSIIKE--K---DSSLYNSMNTYWPS--N------KG--DNS
+EFWTHE---WNKHGTCVTTLDPECYGDS-YQKND-DVVDYFHQALDLRSKYDLHAILSKA
+SITPG--GSYSVSDIEDAIKEST-GAAPKVTC-S-GGD---IEEIWLYFHVKG----KDG
+YVPTDSV---DK-STC-SGS--VNYPKKN-------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0C7BXE7 Putative Ribonuclease T2 family protein n=1 Tax=Rhizopus microsporus RepID=A0A0C7BXE7_9FUNG
+--------------------------------MFMTTKIAL--ALGSLIGLVAAQ-----
+-------SS--------CS---PDTVSCHWSG---SVD-SCCSPKYG-LVVLNLQW----
+----VPGY---------GPNDEFTIHGLWPDK----CDGTHAPS--NGCDSSRNLN--N-
+-----------------IASVIKS--A---NGTLYNRMNTFWPS--N------ER--PNN
+DFWSYE---WNKHGTCVSTLRPTCYGDK-YVKYQ-EIPEYFEVCLYMHTHVFVYSAFI--
+---------YRKHLISV------------------------MNTMSMVLSV---------
+------------------------------------------------------------
+-------------------------------------
+>lcl|UniRef90_M1WHK7 Related to ribonucleases n=1 Tax=Claviceps purpurea (strain 20.1) RepID=M1WHK7_CLAP2
+---------------------------MAALVR----CSAVLAV-LIR-VVVA-------
+-----DPKS--------CP--ADVPLSCHNETI--VEN-TCCF-IPSGQLLQTQFW----
+--DSHPAT---------GPSDSWTIHGLWPDN----CDGSYP----AQCDTSRAYT--D-
+-----------------IEDILSS-AG---ASETLDYMKTFWKD--Y------NG--DDE
+TFWQHE---WGKHGTCISSLDPKCY-SD-YESKE-EAVDFFQTTVALFKELPTYKWLADA
+GITPSANKYYSLSKIQSVLSKQH-GARVTLSC-R-GKA---FTEVWYHFNVRG-SLQKGA
+FVPSEPD---GMKGKC-PSQ-EIWI-----------------------------------
+-------------------------------------
+>lcl|UniRef90_Q7M438 Ribonuclease DdI n=1 Tax=Dictyostelium discoideum RepID=RNDI_DICDI
+----------------------MRLIAAL--LSVLLIASTAQSTVTIYESSKPGDFDFYL
+FVQQWIYSY--------CD-----------------SQ-TCIQN----------------
+-----------------KEREAFTIHGLWPEN----SDGSYP----SFCSGPS-FNVNA-
+------------------------------IQDLEDQLNFDWPS--L------TG--PNT
+DFWTHE---FSKHGTCSITGPIT------------DIHDYFATGIKLYTEFNITAALESE
+NIYPSDSNTYKPVDITNAITTHF-GGKPGIQC-S-SGQ---LSTVAVCIDKNS-----LS
+IMDCPDL----QGWSC-SGS--VKFPSTA-------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0C3Q0C1 Uncharacterized protein n=1 Tax=Tulasnella calospora MUT 4182 RepID=A0A0C3Q0C1_9HOMO
+---------------------MTRFTPFLV-CALLAKASLAIPSPFTN-LARQ-------
+-----AGDV--------CP--ADA-LSCQDVS---GVD-SCCVETPGGQLLQTQFW----
+--DFKPAK---------GPVDSWTVHGLWPNH----CDGKWD----QGCDPSRNYP--S-
+-----------------IRDVLTE-NG---KEDLLQWMDEFWVD--I------NG--KNE
+RFWSHE---WNKHGTCMSTIAPTCMPEG-SATGL-DAAFYFQMAADAFQSLPTYEFLASA
+GIRPHKTKTYSLDQLLSAIKKAH-GFLPALDC-K-NGA---LNSISYYFNLKG-TVMNGT
+LVPFDTP---KR-GSC-PRN-GIKYPPKTN------------------------------
+-------------------------------------
+>lcl|UniRef90_Q0CME2 Ribonuclease T2 n=1 Tax=Aspergillus terreus (strain NIH 2624 / FGSC A1156) RepID=Q0CME2_ASPTN
+-----------------------------M-PRLSILSSVTIAA-LVA-GGRA-------
+-----DLQS--------CP--SDVPFSCTNSTS--VSD-SCCFNSPGGALLLTQFW----
+--DYDPAT---------GPSDSWTLHGLWPDN----CDGSYQ----QFCDSSREYS--N-
+-----------------ITAILQE-QG---RDDLLSYMKTYWPD--Y------QG--DDE
+SFWEHE---WNKHGTCINTIKPSCY-TD-YSPQQ-EVGDYLAKAVELFKGLDTYKALSSA
+GITPDSSKTYKRSEIESALAKLHGGSTPYLGC-K-DGA---LSEVWYFFNVKG-NLIDGQ
+FKPSESR---KL-YFV-----FVMHLHKS-------------------------------
+-------------------------------------
+>lcl|UniRef90_I1I7H1 Uncharacterized protein n=1 Tax=Brachypodium distachyon RepID=I1I7H1_BRADI
+------------------------------------------------------------
+-MVQWPGSY--------CD----------------TKK-SCCYPKSG-------------
+-----------------KPAADFGIHGLWPNR----DDGTYP----QDCNPDNAFDPSK-
+------------------------------VSDLLGSMRKNWPT--L---ACPTN--DGV
+RFWGHE---WEKHGTCAENL-------------F-DEHGYFSTALRLRDQLRVLDALRSG
+GISPD-GGYYTLSAIKGAIQQGT-GFEPFVECNRDESGNSQLYQLYFCVDAGA-----TK
+FVECPVS---PGGRPC-GNR--IEFPAF--------------------------------
+-------------------------------------
+>lcl|UniRef90_G0RLE9 Predicted protein n=2 Tax=Hypocrea jecorina RepID=G0RLE9_HYPJQ
+----------------------------MHLCN----FIPVLAA-LAS-VAAA-------
+-----ASKT--------CP--SNTPLSCHNTTV--VED-TCCF-IPSGQLLQTQFW----
+--DTDPST---------GPSDSWTIHGLWPDN----CDGSFP----QTCDASRAYT--N-
+-----------------ITDILTA-MG---ADDTLQYMQTYWKD--Y------QG--NDE
+SFWEHE---WGKHGTCISTLDPGCY-DD-YVPTE-EAADFFSRTVSLFKTLPTYQWLADA
+GITPDGSKSYALDDIQSALSQQH-GAEVTLGC-D-GKN---LNEVWYHFNVKG-SLQDGQ
+FVAAEPD---GAKSSC-PDS--VYYDPKNGGRR---------------------------
+-------------------------------------
+>lcl|UniRef90_UPI00053C5935 PREDICTED: ribonuclease 3-like n=1 Tax=Tarenaya hassleriana RepID=UPI00053C5935
+------------------------MKPNFS-LFICFVCFLTLQQLHLPCF--AQDFDFFY
+FVQQWPGAY--------CD----------------SRQ-SCCYPKTG-------------
+-----------------KPAADFGIHGLWPNY----KSGGWP----QNCNPDSEFDESQ-
+------------------------------ISDLLSNMQTEWPT--L---SCPSN--DGV
+KFWTHE---WTKHGTCAESE-------------L-DQHDYFHAALKLKQKANLLHALSNA
+GIKPN-DEFYGLREIKKAIEEAI-GFTPGIECNKDSSHNSQLYQIYLCVDTSG-----AE
+FIECPVL---PHGR-C-DSR--IQFPKF--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0H1BRI0 Ribonuclease T2 family protein n=1 Tax=Emmonsia parva UAMH 139 RepID=A0A0H1BRI0_9EURO
+------------------------MPSILT-VRSSAIAFIFSQL-LLS-DVLA-------
+-----TPTA--------CP--ADSELSCHGSS----QD-TCCFNSPGGLLLLTQFW----
+--DTDPAT---------GPADSWTIHGLWPDN----CDGSYE----QYCDKSREYS--N-
+-----------------ITEIMEA-RG---QPQTLNDMKTFWKD--Y------KG--DDE
+SFWAHE---WNKHGTCISTMEVACY-SQ-YSDQE-EVADYFQTTVDLFKQVDTYQTLKDS
+GIVPDSSKEYDLSEIQAAISAKH-GQEVTLKC-E-SGQ---LKEVWYFWNVRG-SVQTGE
+WVSTRPA---GSGSSC-PKT-GIKYLPKL-------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0C3C8J2 Uncharacterized protein n=1 Tax=Oidiodendron maius Zn RepID=A0A0C3C8J2_9PEZI
+-----------------------------M-PSFTQTAGAALAVILPF-VLAG-------
+-----THDT--------CP-NTTSVLSCSGSS----TN-TCCISSPYGLIQQVQFW----
+--DTDPVT---------GPDDSWTIHGLWPND----CDGSYS----ENCDSSRAYK--D-
+-----------------ITTLLQN-AG---EDDTLSFMQDYWLS--N------DE--SDE
+AFWEHE---WATHGTCYSTLEPSCY-TD-YETGD-EAVDFFVATVNLFQTLPTYTWLANA
+GITPSSSKTYKLSALNSALESAF-GAPVVLLC-ENTNE---VYEIYYAFNLQG-DVATGT
+WVPASNE---DSSTNC-PST--IKYLPKS-------------------------------
+-------------------------------------
+>lcl|UniRef90_M5B0M3 Ribonuclease T2 n=1 Tax=Umbelopsis ovata RepID=M5B0M3_9FUNG
+------------------------------MIKSLLVSLAL--IASSVLAAPAAN-----
+-------ST--------CS---PTALSCSSSA---STN-TCCSPKYG-LVVLVQQW----
+----VPGY---------GPSNAFTLHGLWPDK----CDGTYAPS--GGCDSARQWT--N-
+-----------------IETIVQN-NG---PSTLHSDLVTYWPS--D------AQ--SNN
+AFWSHE---WDKHGTCVSTYAPSCYGSS-YTKYQ-DVVDYFTKVLELRAKYDLYTALSNA
+NITPG--GSYSVSAMQAAIRTAY-GVTPKIDC-S-SGT---LIDIYINFLVQG----TST
+YVPQDT----SG-STC-KGT--VNYPSK--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0C9XRC4 Unplaced genomic scaffold K443scaffold_12, whole genome shotgun sequence n=1 Tax=Laccaria amethystina LaAM-08-1 RepID=A0A0C9XRC4_9AGAR
+-----------------------------------MITTLTVTAFSVSP-----------
+-----------------------SFFACENITA--IKN-TCCSPTPGGLVLQTQIW----
+--STWTGL---EKKGQKLPKGSWTIHGLWPDN----CDGSFE----QYCDFSRQYDPTPS
+PKVL-------------PNGTVAPQFG--RQDPVLTCMENYWIN--Q------GA--SNV
+DFWDHEICMFSKHATCTSTFNVACY-----------------------DQYPTFDMLAAA
+GITPSNKTSTTLTKLQNAIKSQT-GAVPYFGCSTNGTV---LSEVWYFNGTEQ-FGITRH
+WTP----------SSC-SKDVPVWYYERTKASEREVRHWRSA------------------
+-------------------------------------
+>lcl|UniRef90_A0A074W5K6 Ribonuclease Trv, RNase Trv n=2 Tax=Aureobasidium RepID=A0A074W5K6_9PEZI
+-----------------------------M-PS----TLFALST-LLG-LAAA-------
+-----AIES--------CP--ANAPISCQTSGT--ISN-TCCTE-VQGQVLQTQFW----
+--DSNPAT---------GPAKSWTIHGLWPDN----CDGTYE----ATCDSSRAYT--D-
+-----------------IGCILLD-KG---HGDILSYMETYWKD--Y------QG--DDE
+SFWEHE---WSKHGTCYSTLNPDCY-SN-YEKED-ELVDFLNTTITLFKDLPTYEWLADA
+GITPSSSKTYTNAQISSALQKQF-GATPILSC-S-SGE---LNQVEYVFNVRG-SVAKGQ
+FIAVNPT---GTKGNC-PKS-GIKYLPKDLSTTPKANEGSCS------------------
+-------------------------------------
+>lcl|UniRef90_A0A0L0NSV4 Uncharacterized protein n=1 Tax=Candida auris RepID=A0A0L0NSV4_9ASCO
+------------------------------------------------------------
+--------------------------------------------------MQTQFW----
+--DYNENARSDKTRKRDTPSNVFTIHGLWDDL----CDGSYH----EFCRPELEFS--D-
+-------------SDS-LEDIIVNQFG---RKDLYDVMTKYWVN--TENSNVKNG--GSE
+SLWEHE---YNKHGTCFNTLRPDCFSGT-YKKHE-NAIAYFQKTVEVWEKLPTYLFLENA
+GITPSAEKPYSLSAIEAALEKAH-GSKVYVGC-R-DGN---LSEIWYYYHVKG-NVLTGE
+YKPIDSL---GK-THC-PSE--VWYLPK--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0A1MTR5 Putative Ribonuclease T2 family protein n=4 Tax=Rhizopus microsporus RepID=A0A0A1MTR5_9FUNG
+--------------------------------MFMTTKIAL--ALGSLIGLVAAQ-----
+-------SS--------CS---PDTVSCHWSG---SVD-SCCSPKYG-LVVLNLQW----
+----VPGY---------GPNDEFTIHGLWPDK----CDGTYAPS--NGCDSSRNLS--N-
+-----------------IASVIKS--A---NGTLYNRMNTFWPS--Y------KG--DNN
+VFWSHE---WNKHGTCVSTLRPTCYGDK-YVKYQ-EIPEYFEKALDLRDEYDVYGALSLS
+GVIPG--NTYNVNTFADAIQSRL-GAQPKLNC-THSGT---LSDVSLYFYVRG----RDN
+YEITDSP---TS-GSC-SGA--VYYPKK--------------------------------
+-------------------------------------
+>lcl|UniRef90_S2K1V0 Ribonuclease T2 family protein n=2 Tax=Mucor RepID=S2K1V0_MUCC1
+------------------------------------MKFIL--PLLALLGISSAQITADQ
+LDALNAPSY--------CN---ASTVSCHWSG---AVD-ACCSPKYG-LVVLALQW----
+----SPGW---------GPADEFTIHGLWPDT----CAGRMAPS--RGCDSSRNSN--Q-
+-----------------IATIVRN--M---NETVYNRMATFWPS--N------KG--DNN
+WFWSHE---WTKHGTCVSTLRPTCYGSS-YQKYQ-DVIEYFQQVLDLRDKFDLFGALNLN
+GVSPG--NRYNVETIRDAIKKAY-GANVKLDC-S-GGS---LSEVSLNFYVKG----RSD
+YMITDVL---QP-GNC-RGA--VLFPKK--------------------------------
+-------------------------------------
+>lcl|UniRef90_F5HPR1 Ribonuclease T2 n=3 Tax=Umbelopsis RepID=F5HPR1_UMBRA
+------------------------------MFKSTLLSVVA--ATAMMLAVPSVD-----
+-------AA--------CS---TTALSCSSSA---STN-TCCTPKYG-LVVLVQQW----
+----VPGY---------GPSDAFTLHGLWPDA----CDGTYAPS--NGCDSSREYT--N-
+-----------------VETIVQN-YG---TSTLYSDMQTYWPS--D------AE--SNN
+DFWSHE---WSKHGTCVSTLAPTCYGSS-YTQYE-DVTDYLTKVLALRAQYDLYTALANA
+KITPG--GSYTYTAMQNAIKAAF-GVTAKIDC-S-SGT---LSDIEINFNVKG----TST
+YVPVNT----TG-STC-SGT--VKYPTK--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0B4H2D9 Ribonuclease Trv n=9 Tax=Metarhizium RepID=A0A0B4H2D9_9HYPO
+---------------------------MASLRNLARLLVLASGA-AAS-PLAA-------
+-----GPQA--------CP--ADSPLSCHNQTA--VEN-TCCF-IPTGQLLQTQFW----
+--DTDPAT---------GPQDSWTIHGLWPDN----CDGTYP----AQCDGSRAYT--G-
+-----------------IEDILTG-NG---AADTLAYMRQFWKD--Y------KG--DDE
+TFWEHE---WAKHGTCISTLAPRCY-DG-YRAGQ-EAADFFRTTVDLFKTLPTYRWLEDA
+GITPSSSKTYSLDRVRGALSRRH-GADVTLGC-R-GKV---LNEVWYHFNVRG-SLQGGE
+FVASAPD---GTKGKC-PST--VQYRPKTGGA----------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0D0B629 Unplaced genomic scaffold CY34scaffold_1, whole genome shotgun sequence n=1 Tax=Suillus luteus UH-Slu-Lm8-n1 RepID=A0A0D0B629_9HOMO
+---------------------------------------MLVSSLVLS-SLGACYVNPMK
+FFQSLGGSG--------CG--TSGPASCQNADTPPAAS-SCCFESPGGLIMQTQVW----
+--DTDVAG---------SPEDSWTIHGLWPDN----CDGTYI----EDCDPSRDYK--N-
+-----------------IAELLES-QG---ASSTLEFMQQYWLN--N------HG--TNE
+KFWEHE---WATHGTCYSTLDVDCLPSD-SPTGA-EAVAFFETVVKVFKTLPTYDWLAQA
+GITPSYSQTYSLSSLLSALEAASGGYTPALTC-SRSHK---LSSISWYFNLKG-SVIDGE
+FVPINAP---TQ-SSC-PSS-GIQYVPKEG------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0F7VBY2 Uncharacterized protein n=1 Tax=Penicillium brasilianum RepID=A0A0F7VBY2_9EURO
+---------------------------MAF-SRSSML-ALAATT-LAI-GASA-------
+-----QLEV--------CT--NDSVFSCQSSS---TEA-TCCFNYPGGALLQTQFW----
+--DTSPST---------GPTDSWTIHGLWPDN----CDGTYQ----ASCDSARAYT--N-
+-----------------ISDILQA-QG---RDDLLSYMQQYWVD--I------DG--DDE
+SFWAHE---WGKHGTCINTIDPDCY-TS-YTAQE-EVGDFFQKVVDLFKGLDTYKALSDA
+GITPSSSKTYTQKQIQAALTSLHDGASVYLGC-S-SGK---LNQVWYFYNVAG-NAIDGQ
+YEAVDTL---TT-SSC-PTT-GIKYVPK--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0C7CL23 Putative Ribonuclease T2 family protein n=1 Tax=Rhizopus microsporus RepID=A0A0C7CL23_9FUNG
+--------------------------------MFMTTKIAL--ALGSLIGLVAAQ-----
+-------SS--------CS---PDTVSCHWSG---SVD-SCCSPKYG-LVVLNLQW----
+----VPGY---------GPNDEFTLHGLWPDK----CDGTYAPS--NGCDSSRNLN--N-
+-----------------ISSIIEL--A---NGTLYNRMNTFWPS--Y------IL--NNN
+DFWSHE---WNKHGTCVSTLRPTCYGDK-YVKYQ-EIPEYFEKALDLRDEYDVYGALSSK
+DIIPG--TNHSANAFVDAIQSRL-GAQPMLNC-DRSGT---LTDVALYFYVRG----RDN
+YELTDSP---TD-GSC-SGA--VYYPKK--------------------------------
+-------------------------------------
+>lcl|UniRef90_B6GVY8 Pc06g00430 protein n=1 Tax=Penicillium chrysogenum (strain ATCC 28089 / DSM 1075 / Wisconsin 54-1255) RepID=B6GVY8_PENCW
+-------------------------MFQSQ-SSKGML-ALAAMG-LIT-GSTA-------
+-----SLET--------CE--SSTPFSCSSSS---AEP-TCCFNSPGGALLLTQFW----
+--DTDPST---------GPKDSWTIHGLWPDN----CDGTYE----ASCDSKRAYS--N-
+-----------------ITAILQD-QN---LGDLVDYMDEYWVD--M------NG--DNE
+DFWSHE---WNKHGTCINTIEPSCY-SD-YKAQE-EVGDYFQKTVELFKTLDTYKALDAA
+GITPSTSKTYSLSEIQEALTDMH-GASVYLGC-S-SGE---LNEAWYFYNVKG-NVVDGT
+YKAVETL---TD-SGC-PKT-GIKYLPK--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0K6G002 Uncharacterized protein n=1 Tax=Rhizoctonia solani RepID=A0A0K6G002_9HOMO
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------MKTYWRD--I------NG--DDE
+SFWEHE---WAKHGTCMSTLKPACI-SS-SLRGQ-DAIYYFTRVVSLFKTLTTYEFLGAA
+GIYPSSTATYTLAQINAAVKAKW-GYTPAFDC-T-SGS---LNAVSYYYHLKG-SIIDGT
+LVPIDAP---KA-GTC-GST-GLKYPIKNGASTPTTTATAPSETSTSVPTKATIVGITSS
+GTQTGCLLTAGTCPAVYLHIVDQQHLQVTLYPVALRK
+>lcl|UniRef90_J4UV04 Ribonuclease Trv, RNase Trv n=2 Tax=Beauveria bassiana RepID=J4UV04_BEAB2
+------------------------------MMQ----KSMSVLA-LAA-GTMA-------
+-----AGSS--------CP--SNSPLSCHNTTA--VVD-TCCF-IPTGQLLQTQFW----
+--DTSPPT---------GPSDSWTIHGLWPDN----CDGSYP----AQCDADRAYT--N-
+-----------------LTAILQA-NG---ADDTLDYMNRYWKD--Y------KG--DDE
+SFWEHE---WGKHGTCISTLEPSCYGNA-YRDGE-EAADFFTRTVGLFKTLPTYRWLADA
+GIEPSDSKTYDAAQIQSVLAGQH-GAQVTLGC-K-NGV---LNEVWYHFNVRG-SLQDGE
+FVAAAPD---GAKSKC-KGK--VRYTPKSGGDDL--------------------------
+-------------------------------------
+>lcl|UniRef90_A0A074YIV4 Ribonuclease T2 n=1 Tax=Aureobasidium pullulans EXF-150 RepID=A0A074YIV4_AURPU
+-----------------------------M-SS----SLLAFST-LLG-LAAA-------
+-----VAKS--------CP--ASSPISCQTTGT--IQN-TCCTE-VQGQVLQVQFW----
+--DSSPAT---------GPANSWTIHGLWPDN----CDGTYE----ATCDSSRAYT--D-
+-----------------IGCILED-KG---HGDILTYMETYWKD--Y------QG--DDE
+SFWEHE---WSKHGTCYSTLNPSCY-TN-YSKED-ELVDFLNTTITLFKSLPTYQWLANA
+GITPSSSKTYTNAQITTALKNKF-GATPILSC-T-SGK---LNQIEYAYNVRG-SVANGK
+FIAVEPT---GTSGNC-PKT-GIQYVPKDLSTTPKANEGSCS------------------
+-------------------------------------
+>lcl|UniRef90_A0A0C3QJ34 Uncharacterized protein n=1 Tax=Tulasnella calospora MUT 4182 RepID=A0A0C3QJ34_9HOMO
+---------------------MIDFTHFLA-CALLAKASFAFPAPFAN-VARQ-------
+-----AGDT--------CP--ASV-VSCQNVS---GVN-SCCVETPGGELLQTQFW----
+--DFDPST---------GPADSWTVHGLWPDN----CDGTFE----QDCDPSRNYP--S-
+-----------------ITNVLSD-NG---KEDLLQWMDEFWVD--I------NG--KNE
+QFWSHE---WNKHGTCMSTIAPSCMPEG-SKTGL-DAASYFQLAADTFKSLPTYEFLASA
+GIEPDETKTHTLADLTSAIKEAH-GFLPALDC-K-KGA---LNSISYYFNLKG-TVMNGS
+LVAFDAP---KA-GSC-PKN-GIKYLPKTN------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0C3QJ37 Uncharacterized protein n=1 Tax=Tulasnella calospora MUT 4182 RepID=A0A0C3QJ37_9HOMO
+---------------------MIHLTPFLV-CALLAKASLAIPSPFTN-LARQ-------
+-----AGDV--------CP--ADA-LSCQNVS---GVN-SCCVETPLGLLLQTQFW----
+--NFEPAK---------GPVDSWTVHGLWPDK----CDATPK----VSCDPSREHP--N-
+-----------------IRDVLTE-NG---KEDLLRWMEEFWVG--I-------P--TDE
+YLWANE---WNRHGTCMSTIAPKCMPED-SATGL-DAAIYFQKTADAFKSVPTYEFLASV
+GIEPNTTKTYSLDELESAFKATH-GFIPALDC-R-NGA---LSHILYYFHLKG-NIMDGT
+LVPLDAL---KR-GSC-PKT-GIKYLPKTG------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0L0HJJ8 Uncharacterized protein n=1 Tax=Spizellomyces punctatus DAOM BR117 RepID=A0A0L0HJJ8_SPIPN
+--------------------------------MHSMQGAVALVLLVASSVNAA---ALPF
+NPLAPRAAV--------CD---ANARACSAQSP--SPD-SCCIPENG-IIVFAQQWLKGY
+CASSSCRI---------TPPNYWTIHGAWPDT----CSGQQT----GSC-SDVSYS--N-
+-----------------VAGLVQSY-----DSSVYNQMKQFWPS--Y------TG--DNN
+DFWTHE---WEKHGSCYSPADVSCF-PN-FKQGQ-DLTTYFRYGLNLRNKFNIGTALSNA
+GINPG--GSYSLTQLRSAITKTYPNMKMYFKC-K-GKT---LTEVYIGVYATA----TGG
+VAGASF----SGSDSC-PAT--VSY-----------------------------------
+-------------------------------------
+>lcl|UniRef90_A1CNG9 Ribonuclease T2, putative n=1 Tax=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1) RepID=A1CNG9_ASPCL
+-------------------------MSAYI-PSVGML-ALGAMH-LAS-GVLG-------
+-----DLQT--------CP--SDTPLSCSTSDS--TAA-SCCFSSPGGTLLLTQFW----
+--DTDPAT---------GPSDSWTLHGLWPDN----CDGTYE----QFCDTSREYS--N-
+-----------------ITDILQA-QG---RTALLSDMNTYWKD--Y------KG--NDE
+TFWEHE---WNKHGTCVNTIEPTCY-TD-YTPQQ-EVGDFFQKAMDLFKTLDTYKALADA
+GITPSSSTTYRRSDILSALSAIT-GHEPSISC-A-SGA---LNQAWYFFNIKG-NAIDGQ
+YTATDPL---SS-SNC-PSS-GIKYLPKPDN-----------------------------
+-------------------------------------
+>lcl|UniRef90_R8BHB7 Putative ribonuclease trv protein n=1 Tax=Togninia minima (strain UCR-PA7) RepID=R8BHB7_TOGMI
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------MAPHFD--N-
+-----------------ISAVLAH-HG---QDELLQFMDRYWVA--D------RG--SNA
+HLWAHE---YNKHATCINTLAPSCYGDG-YNTGV-EVVDYFVRAAALFTKLDTYTALADA
+GIVPSQRAHYPLMDVQKAIEQFS-GGKVVLRC-S-GGRRDILHEAWYMFFVKG-SLQTGE
+FVPAQDLGPKGDAGNC--VP-WVRYLPKRSKGRRS-------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0G2HZ27 Ribonuclease T2 family protein n=1 Tax=Emmonsia crescens UAMH 3008 RepID=A0A0G2HZ27_9EURO
+------------------------MPSILS-SRSSTITLLFSQ--LLS-GGLA-------
+-----TLNT--------CP--ANSQLSCHGSS----QD-TCCFNSPGGLLLLTQFW----
+--DTNPVT---------GPTDSWTIHGLWPDN----CDGTYD----QYCDRSREYS--N-
+-----------------ITSIMNA-RG---RAQVLNDMTIFWKD--Y------KG--NDE
+SFWAHE---WNKHGTCISTMEVACY-SE-YYPQE-EVADYFQKTVDLFKQVNTYQTLEAA
+GIVPDSSKQYELSQIQAAISAKH-GQQVTLNC-K-NGQ---LNEVWYFWNVKG-STQTGE
+WISTSPA---GSGSSC-PKT-GIKYMPKL-------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A068SET3 Ribonuclease t2 n=2 Tax=Lichtheimia RepID=A0A068SET3_9FUNG
+------------------------------------MKHLLFALLLLLWNVVTGEELLQQ
+VLLRDA-PS--------CD---RDVLSCHWQG---SVD-SCCSPKYG-LVVLALQW----
+----VPGY---------GPADEFTIHGLWPDT----CSGGRAPS--RGCDRTRSSN--N-
+-----------------VGNIIRS--T---NPGLHQKLRTYWPS--Y------KG--DDN
+WFWSHE---WTKHGTCVSTLRPACYGDA-YRKYQ-DLEEYFEQVLDLQQQYDIYGVLNVA
+GVFPG--QSYNVHTIRNALEKFY-GAKIMLNC-DRNGQ---LHEVMLYFYVRG----RDD
+YEITDAL---GY-GSC-RGR--VWYPKK--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0F8UN14 Ribonuclease T2 n=2 Tax=Aspergillus RepID=A0A0F8UN14_9EURO
+-----------------------MAFTKSM-PSAGML-ALLTMR-LAP-SVLA-------
+-----GIES--------CS--SNSPLSCSSSS---TAA-SCCYNSPGGSLLQTQFW----
+--DYNPST---------GPSDSWTIHGLWPDN----CDGTYQ----EYCDSSREYD--D-
+-----------------ITTILQN-QG---RTELLSYMETYWKD--Y------EG--NDE
+SFWEHE---WNKHGTCINTLNPDCY-TD-YTAQE-EVGDFFQKVVDLFKTRNTYQALSDA
+GITPSDYNTYNLADIQNALAAIHDGYAPYVGC-K-DGN---LNQVWYFFNVKG-NAIDGT
+YVSAEPL---SS-SSC-PSS-GISYNPKSSY-----------------------------
+-------------------------------------
+>lcl|UniRef90_B6QBL8 Ribonuclease T2, putative n=2 Tax=Penicillium marneffei RepID=B6QBL8_PENMQ
+--------------------------------MSRTLGVLALGAAVKV-ALAG-------
+-----TLDT--------CS--TSSPLSCSSSS----SG-TCCYEAPGGLLLQTQFW----
+--DYNPSI---------GPSDSWGIHGLWPDN----CDGTYK----SNCDSSRAYN--D-
+-----------------ITTLLQN-AG---KTDLLNYMDTYWQS--N------DE--STE
+AFWEHE---WATHGTCINTIKPSCY-TN-YSTGD-EAVDFFQQVVDLFQTLDTYTALANA
+GIYPDDSATYYLSDIQAAAAAIHGGKTPYFGC-S-SGA---LSSAYYYFHISG-NAINGT
+YVPVSSP---NR-SNC-PSS-GIRYPTKV-------------------------------
+-------------------------------------
+>lcl|UniRef90_P81296 Ribonuclease Le2 n=2 Tax=Lentinula edodes RepID=RNL2_LENED
+------------------------------------------------------------
+-----ISSG--------CG--TTGALSCSSN----AKG-TCCFEAPGGLILQTQFW----
+--DTSPET---------GPTDSWTIHGLWPDN----CDGSFS----EDCDPSRDYT--G-
+-----------------ISSLLTA-QG---ASDTLQFMNQFWLNDPD------DG--SNE
+ELWEHE---WATHGTCYSTLQTSCLPEG-SPKGA-EAVAFFEQVVTLFKTLPTYEWLTNQ
+GIKPSSSTTHTYSALTAALEAEA-GVIPALNC-D-GSD---LDEIYWYFHLRG-SVIDGE
+FEPISAP---EK-GDC-PSS-GIKWLPKNNEK----------------------------
+-------------------------------------
+>lcl|UniRef90_Q0KKW4 S-like RNase n=3 Tax=Fagopyrum RepID=Q0KKW4_FAGES
+----------------------------MA-KSILCIFSVQFLFLLSSAA--AQEFDFFY
+FVLQWPGAY--------CD----------------ARK-ACCFPTTG-------------
+-----------------KPDADFGIHGLWPNY----NDGTYP----SNCDSSNPFESSK-
+------------------------------ISDLVTRMQSEWPT--L---ACPSG--DGT
+AFWTHE---WEKHGTCSESV-------------L-DQHAYFKSSLDLKDQINALEALTKA
+GIEPN-DETYTLENIKDALKEGT-GFTPFVECNRDQSGNSQLYQLYFCVDSSS-----VS
+LIDCPIY---PRGK-C-GPQ--IQFPTF--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0A2LE02 Uncharacterized protein n=1 Tax=Penicillium italicum RepID=A0A0A2LE02_PENIT
+-------------------------MFQSQ-SSKGML-ALAAMS-LIT-GTTA-------
+-----NLET--------CA--SSTPFSCESSS---TEP-TCCFNYPGGTLLQTQFW----
+--DTSPST---------GPAHSWTIHGLWPDN----CDGTYQ----ASCDSARAYT--N-
+-----------------ITAILQD-QD---LGHLVDYMNKYWVD--I------DG--DNE
+SFWAHE---WGKHGTCINTIDPSCY-SD-YKAQE-EVGEFFQKTVSLFRSLDTHKALADA
+GITPSTSKTYTLKAIQKALTAKH-GAPVYVGC-S-DGN---LNQAWYYFNVKG-NAIDGT
+YKAVDTL---AT-PTC-PKT-GIKYVPK--------------------------------
+-------------------------------------
+>lcl|UniRef90_J3MTA2 Uncharacterized protein n=1 Tax=Oryza brachyantha RepID=J3MTA2_ORYBR
+-----------------MATAAARATTRLG-LALALAVAVVVLGVAGSCS--AQDYDFFF
+LVLQWPGSY--------CD----------------TRQ-SCCYPRSG-------------
+-----------------KPPADFGIHGLWPNR----DDGSYP----QNCDPDSEFDPSK-
+------------------------------VSDLMGSLRSEWPT--L---ACPSN--DGV
+RFWSHE---WEKHGTCAESA-------------LGDERGYFQAALRLRSQLPVLAALRDG
+GVSPD-GGYYTLAQIKGAIQRGT-GLQPFVECNRDESGNTQLYQLYFCVDAAG-----DR
+FIDCPVS---PGGRPCSGSR--IEFPAF--------------------------------
+-------------------------------------
+>lcl|UniRef90_B8M3F0 Ribonuclease T2, putative n=1 Tax=Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006) RepID=B8M3F0_TALSN
+--------------------------------MSRTLGVLALSAAVKV-ALAG-------
+-----TLQT--------CS--SSSPLSCSSSS---TKG-TCCYEAPGGLLLQTQFW----
+--DYSPSI---------GPSDSWGIHGLWPDN----CDGSYD----ENCDSSREYN--D-
+-----------------ITSLIQN-AG---KTDLLDYMNTYWQS--N------DE--SSE
+SFWEHE---WATHGTCVNTIDPSCY-SD-YSTGD-EAVDFFQQVVDLFKTLDTFSALSNA
+GITPDDSQTYYLSDIEDAASAIHGGKVPYFGC-S-KGA---LSSVYYYFYLSG-NAINGT
+YSPVDSP---NS-SNC-PSS-GIKYPPKSS------------------------------
+-------------------------------------
+>lcl|UniRef90_C5YL90 Putative uncharacterized protein Sb07g021330 n=2 Tax=Andropogoneae RepID=C5YL90_SORBI
+------------------------MAARLS-LLLAVL-----AVAAGRAA--AQDYDFFY
+LVLQWPGSY--------CD----------------TKQ-SCCYPKSG-------------
+-----------------KPAADFGIHGLWPNR----DDGTYP----QNCSPDNAFNPSK-
+------------------------------VSDLLSSLRAKWPT--L---ACPSN--DGL
+RFWGHE---WEKHGTCAANV-------------F-DEHGYFQAAMRLRDQLGVLAALSSA
+GVNPD-GGYYSLSQIKGAISQGT-GFEPYVECNRDEAGNSQLYQLYFCVDAAG-----DS
+FVECPVL---PRGRPC-GNR--IEFPAF--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0C3Q8G5 Uncharacterized protein n=1 Tax=Tulasnella calospora MUT 4182 RepID=A0A0C3Q8G5_9HOMO
+---------------------MIRFTPFLV-CALLAKASLAIPSPFTN-LARQ-------
+-----AGDV--------CP--LDA-VSCQNVS---GIN-SCCVETPGGLLLQTQFW----
+--NFKPAK---------GPVDSWTVHGLWPDK----CDGSFD----VSCDPSREYP--N-
+-----------------IRDVLTG-NG---KEDLLRWMEEFWVD--T------RG--DNE
+RFWSSE---WNRHGTCMSTIAPNCMPEG-SATGL-DAAFYFQFIAEAFKSLPTYEFLSSA
+GIKPDRTKTYSLDELTSAIKAAH-GFLPALDC-K-NGA---LNSIFYYFNLRG-TVMNGT
+LVPFDAP---KR-GSC-PKN-GIKYLPKTN------------------------------
+-------------------------------------
+>lcl|UniRef90_V7CL33 Uncharacterized protein n=1 Tax=Phaseolus vulgaris RepID=V7CL33_PHAVU
+--------------------------MESK-NSILVKLLLLLHYLSLFCA--SQDFDFFY
+FVQQWPGSF--------CD----------------TEK-SCCYPTSG-------------
+-----------------KPNADFGIHGLWPNS----NDGSFP----SNCDPNNPFNPSQ-
+------------------------------ISDLTSSLESNWPT--L---ACPSG--DGM
+TFWSHE---WTKHGTCSESV-------------L-KQHDYFEAALSLRQKANLLQALTTA
+GIQPN-GGSYSLSSIKGAIKDAI-GFTPFIECNVDSSGNSQLYQVYLCVNTSG-----SD
+FIDCSVF---PRGK-C-GSN--IEFPSF--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0J8C4W3 Uncharacterized protein n=1 Tax=Beta vulgaris subsp. vulgaris RepID=A0A0J8C4W3_BETVU
+-------------------------------MKFIYYVLAAQFLFVTSVF--SQKFDFFY
+FVQQWPGSY--------CD----------------TKK-SCCFPTTG-------------
+-----------------KPDADFGIHGLWPNY----NDGSYP----SNCDPNTPFDQSE-
+------------------------------VSGLLRRMRTEWPT--L---ACPSN--DGL
+NFWSHE---WEKHGTCSA---------------L-DQHSYFQISLDLKNQANLLQALTSA
+GIRPN-GQTYSLESIKDAIKQGV-GYTPFVECNTDTSSNSQLYQIYLCVDNSA-----SN
+LIECPVF---PHGR-C-GSQ--IEFPAF--------------------------------
+-------------------------------------
+>lcl|UniRef90_Q9FEG7 Os08g0434100 protein n=10 Tax=Oryza RepID=Q9FEG7_ORYSJ
+------------------MAAAARATARVG-LALLLAVVGV--------G--AQDYDFFF
+LVLQWPGSY--------CD----------------TKQ-SCCYPRSG-------------
+-----------------KPAADFGIHGLWPNR----DDGSYP----QNCDPDSEFDPSK-
+------------------------------VSDLLGSMRSEWPT--L---ACPSN--DGI
+RFWAHE---WEKHGTCAAAA-------------LGDEHGYFEAALRLRSRLPVLAALRDG
+GVSPD-GGYYTLSQIKGAIQRGV-GAEPFVECNRDESGNSQLYQLYFCVDAAG-----ER
+FVDCPAS---PGGRPC-GNR--IEFPAF--------------------------------
+-------------------------------------
+>lcl|UniRef90_B9HY02 Uncharacterized protein n=2 Tax=Populus RepID=B9HY02_POPTR
+--------------------------MKAN-SSTLIK-LLVLLCLSVLSV--SQDFDFFY
+FVQQWPGSY--------CD----------------TMT-SCCYPTTG-------------
+-----------------KPAADFGIHGLWPNY----NDGTYP----KNCDASSPYDPKK-
+------------------------------VADLRSGMQKNWPT--L---ACPSG--TGV
+AFWTHE---WEKHGTCSESI-------------L-DQHGYFQAALDLKKQVNLLQALTNA
+GINPD-GGSYSLSSIKSAIQEAV-GFTPWIECNTDTSRNSQLYQIYLCVDTSG-----KN
+VIDCPVF---PRGK-C-DSE--IEFPSF--------------------------------
+-------------------------------------
+>lcl|UniRef90_F8QET5 Putative uncharacterized protein n=2 Tax=Serpula lacrymans var. lacrymans RepID=F8QET5_SERL3
+-----------------------------------MLSTLVLSTLLGS-ALANS-VDLNQ
+LFTSDISSN--------CS--TSGAASCYNTT---AVD-TCCTEYPGGLLLQTQFW----
+--DTDPST---------GPSDSWTIHGLWPDN----CDGTYV----ENCDSSRDYT--D-
+-----------------ISSLLTD-QG---ASSTLSYMQTHWVN--I------NG--DNE
+ELWEHE---WATHGTCMSTLEVACLPSG-SPKGA-EAVAFYETVVTLFKTLPTYTWLEQQ
+GITPSNDATYSLDDLTSALQTAS-GYIPALGC-S-GDT---LDEISWYFNLKG-SIIDGT
+FVPIDSP---ES-STC-PKS-GISYPPKS-------------------------------
+-------------------------------------
+>lcl|UniRef90_P19791 Ribonuclease M n=5 Tax=Aspergillus RepID=RNM_ASPPH
+------------------------------------------------------------
+-----TIDT--------CS--SDSPLSCQTDN----EA-SCCFNSPGGSLLQTQFW----
+--DYDPSD---------GPSDSWTIHGLWPDN----CDGSYQ----EYCDDSREYS--N-
+-----------------ITSILEA-QD---RTELLSYMKEYWPD--Y------EGADEDE
+SFWEHE---WNKHGTCINTIDPSCY-TD-YYAQE-EVGDFFQQVVDLFKTLDSYTALSDA
+GITPSEDATYKLSDIEDALAAIHDGYPPYVGC-E-DGA---LSQLYYYFNVKG-SAIGGT
+YVASERL---ED-SNC-KGS-GIKYPPKSSS-----------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0M8N659 Ribonuclease Trv n=1 Tax=Escovopsis weberi RepID=A0A0M8N659_9HYPO
+---------------------------MTSLRA----AAGLLAL-LVP-TAVA-------
+-----GPKV--------CP--ANVPLSCHNTGP--VTD-TCCF-IPTGQLLQTQFW----
+--DVNPPT---------GPADSWTIHGLWPDN----CDGSFP----AACDASRAYT--N-
+-----------------ITDILSA-GG---ADDTLSYMQTYWKD--Y------GG--NDE
+RFWEHE---WAKHGTCISTFSPKCY-DG-YQSTE-EAVDFFSRTVELFKTLPTYEWLADA
+GITPDKSKSYATADVQAALSRRH-GAPVTLGC-K-GKR---LNEVWYHFNVRG-SLQSGQ
+FVATQPD---GPKSTC-GKT--VYYNPKAV------------------------------
+-------------------------------------
+>lcl|UniRef90_W3VVI2 Uncharacterized protein n=3 Tax=Pseudozyma RepID=W3VVI2_9BASI
+---------------------------MHV-QTL-ALLAAAALARAAS-MQAP-------
+-----FSLA--------SA--LDTCLSCATLPTC-PTD-PCTTNTPGGLLLLTQFW----
+--DFHPAI---------GPSDSWTIHGLWADK----CLGGYD----ADCDSSRNNN--N-
+-----------------IAAALRS-SSDPRAAKALDTMNQYWLA--L------NG--NDA
+QLWSHE---WNKHGTCVSTLNPECYPKSAFSEHQ-DIVDFFSTTTDLFDKYNVFKALEEA
+GIKPDVNARYSLQQLKDAVRQKW-GKEASFRC-R-SGA---LNEAWIYFHTAGRSTSADT
+FVQVDPL---TGDNRC-PTQ-NIRYLPK--------------------------------
+-------------------------------------
+>lcl|UniRef90_W6R823 Ribonuclease T2 n=4 Tax=Penicillium RepID=W6R823_PENRO
+-------------------------MFQSQ-SAKGMF-ALAAMS-LIS-GTTA-------
+-----SLET--------CA--SSTAFSCASSS---TSP-TCCFNYPGGALLQTQFW----
+--DTSPST---------GPSNSWTIHGLWPDN----CDGTYQ----ASCDSKRAYT--N-
+-----------------ITAILQD-QD---LGDLVDYMDDYWVD--I------NG--ANE
+DFWSHE---WSKHGTCINTIEPSCY-SG-YKAQE-EVGDFFQRTVDLFKTLDTYKALSAA
+GITPSTSKTYTLSAIQKALTTLH-GASVYLGC-S-SGK---LNEVWYFYNVKG-NAIDGT
+YKAVDTL---TT-SSC-PTT-GIKYVPK--------------------------------
+-------------------------------------
+>lcl|UniRef90_P24657 Ribonuclease Trv n=3 Tax=Trichoderma RepID=RNTR_HYPRU
+------------------------------------------------------------
+-----ASKT--------CP--SNTPLSCHNTTV--VQD-TCCF-IPSGQLLQTQFW----
+--DTDPST---------GPSDSWTIHGLWPDN----CDGSFP----QTCDASRAYT--N-
+-----------------ITDILTA-MG---ADDTLQYMQTYWKD--Y------QG--NDE
+SFWEHE---WGKHGTCITTLDPGCY-DD-YVPTE-EAADFFSKTVSLFKTLPTYQWLADA
+GITPDGSKSYALDDIQSALSQQH-GAEVTLGC-D-GKT---LNEVWYHFNVKG-SLQDGQ
+FVAAEPD---GAKSTC-PDD--VYYDPKK-------------------------------
+-------------------------------------
+>lcl|UniRef90_G0RB57 Predicted protein n=1 Tax=Hypocrea jecorina (strain QM6a) RepID=G0RB57_HYPJQ
+------------------------------------------------------------
+-----------------------MPLSCHNTTA--VSD-TCHFVYPGGQLLLTQFW----
+--DTNPST---------GPNNSWTVHGLWPDN----CDGSYE----QNCDTSRAYT--N-
+-----------------ITAILQE-S----DPSTLDFMKIYWKD--Y------QG--NDE
+SFWEHE---FGKHGTCISTLEPRCY-PN-YEPTE-EAVDFFRRATTLFQTLPSYDWLAAA
+GILPSITMTYTLAEIQDALTAHH-GQNVVINCAK-NGE---LNELWYHYNVRG-SVQSGT
+FVPVEPV---GAPSTC-PKT-GIKYLPKFQPGRGKQ------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0D0E7M1 Unplaced genomic scaffold scaffold_305, whole genome shotgun sequence n=1 Tax=Paxillus rubicundulus Ve08.2h10 RepID=A0A0D0E7M1_9HOMO
+-----------------------------------MHPTFVLLSLLGP-SIASSYVDLSH
+L-SKTLSSG--------CS--TSGPASCYDTS---VVN-TCCTEYPGGLLLQTQFW----
+--NTDVAG---------SPADSWTIHGLWPDN----CDGTYN----EDCDPSRDYS--N-
+-----------------ITEVLTS-QG---ATSTLDYMRQYWLS--D------DG--TDE
+ELWKHE---WATHGTCYSTLETSCLPAG-SPEGF-EAVAFFEAVVNLFQTLPTYTWLADA
+GITPSTTQAHTLSSLLSALEAGSGGYTPALGC-S-SHT---LSTISWYFNLKG-SVIDGE
+FVPITSP---ES-STC-PSS-GIRYPPKIV------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0F7ZHI2 Uncharacterized protein n=1 Tax=Hirsutella minnesotensis 3608 RepID=A0A0F7ZHI2_9HYPO
+--------------------------------------MHPLAP-IAP-LVAH-------
+-----AAKS--------CP--SDMPLSCHNSTA--VAD-TCCF-IPAGQILQTQFW----
+--DTHPPT---------GPSDSWTIHGLWPDN----CDGTYP----QQCDRSRVYR--N-
+-----------------LTDVLEA-AG---ASATLQYMERYWKD--F------RG--DDD
+NLWEHE---WAKHGTCVSTLDPRCYGDD-YRPAD-EA-----------------------
+--------------------RRH-GAPVTLRC-R-GGA---INEVWYHFNVRG-SLQAGQ
+FVAAEPD---GPKSSC-GSR--VHYMPKRRGSWDRMELK---------------------
+-------------------------------------
+>lcl|UniRef90_A0A0B1PF16 Putative ribonuclease t2 n=1 Tax=Uncinula necator RepID=A0A0B1PF16_UNCNE
+------------------------------------------------------------
+--------------------------------------------------MSTQFW----
+--DTHPAV---------GPANSWTIHGLWPDN----CDGSYP----TYCSAAPQYH--N-
+-----------------LSEIISK--A---SPSLFEYMKIYWLP--N------RG--SPD
+SFWMHE---WNKHGTCVNTLAPSCYSEDQYIPGI-EVVEYFQKAVDLFQQLDTYKALSSA
+GILPRHDKTYSLKEIQETLTKVT-GQKAIISC-Q-GTQ---LNQVWYSFNVKG-SLQAGR
+FVPTYGIH--ESSGNC-PAE-GIIYSPKDM------------------------------
+-------------------------------------
+>lcl|UniRef90_U4LF13 Similar to Ribonuclease T2 acc. no. P10281 n=1 Tax=Pyronema omphalodes (strain CBS 100304) RepID=U4LF13_PYROM
+---------------------------------MQFLTLLTLASALVAPAFAQ------F
+REFPKRDIS--------CP----NVLSCHAPS---TTD-RCCVESPGGLVLLTQFW----
+--DYSPPA---------GPVDSWTIHGLWPDN----CDGTYA----SSCDAARAYP--S-
+-----------------ITNILES-RG---ETALLNEMSLLWKG--I------NG---DE
+NLWQHE---WAKHGTCLSTLEPTCYGAA-YQSGM-EVVDFSRQVVDLHKKLDSFKFLEAC
+GITPSTTKTYTKQAIVDCLTTAH-GAVPYIGC-S-GSN---INEIWYFHWVRG-RVYGGV
+YEPTDST---AASTKC-PAT-GIIYTPK--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A066WRK3 Ribonuclease T2 n=1 Tax=Tilletiaria anomala UBC 951 RepID=A0A066WRK3_9BASI
+----------------------------------MFFRGLSALVALASTAYAA-------
+-----------------CT----SCTSCANS-----TS-TCQVNRPGGLILLTTFW----
+--DYNPST---------GPGDSFTIHGQWPDY----CNGGYG----SSCDSSRAYM--G-
+-----------------ISSKLKN-AG---KTGLLNFMNKYWVD--I------NG--DNE
+SFWEHE---VAKHMTCISTLDPSCY-PN-YTQYE-DLFDFLQTTTDLFKSYDIYGALTDA
+GITPSSSKTYTLSQMQAATKAAF-GQTTSFRC-T-SGN---LNEVYIYFHTNGRSTTTDA
+FTQVAPL---AGDTNC-PST-GIKWLPKN-------------------------------
+-------------------------------------
+>lcl|UniRef90_R1E8F6 Putative ribonuclease t2 protein n=1 Tax=Botryosphaeria parva (strain UCR-NP2) RepID=R1E8F6_BOTPV
+---------------------------------MQLLSTTTAALLLSSTATAA------L
+YNTSSLNHT--------CQ-LHDPILSCTADAVPGLTD-TCCTETFGGLVLATQFW----
+--DTYTGY---EEAGQLLPKESWTIHGLWPDF----CNGSYT----QYCDLSRQYDPEPS
+PNTTNGL----------ANGTFVPPYNGSDISSFLVPFGRYWIA--Q------NQ--PNW
+YLWAHE---FSKHATCFSTFDLPCYGPR-YQPHE-DVVDFLETAILFDRRLPTFTWLADA
+GITPSNSTTYTLADIQAALTDAA-GG-----C------------VWQWDELRE-------
+------------DSRCGALL----------------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0D2Y7V6 Ribonuclease T2 family protein n=17 Tax=Fusarium RepID=A0A0D2Y7V6_FUSO4
+----------------------------MTFIK----ALIPLALYLAG-VQAK-------
+-----SCSAGGKPTAEFCS--KDLPLSCHNTTA--VED-TCCF-IPAGQLLQTQFW----
+--DSDPVA---------GPHDSWTIHGLWPDY----CDGTYP----QFCDKSREYT--N-
+-----------------IKDLVTK-FL---GKKTVSYMDKYWVS--Q------DG--NDE
+SLWEHE---FNKHGTCISTLEPSCY-TN-YETGA-EAADYVKKTISLFKTLPTYKWLAEA
+GIKPSKTKTYTADEIVDALVEHH-GARVTIGC-S-NGS---LSEVWYHFNVKG-SLQDGQ
+FVSSEPD---GSKSSC-PDS-GIKYAPKK-------------------------------
+-------------------------------------
+>lcl|UniRef90_B9HI71 S2-RNase family protein n=2 Tax=Populus RepID=B9HI71_POPTR
+--------------------------MKANRTATLIK-LLVLLCLSVLCV--SKDFDFFY
+FVQQWPGSY--------CD----------------TKQ-SCCYPTTG-------------
+-----------------KPAADFGIHGLWPNY----QDGNYP----QNCDSKNPFNPDK-
+------------------------------VADLRSSMQKNWPT--L---ACPSG--NGV
+SFWTHE---WEKHGTCSESV-------------L-DQHGYFQAALSLQKQANLLQALASA
+GINPD-GGSYSMSNIKRAIQEAV-GFTPWIECNTDASGNSQLYQIYLCVDTTG-----KN
+LIECPVF---PKGK-C-GSD--IEFPSF--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0L0NDF0 Ribonuclease Trv n=1 Tax=Tolypocladium ophioglossoides CBS 100239 RepID=A0A0L0NDF0_9HYPO
+---------------------------MASVLR----SLMPLVA-LAG-MALA-------
+-----GPKS--------CP--SNIPLSCHNTTE--VAD-TCCF-IPAGQLLQTQFW----
+--DTNPVT---------GPTDSWTIHGLWPDN----CDGTYP----AQCDTSRAYT--N-
+-----------------ISDILSSTTG---GSDTLAYMKTYWKD--Y------KG--DDE
+SFWQHE---WGKHGTCISTLDPSCY-SG-YKPTE-EATAFFARTVALFKTLPTYQWLADA
+GITPSSSRTYALADVQAALQNQH-GAKVTLSC-R-GKA---LNEVWYHFNVQG-SLQQGK
+FVAAQPD---GAKGKC-PSK--VQYRPKSGDGGS--------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0C3LIP6 Uncharacterized protein n=1 Tax=Tulasnella calospora MUT 4182 RepID=A0A0C3LIP6_9HOMO
+------------------MISQALLILALS-ALSSATPFLAEFSRFSG-SELV-------
+-----GRTS--------CG--TSGPQTCHNTTA--QSN-LCCFEAPGGQIVQVQFW----
+--DTNPST---------GPTNSWTIHGLWPDHCETLCDGTYD----SNCDASRNYA--S-
+-----------------ITQVLQN-NG---KTSLLTYMNQYWVD--I------NG--DNE
+SFWEHE---WSKHGTCMSTIKPTCLPAG-STTGA-DAAYYFQRAVDTFQNLPTYQYLSAV
+GITPSTSNTYTYTTLANAIKAST----------Q-------------------------R
+F-----------------------------------------------------------
+-------------------------------------
+>lcl|UniRef90_S7Z911 Uncharacterized protein n=1 Tax=Penicillium oxalicum (strain 114-2 / CGMCC 5302) RepID=S7Z911_PENO1
+---------------------------MTI-SRSSLL-GLAATS-LAT-GVSA-------
+-----QLET--------CS--NNNVFSCQSSS---QTP-TCCFNYPGGALLQTQFW----
+--DTNPST---------GPSNSWTIHGLWPDN----CDGTYE----ASCDSSRAYT--N-
+-----------------ISDILLS-QG---RDDLLSYMQDYWVD--I------NG--DDE
+SFWAHE---WGKHGTCINTINPECY-SN-YSPQE-EVGQFFQKVVDLFQGLDTYQALADA
+GIRPSTSKTYRLSDIQAALSNLHDGASVYLGC-S-SGK---LNQVWYFFNVAG-NAITGQ
+YEAVDTL---TK-SSC-PST-GIKYLPK--------------------------------
+-------------------------------------
+>lcl|UniRef90_D3B803 Ribonuclease T2 n=1 Tax=Polysphondylium pallidum RepID=D3B803_POLPA
+----------------------MKIFAALSLLFVLLAVSATSRSITIYEGGNPGQFDFYL
+FVQQWIYSY--------CG-----------------QQ-TCIAS----------------
+-----------------KEREAFTIHGLWPEN----SDGSYP----SFCKGPS-FSSSA-
+------------------------------IQDLMNQLNYDWPS--L------TG--PNT
+DFWTHE---WSKHGTCSLTGPIT------------NIHDYFAAGLKVYNAYNISSSLADH
+GIVPSNTQSYSITSITNALINSL-GNTPLLQC-Q-NGQ---LSTVALCITKD------LE
+LMDCPAL----DGWSC-SGS--TIIPSTD-------------------------------
+-------------------------------------
+>lcl|UniRef90_Q9ZQX1 Ribonuclease T2 n=1 Tax=Cicer arietinum RepID=Q9ZQX1_CICAR
+--------------------------MEFQ-GSILIKAILVLQCFSILCASQSQDFDFFY
+FVQQWPGSY--------CD----------------SKK-ACCYPTTG-------------
+-----------------KPDADFGIHGLWPNY----KDGTYP----SNCDPSKPFDESQ-
+------------------------------ISGLTSSLQKNWPT--L---ACPSG--DGI
+TFWTHE---WEKHGTCSESV-------------L-NQHDYFETTLNLKQKANLLKALTSA
+GINAD-GGSYSLSNIKTAIQDGV-GFAPFIECNRDSSGNSQLYQVYLCVDNSG-----SD
+FIDCPVF---PHGK-C-GPE--IEFPTF--------------------------------
+-------------------------------------
+>lcl|UniRef90_B9S8X3 Ribonuclease t2, putative n=1 Tax=Ricinus communis RepID=B9S8X3_RICCO
+--------------------------MRTH-NSFLFM-LLVVLYLSVLCA--SQDFDFFY
+FVQQWPGSY--------CD----------------TKQ-SCCYPTTG-------------
+-----------------KPAADFGIHGLWPNY----DDGSYP----SNCDSNNPFNQKK-
+------------------------------ISDLTSSMQKNWPT--L---ACPSG--NGV
+TFWTHE---WEKHGTCSESI-------------L-DQHGYFKAALDLKKQVNLLQVLQSA
+DIVPN-GGTYSLSSIKSAIQESI-GYTPWIECNSDASGNSQLYQIYLCVDTSG-----SN
+LIECPVF---PHGK-C-GSQ--IEFPSF--------------------------------
+-------------------------------------
+>lcl|UniRef90_M8A5R0 Uncharacterized protein n=1 Tax=Triticum urartu RepID=M8A5R0_TRIUA
+MATPCNVAHPSQTEQLERERSLELTTVPCS-LALLIGLSVGCAAAQESGK--QAGYDFFY
+LVLQWPGSY--------CD----------------TKQ-SCCYPRSG-------------
+-----------------KPAADFGIHGLWPNR----DDGSYP----QNCNPDSTFDPSK-
+------------------------------VSDILSSLRSSWPT--L---ACPTN--DGL
+RFWAHE---WEKHGTCAQNL-------------F-NEHGYFQAALRLRGQLRVLDALATA
+GISPD-GGYYTMGAIKGAIQEGT-GFAPHVDCNRDESGNSQLFQLYFCVHADA-----SR
+FVECPIQ---PGGRPC-GNR--IEFPAF--------------------------------
+-------------------------------------
+>lcl|UniRef90_UPI000455DB58 ribonuclease T2 n=1 Tax=Coniophora puteana (strain RWD-64-598) RepID=UPI000455DB58
+-----------------------------------MLSSAILFSLLAP-ALASS-LDAKW
+L-SKRISSG--------CA--TDGAASCSNST---TDG-TCCYEAPGGLILQTQFW----
+--DTDVSG---------SPSDSWTIHGLWPDN----CDGTYQ----ENCDSSRDYK--N-
+-----------------IGDLLSA-QG---ASDTLDYMNQYWLN--D------DG--SSE
+ELWEHE---WATHGTCYSTLDPSCLPSG-SPTGA-EAVAFFETTVKLFKTLTTYDWLSQA
+NITPDDSQTYELSDIIDALKQGSGGYTPAVGC-S-SGA---LNSISWYFNLKG-SIIDGD
+FVAIDAT---DD-STC-SSS-GIKYPPKNS------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0C3LXD0 Uncharacterized protein n=1 Tax=Tulasnella calospora MUT 4182 RepID=A0A0C3LXD0_9HOMO
+---------------------MTRLTPFLV-CALFAKASLAIPSPFTN-LARQ-------
+-----AGDV--------CP--VDA-VSCQNVS---GLN-SCCVETPQGLLLQTQFW----
+--NFKPAK---------GPVDSWTVHGLWPDY----CDGNFK----VGCDPSREYP--N-
+-----------------IREVLTE-NG---KEDLLRWMEEFWVG--I-------P--NNE
+YLWSNE---WNRHGTCMSTIAPKCMPEG-SATGL-DAAIYFQKTADAFKSVPTYKFLASA
+GIEPDTTKTYSLNELESAFKTAY-GFLPLLEC-K-NNA---LTAISYYFHLKG-TITDGT
+LVPLDAL---KR-TKC-PET-GIRYLPKTN------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A059BG20 Uncharacterized protein (Fragment) n=2 Tax=Eucalyptus grandis RepID=A0A059BG20_EUCGR
+------------------------------------------------------------
+----WPGSY--------CD----------------TQQ-SCCYPTTG-------------
+-----------------KPAADFGIHGLWPNY----NDGSYP----SNCDSSSPFNPSE-
+------------------------------VSDLKSSMQNSWPT--L---ACPSG--DGE
+QFWSHE---WEKHGTCSESI-------------L-DQHAYFESALSLKQKANLLQALKSA
+GITP--GGSYSLKSIKDAITEAA-GYTPWIECNKDSSGNYQIYQIYLCVDTSG-----SN
+LIECPVF---PKGA-C-SSE--IEFPSF--------------------------------
+-------------------------------------
+>lcl|UniRef90_C6SW07 Uncharacterized protein n=4 Tax=Phaseoleae RepID=C6SW07_SOYBN
+--------------------------MESK-ESIFVK-LLLILHLSVLCV--SQDFDFYY
+FVQQWPGSY--------CDT---------------TQN-SCCYPTTG-------------
+-----------------KPAADFGIHGLWPNY----KDGSYP----SNCDSNNRFQPSQ-
+------------------------------ISDLTSSLQRNWPT--L---ACPSG--NGV
+QFWTHE---WEKHGTCSQSV-------------L-KQHDYFETALDLKQRANLLQALTNA
+GIQPD-GGFYSLSSIKGAIKNAI-GYTPYIECNVDTSRNNQLYQVYLCVDTSG-----SN
+FIECPVF---PRGK-C-GSQ--VEFPTF--------------------------------
+-------------------------------------
+>lcl|UniRef90_G9P2L2 Uncharacterized protein n=1 Tax=Hypocrea atroviridis (strain ATCC 20476 / IMI 206040) RepID=G9P2L2_HYPAI
+----------------------------MYSYN----AVSALAA-FVS-VAAA-------
+-----ASKV--------CP--SSSPLSCHNTTA--VED-TCCF-IPSGQLLQTQFW----
+--DTNPPT---------GPSDSWTVHGLWPDN----CDGSFP----QTCDSSRAYT--N-
+-----------------ITDILTA-MN---ASSTLDFMQTYWKD--Y------QG--DDE
+SFWEHE---WGKHGTCISTLDPSCY-ED-YVPTQ-EAVDFFSKTVSLFKTLPTYQWLADA
+GITPDGSKSYSLDDIQSALSQQH-GADVTLGC-E-GKS---LNQVYYHFNVQG-SLQDGK
+FVAAAPD---GSKSTC-PDS--VYYDPKNGGDGDDGTN----------------------
+-------------------------------------
+>lcl|UniRef90_P08056 Ribonuclease Rh n=2 Tax=Rhizopus RepID=RNRH_RHINI
+------------------------------------MKAVL--ALATLIGSTLA------
+-------SS--------CS---STALSCSNSA---NSD-TCCSPEYG-LVVLNMQW----
+----APGY---------GPDNAFTLHGLWPDK----CSGAYAPS--GGCDSNRASS--S-
+-----------------IASVIKS--K---DSSLYNSMLTYWPS--N------QG--NNN
+VFWSHE---WSKHGTCVSTYDPDCY-DN-YEEGE-DIVDYFQKAMDLRSQYNVYKAFSSN
+GITPG--GTYTATEMQSAIESYF-GAKAKIDC-S-SGT---LSDVALYFYVRG----RDT
+YVITDAL---ST-GSC-SGD--VEYPTK--------------------------------
+-------------------------------------
+>lcl|UniRef90_K3YJI1 Uncharacterized protein n=1 Tax=Setaria italica RepID=K3YJI1_SETIT
+-----------------------MASARLS-LAAAILLMVLAAVAPGRAA--PPDYDFFY
+LVLQWPGSY--------CD----------------TRQ-SCCYPKSG-------------
+-----------------KPAADFGIHGLWPNR----DDGSYP----QNCNPDSEFDPSK-
+------------------------------VSDLLSSLRAKWPT--L---ACPTN--DGL
+RFWGHE---WEKHGTCASNV-------------F-DEHGYFQAALRLRDRLGVLRALAAG
+GVRPD-GGYYTLDQIKGAIRDGT-GFEPYVECNRDESGNSQLYQLYFCVNAAG-----DS
+LVECPIL---PRGRPC-GSR--IEFPAF--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0D2VAY0 Uncharacterized protein n=3 Tax=Gossypium RepID=A0A0D2VAY0_GOSRA
+--------------------------MKFK-CIALIN-FLVLQCLAILGV--SKGFDFFY
+FVQQWPGSY--------CD----------------SDKFSCCYPTTG-------------
+-----------------KPAADFSIHGLWPNY----RNGSYP----QNCDPNNPFNESE-
+------------------------------TSDLISSMRRNWPS--L---SCPSS--SGE
+SFWSHE---WEKHGTCSESL-------------L-DQHSYFQTALTLRQQTNILQSLKSA
+GIIPD-GGSYSLANIKDAIKNGT-GYTPWIECNEDSSGNSQLYQVYLCVDSSG-----SN
+LIECPIF---PKGK-C-GSE--IEFPTF--------------------------------
+-------------------------------------
+>lcl|UniRef90_G9N657 Uncharacterized protein (Fragment) n=1 Tax=Hypocrea virens (strain Gv29-8 / FGSC 10586) RepID=G9N657_HYPVG
+------------------------------------------------------------
+-----------------------MPLSCHNIST--VAD-TCRFNYPGGQLLQTQFW----
+--DTNPST---------GPNNSWTIHGLWPDN----CDGTYE----QNCDNSRAYT--N-
+-----------------ITAILEE-Q----DPCTLEYMKIYWKD--Y------TG--NDE
+SFWEHE---FGKHGTCISTLEPRCY-PN-YQPTQ-EVGDYFKRTVTLFQTLPSYDWLAAA
+GILPSTTVTYTLAAIQDALTAHH-GQNVIINCNK-NGE---LDELWYHYNVRG-SVQSGV
+FIPVDPV---GAPSTC-PKT-GIKYLPKY-------------------------------
+-------------------------------------
+>lcl|UniRef90_C7YX03 Putative uncharacterized protein n=1 Tax=Nectria haematococca (strain 77-13-4 / ATCC MYA-4622 / FGSC 9596 / MPVI) RepID=C7YX03_NECH7
+----------------------------MAYTR----LLIPLAL-ISG-ASAA-------
+-----SSKS--------CP--LDLPLSCHNTTA--VVD-TCCF-IPAGQLLQTQFW----
+--DASPAA---------GPSDSWTIHGLWPDY----CDGTYP----QFCNTGREYH--D-
+-----------------IRGIVSQ-FL---GNSTLSYMKKYWVS--D------NG--DDE
+SLWKHE---WDKHGTCISTLEPSCY-TG-YSTGA-EAADYVKRTVSLFKTLPTYKWLSEA
+GIEPSESKTYTISEIQDALEEQH-GAQVTLGC-S-GKN---LNEVWYHFNVQG-SLQEGT
+FVPSAPD---GSKSSC-PDS-GIKYLPKSS------------------------------
+-------------------------------------
+>lcl|UniRef90_G3J4N2 Ribonuclease M n=1 Tax=Cordyceps militaris (strain CM01) RepID=G3J4N2_CORMM
+------------------------------MMQ----KPLPVLA-LAA-AAMA-------
+------AGS--------CP--SDSPLSCHNATA--VAD-TCCF-IPAGQLLQTQFW----
+--DTDPPT---------GPSDSWTIHGLWPDN----CDGSYP----AQCDTDRAYT--N-
+-----------------ITQILQA-ND---AGAVLDYMSTYWKD--Y------RG--DDE
+SFWEHE---WGKHGTCISTLEPSCYGAA-YRDGE-EAADFFARAVGLFQTLPTYQWLADA
+GITPSDSKTYDVAQIQSVLSGKH-GAQVTLNC-R-GKV---FNEVWYHYNVRG-SLQDGD
+FVAAPPD---GAKSKC-KGK--VQYKPKA-------------------------------
+-------------------------------------
+>lcl|UniRef90_Q4WRE3 Ribonuclease T2, putative n=5 Tax=Aspergillaceae RepID=Q4WRE3_ASPFU
+-------------------------MPATHFPSMGKL-ALGAMH-LASGFHNH-------
+-----NLQS--------CP--GDIPVSCSNTTA--VPD-SCCFNYPGGSLLLTQFW----
+--DTNPAT---------GPSDSWTVHGLWPDN----CDRTYE----QFCDSSREYS--N-
+-----------------ITEILQA-QG---RTELLSYMQTYWKD--Y------QG--DDE
+SFWEHE---WNKHGTCINTIEPSCY-TD-YKPQE-EVGDYFQKAVDLFKGLDTYKALAAA
+GITPSSSKTYKLSDILSALSAIT-GHEPSVGC-S-NGE---LNEAWYFFNIKG-NLINGK
+YVPIDPR---ML-SVY-PQP-HRQQLTSNN------------------------------
+-------------------------------------
+>lcl|UniRef90_Q7XZV5 Ribonuclease NW n=5 Tax=Nicotiana RepID=Q7XZV5_NICGU
+------------------------MASDSA-TSLFLTLFLITQCLSVLTA--AQDFDFFY
+FVQQWPGSY--------CD----------------TKQ-SCCYPKTG-------------
+-----------------KPASDFGIHGLWPNN----NDGSYP----SNCDSNSPYDQSQ-
+------------------------------VSDLISRMQQNWPT--L---ACPSG--TGS
+AFWSHE---WEKHGTCAENV-------------F-DQHGYFKKALDLKNQINLLEILQGA
+GINPD-GGFYSLNSIKNAIRSAI-GYAPGIECNVDESGNSQLYQIYICVDGSG-----SN
+LIECPIF---PRGK-C-GSS--IEFPTF--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A0K9RTJ6 Uncharacterized protein n=1 Tax=Spinacia oleracea RepID=A0A0K9RTJ6_SPIOL
+-----------------------------------------MAVYLVSAF--SQSFDFFY
+FVQQWPGSY--------CD----------------TKK-SCCFPSSG-------------
+-----------------KPDADFGIHGLWPNY----KDGSYP----SNCDPDSHFDQSQ-
+------------------------------ISGVLRRMRSEWPT--L---ACPSN--DGI
+QFWAHE---WEKHGTCSA---------------L-DQHAYFQTTLDLKNQVNLLQSLTSA
+GIEPN-GNTYSLESIKDAIKQDV-GYTPFVECNNDSSGNSQLYQIYHCVDNSA-----SK
+LIECPVF---PRGR-C-GSQ--IEFPTF--------------------------------
+-------------------------------------
+>lcl|UniRef90_A0A067P8F4 Uncharacterized protein n=1 Tax=Jaapia argillacea MUCL 33604 RepID=A0A067P8F4_9HOMO
+---------------------------MFI-PGANLIPSLLIPALGISGLSGLQE-----
+-----QLSQ--------CP--RPPVTSCSADAG--GAD-SCCVVTPGGVLVHAQFW----
+--DL--GY---------GVADSWGIHGLWPDK----CDGTFY----ENCDSSRAYSGGQ-
+-----------------ITQLLQD-SG---NQDLLDYMNTYWIP--N------NN--NPE
+AFWAHE---WATHGTCVSTLEPNCI-AN-YQEGA-EVVPYLKTVVGVFQGLDTYKALTSA
+GITPSHTKTYRLDELLQAVESAT-SYVPDFVC-K-GKT---LSTVQYYLNAVG-PLQNGQ
+FLPSHAT---RK-SSC-PST-GIKWPPKELGN----------------------------
+-------------------------------------
+>lcl|UniRef90_A5E6C7 Putative uncharacterized protein n=1 Tax=Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) RepID=A5E6C7_LODEL
+---------------------------------MQSLLIVAAYILVQASVGSA-------
+-----FSSN--------CP--SDAGVSCSSSN---QEA-SCCFESPGGVLVQTQFW----
+--DYSPST---------GPSNLFTLHGLWPDL----CDGSYK----QYCDYSSEVS--N-
+-------------DGSTIEGILVNQFN---DQTLYNNLKTVWKN--I------DG--TDQ
+SLWAHE---WNKHGTCINTIAANCY-SN-FQDNE-NLYDYFSILYNLYESLPTYKWLAAA
+GITPSNTKTYTKSQIQNALSSNF-GQQVYFKCDS-NNA---INEVWYFHHIQG-SLLQNN
+FIPIDTL---SS-SNC-PST-GILFPPKA-------------------------------
+-------------------------------------
