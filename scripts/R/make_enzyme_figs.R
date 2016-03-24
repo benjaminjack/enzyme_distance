@@ -300,6 +300,10 @@ make_figures <- function(master.clean, # Path to master data table
     scale_shape_manual(name="Model", breaks=target, labels=c("Empirical Rate", "WCN + RSA", "WCN + RSA + d"), values=shapes3) +
     theme(legend.justification=c(1,0), legend.position=c(1,-0.02))
   
+  # Write out raw data for Fig 2B
+  data_out <- filter(master.preds, pred.type %in% target) %>% select(shell, pred.type, mean_pred)
+  write_csv(data_out, paste0('models', as.character(suffix),'_data.csv'))
+  
   # Fig 2C
   cbpallete2 <- c('wcnSC.RSA.dist_active.res' = "#E69F00", 'wcnSC.RSA.res' = "#009E73")
   shapes2 <- c('wcnSC.RSA.dist_active.res' = 17, 'wcnSC.RSA.res' = 16)
@@ -396,6 +400,12 @@ make_figures <- function(master.clean, # Path to master data table
     facet_grid(null.group ~ rsa.group, labeller=labeller(null.group = label_null_group, rsa.group = label_rsa_group)) +
     panel_border()
   
+  # Write raw data for Fig 4 to file
+  data_out <- filter(master.res_fig4, pred.type != 'rate', pred.type != "dist_active.res") %>% 
+    select(shell, pred.type, mean_pred) %>%
+    rename(mean_res = mean_pred)
+  write_csv(data_out, paste0('rsa_bins', as.character(suffix),'_data.csv'))
+  
   fig4
   
   # =============================================================
@@ -438,6 +448,12 @@ make_figures <- function(master.clean, # Path to master data table
     
   fig5 <- plot_grid(p5a, p5b, ncol = 1, align='v', labels=c('a','b'))
   
+  # Write out raw data for Figure 5
+  data_out <- filter(master.res3, pred.type %in% target) %>% 
+    select(shell, pred.type, mean_pred) %>%
+    rename(mean_res = mean_pred)
+  write_csv(data_out, paste0('size_bins', as.character(suffix),'_data.csv'))
+    
   fig5
   
   # =============================================================
@@ -493,6 +509,16 @@ make_figures <- function(master.clean, # Path to master data table
     summarize(mean_pred = mean(pred)) %>%
     mutate(null.group = get_null_group(pred.type), null.model=get_null(pred.type))
   
+  # Write out raw data for Figure 10a
+  data_out <- filter(master.pred_fig10, pred.type != "rate") %>% 
+    select(shell, pred.type, mean_pred) 
+  write_csv(data_out, paste0('models_dist_line_a', as.character(suffix),'_data.csv'))
+  # Write out raw data for Figure 10b
+  data_out <- filter(master.res_fig10, pred.type != "rate") %>% 
+    select(shell, pred.type, mean_pred) %>%
+    rename(mean_res = mean_pred)
+  write_csv(data_out, paste0('models_dist_line_b', as.character(suffix),'_data.csv'))
+  
   fig10a <- ggplot(filter(master.pred_fig10, pred.type != "rate"), 
                 aes(x=factor(shell), y=mean_pred, color=null.model, group=pred.type, shape=null.model)) +
     geom_point() +
@@ -542,6 +568,12 @@ make_figures <- function(master.clean, # Path to master data table
     facet_grid(null.group ~ ntile.size, labeller=labeller(null.group = label_null_group, ntile.size = label_size_group)) +
     panel_border()
   
+  # Write out raw data for Figure 11
+  data_out <- filter(master.res_fig11, pred.type != "rate") %>% 
+    select(shell, pred.type, mean_pred, ntile.size) %>%
+    rename(mean_res = mean_pred, size_group = ntile.size)
+  write_csv(data_out, paste0('size_bins_dist_line', as.character(suffix),'_data.csv'))
+  
   fig11
   
   # =============================================================
@@ -568,6 +600,12 @@ make_figures <- function(master.clean, # Path to master data table
     facet_grid(null.group ~ rsa.group, labeller=labeller(null.group = label_null_group, rsa.group = label_rsa_group)) +
     panel_border()
   
+  # Write out raw data for Figure 11
+  data_out <- filter(master.res_fig12, pred.type != "rate") %>% 
+    select(shell, pred.type, mean_pred, rsa.group) %>%
+    rename(mean_res = mean_pred)
+  write_csv(data_out, paste0('rsa_bins_dist_line', as.character(suffix),'_data.csv'))
+  
   fig12
   
   # =============================================================
@@ -587,7 +625,7 @@ make_figures <- function(master.clean, # Path to master data table
 }
 
 # Read in master data table
-master <- read_csv("../master_data_table.csv", col_names=TRUE)
+master <- read_csv("../master_data_table.csv.gz", col_names=TRUE)
 
 # Remove proteins without active site information
 master.clean <- group_by(master, pdb,Chain) %>% filter(!is.na(dist_active))
@@ -655,6 +693,9 @@ fig6 <- ggplot(master.act2, aes(x=ref_to_act, fill=group)) +
   annotate("errorbarh", xmin = 0, xmax = 7.5, y=19, x=0, color="red", size=1, height=1) +
   annotate("text", label=paste0(round(sum(master.act2$ref_to_act<7.5)/nrow(master.act2)*100), "%"), x=3.75, y=20, hjust=0.5, vjust=0) +
   theme(legend.position = "none")
+# Write out raw data to produce Figure 6
+data_out <- master.act2 %>% select(pdb, group, ref_to_act) %>% rename(near_active = group, ref_to_active = ref_to_act)
+write_csv(data_out, "fig_act_data.csv")
 fig6
 
 # For WCN control...
@@ -670,6 +711,9 @@ fig7 <- ggplot(master.act4, aes(x=dist_active, fill=group)) +
   annotate("errorbarh", xmin = 0, xmax = 7.5, y=15, x=0, color="red", size=1, height=1) +
   annotate("text", label=paste0(round(sum(master.act4$dist_active<7.5)/nrow(master.act4)*100), "%"), x=3.75, y=16, hjust=0.5, vjust=0) +
   theme(legend.position = "none")
+# Write out raw data to produce Figure 7
+data_out <- master.act4 %>% select(pdb, group, dist_active) %>% rename(near_active = group, ref_to_active = dist_active)
+write_csv(data_out, "fig_act_control_data.csv")
 fig7
 
 # Fisher test for significance
@@ -692,8 +736,8 @@ master.clean %>% group_by(rsa.group) %>% summarize(count = length(unique(pdb)))
 # Monomers/multimers
 master.clean %>% ungroup() %>% group_by(multimer) %>% summarize(count = length(unique(pdb)))
 
-save_plot('fig_act.pdf', fig6) # Active site pred
-save_plot('fig_act_control.pdf', fig7) # Active site pred with WCN
+# save_plot('fig_act.pdf', fig6) # Active site pred
+# save_plot('fig_act_control.pdf', fig7) # Active site pred with WCN
 
-system("~/Box\\ Sync/scratch/embed_fonts.py *.pdf")
+# system("~/Box\\ Sync/scratch/embed_fonts.py *.pdf")
 
