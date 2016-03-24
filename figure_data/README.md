@@ -3,8 +3,8 @@
 - Figure 4: rsa_bins_data.csv
 - Figure 5B: size_bins_data.csv
 - Figure 6: fig_act_data.csv
-- Figure 7A:
-- Figure 7B:
+- Figure 7A: fig_enzyme_a_data.csv
+- Figure 7B: fig_enzyme_b_data.csv
 - Figure S3A: models_dist_line_a_data.csv
 - Figure S3B: models_dist_line_b_data.csv
 - Figure S4: rsa_bins_dist_line_data.csv

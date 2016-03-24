@@ -9,6 +9,9 @@ library(cowplot)
 # ANALYSIS OPTIONS
 # =============================================================
 
+# These are for testing purposes only. These options are now all passed
+# as arguments in a function.
+
 # DATA_TABLE <- "master_data_table.csv" # Path to master data table
 # RAW_RATES <- T # Use raw rate4site rates rather than z-scores
 # MULTIMERS_ONLY <- F # Use only multimeric proteins
@@ -736,8 +739,8 @@ master.clean %>% group_by(rsa.group) %>% summarize(count = length(unique(pdb)))
 # Monomers/multimers
 master.clean %>% ungroup() %>% group_by(multimer) %>% summarize(count = length(unique(pdb)))
 
-# save_plot('fig_act.pdf', fig6) # Active site pred
-# save_plot('fig_act_control.pdf', fig7) # Active site pred with WCN
+save_plot('fig_act.pdf', fig6) # Active site pred
+save_plot('fig_act_control.pdf', fig7) # Active site pred with WCN
 
 # system("~/Box\\ Sync/scratch/embed_fonts.py *.pdf")
 

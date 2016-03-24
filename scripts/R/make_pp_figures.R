@@ -17,7 +17,7 @@ make_models <- function(data) {
   data.frame(structure = lm1, struct_int = lm2)
 }
 
-proteins <- read_csv("../master_data_table_pp.csv")
+proteins <- read_csv("../master_data_table_pp.csv.gz")
 
 proteins <- group_by(proteins, pdb, Chain)
 
@@ -37,7 +37,7 @@ protein_mods <- proteins %>% do(mods = make_models(.)) %>% unnest() %>%
   gather(comp, delta.r2, delta.int, -pdb, -Chain) %>%
   mutate(dataset="Non-enzymes")
 
-enzymes <- read_csv("../master_data_table.csv") %>%
+enzymes <- read_csv("../master_data_table.csv.gz") %>%
   filter(multimer == 1) %>%
   mutate(interface = ifelse(RSA_mono - RSA > 0.10, T, F))
 
@@ -100,6 +100,10 @@ plot1 <- ggplot(cats_ints, aes(x=factor(type,
   facet_grid(.~dataset, scale="free_x", space="free_x") +
   theme(legend.position="none")
 
+# Write data to file for plot1
+data_out <- cats_ints %>% group_by(type, dataset) %>% summarize(mean=mean(rate), se=sd(rate)/sqrt(n()))
+write_csv(data_out, "fig_enzyme_a.csv")
+
 enzyme_rate <- ggplot(filter(enzymes, shell_int <= 10), aes(x=factor(shell_int), y=rate)) + 
    geom_violin(scale="width", trim=TRUE, aes(fill=..count..)) +
    stat_summary(fun.y=mean, geom="point") +
@@ -123,6 +127,9 @@ non_enzyme_rate <- ggplot(filter(proteins, shell_int <= 10), aes(x=factor(shell_
 # save_plot("./fig_nonenzyme.pdf", plot1, base_width = 8, base_height = 5)
 
 all_data <- bind_rows(enzymes_mods, protein_mods)
+
+data_out <- all_data %>% group_by(comp, dataset) %>% summarize(mean=mean(delta.r2), se=sd(delta.r2)/sqrt(n()))
+write_csv(data_out, "fig_enzyme_b_data.csv")
 
 delta_r2_plot <- ggplot(all_data, aes(x=factor(comp, 
                               levels = c('delta.act', 
