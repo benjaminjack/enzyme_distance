@@ -1,6 +1,6 @@
 # Figure Data
 
-Any figures not mentioned in the following list were generated directly from `../master_data_table.csv.gz` and/or `../master_data_table_pp.csv.gz` in the parent directory.
+Any figures *not* mentioned in the following list were generated directly from `../master_data_table.csv.gz` and/or `../master_data_table_pp.csv.gz` in the parent directory.
 
 - Figure 2B: models_data.csv
 - Figure 4: rsa_bins_data.csv
