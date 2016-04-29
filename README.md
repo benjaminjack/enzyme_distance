@@ -2,7 +2,7 @@
 This repository contains all scripts and data required to reproduce the analysis in the following paper:
 
 
-I have tried to automate as much of the pipeline as possible. However, since many portions of the pipeline would need to be run on a cluster to be practical, the pipeline is broken into several steps that need to be manually completed. See "run_pipeline.sh" for an example of how all of the scripts from parts I, II, and III can be stitched together for a single protein.
+I have tried to automate as much of the pipeline as possible. However, since many portions of the pipeline would need to be run on a cluster to be practical, the pipeline is broken into several steps that need to be manually completed. See "scripts/tacc/run_pipeline.sh" for an example of how all of the scripts from parts I, II, and III can be stitched together for a single protein. Also note that the steps below only describe the enzyme analyses, not the non-enzyme analyses.
 
 ## Part 0: Dependencies
 
@@ -152,6 +152,6 @@ The following software tools are required and must be available in your $PATH fo
 
 3.  Generate figures
 
-	`make_figures.Rmd`
+	`scripts/R/`
 
-    Finally we conduct additional analyses and generate figures with an R-markdown script.
+    Finally we conduct additional analyses and generate figures with several R scripts.
