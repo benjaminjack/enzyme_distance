@@ -102,7 +102,7 @@ plot1 <- ggplot(cats_ints, aes(x=factor(type,
 
 # Write data to file for plot1
 data_out <- cats_ints %>% group_by(type, dataset) %>% summarize(mean=mean(rate), se=sd(rate)/sqrt(n()))
-write_csv(data_out, "fig_enzyme_a.csv")
+write_csv(data_out, "fig_enzyme_a_data.csv")
 
 enzyme_rate <- ggplot(filter(enzymes, shell_int <= 10), aes(x=factor(shell_int), y=rate)) + 
    geom_violin(scale="width", trim=TRUE, aes(fill=..count..)) +
