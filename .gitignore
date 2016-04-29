@@ -4,6 +4,9 @@
 # Data files
 data/
 
+# Renamed figs
+figures_rename/
+
 # Rsync scripts
 rsync_*
 
@@ -31,6 +34,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+.pyc
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -67,4 +71,5 @@ target/
 
 # OS X stuff
 .DS_Store
+.Rhistory
 .Rproj.user
